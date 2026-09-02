@@ -6,7 +6,7 @@
      3. Never start a phase until the previous phase's acceptance test PASSED.
      Update this file in the same commit as any build step it records. -->
 
-Last updated: 2026-08-18 by Claude (session: initial build, Phase 1 local complete).
+Last updated: 2026-09-01 by Claude (session: Phase 1 closed — remote half accepted).
 
 ## Status legend
 `DONE` passed acceptance · `IN PROGRESS` being built · `BLOCKED` waiting on user/external · `PENDING` not started
@@ -17,10 +17,12 @@ Last updated: 2026-08-18 by Claude (session: initial build, Phase 1 local comple
 Interview completed 2026-08-18, answers in `config/os-config.md`. OQ-1 resolved: firewalled content sealed in tree. OQ-2 resolved: memory tree in Spanish.
 - **Acceptance:** config written and confirmed by Armando. ✅
 
-### Phase 1 — Foundation: the cache repo → `IN PROGRESS (local DONE, remote pending)`
+### Phase 1 — Foundation: the cache repo → `DONE`
 Done 2026-08-18: local git repo initialized (branch main); full folder structure; memory tree with per-folder CLAUDE.md in Spanish; `scripts/lib/` (constants with FIREWALLED_DOMAINS in code, events, replay failing loudly on unknown kinds, codes) + `scripts/task.py` CLI; stdlib secret-scan pre-commit hook via core.hooksPath (gitleaks unavailable: no brew, and no binary downloads through the TLS-intercepted office network — swap in gitleaks later from a clean network).
 - **Acceptance (local half):** ✅ test event T-1 appended → snapshot rebuilt → rendered view showed it → closed with evidence; unknown event kind rejected loudly; hook blocked a staged fake AWS key.
-- **Acceptance (remote half):** ⏳ git push/pull round-trip — pending GitHub account. Armando must create it on a CLEAN network (cellular/home, NOT office Wi-Fi — FortiGate TLS interception, see config §network note). Then: private repo, SSH deploy key, remote push.
+- **Acceptance (remote half):** ✅ 2026-09-01, on a clean network (github.com served a genuine Sectigo cert, not the FortiGate one; ports 22 and 443 both open). Account `armandoflores-oss` (personal), private repo `personal-os`, ed25519 key `SHA256:hiroBHS5sPL57QqSQZRn7CG8ye/lHaW6lGlMMTUQkII`, remote over SSH. Pushed `f63d19b`; clean clone into a temp dir diffed byte-identical against the working tree (41 files both sides); `git pull --ff-only` clean.
+- **Defect found and fixed during acceptance:** `core.hooksPath` lives in `.git/config` and does NOT survive a clone — the secret-scan hook files travel, their activation does not, so a fresh clone would commit with no scanning at all, silently. Added `scripts/setup.sh` (idempotent, POSIX, verifies rather than assumes). Verified on the throwaway clone: after bootstrap the hook blocked a staged fake AWS key. **Phase 7 must assert `core.hooksPath` is set on every machine** — this is exactly a rule-10 abandoned-bot failure.
+- **Account hygiene:** GitHub primary email moved to `armandofr@gmail.com` (verified); the Draiver address and its Google sign-in connection removed so the company cannot password-reset into this account. Commit identity is repo-local (`user.email=armandofr@gmail.com`), git global left with no identity.
 
 ### Phase 2 — Feedback capture: the loop's mouth → `PENDING`
 Always-on instruction (project CLAUDE.md + skill): scan every user message for action codes, corrections, durable facts, status changes, new contacts → append events, update memory, commit, end reply with a compact receipt. Capture first, then answer.
@@ -47,6 +49,9 @@ Manifest of every producer AND every mandatory phase within each; stdlib-only ch
 - **Acceptance:** stop one producer for a day → next brief says so unprompted. Delete one phase from a routine prompt → brief flags the missing capability within a day.
 
 ## Resume notes
-- Repo root is this folder: `~/Documents/Claude Personal Improvement/`. Not yet a git repository.
-- Nothing may be committed to git until OQ-1 is answered.
+- Repo root is this folder: `~/Documents/Claude Personal Improvement/`. Git repo on branch `main`, remote `origin` = `git@github.com:armandoflores-oss/personal-os.git` (SSH only — never HTTPS, see config §network note).
+- **Next action: Phase 2.** Phase 1 passed both halves, so Phase 2 is unblocked.
+- On any fresh clone, run `sh scripts/setup.sh` first — the pre-commit hook is inert until you do.
+- `gitleaks` is still a stdlib stand-in; swap it in from a clean network when convenient.
+- Pushing is gated by the Claude Code auto-mode classifier: Claude can commit but not push. Either Armando runs `git push` or a `Bash(git push:*)` permission rule gets added.
 - Design rules in Part 2 of the spec are non-negotiable; when in doubt, re-read rule 2 (single pane), rule 8 (thin prompts, fat scripts), rule 9 (watchdog capabilities), rule 10 (abandoned-bot test).
