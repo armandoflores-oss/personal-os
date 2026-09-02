@@ -34,7 +34,8 @@ Always-on instruction (project CLAUDE.md + skill): scan every user message for a
 
 ### Phase 3 — Ingest + the brief: heartbeats → `PENDING`
 Cloud ingest routine (several times/day, watermarked, single-writer on `cache/`): classify new email/calendar/transcript metadata, mint task candidates only from explicit commitments, noise gate in code, dedupe-at-creation, outbound-leg reconcile of sent messages. Daily brief at 07:00 America/Mexico_City (cron in UTC — convert, mind DST): Python renderer reading only the repo; sections per spec; every actionable line carries its T-/A-/P- code. Verify each connector with a real read before trusting it. Verify plan's runs/day allowance (~12–14 needed).
-- **Acceptance:** three consecutive mornings of briefs needing no structural correction; replying "close <code>" works via Phase 2.
+- **Hard constraint from Armando (2026-09-01): no brief item may exceed two lines.** Enforce it in the renderer — truncate or split there, never rely on a prompt to be brief. Source rule: `memory/rules/brief-maximo-dos-lineas-por-item.md`.
+- **Acceptance:** three consecutive mornings of briefs needing no structural correction; replying "close <code>" works via Phase 2; no rendered item exceeds two lines.
 
 ### Phase 4 — Memory: nightly session mining → `PENDING`
 Local deterministic courier (catch-up-on-wake — this laptop is intermittent): digest the day's session transcripts, scrub secret-shaped strings, exclude firewalled-folder sessions, push to `cache/sessions/<host>/`. Nightly cloud distiller: extract corrections/facts/status/contacts/commitments, dedupe, write through Phase 2 rails, delete processed digests, receipt + heartbeat, per-run cap above daily volume.
