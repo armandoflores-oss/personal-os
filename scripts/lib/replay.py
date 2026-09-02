@@ -27,6 +27,8 @@ def _apply(tasks: dict, ev: dict, line_no: int) -> None:
             "blocked": None,
             "snoozed_until": None,
             "archived": False,
+            "vetoed": False,
+            "applied": False,
             "notes": [],
         }
         return
@@ -53,6 +55,16 @@ def _apply(tasks: dict, ev: dict, line_no: int) -> None:
         t["blocked"] = p.get("reason")
     elif kind == "add_note":
         t["notes"].append({"ts": ev["ts"], "note": p.get("note", ""), "actor": ev["actor"]})
+    elif kind == "veto":
+        # Permanent and irreversible by design (rule 5): one veto and this is
+        # never proposed again. Undoing it takes a new create, not an edit.
+        t["vetoed"] = True
+        t["archived"] = True
+        t["notes"].append({"ts": ev["ts"], "note": f"vetada: {p.get('reason', 'sin razón')}", "actor": ev["actor"]})
+    elif kind == "apply_proposal":
+        t["applied"] = True
+        t["status"] = "done"
+        t["notes"].append({"ts": ev["ts"], "note": "propuesta aplicada por Armando", "actor": ev["actor"]})
     elif kind == "archive":
         t["archived"] = True
         t["notes"].append({"ts": ev["ts"], "note": f"archivado: {p.get('reason', 'sin razón')}", "actor": ev["actor"]})

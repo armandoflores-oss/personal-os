@@ -1,5 +1,6 @@
 {
  "10c014614810": {
+  "applied": false,
   "archived": true,
   "blocked": null,
   "code": "T-2",
@@ -18,9 +19,11 @@
   "status": "open",
   "task_id": "10c014614810",
   "title": "Tarea de prueba: verificar rieles del event log",
+  "vetoed": false,
   "waiting_on": null
  },
  "ea3741c6396d": {
+  "applied": false,
   "archived": false,
   "blocked": null,
   "code": "T-1",
@@ -39,6 +42,7 @@
   "status": "done",
   "task_id": "ea3741c6396d",
   "title": "Tarea de prueba: verificar Fase 1",
+  "vetoed": false,
   "waiting_on": null
  }
 }

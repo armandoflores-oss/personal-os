@@ -34,6 +34,16 @@ EVENT_KINDS = {
     "set_blocked",
     "add_note",
     "archive",
+    "veto",            # permanent: never propose this again (rule 5)
+    "apply_proposal",  # accept a P- item now instead of waiting out its 72h
+}
+
+# Display-code namespaces (os-config.md §4). One log holds all three; the
+# prefix is a display concern, so codes stay stable and merges stay trivial.
+CODE_PREFIXES = {
+    "T": "tarea",
+    "A": "acción que te requiere",
+    "P": "propuesta del sistema",
 }
 
 STATUSES = {"open", "done"}

@@ -30,7 +30,9 @@ Always-on instruction (project CLAUDE.md + skill): scan every user message for a
 - The receipt is rendered by `capture.py receipt` from the two logs, never composed by hand, so it cannot claim a write that did not happen.
 - Dry run on a throwaway copy: correction + status + contact + commitment + task create all captured from one message; a `fw-finanzas` signal was forced into `memory/privado/` and appeared in the receipt as a count only.
 - **Acceptance (half 1 — same session):** ✅ a correction produces a receipt carrying the event and its lesson line.
-- **Acceptance (half 2 — NEXT session):** ⏳ the rule must still hold with no reminder. Cannot be self-certified in the session that built it.
+- **Acceptance (half 2 — NEXT session):** ✅ 2026-09-02 — asked unprompted for standing draft rules and both corrections from the previous day were applied without a reminder.
+- **Code scheme (2026-09-02):** `CODE_PREFIXES` T/A/P in constants; `next_code(prefix)` mints per namespace in ONE log, so codes are a display concern and merges stay trivial. Added event kinds `veto` (permanent, rule 5) and `apply_proposal`. `scripts/reply.py` parses the ten terse forms — grammar in code, and an unrecognised reply raises instead of guessing, because a misread reply writes a wrong event and that is worse than no event. All ten exercised on a throwaway clone.
+- **Owed to Phase 3:** the brief renderer must print the code at the head of every replyable line, and `veto` must permanently exclude an item from ever being proposed again.
 
 ### Phase 3 — Ingest + the brief: heartbeats → `PENDING`
 Cloud ingest routine (several times/day, watermarked, single-writer on `cache/`): classify new email/calendar/transcript metadata, mint task candidates only from explicit commitments, noise gate in code, dedupe-at-creation, outbound-leg reconcile of sent messages. Daily brief at 07:00 America/Mexico_City (cron in UTC — convert, mind DST): Python renderer reading only the repo; sections per spec; every actionable line carries its T-/A-/P- code. Verify each connector with a real read before trusting it. Verify plan's runs/day allowance (~12–14 needed).

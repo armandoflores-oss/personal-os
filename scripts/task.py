@@ -53,7 +53,7 @@ def cmd_create(args) -> None:
         "kind": "create",
         "actor": args.actor,
         "payload": {"title": args.title, "domain": args.domain,
-                    "due_date": args.due, "code": next_code()},
+                    "due_date": args.due, "code": next_code(args.prefix)},
     })
     print(f"created {ev['payload']['code']} ({ev['task_id']})")
     cmd_rebuild(args)
@@ -77,6 +77,8 @@ def main() -> None:
     sub = p.add_subparsers(dest="cmd", required=True)
     c = sub.add_parser("create")
     c.add_argument("--title", required=True)
+    c.add_argument("--prefix", default="T", choices=sorted(constants.CODE_PREFIXES),
+                   help="T=tarea, A=acción que te requiere, P=propuesta")
     c.add_argument("--domain", required=True, choices=sorted(constants.DOMAIN_SLUGS))
     c.add_argument("--due")
     c.set_defaults(fn=cmd_create)

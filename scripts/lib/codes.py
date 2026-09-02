@@ -5,7 +5,11 @@ from . import constants
 from .events import read_events
 
 
-def next_code(log_path=None) -> str:
+def next_code(prefix: str = "T", log_path=None) -> str:
+    """Mint the next code in one namespace. Codes are stable: once minted for an
+    item they never change, and a closed item's code is never reused."""
+    if prefix not in constants.CODE_PREFIXES:
+        raise ValueError(f"unknown code prefix {prefix!r}; allowed: {sorted(constants.CODE_PREFIXES)}")
     highest = 0
     try:
         events = read_events(log_path or constants.TASKS_LOG)
@@ -13,10 +17,10 @@ def next_code(log_path=None) -> str:
         events = []
     for ev in events:
         if ev.get("kind") == "create":
-            m = re.fullmatch(r"T-(\d+)", ev.get("payload", {}).get("code", ""))
+            m = re.fullmatch(rf"{prefix}-(\d+)", ev.get("payload", {}).get("code", ""))
             if m:
                 highest = max(highest, int(m.group(1)))
-    return f"T-{highest + 1}"
+    return f"{prefix}-{highest + 1}"
 
 
 def resolve_code(code: str, tasks: dict) -> str:

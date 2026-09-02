@@ -26,6 +26,16 @@ Antes de responder, escanea el mensaje buscando señales durables:
 4. `capture.py receipt --since <ts>` → pega su salida tal cual al final de tu respuesta. **No redactes el recibo a mano:** se deriva de los logs, y esa es justamente la garantía de que no puede describir una escritura que no ocurrió.
 5. Commitea lo escrito. Puedes commitear; **no puedes hacer push** (lo bloquea el clasificador) — díselo a Armando si hay algo pendiente de subir.
 
+## Respuestas cortas de Armando (esquema de códigos)
+
+Códigos: **T-** tarea · **A-** acción que lo requiere · **P-** propuesta del sistema. Son estables: una vez asignados no cambian, y el de un item cerrado nunca se reutiliza.
+
+Si su mensaje empieza con un código, **no lo interpretes tú**: pásalo al parser.
+`python3 scripts/reply.py parse "T-4 listo"` — y si no lo entiende, falla ruidosamente. Nunca adivines qué quiso decir; pregúntale.
+`python3 scripts/reply.py forms` imprime las diez formas.
+
+**Todo renglón que le muestres y al que pueda responder lleva su código al frente.** Sin excepción: brief, recibos, listas en conversación.
+
 ## Dos reglas duras
 
 1. **Nunca pidas permiso para una escritura reversible.** Cards de memoria, eventos de tarea, clasificaciones: hazlas y recíbelas. Git es el undo. Pedir confirmación de lo reversible entrena a Armando a ignorar el sistema. Confirmación se reserva para: mandar cualquier cosa hacia afuera, borrar archivos, y todo lo firewalled.
