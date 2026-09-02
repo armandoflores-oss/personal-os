@@ -37,3 +37,32 @@ EVENT_KINDS = {
 }
 
 STATUSES = {"open", "done"}
+
+# --- Phase 2: feedback capture -------------------------------------------
+MEMORY_ROOT = REPO_ROOT / "memory"
+
+# Signal kinds Claude may capture from a user message. Kept separate from
+# EVENT_KINDS: tasks.ndjson records what happened TO a task, feedback.ndjson
+# records what Armando SAID. A correction is a new event, never an edit.
+FEEDBACK_KINDS = {
+    "correction",   # "never do X", "that's wrong, it's Y"  -> memory/rules/
+    "fact",         # "remember that Z"                     -> memory/context/
+    "status",       # "closed the pilot"                    -> memory/projects/
+    "contact",      # name + email together                 -> memory/people/
+    "commitment",   # "I'll send it Friday"                 -> tasks.ndjson + card
+    "action",       # "T-2 done", "snooze T-5 to Friday"    -> tasks.ndjson
+}
+
+# Where each kind's memory card belongs. Enforced in code so a prompt cannot
+# scatter cards into the wrong folder.
+CARD_FOLDER = {
+    "correction": "rules",
+    "fact": "context",
+    "status": "projects",
+    "contact": "people",
+    "commitment": "projects",
+}
+
+# Firewalled signals never get a card in the normal tree and never appear in a
+# receipt beyond a count. Their cards, if any, live here and nothing reads them.
+FIREWALLED_CARD_FOLDER = "privado"

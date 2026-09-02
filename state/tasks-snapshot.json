@@ -1,4 +1,25 @@
 {
+ "10c014614810": {
+  "archived": true,
+  "blocked": null,
+  "code": "T-2",
+  "created": "2026-09-02T00:53:53+00:00",
+  "domain": "operacion-semanal",
+  "due_date": "2026-09-03",
+  "notes": [
+   {
+    "actor": "user",
+    "note": "archivado: prueba de rieles completada",
+    "ts": "2026-09-02T00:54:08+00:00"
+   }
+  ],
+  "owner": null,
+  "snoozed_until": null,
+  "status": "open",
+  "task_id": "10c014614810",
+  "title": "Tarea de prueba: verificar rieles del event log",
+  "waiting_on": null
+ },
  "ea3741c6396d": {
   "archived": false,
   "blocked": null,

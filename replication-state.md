@@ -6,7 +6,7 @@
      3. Never start a phase until the previous phase's acceptance test PASSED.
      Update this file in the same commit as any build step it records. -->
 
-Last updated: 2026-09-01 by Claude (session: Phase 1 closed — remote half accepted).
+Last updated: 2026-09-01 by Claude (session: Phase 2 built, awaiting next-session acceptance).
 
 ## Status legend
 `DONE` passed acceptance · `IN PROGRESS` being built · `BLOCKED` waiting on user/external · `PENDING` not started
@@ -24,9 +24,13 @@ Done 2026-08-18: local git repo initialized (branch main); full folder structure
 - **Defect found and fixed during acceptance:** `core.hooksPath` lives in `.git/config` and does NOT survive a clone — the secret-scan hook files travel, their activation does not, so a fresh clone would commit with no scanning at all, silently. Added `scripts/setup.sh` (idempotent, POSIX, verifies rather than assumes). Verified on the throwaway clone: after bootstrap the hook blocked a staged fake AWS key. **Phase 7 must assert `core.hooksPath` is set on every machine** — this is exactly a rule-10 abandoned-bot failure.
 - **Account hygiene:** GitHub primary email moved to `armandofr@gmail.com` (verified); the Draiver address and its Google sign-in connection removed so the company cannot password-reset into this account. Commit identity is repo-local (`user.email=armandofr@gmail.com`), git global left with no identity.
 
-### Phase 2 — Feedback capture: the loop's mouth → `PENDING`
+### Phase 2 — Feedback capture: the loop's mouth → `IN PROGRESS (built, acceptance pending)`
 Always-on instruction (project CLAUDE.md + skill): scan every user message for action codes, corrections, durable facts, status changes, new contacts → append events, update memory, commit, end reply with a compact receipt. Capture first, then answer.
-- **Acceptance:** a correction said in passing produces a receipt with the event and lesson line; next session, the rule holds.
+- Built 2026-09-01: `FEEDBACK_KINDS` + `CARD_FOLDER` + firewall routing in `scripts/lib/constants.py`; `scripts/lib/feedback.py` (append-only feedback log, card writer that appends and never rewrites); `scripts/capture.py` (`mark` / `signal` / `receipt`). The always-on instruction lives at `~/.claude/CLAUDE.md` (user scope, so it loads in every session regardless of cwd); a copy is tracked here at `docs/instruccion-captura.md` — **the copy is documentation, the live file is `~/.claude/CLAUDE.md`; edit both or they drift.** Phase 7 should assert they match.
+- The receipt is rendered by `capture.py receipt` from the two logs, never composed by hand, so it cannot claim a write that did not happen.
+- Dry run on a throwaway copy: correction + status + contact + commitment + task create all captured from one message; a `fw-finanzas` signal was forced into `memory/privado/` and appeared in the receipt as a count only.
+- **Acceptance (half 1 — same session):** ✅ a correction produces a receipt carrying the event and its lesson line.
+- **Acceptance (half 2 — NEXT session):** ⏳ the rule must still hold with no reminder. Cannot be self-certified in the session that built it.
 
 ### Phase 3 — Ingest + the brief: heartbeats → `PENDING`
 Cloud ingest routine (several times/day, watermarked, single-writer on `cache/`): classify new email/calendar/transcript metadata, mint task candidates only from explicit commitments, noise gate in code, dedupe-at-creation, outbound-leg reconcile of sent messages. Daily brief at 07:00 America/Mexico_City (cron in UTC — convert, mind DST): Python renderer reading only the repo; sections per spec; every actionable line carries its T-/A-/P- code. Verify each connector with a real read before trusting it. Verify plan's runs/day allowance (~12–14 needed).
@@ -50,7 +54,7 @@ Manifest of every producer AND every mandatory phase within each; stdlib-only ch
 
 ## Resume notes
 - Repo root is this folder: `~/Documents/Claude Personal Improvement/`. Git repo on branch `main`, remote `origin` = `git@github.com:armandoflores-oss/personal-os.git` (SSH only — never HTTPS, see config §network note).
-- **Next action: Phase 2.** Phase 1 passed both halves, so Phase 2 is unblocked.
+- **Next action: confirm Phase 2's second half next session** (does the capture rule hold unprompted?), then Phase 3.
 - On any fresh clone, run `sh scripts/setup.sh` first — the pre-commit hook is inert until you do.
 - `gitleaks` is still a stdlib stand-in; swap it in from a clean network when convenient.
 - Pushing is gated by the Claude Code auto-mode classifier: Claude can commit but not push. Either Armando runs `git push` or a `Bash(git push:*)` permission rule gets added.
