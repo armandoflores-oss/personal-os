@@ -1,0 +1,4 @@
+#!/bin/sh
+# Secret scan on staged files. Stdlib-only stand-in for gitleaks
+# (install gitleaks from a clean network and swap this line when possible).
+exec python3 "$(git rev-parse --show-toplevel)/scripts/hooks/secret_scan.py"

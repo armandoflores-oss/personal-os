@@ -1,0 +1,23 @@
+{
+ "ea3741c6396d": {
+  "archived": false,
+  "blocked": null,
+  "code": "T-1",
+  "created": "2026-08-19T00:59:07+00:00",
+  "domain": "operacion-semanal",
+  "due_date": "2026-08-19",
+  "notes": [
+   {
+    "actor": "system:acceptance-test",
+    "note": "evidencia: prueba de aceptación Fase 1",
+    "ts": "2026-08-19T00:59:07+00:00"
+   }
+  ],
+  "owner": null,
+  "snoozed_until": null,
+  "status": "done",
+  "task_id": "ea3741c6396d",
+  "title": "Tarea de prueba: verificar Fase 1",
+  "waiting_on": null
+ }
+}

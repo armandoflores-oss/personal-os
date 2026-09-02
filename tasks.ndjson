@@ -1,0 +1,2 @@
+{"actor": "user", "kind": "create", "payload": {"code": "T-1", "domain": "operacion-semanal", "due_date": "2026-08-19", "title": "Tarea de prueba: verificar Fase 1"}, "task_id": "ea3741c6396d", "ts": "2026-08-19T00:59:07+00:00"}
+{"actor": "system:acceptance-test", "kind": "set_status", "payload": {"evidence": "prueba de aceptación Fase 1", "status": "done"}, "task_id": "ea3741c6396d", "ts": "2026-08-19T00:59:07+00:00"}
