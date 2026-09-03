@@ -1,0 +1,51 @@
+{
+  "extraKnownMarketplaces": [
+    {
+      "source": "github",
+      "repo": "anthropics/claude-plugins-official"
+    }
+  ],
+  "enabledPlugins": [
+    "superpowers@claude-plugins-official",
+    "skill-creator@claude-plugins-official",
+    "claude-md-management@claude-plugins-official",
+    "claude-code-setup@claude-plugins-official",
+    "feature-dev@claude-plugins-official",
+    "frontend-design@claude-plugins-official",
+    "commit-commands@claude-plugins-official"
+  ],
+  "agentPushNotifEnabled": true,
+  "permissions": {
+    "allow": [
+      "Bash",
+      "Read",
+      "Write(/Users/armando/Documents/Claude Personal Improvement/**)",
+      "Edit(/Users/armando/Documents/Claude Personal Improvement/**)",
+      "Write(/tmp/**)",
+      "mcp__18fee21b-4c38-4d1c-b67d-4f0e6c437528__search_threads",
+      "mcp__18fee21b-4c38-4d1c-b67d-4f0e6c437528__get_thread",
+      "mcp__3edb6d33-1835-48fa-aa9f-e56f52ea7e4d__list_events",
+      "mcp__3edb6d33-1835-48fa-aa9f-e56f52ea7e4d__list_calendars",
+      "mcp__d0d63bc7-ca62-4971-98ab-f59efe86c0c6__list_recent_files",
+      "mcp__d0d63bc7-ca62-4971-98ab-f59efe86c0c6__search_files",
+      "mcp__d0d63bc7-ca62-4971-98ab-f59efe86c0c6__read_file_content"
+    ],
+    "deny": [
+      "mcp__18fee21b-4c38-4d1c-b67d-4f0e6c437528__send_message",
+      "mcp__18fee21b-4c38-4d1c-b67d-4f0e6c437528__reply",
+      "mcp__18fee21b-4c38-4d1c-b67d-4f0e6c437528__forward",
+      "mcp__18fee21b-4c38-4d1c-b67d-4f0e6c437528__create_draft",
+      "mcp__18fee21b-4c38-4d1c-b67d-4f0e6c437528__update_draft",
+      "mcp__18fee21b-4c38-4d1c-b67d-4f0e6c437528__trash_message",
+      "mcp__18fee21b-4c38-4d1c-b67d-4f0e6c437528__trash_thread",
+      "mcp__3edb6d33-1835-48fa-aa9f-e56f52ea7e4d__create_event",
+      "mcp__3edb6d33-1835-48fa-aa9f-e56f52ea7e4d__update_event",
+      "mcp__3edb6d33-1835-48fa-aa9f-e56f52ea7e4d__delete_event",
+      "mcp__3edb6d33-1835-48fa-aa9f-e56f52ea7e4d__respond_to_event",
+      "mcp__d0d63bc7-ca62-4971-98ab-f59efe86c0c6__create_file",
+      "mcp__d0d63bc7-ca62-4971-98ab-f59efe86c0c6__update_file",
+      "mcp__d0d63bc7-ca62-4971-98ab-f59efe86c0c6__share_file",
+      "mcp__d0d63bc7-ca62-4971-98ab-f59efe86c0c6__trash_file"
+    ]
+  }
+}
