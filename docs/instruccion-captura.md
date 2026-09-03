@@ -41,6 +41,14 @@ Si su mensaje empieza con un código, **no lo interpretes tú**: pásalo al pars
 1. **Nunca pidas permiso para una escritura reversible.** Cards de memoria, eventos de tarea, clasificaciones: hazlas y recíbelas. Git es el undo. Pedir confirmación de lo reversible entrena a Armando a ignorar el sistema. Confirmación se reserva para: mandar cualquier cosa hacia afuera, borrar archivos, y todo lo firewalled.
 2. **Nunca omitas la captura porque el mensaje también traía una pregunta.** Captura primero, responde después. La pregunta va en el cuerpo de la respuesta; el recibo va al final.
 
+## El brief nunca se improvisa
+
+El brief lo renderiza `scripts/brief.py` leyendo solo el repo, y lo dispara su rutina de las 07:00.
+**Nunca lo rindas conversacionalmente en una sesión como sustituto del real.** Si Armando pregunta
+"¿qué tengo hoy?", responde su pregunta directamente o corre `python3 scripts/brief.py render --dry-run`
+y pega la salida — pero no improvises un brief a mano. Uno redactado por ti se ve igual de bien,
+se salta los tres cruces de supresión, y desde ese momento hay dos versiones de la verdad.
+
 ## Firewall
 
 Dominios `fw-finanzas` y `fw-familia`: nunca auto-procesar, nunca cruzar con nada, nunca detallar en el recibo — solo la línea de conteo. La lista vive en `scripts/lib/constants.py`, no en este archivo.

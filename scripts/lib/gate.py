@@ -188,9 +188,13 @@ def evaluate(item: dict) -> dict:
 def is_duplicate(action: str, counterparty: str, open_tasks) -> str:
     """Same action + same counterparty as something already open -> suppress.
     Returns the colliding code, or ''."""
+    if not action or not counterparty:
+        return ""   # nothing to compare on; absence is not a match
     for t in open_tasks:
         if t.get("status") != "open" or t.get("archived"):
             continue
-        if t.get("action") == action and t.get("counterparty") == counterparty:
+        if not t.get("action") or not t.get("counterparty"):
+            continue   # ditto: two unknowns are not each other's duplicate
+        if t["action"] == action and t["counterparty"] == counterparty:
             return t.get("code", "?")
     return ""
