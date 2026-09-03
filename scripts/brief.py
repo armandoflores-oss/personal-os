@@ -107,8 +107,17 @@ def health(now) -> list:
     # this the failure is invisible: no output, no error, no receipt, and the
     # only symptom is a brief that never arrives.
     for task, ts in starts.items():
-        if task not in ends:
-            problems.append(f"La rutina {task} arrancó a las {ts[11:16]} UTC y murió a media corrida.")
+        if task in ends:
+            continue
+        # El brief escribe su propio 'start' antes de renderizar y su 'end'
+        # después, así que a la hora de renderizar SIEMPRE le falta el cierre.
+        # Solo denunciamos corridas viejas: las de verdad colgadas.
+        try:
+            age = now - datetime.fromisoformat(ts)
+        except ValueError:
+            continue
+        if age > timedelta(hours=2):
+            problems.append(f"La rutina {task} arrancó a las {ts[11:16]} UTC y nunca cerró.")
     return problems
 
 
@@ -125,8 +134,14 @@ def prep_notes(event) -> list:
     """Deterministic prep: memory cards whose slug matches an attendee or a
     distinctive word of the title. No inference, just the library."""
     hits, seen = [], set()
-    blob = gate.norm(f"{event.get('summary','')} {' '.join(event.get('attendees', []))}")
-    tokens = {t for t in blob.replace("@", " ").replace(".", " ").split() if len(t) > 4}
+    # Armando está en todas sus juntas, así que su propio nombre casa con todo:
+    # una card llamada "jornada-laboral-de-armando" salía como prep de cada
+    # evento del día. Su identidad no es información sobre la junta.
+    SELF = {"armando", "flores", "draiver", "driverdo"}
+    others = [a for a in event.get("attendees", []) if "armando" not in a.lower()]
+    blob = gate.norm(f"{event.get('summary','')} {' '.join(others)}")
+    tokens = {t for t in blob.replace("@", " ").replace(".", " ").split()
+              if len(t) > 4 and t not in SELF}
     for folder in ("people", "projects", "context", "rules"):
         d = constants.MEMORY_ROOT / folder
         if not d.exists():
@@ -134,8 +149,10 @@ def prep_notes(event) -> list:
         for card in sorted(d.glob("*.md")):
             if card.name == "CLAUDE.md":
                 continue
-            slug_words = {w for w in card.stem.split("-") if len(w) > 4}
-            if slug_words & tokens and card.name not in seen:
+            slug_words = {w for w in card.stem.split("-") if len(w) > 4 and w not in SELF}
+            # Dos coincidencias, no una: una sola palabra larga en común es
+            # casualidad, y una prep equivocada es peor que ninguna.
+            if len(slug_words & tokens) >= 2 and card.name not in seen:
                 seen.add(card.name)
                 hits.append(f"memory/{folder}/{card.name}")
     return hits[:3]
@@ -162,9 +179,13 @@ def by_domain(items):
         yield slug, grouped[slug]
 
 
-def recent_meeting_blob(now, days=3) -> str:
-    """Everything the transcripts said recently, as one lowercase haystack."""
-    blob = []
+def recent_meetings(now, days=3):
+    """Recent transcripts, kept SEPARATE.
+
+    Concatenating them was wrong: against one big haystack, any two common
+    tokens match, and the cross-check suppressed nearly every new item. A task
+    is covered by a meeting only if ONE meeting discussed it."""
+    out = []
     d = CACHE / "transcripts"
     if d.exists():
         for f in sorted(d.glob("*.txt")):
@@ -173,8 +194,8 @@ def recent_meeting_blob(now, days=3) -> str:
             except OSError:
                 continue
             if age <= timedelta(days=days):
-                blob.append(f.read_text(errors="ignore"))
-    return gate.norm(" ".join(blob))
+                out.append(gate.norm(f.read_text(errors="ignore")))
+    return out
 
 
 def closed_by_feedback_blob() -> str:
@@ -193,11 +214,15 @@ def cross_check(item, others, meetings, said):
     if dup:
         return f"ya cubierto por {dup}"
     tokens = {w for w in gate.norm(item["title"]).split() if len(w) > 4}
-    if len(tokens) >= 2:
-        if len([t for t in tokens if t in meetings]) >= 2:
+    if len(tokens) < 3:
+        return ""   # un título de dos palabras no da evidencia suficiente
+    # Suprimir exige que la MAYORÍA del título aparezca en una sola fuente.
+    need = max(3, round(len(tokens) * 0.6))
+    for m in meetings:
+        if len([t for t in tokens if t in m]) >= need:
             return "ya se trató en una junta reciente"
-        if len([t for t in tokens if t in said]) >= 2:
-            return "ya me dijiste que estaba cerrado"
+    if len([t for t in tokens if t in said]) >= need:
+        return "ya me dijiste que estaba cerrado"
     return ""
 
 
@@ -280,7 +305,7 @@ def render(now, since):
     # Decide the "new" section FIRST. Anything new that the cross-check
     # suppresses has to fall back into the standing list, or a real open task
     # disappears from the brief entirely — silently, which is the worst kind.
-    meetings, said = recent_meeting_blob(now), closed_by_feedback_blob()
+    meetings, said = recent_meetings(now), closed_by_feedback_blob()
     new_lines, suppressed, shown_new = [], 0, []
     for t in fresh:
         if t["domain"] in constants.FIREWALLED_DOMAINS:

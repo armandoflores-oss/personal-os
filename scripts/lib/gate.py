@@ -39,6 +39,12 @@ META_MARKERS = [
     r"\bcerre el ticket\b", r"\bclosed the ticket\b",
     r"\bsegun el brief\b", r"\bper the brief\b",
     r"\brecordatorio automatico\b", r"\bautomated reminder\b",
+    # Notificaciones que Google genera sobre eventos. Hablan DE una junta; no
+    # son un compromiso de nadie. Sin esto, cada cancelación se vuelve tarea.
+    r"^\s*canceled event\b", r"^\s*cancelled event\b",
+    r"^\s*invitation:", r"^\s*updated invitation:", r"^\s*invitación:",
+    r"^\s*accepted:", r"^\s*declined:", r"^\s*tentatively accepted:",
+    r"\bjoin with google meet\b", r"\brsvp\b",
 ]
 
 # 2. A task needs somebody to have actually committed to something.
@@ -139,6 +145,8 @@ def extract_counterparty(text: str, sender: str = "", recipients=None) -> str:
             continue
         if c in t:
             return c
+    if sender.startswith("gemini-notes"):
+        return "interno"   # el anotador de juntas no es contraparte de nada
     for addr in list(recipients or []) + [sender]:
         if "@" in addr:
             dom = addr.split("@", 1)[1].lower()

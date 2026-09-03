@@ -114,7 +114,12 @@ def cmd_run(args):
             capped += 1
             continue
 
-        title = (item.get("subject") or verdict["sentence"])[:120]
+        # Para un correo el asunto es un buen título. Para una transcripción NO:
+        # "Notes by Gemini" describe el archivo, no lo que hay que hacer.
+        if args.source == "gmail":
+            title = (item.get("subject") or verdict["sentence"])[:120]
+        else:
+            title = verdict["sentence"][:120]
         ev = append_event({
             "kind": "create", "actor": f"system:ingest:{args.source}",
             "payload": {"title": title, "domain": verdict["domain"],

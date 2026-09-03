@@ -29,7 +29,7 @@
  "6f45e259ab62": {
   "action": "otro",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-5",
   "counterparty": "harrison.wendland",
@@ -37,7 +37,13 @@
   "domain": "operacion-semanal",
   "due_date": null,
   "evidence": "This event has been canceled and removed from your calendar with a note: \"Voy a cancelar la reunión.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:limpieza",
+    "note": "archivado: descartada por Armando: no aplica",
+    "ts": "2026-09-03T22:19:47+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0638a00d38ecb0",
@@ -119,7 +125,7 @@
  "eb97255c36fd": {
   "action": "confirmar",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-6",
   "counterparty": "gemini-notes",
@@ -127,7 +133,13 @@
   "domain": "operacion-semanal",
   "due_date": null,
   "evidence": "- [El grupo] Dar feedback sobre la grid de requerimientos antes del 17 para confirmar qué features soporta el sistema hoy.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:limpieza",
+    "note": "archivado: descartada por Armando: no aplica",
+    "ts": "2026-09-03T22:19:47+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "drive:1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0",
