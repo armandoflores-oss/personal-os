@@ -1,0 +1,230 @@
+# **Las notas**
+
+sept 1, 2026
+
+## **Diaria Spain Launch**
+
+Invitado Daniel Escribano (daniel.escribano@draiver.com) Armando Flores (armando.flores@driverdo.com) Artur Morais (artur.morais@draiver.com)
+
+### **Resumen**
+
+Se evaluaron estrategias de reclutamiento y problemas operativos junto con la aprobación de una nueva oficina.
+
+**Estrategias de reclutamiento personal**
+El proceso de selección enfrenta desafíos con plataformas digitales, priorizando la contratación mediante contactos profesionales conocidos para mejorar la calidad del equipo ante la alta rotación reciente.
+
+**Aprobación nueva oficina operativa**
+La búsqueda de instalaciones concluyó con la selección de un espacio competitivo con un costo de 650 euros mensuales tras recibir la validación necesaria.
+
+**Deficiencias técnicas de aplicación**
+La aplicación carece de información crítica sobre los vehículos, provocando posibles cancelaciones de viajes por parte de los conductores al no visualizar detalles esenciales del transporte.
+
+### **Decisiones**
+
+## **Requiere más debate**
+
+  - **Ajustes de visualización de datos en la aplicación** La necesidad de mostrar los detalles del vehículo y la matrícula a los conductores en la aplicación está pendiente de una discusión futura en la próxima reunión.
+
+### **Próximos pasos**
+
+  - [Daniel Escribano] Hablar con Recursos Humanos: Informar al departamento de Recursos Humanos que el equipo ha tenido que realizar tareas de búsqueda de candidatos por su propia cuenta para presionar por una mejor gestión.
+
+### **Detalles**
+
+  - **Entrevista de reclutamiento**: Daniel Escribano comentó sobre una entrevista realizada a una candidata contactada a través de LinkedIn que contaba con experiencia en el sector. La candidata cuestionó el esquema de salario fijo, a lo cual Daniel aclaró que el puesto está enfocado principalmente en incentivos; la persona indicó que enviaría un correo electrónico si le interesaba la propuesta (00:01:35).
+  - **Estrategia de contratación y relación con Recursos Humanos**: Armando Flores mencionó que tiene programada una reunión con el departamento de Recursos Humanos para tratar la publicación de vacantes, ya que Daniel Escribano prefiere utilizar InfoJobs dado que LinkedIn atrae un volumen excesivo de perfiles o candidatos con un nivel senior inadecuado debido al título técnico en inglés del puesto, el cual se percibe como demasiado alto en España. Armando Flores señaló que el equipo de Recursos Humanos debería gestionar estas tareas, expresando frustración por haber tenido que contratar headhunters externos debido a retrasos previos en la cobertura de vacantes y a una rotación alta en las contrataciones recientes (00:21:40) (00:24:01).
+  - **Enfoque de contratación mediante contactos**: Daniel Escribano explicó que, dada su experiencia previa en empresas como Auto 1, prefiere confiar en sus contactos y en personas con las que ha trabajado anteriormente para conformar equipos, en lugar de depender únicamente de procesos de selección externos (00:22:45).
+  - **Búsqueda de oficinas**: Daniel Escribano informó sobre la búsqueda de una nueva oficina, destacando que ha encontrado una opción que satisface sus necesidades por un costo de 650 euros mensuales, un precio que consideran muy competitivo, y que ya cuenta con la aprobación de Nico (00:24:01).
+  - **Gestión operativa y carga de trabajo**: Daniel Escribano enfatizó su preferencia por ejecutar las tareas con rapidez para optimizar el tiempo, agradeciendo el apoyo recibido por Kevin y Paloma, con quienes trabajó hasta altas horas de la noche. Armando Flores sugirió aprovechar los momentos de menor carga de trabajo para resolver tareas operativas y evitar que se acumulen pendientes (00:25:20).
+  - **Situación de viaje y logística de conductores**: Armando Flores mencionó que Artur lleva aproximadamente 24 horas de viaje debido a una escala en México en su trayecto hacia São Paulo. Daniel Escribano reportó que el equipo está enfrentando dificultades operativas con los conductores, incluyendo quejas sobre precios y problemas de acceso al sistema (00:26:25).
+  - **Problemas de visualización en la aplicación**: Daniel Escribano detalló que los conductores están amenazando con cancelar viajes debido a que la aplicación no muestra información crítica como la matrícula, marca, modelo, ni el tipo de transmisión o motor del vehículo. Daniel explicó que, durante la fase de desarrollo, la prioridad fue la funcionalidad técnica de la aplicación, por lo que ahora han solicitado al equipo de producto que incorpore estos datos específicos de manera urgente, un tema que se discutirá en una reunión posterior (00:27:43).
+
+# **Transcripción**
+
+sept 1, 2026
+
+## **Diaria Spain Launch - Transcripción**
+
+### **00:01:35**
+
+**Armando Flores:** Sí. M. Sí. M. H Ok.
+
+**Daniel Escribano:** Perdóname, Armando. Buenos días. Perdóname, estaba haciendo una entrevista a una chica de que me contactó por LinkedIn, que nos conoce a Gerardo y a mí, y la tenía a las 4 y se me ha extendido más de lo que de lo que esperaba, pero bueno, se la veía que preguntaba y con ganas.
+
+**Armando Flores:** Y
+
+**Daniel Escribano:** Para mi gusto, la chica tiene ganas, pregunta mucho, ¿sabes? Eh,
+
+**Armando Flores:** Hm.
+
+**Daniel Escribano:** parece que se interesa pero tiene 50 años y viene de trabajar en el sector. Por lo tanto, bajarse al barro, ¿sabes lo que te digo, eh, ha puesto pegas un poco con el sueldo fijo y claro, yo le he dicho que está enfocado al incentivo más que al fijo, pero claro, pero bueno, a lo mejor es una persona que para para comaner casi mejor, ¿sabes? o pero bueno, ahí se ha quedado la cosa. Ella no me ha dicho que esté, me ha dicho,
+
+**Armando Flores:** H.
+
+**Daniel Escribano:** "Te mando un email si me interesa y así tú puedes valorar." Y digo,"Venga, pues ya está." Pero bueno,
+
+### **00:21:40**
+
+**Daniel Escribano:** la verdad que es una pena porque es un perfil que no está mal, pero no para esto, ¿sabes? Pero bueno, eh, ¿te contestó algo recursos humanos sobre lo del puesto
+
+**Armando Flores:** No,
+
+**Daniel Escribano:** anuncio
+
+**Armando Flores:** hablé con ellos y hoy tengo una reunión con ellos. Entonces, pues va de ese lado
+
+**Daniel Escribano:** para ver si no si la pongo si la pongo en en Infoob es que los
+
+**Armando Flores:** ideal,
+
+**Daniel Escribano:** perfiles en en LinkedIn solo me entran 25
+
+**Armando Flores:** yo te diría,
+
+**Daniel Escribano:** perfiles?
+
+**Armando Flores:** o sea, velo avanzando. O sea, yo lo que estoy haciendo, o sea, mi tema aquí es es lo que le dije a Nico, o sea, no es que ustedes no deb eso, sino que más bien RH aquí debería de estar haciendo eso. H,
+
+**Daniel Escribano:** Ya,
+
+**Armando Flores:** entonces este sí,
+
+**Daniel Escribano:** pero es que al final, mira lo que pasa. Al final yo voy más
+
+**Armando Flores:** no, claro, no, no, no, eso me queda claro, eh, o sea, yo por eso he contratado, digo, no sé si te lo platiqué, pero he contratado head hunters para llenar todas mis posiciones.
+
+**Daniel Escribano:** rápido.
+
+**Armando Flores:** Este, o sea, es y me han dicho,"No, es que esta persona renunció al mes, entonces está mal y tu head counter no sirve." digo,
+
+### **00:22:45**
+
+**Armando Flores:** "Bueno, las últimas dos posiciones tú me las llenaste en 6 meses." Hm. Entonces este hm y las últimas cinco posiciones yo tenido que buscar los candidatos tres. Entonces con eso y yo hablé con Fede y ese rollo, pero es es más lo que yo quiero que tú tomes es que si no hago esto de empujar a recursos humanos de este lado, este, ellos van a decir,"Ah, es que cuando alguien renuncie o cuando hay algún tema o cosas así, no es que solo Dani lo contrató y él lo buscó y este fueron, o sea, ya los conozco." Tú decirle,"Oye, tú no hiciste nada, nosotros tuvos que moverlo." Y es eso, ¿no?
+
+**Daniel Escribano:** A mí que digan lo que quieran.
+
+**Armando Flores:** Este,
+
+**Daniel Escribano:** Yo al final en casi todos los sitios en auto uno,
+
+**Armando Flores:** sí.
+
+**Daniel Escribano:** tú vas ahora mismo auto uno, que es una de las empresas más grandes de automoción aquí en España y y la mitad de la plantilla la
+
+**Armando Flores:** Mm.
+
+**Daniel Escribano:** contraté yo, es decir, de gente porque al final en este sector te gusta llevarte a la gente en la que confías, ¿sabes lo que te digo? Y gente con la que has trabajado con ellos. Mira, mira, yo por ejemplo el ejemplo con Gerardo o o sabes o otras empresas, pues te vas, oye, ¿te te interesa este trabajo, ¿te interesa venirte conmigo a esta empresa?
+
+### **00:24:01**
+
+**Daniel Escribano:** Al final, ¿sabes? El problema que el trabajo de de Hunter es como mucho más principiante. Entonces, y el problema es que en LinkedIn, como me dijo Nico, que a Fede no le gustaba la palabra Tele6 porque es sinónimo de spam, claro, lo hemos vendido con el nombre técnico en inglés y se lo que se me presenta es la gente cuando ve un
+
+**Armando Flores:** Mhm.
+
+**Daniel Escribano:** nombre técnico en inglés, ¿sabes? Aquí en España se creen que es eh un puesto mucho más alto. Entonces, claro, la gente que me entra son perfiles muy seniors, ¿sabes?, de otras cosas.
+
+**Armando Flores:** Ja.
+
+**Daniel Escribano:** Entonces al final estoy tirando de contactos y tengo un chico interesado que trabajó conmigo en Auto uno, que no me llega a convencer al 100%, pero no sería, pero bueno, si no es que al final, mira, hoy por ejemplo igual oficina, vengo de ver una ido al mediodía a ver una oficina corriendo antes de la entrevista
+
+**Armando Flores:** Mhm.
+
+**Daniel Escribano:** y me cuadra. He visto dos y esta última me cuadra, ¿sabes? Ya se lo he pasado a Nico. A Nico también le ha gustado lo que le he pasado. 650 € al mes nada más. Es un regalo,
+
+### **00:25:20**
+
+**Armando Flores:** Está muy
+
+**Daniel Escribano:** un regalo, un regalo.
+
+**Armando Flores:** barato.
+
+**Daniel Escribano:** Y quiero decirte con esto que al final a mí, yo las cosas me gustan rápidas, es decir, que no quiero que me quiten tiempo, ¿sabes? Hay que hacerlo,
+
+**Armando Flores:** Mhm.
+
+**Daniel Escribano:** hay que hacerlo de contratar dos Hunter, lo hago rápido, que no me quite tiempo. Hay que coger una oficina, lo hago rápido, que no me quite tiempo. Eh, por eso hay cosas que, por ejemplo, ahora pues mira, chapó por Kevin y por y por Paloma, que yo ayer estuve hasta las 12 de la noche o 12 y pico, hora española trabajando y ellos seguían dándome apoyo todo el rato, ¿sabes?
+
+**Armando Flores:** Mhm.
+
+**Daniel Escribano:** Pero porque al final yo no soy yo no soy dejar capaz de dejar las cosas para mañana o para dentro de una semana si las puedo hacer ahora,
+
+**Armando Flores:** Sí, no,
+
+**Daniel Escribano:** ¿sabes?
+
+**Armando Flores:** eso está bien, ¿no? Y hay que aprovechar ahorita que no hay tanta carga de trabajo porque si no sí se van acumulando esas cosas. Luego buscar oficina es un tema de estar yendo, viniendo y todas esas cosas,
+
+**Daniel Escribano:** toda la operativa con todo,
+
+**Armando Flores:** ¿no?
+
+**Daniel Escribano:** porque mira, llevamos ahora dos días con la operativa, que es una locura con lo de los conductores,
+
+### **00:26:25**
+
+**Armando Flores:** Sí.
+
+**Daniel Escribano:** porque todo el mundo tiene problemas para entrar, todo el mundo hay problemas con el precio, todos los conductores se me quejan de todo, que ahora te voy a contar, te voy a hacer un feedback de todo eso.
+
+**Armando Flores:** Esto, leí los las cosas que habían ahí, este, pero sí necesito entender. Digo, veo ahorita que Artur apenas está, no sé qué tipo de vuelo, o qué tipo de viaje tomó, porque ya lleva como 24 horas viajando, ¿no? El el
+
+**Daniel Escribano:** Sí, pero tuvo que hacer escala en México,
+
+**Armando Flores:** señor,
+
+**Daniel Escribano:** creo que fue.
+
+**Armando Flores:** ¿no? Bueno, entonces sí se tomó este un viaje largo.
+
+**Daniel Escribano:** M.
+
+**Armando Flores:** O sea,
+
+**Daniel Escribano:** de Apple.
+
+**Armando Flores:** porque hacer escala en México de aquí a Sao Pablo es más lejos que de aquí a Madrid.
+
+**Daniel Escribano:** En serio.
+
+**Armando Flores:** Sí, sí, sí.
+
+**Daniel Escribano:** Ostras,
+
+**Armando Flores:** De aquí a Sao Paulo son como como 10, 11 horas y de aquí a Madrid este son como 9 10.
+
+**Daniel Escribano:** ayer me pareció decir que que estaba haciendo escala en México, creo. Eh, lo me dijo. Te he puesto ahí en Slack un resumen que me ha hecho cla de las quejas de los conductores.
+
+**Armando Flores:** Pues bueno, qué bueno que ya empezamos con esto, porque si no hubiera sido, o sea, arrancando con un centauro hubiera sido un caos enorme.
+
+### **00:27:43**
+
+**Daniel Escribano:** Uh, imposible. Es más,
+
+**Armando Flores:** Sí.
+
+**Daniel Escribano:** estoy reteniendo los conductores porque me quieren cancelar todos los viajes. ¿Por qué no ven las matrículas? ¿Por qué no ven los datos? ¿Por qué no ven dónde se recoge y dónde se entrega?
+
+**Armando Flores:** Y eso esa esos errores no te aparecían a ti cuando hiciste los
+
+**Daniel Escribano:** Eh, eh eh eh eh eh eh eh eh eh pues puede ser.
+
+**Armando Flores:** viajes.
+
+**Daniel Escribano:** Lo que pasa que como estábamos tan pendientes de que la aplicación funcionara paso por paso, yo no hice hincapie en que en la marca del modelo y la matrícula del coche. ¿Sabes lo que te digo?
+
+**Armando Flores:** Ja.
+
+**Daniel Escribano:** Yo estaba pendiente más de la aplicación que funcionara que de los datos concretos que presenta la aplicación. ¿Me explico? Entonces, y todos los conductores me dicen lo mismo.
+
+**Armando Flores:** Sí.
+
+**Daniel Escribano:** Es que no sé ni qué marca ni qué coche voy a conducir. Es que yo no sé si es automático o si es manual, es que no sé si es eléctrico, es que eh no viene ni la matrícula, ¿cómo voy a pedir el coche? Y les digo, cuando llegues allí y le des a que estás aquí, ya puedes ver las notas y están en la matrícula. Pero claro, todo esto yo le he pedido a producto, que por eso yo me pongo pesado, en que se solucione lo antes posible y que demos esa información, porque yo ya me sé cuáles son las pegas de los de los conductores, por desgracia, y no siempre vale el No, pues que se apañen así, que se apañen así y ya lo haremos.
+
+**Armando Flores:** Tenemos que tenemos que ir a la otra reunión justo para hablar de esto.
+
+**Daniel Escribano:** Ah, vale, venga, vamos. Perdona
+
+**Armando Flores:** Vamos, vamos.
+
+### **La transcripción finalizó después de 00:29:12**
