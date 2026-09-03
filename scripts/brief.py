@@ -93,9 +93,22 @@ def health(now) -> list:
     yday_sync = SYNCS / f"{(now.date() - timedelta(days=1)).isoformat()}.ndjson"
     if not today_sync.exists() and not yday_sync.exists():
         problems.append("Sin recibos de ingesta en 48h: la rutina no está corriendo.")
+    starts, ends = {}, set()
     for line in _receipts(now, hours=24):
         if line.get("leg") == "error":
             problems.append(f"Conector {line.get('source')} falló: {line.get('error','')[:60]}")
+        elif line.get("leg") == "heartbeat":
+            task = line.get("task", "?")
+            if line.get("stage") == "start":
+                starts[task] = line.get("ts", "")
+            elif line.get("stage") == "end":
+                ends.add(task)
+    # A routine that logged a start and never a finish died mid-run. Without
+    # this the failure is invisible: no output, no error, no receipt, and the
+    # only symptom is a brief that never arrives.
+    for task, ts in starts.items():
+        if task not in ends:
+            problems.append(f"La rutina {task} arrancó a las {ts[11:16]} UTC y murió a media corrida.")
     return problems
 
 

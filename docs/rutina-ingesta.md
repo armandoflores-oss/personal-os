@@ -8,11 +8,13 @@ Rutina de ingesta del Personal OS de Armando. Corre sola, sin nadie mirando. Sé
 REPO: /Users/armando/Documents/Claude Personal Improvement
 Trabaja siempre desde ahí. Todo el juicio vive en los scripts; tu único trabajo que un script no puede hacer es llamar a los conectores y entregar los items crudos como JSON.
 
-## 0. Antes de nada
+## 0. Latido de arranque (ANTES de tocar cualquier conector)
 ```
 cd "/Users/armando/Documents/Claude Personal Improvement"
+python3 -c "import json,datetime,pathlib; d=datetime.datetime.now(datetime.timezone.utc); p=pathlib.Path('syncs')/f'{d.date()}.ndjson'; p.parent.mkdir(exist_ok=True); f=open(p,'a'); f.write(json.dumps({'ts':d.isoformat(timespec='seconds'),'leg':'heartbeat','stage':'start','task':'ingest-personal-os'})+chr(10))"
 git pull --rebase 2>/dev/null || true
 ```
+Si la corrida muere después de esto (por ejemplo porque un conector pide permiso y no hay nadie que lo apruebe), el latido queda escrito y el brief de mañana lo denuncia. Sin esto el fallo es invisible.
 
 ## 1. Pata de ENTRADA — Gmail
 a) Lee la marca de agua:
@@ -27,21 +29,16 @@ c) Escribe un JSON en /tmp/ingest_gmail.json: una lista de objetos con exactamen
 d) `python3 scripts/ingest.py run --source gmail --items /tmp/ingest_gmail.json`
 
 ## 2. Pata de ENTRADA — transcripciones
-Las juntas de Armando las transcribe Gemini y aterrizan como Google Docs cuyo
-título termina en "Notes by Gemini", en Drive.
+Las juntas de Armando las transcribe Gemini y aterrizan como Google Docs cuyo título termina en "Notes by Gemini", en Drive.
 a) `python3 scripts/ingest.py watermark --source drive`
-b) Con el conector de Drive, lista los archivos recientes; quédate con los que
-   digan "Notes by Gemini" y sean más nuevos que la marca. Lee su contenido.
-c) Mismo formato JSON en /tmp/ingest_drive.json (sender = "gemini-notes",
-   recipients = ["armando.flores@driverdo.com"], subject = título del doc).
+b) Con el conector de Drive, lista los archivos recientes; quédate con los que digan "Notes by Gemini" y sean más nuevos que la marca. Lee su contenido.
+c) Mismo formato JSON en /tmp/ingest_drive.json (sender = "gemini-notes", recipients = ["armando.flores@driverdo.com"], subject = título del doc).
 d) `python3 scripts/ingest.py run --source drive --items /tmp/ingest_drive.json`
 
 ## 3. Pata de SALIDA — reconciliación
-a) Con Gmail, trae lo que Armando ENVIÓ desde la última corrida (`in:sent`), mismo
-   formato, en /tmp/ingest_sent.json.
+a) Con Gmail, trae lo que Armando ENVIÓ desde la última corrida (`in:sent`), mismo formato, en /tmp/ingest_sent.json.
 b) `python3 scripts/ingest.py reconcile --sent /tmp/ingest_sent.json`
-Esto cierra tareas abiertas cuando hay evidencia de que ya respondió. Cierra de
-más es barato porque reabrir cuesta una palabra; cerrar en silencio no lo es.
+Esto cierra tareas abiertas cuando hay evidencia de que ya respondió. Cerrar de más es barato porque reabrir cuesta una palabra; cerrar en silencio no lo es.
 
 ## 4. Cierre
 ```
@@ -50,17 +47,16 @@ git commit -m "Ingesta $(date +%Y-%m-%dT%H:%M) — entrada y reconciliación" ||
 ```
 NO intentes hacer push: está bloqueado y fallar ahí no importa.
 
+## 5. Latido de cierre — pase lo que pase, aunque alguna pata haya fallado
+```
+python3 -c "import json,datetime,pathlib; d=datetime.datetime.now(datetime.timezone.utc); p=pathlib.Path('syncs')/f'{d.date()}.ndjson'; f=open(p,'a'); f.write(json.dumps({'ts':d.isoformat(timespec='seconds'),'leg':'heartbeat','stage':'end','task':'ingest-personal-os'})+chr(10))"
+```
+
 ## Reglas duras
 - NUNCA mandes, respondas ni archives correo. La ingesta solo lee.
-- NUNCA decidas tú si algo es tarea. Eso lo hace scripts/lib/gate.py. Si crees que
-  la compuerta se equivocó, NO la sortees: anótalo en el recibo y sigue.
-- Dominios firewalled (fw-finanzas, fw-familia): el código ya los protege. No los
-  detalles en ningún lado.
-- Si un conector falla, no lo intentes por otra vía: registra la falla en
-  syncs/YYYY-MM-DD.ndjson como {"ts":..., "leg":"error", "source":..., "error":...}
-  y continúa con las demás patas. Una pata caída no cancela la corrida.
+- NUNCA decidas tú si algo es tarea. Eso lo hace scripts/lib/gate.py. Si crees que la compuerta se equivocó, NO la sortees: anótalo en el recibo y sigue.
+- Dominios firewalled (fw-finanzas, fw-familia): el código ya los protege. No los detalles en ningún lado.
+- Si un conector falla, no lo intentes por otra vía: registra la falla en syncs/YYYY-MM-DD.ndjson como {"ts":..., "leg":"error", "source":..., "error":...} y continúa con las demás patas. Una pata caída no cancela la corrida.
 
 ## Salida
-Máximo cinco líneas, en español: cuántos items viste, cuántas tareas creaste (con
-sus códigos), cuántas suprimiste y por qué motivo, y cuántas cerró la
-reconciliación. Nada más. Los recibos completos ya quedaron en syncs/.
+Máximo cinco líneas, en español: cuántos items viste, cuántas tareas creaste (con sus códigos), cuántas suprimiste y por qué motivo, y cuántas cerró la reconciliación. Nada más. Los recibos completos ya quedaron en syncs/.

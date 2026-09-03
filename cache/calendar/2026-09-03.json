@@ -1,0 +1,106 @@
+[
+ {
+  "start": "08:15",
+  "summary": "viajes / feedback drivers",
+  "attendees": [
+   "paloma.calderon@draiver.com",
+   "artur.morais@draiver.com",
+   "daniel.escribano@draiver.com"
+  ]
+ },
+ {
+  "start": "08:30",
+  "summary": "Diaria Spain Launch",
+  "attendees": [
+   "daniel.escribano@draiver.com",
+   "artur.morais@draiver.com"
+  ]
+ },
+ {
+  "start": "09:00",
+  "summary": "Product Sprint Review and Demo Day",
+  "attendees": [
+   "paloma.calderon@driverdo.com",
+   "romina.barreto@driverdo.com",
+   "fede.ranero@driverdo.com"
+  ]
+ },
+ {
+  "start": "10:00",
+  "summary": "weekly Spain Catch up Legal",
+  "attendees": [
+   "rafael.andrade@draiver.com"
+  ]
+ },
+ {
+  "start": "10:00",
+  "summary": "Daily Huddle - Ops MX",
+  "attendees": [
+   "julia.diaz@draiver.com",
+   "uriel.vargas@driverdo.com",
+   "cristian.arizmendi@driverdo.com",
+   "gerardo.acosta@kavak.com"
+  ]
+ },
+ {
+  "start": "10:30",
+  "summary": "catch up Julia",
+  "attendees": [
+   "julia.diaz@draiver.com"
+  ]
+ },
+ {
+  "start": "11:00",
+  "summary": "BCA Europe Requirements",
+  "attendees": [
+   "nicolas.ariza@kavak.com",
+   "fede.ranero@draiver.com",
+   "paloma.calderon@draiver.com",
+   "gerardo.cabanas@draiver.com"
+  ]
+ },
+ {
+  "start": "12:00",
+  "summary": "Weekly Performance Review and Priority Setting",
+  "attendees": [
+   "paulo.ferrato@driverdo.com",
+   "peter.janczewski@draiver.com",
+   "sam.kloppenburg@draiver.com"
+  ]
+ },
+ {
+  "start": "14:00",
+  "summary": "Mexico - Back Office",
+  "attendees": [
+   "rafael.andrade@driverdo.com",
+   "julia.diaz@draiver.com",
+   "juliana.turin@driverdo.com"
+  ]
+ },
+ {
+  "start": "15:00",
+  "summary": "Uber alignment",
+  "attendees": [
+   "fede.ranero@driverdo.com",
+   "bruno.silva@draiver.com",
+   "dan.rizzo@draiver.com",
+   "paloma.calderon@draiver.com"
+  ]
+ },
+ {
+  "start": "16:00",
+  "summary": "Drivers \"Fijos\"",
+  "attendees": [
+   "julia.diaz@draiver.com",
+   "cristian.arizmendi@driverdo.com"
+  ]
+ },
+ {
+  "start": "16:30",
+  "summary": "REUNION DRAIVER (Avasa)",
+  "attendees": [
+   "drosado@avasa.com.mx",
+   "julia.diaz@draiver.com"
+  ]
+ }
+]
