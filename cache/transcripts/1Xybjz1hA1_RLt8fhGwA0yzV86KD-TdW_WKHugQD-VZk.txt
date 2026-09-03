@@ -1,0 +1,57 @@
+# **✍️ Quick notes**
+
+## **Daily Huddle - Ops MX**
+
+Sep 3, 2026
+
+Uriel Vargas (uriel.vargas@driverdo.com) Cristian Arizmendi (cristian.arizmendi@driverdo.com) Julia Diaz (julia.diaz@draiver.com) Armando Flores (armando.flores@draiver.com) Diego Diaz (diego.diaz@draiver.com) Camila Flores (camila.flores@draiver.com) Jose Duran (jose.duran@driverdo.com) Gerardo Acosta (gerardo.acosta@kavak.com)
+
+Monitoring review with driver logistics and operational tools integration
+
+## **Driver and Operational Logistics**
+
+  - Discussed driver coordination and uniform requirements.
+  - Addressed the use of business tickets for driver operations.
+  - Mentioned the potential implementation of dry rooms.
+
+## **Administrative and System Oversight**
+
+  - Referenced HQ operations and documentation file management.
+  - Discussed control capabilities via Google Maps.
+
+## **Next steps**
+
+  - [Julia Diaz] Contact Daniel Solano: Contact Daniel Solano to follow up on the meeting discussion.
+
+# **Full notes**
+
+Sep 3, 2026
+
+## **Daily Huddle - Ops MX**
+
+Invited Uriel Vargas (uriel.vargas@driverdo.com) Cristian Arizmendi (cristian.arizmendi@driverdo.com) Julia Diaz (julia.diaz@draiver.com) Armando Flores (armando.flores@draiver.com) Diego Diaz (diego.diaz@draiver.com) Camila Flores (camila.flores@draiver.com) Jose Duran (jose.duran@driverdo.com) Gerardo Acosta (gerardo.acosta@kavak.com)
+
+### **Summary**
+
+Monitoring review with driver logistics and operational tools integration
+
+**Monitoring and Documentation Status**
+Discussion covered monitor status and document review for Marcelo P.
+
+**Driver Logistics and Uniforms**
+Coordination of drivers addressed uniform requirements and operation taxes.
+
+**Operational Tools and Positioning**
+Google Maps integration utilized for control and driver position tracking.
+
+### **Next steps**
+
+  - [Julia Diaz] Contact Daniel Solano: Contact Daniel Solano to follow up on the meeting discussion.
+
+### **Details**
+
+  - **Monitoring and Document Coordination**: Participants Uriel Vargas and Julia Diaz discussed the status of a monitor and reviewed specific documentation, identifying individuals such as Marcelo P.
+  - **Driver Logistics and Uniform Requirements**: Camila Flores, Uriel Vargas, and Julia Diaz addressed the coordination of drivers, mentioning the necessity of uniforms and the consideration of taxes for specific segments of the operation.
+  - **Headquarters Communication and File Transfer**: Julia Diaz and Jose Duran discussed the transfer of file management duties and coordination with headquarters, referencing personnel including Daniel Solano and Oscar.
+  - **Operational Tools and Access Control**: Cristian Arizmendi, Jose Duran, Camila Flores, and Julia Diaz discussed the use of Google Maps for control and the handling of business tickets, with references to an air base and local headquarters operations.
+  - **Driver Implementation and Positioning**: Diego Diaz, Julia Diaz, and Cristian Arizmendi reviewed the implementation of driver logistics, specifically discussing individuals named Armando and Francisco, as well as the tracking of driver positions.

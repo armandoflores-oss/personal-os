@@ -1,106 +1,200 @@
 [
- {
-  "start": "08:15",
-  "summary": "viajes / feedback drivers",
-  "attendees": [
-   "paloma.calderon@draiver.com",
-   "artur.morais@draiver.com",
-   "daniel.escribano@draiver.com"
-  ]
- },
- {
-  "start": "08:30",
-  "summary": "Diaria Spain Launch",
-  "attendees": [
-   "daniel.escribano@draiver.com",
-   "artur.morais@draiver.com"
-  ]
- },
- {
-  "start": "09:00",
-  "summary": "Product Sprint Review and Demo Day",
-  "attendees": [
-   "paloma.calderon@driverdo.com",
-   "romina.barreto@driverdo.com",
-   "fede.ranero@driverdo.com"
-  ]
- },
- {
-  "start": "10:00",
-  "summary": "weekly Spain Catch up Legal",
-  "attendees": [
-   "rafael.andrade@draiver.com"
-  ]
- },
- {
-  "start": "10:00",
-  "summary": "Daily Huddle - Ops MX",
-  "attendees": [
-   "julia.diaz@draiver.com",
-   "uriel.vargas@driverdo.com",
-   "cristian.arizmendi@driverdo.com",
-   "gerardo.acosta@kavak.com"
-  ]
- },
- {
-  "start": "10:30",
-  "summary": "catch up Julia",
-  "attendees": [
-   "julia.diaz@draiver.com"
-  ]
- },
- {
-  "start": "11:00",
-  "summary": "BCA Europe Requirements",
-  "attendees": [
-   "nicolas.ariza@kavak.com",
-   "fede.ranero@draiver.com",
-   "paloma.calderon@draiver.com",
-   "gerardo.cabanas@draiver.com"
-  ]
- },
- {
-  "start": "12:00",
-  "summary": "Weekly Performance Review and Priority Setting",
-  "attendees": [
-   "paulo.ferrato@driverdo.com",
-   "peter.janczewski@draiver.com",
-   "sam.kloppenburg@draiver.com"
-  ]
- },
- {
-  "start": "14:00",
-  "summary": "Mexico - Back Office",
-  "attendees": [
-   "rafael.andrade@driverdo.com",
-   "julia.diaz@draiver.com",
-   "juliana.turin@driverdo.com"
-  ]
- },
- {
-  "start": "15:00",
-  "summary": "Uber alignment",
-  "attendees": [
-   "fede.ranero@driverdo.com",
-   "bruno.silva@draiver.com",
-   "dan.rizzo@draiver.com",
-   "paloma.calderon@draiver.com"
-  ]
- },
- {
-  "start": "16:00",
-  "summary": "Drivers \"Fijos\"",
-  "attendees": [
-   "julia.diaz@draiver.com",
-   "cristian.arizmendi@driverdo.com"
-  ]
- },
- {
-  "start": "16:30",
-  "summary": "REUNION DRAIVER (Avasa)",
-  "attendees": [
-   "drosado@avasa.com.mx",
-   "julia.diaz@draiver.com"
-  ]
- }
+  {
+    "start": "08:15",
+    "summary": "viajes / feedback drivers",
+    "attendees": [
+      "paloma.calderon@draiver.com",
+      "artur.morais@draiver.com",
+      "daniel.escribano@draiver.com",
+      "armando.flores@driverdo.com"
+    ]
+  },
+  {
+    "start": "08:30",
+    "summary": "Diaria Spain Launch",
+    "attendees": [
+      "daniel.escribano@draiver.com",
+      "armando.flores@driverdo.com",
+      "artur.morais@draiver.com"
+    ]
+  },
+  {
+    "start": "09:00",
+    "summary": "Product Sprint Review and Demo Day",
+    "attendees": [
+      "kevin.burke@driverdo.com",
+      "carolina.osses@driverdo.com",
+      "romina.barreto@driverdo.com",
+      "paloma.calderon@driverdo.com",
+      "rolando@driverdo.com",
+      "fede.ranero@driverdo.com",
+      "andres.rodriguez@driverdo.com",
+      "martin.huber@driverdo.com",
+      "federico.bernardi@driverdo.com",
+      "eduardo.solis@driverdo.com",
+      "manuel.arrambide@driverdo.com",
+      "cesar.bravo@driverdo.com",
+      "paul.grimaldo@driverdo.com",
+      "juan.cambon@driverdo.com",
+      "jesse.cano@driverdo.com",
+      "paulo.ferrato@driverdo.com",
+      "dan.rizzo@driverdo.com",
+      "frank.pena@driverdo.com",
+      "ryan.blum@driverdo.com",
+      "jaqueline.sanches@driverdo.com",
+      "moacyr.baptista@driverdo.com",
+      "felipe.barreto@driverdo.com",
+      "bruno.silva@driverdo.com",
+      "armando.flores@driverdo.com",
+      "thiago.portes@driverdo.com",
+      "carmen.calderon@driverdo.com",
+      "lays.martins@driverdo.com",
+      "artur.morais@driverdo.com",
+      "marcela.pavoni@driverdo.com",
+      "rafael.andrade@driverdo.com",
+      "larissa.carvalho@driverdo.com",
+      "thomas.roa@driverdo.com",
+      "omar.bonilla@driverdo.com",
+      "kyle.brooks@driverdo.com",
+      "enelio.reyes@driverdo.com",
+      "luiz.ruiz@driverdo.com",
+      "talita.oliveira@driverdo.com",
+      "uriel.vargas@driverdo.com",
+      "carolina.prado@driverdo.com",
+      "alinefidencio@driverdo.com",
+      "andres.chia@driverdo.com",
+      "eduardo.fay@driverdo.com",
+      "erin.seebacher@driverdo.com",
+      "harrison.wendland@driverdo.com",
+      "marcelo.trevino@driverdo.com",
+      "marya.zanella@driverdo.com",
+      "rafael.yuji@driverdo.com",
+      "peter.janczewski.ext@driverdo.com",
+      "isai.ramirez@driverdo.com",
+      "fernanda.fernandez@driverdo.com",
+      "juliana.turin@driverdo.com",
+      "adriana.castro@driverdo.com",
+      "chuck.ingram@driverdo.com",
+      "michael.moffatt@driverdo.com",
+      "matt.keller@driverdo.com",
+      "eduardo.merino@driverdo.com",
+      "sam.kloppenburg@draiver.com",
+      "juliana.coelho@driverdo.com",
+      "marlon.gonzalez@driverdo.com",
+      "emily.clements@draiver.com",
+      "pratik.patel@draiver.com",
+      "lucas.luz@draiver.com",
+      "brunoa.moraes@draiver.com",
+      "julia.diaz@draiver.com",
+      "leonardo.viotto@draiver.com",
+      "daniel.zeitoune@draiver.com",
+      "fernando.fuzii@draiver.com",
+      "daniel.escribano@draiver.com"
+    ]
+  },
+  {
+    "start": "10:00",
+    "summary": "weekly Spain Catch up Legal",
+    "attendees": [
+      "armando.flores@driverdo.com",
+      "rafael.andrade@draiver.com"
+    ]
+  },
+  {
+    "start": "10:00",
+    "summary": "Daily Huddle - Ops MX",
+    "attendees": [
+      "uriel.vargas@driverdo.com",
+      "cristian.arizmendi@driverdo.com",
+      "julia.diaz@draiver.com",
+      "armando.flores@driverdo.com",
+      "diego.diaz@draiver.com",
+      "camila.flores@draiver.com",
+      "jose.duran@driverdo.com",
+      "gerardo.acosta@kavak.com"
+    ]
+  },
+  {
+    "start": "10:30",
+    "summary": "catch up Julia",
+    "attendees": [
+      "julia.diaz@draiver.com",
+      "armando.flores@driverdo.com"
+    ]
+  },
+  {
+    "start": "11:00",
+    "summary": "BCA Europe Requirements",
+    "attendees": [
+      "gerardo.cabanas@draiver.com",
+      "paloma.calderon@draiver.com",
+      "kevin@draiver.com",
+      "fede.ranero@draiver.com",
+      "armando.flores@driverdo.com",
+      "nicolas.ariza@kavak.com",
+      "nicolas.ariza@draiver.com"
+    ]
+  },
+  {
+    "start": "12:00",
+    "summary": "Weekly Performance Review and Priority Setting",
+    "attendees": [
+      "paulo.ferrato@driverdo.com",
+      "alinefidencio@driverdo.com",
+      "armando.flores@driverdo.com",
+      "rafael.yuji@draiver.com",
+      "peter.janczewski@draiver.com",
+      "sam.kloppenburg@draiver.com",
+      "emily.clements@draiver.com",
+      "pratik.patel@draiver.com",
+      "leonardo.viotto@draiver.com"
+    ]
+  },
+  {
+    "start": "14:00",
+    "summary": "Mexico - Back Office",
+    "attendees": [
+      "jaqueline.sanches@draiver.com",
+      "juliana.turin@driverdo.com",
+      "armando.flores@driverdo.com",
+      "rafael.andrade@driverdo.com",
+      "cristhian.herrera@draiver.com",
+      "julia.diaz@draiver.com",
+      "paulo.ferrato@draiver.com"
+    ]
+  },
+  {
+    "start": "15:00",
+    "summary": "Uber alignment",
+    "attendees": [
+      "armando.flores@driverdo.com",
+      "bruno.silva@draiver.com",
+      "dan.rizzo@draiver.com",
+      "fede.ranero@driverdo.com",
+      "kevin.burke@draiver.com",
+      "paloma.calderon@draiver.com",
+      "paulo.ferrato@draiver.com",
+      "rafael.andrade@draiver.com"
+    ]
+  },
+  {
+    "start": "16:00",
+    "summary": "Drivers \"Fijos\"",
+    "attendees": [
+      "cristian.arizmendi@driverdo.com",
+      "julia.diaz@draiver.com",
+      "armando.flores@driverdo.com"
+    ]
+  },
+  {
+    "start": "16:30",
+    "summary": "REUNION DRAIVER",
+    "attendees": [
+      "armando.flores@driverdo.com",
+      "julia.diaz@draiver.com",
+      "drosado@avasa.com.mx",
+      "fbuenfil@avasa.com.mx",
+      "jtzacum@avasa.com.mx"
+    ]
+  }
 ]

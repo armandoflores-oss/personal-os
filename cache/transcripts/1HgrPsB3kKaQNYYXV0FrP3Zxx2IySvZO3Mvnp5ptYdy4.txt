@@ -1,0 +1,78 @@
+# **Las notas**
+
+sept 3, 2026
+
+## **Product Sprint Review and Demo Day**
+
+Invitado: Kevin Burke, Carolina Osses, romina.barreto@driverdo.com, Paloma Calderon, Rolando Valdivia, Fede Ranero, Andres Rodriguez, Martin Huber, Federico Bernardi, Eduardo Solis, Manuel Arrambide, Cesar Bravo, Paul Grimaldo, Juan Cambon, Jesse Cano, Paulo Ferrato, Dan Rizzo, Frank Pena, Ryan Blum, Jaqueline Sanches, Moa (moacyr.baptista), felipe.barreto, Bruno Silva, Armando Flores, Thiago Portes, Carmen Calderon, Lays Martins, Artur Morais, Marcela Pavoni, Rafael Pagliuso De Andrade, Larissa Carvalho, Thomas Roa, Omar Bonilla, Kyle Brooks, Enelio Reyes, Luis Ruiz, Talita Oliveira, Uriel Vargas, Carolina Prado, Andres Felipe Chia Avila, Eduardo Fay, Erin Seebacher, Harrison Wendland, Marcelo Trevino, rafael.yuji, Peter Janczewski, Isai Ramirez Santamaria, Fernanda Fernandez, Juliana Turin, Adriana Castro, Chuck Ingram, Michael Moffatt, Matt Keller, Eduardo Merino, Sam Kloppenburg, Juliana Coelho, Marlon Gonzalez, Emily Clements, Pratik Patel, Lucas Luz, Bruno Moraes, Julia Diaz, Leonardo Viotto, Daniel Zeitoune, Fernando Fuzii, Daniel Escribano, Aline Fidencio, Marya Zanella
+
+### **Resumen**
+
+Revisión integral de Salesforce y Centro de Comando con inteligencia artificial y plataforma.
+
+**Actualizaciones en Salesforce**
+Facturación y correcciones implementadas.
+
+**Avances en Inteligencia Artificial**
+Agente omnicanal probado en Slack.
+
+**Mejoras en Plataforma**
+Jerarquía de precios y versión móvil configuradas.
+
+### **Decisiones**
+
+## **Acordada**
+
+  - **Bloqueo de conductores inactivos** El equipo acordó bloquear de forma definitiva a los conductores inactivos para impedir que vuelvan a la acción al reejecutar la verificación de antecedentes.
+  - **Lanzamiento de la versión inicial en Slack** Se adoptó iniciar la primera versión (V0) del canal omnicanal en Slack únicamente con funciones selectas y escalar solicitudes adicionales a los gerentes de cuenta designados.
+  - **Adopción de confirmaciones automáticas por WhatsApp** El equipo acordó implementar el nuevo canal de WhatsApp y las confirmaciones automáticas mediante el cambio del estado de confirmación a pendiente.
+  - **Modificación del control de visibilidad de archivos adjuntos** Se eliminó el campo de descripción de los archivos adjuntos en el centro de comandos para reemplazarlo por un menú desplegable de visibilidad.
+  - **Priorización de perfiles de clientes de mudanzas** El equipo estableció priorizar las revisiones de perfiles de clientes de mudanzas y dar soporte a las vistas de cuentas múltiples en el centro de comandos.
+  - **Configuración de versiones de la aplicación móvil** El equipo estableció la configuración de versiones mínimas y recomendadas de la aplicación móvil para los conductores según la región.
+
+### **Próximos pasos**
+
+  - [Carmen Calderon] Configurar preguntas: Configurar las preguntas y la lógica de respuesta para las confirmaciones por cuenta en la herramienta correspondiente.
+  - [The group] Evaluar precios: Revisar las cuentas de bajo margen como Right Way para evaluar la aplicación de fórmulas de precios personalizadas.
+  - [El grupo] Clarificar metadatos: Definir los momentos adecuados para mostrar información al conductor.
+  - [El grupo] Crear seccion mi dinero: Implementar esta nueva sección dentro de la aplicación móvil.
+  - [El grupo] Habilitar componentes clicables: Incluir elementos interactivos dentro de las notas de los viajes.
+  - [El grupo] Configurar pruebas Espana: Crear una opción de configuración para facilitar el cambio de entorno durante las pruebas en España.
+  - [El grupo] Modificar bloqueos: Realizar cambios en la interfaz y el almacenamiento de datos para bloqueos de 30 minutos.
+  - [El grupo] Actualizar selfie: Aplicar mejoras a la funcionalidad de autoretrato basadas en la retroalimentación del piloto.
+  - [El grupo] Probar integracion Eurotransport: Coordinar pruebas de extremo a extremo con la empresa Eurotransport car.
+  - [El grupo] Lanzar soporte articulos: Publicar la actualización para el soporte de artículos en el siguiente sprint.
+  - [El grupo] Migrar integracion Penski: Configurar y desarrollar la migración desde la API antigua hacia la nueva.
+  - [El grupo] Optimizar destinos Rivan: Mejorar la gestión de destinos personalizados dentro de la integración de Rivan.
+  - [El grupo] Analizar actualizaciones Element LMR: Evaluar junto al equipo las actualizaciones de estado fallidas en el sistema autofit.
+  - [El grupo] Implementar solicitante movimientos: Agregar la funcionalidad de registro de solicitantes de movimientos basada en el cliente.
+  - [El grupo] Desarrollar portal servicios: Construir la aplicación de servicios para el portal lo antes posible.
+  - [El grupo] Planificar integracion Assentiel: Coordinar llamadas con el equipo para la planificación de esta integración prioritaria.
+
+### **Detalles**
+
+  - **Introducción y logística de la reunión**: Paloma Calderon dio inicio a la sesión, solicitando asistencia técnica a Thiago Portes debido a problemas con el equipo. Se recordó a las personas participantes la disponibilidad de traducciones en inglés, español y portugués para fomentar una mejor comprensión durante la llamada.
+  - **Salesforce - Facturación de voces para España**: Thiago Portes detalló el lanzamiento de una nueva plantilla dedicada a la facturación de voces en España, diseñada específicamente para clientes y conductores. La lógica detrás del cálculo de impuestos e información se integrará en la aplicación para que el conductor pueda visualizar los pagos y el desglose en tiempo real.
+  - **Salesforce - Bloqueo de conductores inactivos**: Se corrigió un problema donde los conductores marcados como inactivos o suspendidos recuperaban su estado activo tras una nueva ejecución de la verificación de antecedentes. El equipo implementó una solución para asegurar que estos conductores permanezcan bloqueados.
+  - **Salesforce - Corrección de precios en el Centro de Comando**: Se solucionó un error en el Centro de Comando donde los costos calculados de los viajes aparecían como cero. Se creó un nuevo campo para asegurar que el cálculo matemático se muestre correctamente tanto en los detalles de pago como en las pantallas de revisión.
+  - **Salesforce - Ajuste en el cálculo de bonos para cancelaciones**: Se resolvió un problema reportado por Thomas respecto a la imposibilidad de cancelar viajes que tenían bonos asociados. Ahora, el sistema permite la cancelación adecuada incluso si hay bonos adjuntos a los detalles de pago.
+  - **IA - Agente omnicanal para conductores**: Thiago Portes explicó el avance en la funcionalidad de un agente de inteligencia artificial en Slack. Se realizó una prueba exitosa con Thomas Br, permitiendo que la inteligencia artificial ejecute funciones como eliminar anomalías o actualizar bonos de viaje sin intervención humana. Se está trabajando en la escalación a los gerentes de cuenta según la documentación en Confluence, y se planea una expansión a los chats del Centro de Comando.
+  - **IA - Integración con WhatsApp y estado de confirmación**: Se introdujo un nuevo campo de "estado de confirmación" que permite activar automáticamente al agente de inteligencia artificial. Se realizaron pruebas exitosas de interacción vía WhatsApp, y ahora se podrá elegir entre llamada, correo electrónico o WhatsApp para confirmar unidades, con el apoyo de Anna, responsable de las confirmaciones de unidades.
+  - **IA - Tarjetas personalizadas en Salesforce**: Se está probando una tarjeta de "Ride Share" (viajes compartidos) dentro de los tickets de HubSpot. Esto permitirá a los agentes de soporte solicitar un viaje directamente en la misma pantalla tras la escalación, eliminando la necesidad de cambiar de sistema.
+  - **IA - Infraestructura y hoja de ruta**: Thiago Portes informó sobre el avance a la fase dos del desarrollo de la infraestructura de inteligencia artificial para mejorar la confiabilidad y reducir las alucinaciones del modelo. Se está trabajando con un nuevo proveedor para crear un agente copiloto destinado a la gestión de tickets de vuelos y, posteriormente, hoteles.
+  - **Centro de Comando - Precios dinámicos**: Bruno Moraes presentó la capacidad de utilizar fórmulas de precios personalizadas para diferentes cuentas. Esta característica permite configurar precios basados en metadatos o requerimientos específicos, facilitando la creación de facturas personalizadas sin cálculos manuales complejos.
+  - **Centro de Comando - Control de visibilidad de archivos adjuntos**: Se implementó una función para decidir en qué pantallas de la aplicación para conductores se mostrarán los archivos adjuntos. Esto permite, por ejemplo, ocultar un pase de entrada hasta que el conductor acepte el viaje.
+  - **Centro de Comando - Identificación de vehículos mediante placas**: Ahora es posible ver el número de placa en lugar del número de identificación del vehículo para aquellas cuentas que utilizan placas. Esta actualización se refleja en los detalles de los movimientos y en la tabla de movimientos.
+  - **Centro de Comando - Rendimiento del mapa y filtros de búsqueda**: Se mejoró el rendimiento del mapa para grandes cuentas como Open Lane o Penski, y se añadieron filtros en la barra de búsqueda (por movimientos, vehículos, placas, ubicación) para acelerar la localización de información, estableciendo "movimientos" como la opción predeterminada.
+  - **Centro de Comando - Roadmap de funciones**: Bruno Moraes compartió los planes futuros, que incluyen la carga masiva de planes mediante hojas de cálculo, cambios en el proveedor de placas para Brasil, almacenamiento de placas para España y la capacidad de ocultar o personalizar columnas en las tablas.
+  - **Plataforma - Configuración de versión de la aplicación móvil**: Paloma Calderon detalló una nueva funcionalidad para configurar las versiones mínima y recomendada de la aplicación móvil según la región o tipo de cuenta. Esto permite gestionar términos y condiciones obligatorios o lanzamientos específicos sin forzar a todas las personas usuarias simultáneamente.
+  - **Plataforma - Cálculos de tiempo estimado de llegada (ETA)**: Se están realizando análisis para mejorar la fiabilidad de los tiempos estimados de llegada, considerando que los conductores pueden tener múltiples movimientos en un mismo viaje. El objetivo es calcular correctamente los tiempos para evitar quejas y la necesidad de añadir bonos manualmente tras el viaje.
+  - **Plataforma - Migración de servicios**: Se ha migrado la creación de enlaces de rastreadores y la gestión de contactos fuera de Salesforce hacia el entorno de administración para mantener el sistema de Salesforce lo más ligero posible.
+  - **Plataforma - Jerarquía de precios y pruebas**: Paloma Calderon explicó la nueva jerarquía de precios que permite seleccionar el método de cálculo (precios por actividad, bandas tradicionales o fórmulas personalizadas). Se incluyó una herramienta de prueba para verificar configuraciones de precios con variables como requisitos de materiales peligrosos o características del vehículo antes de su despliegue.
+  - **Plataforma - Estrategia de clientes y márgenes**: Fede Ranero sugirió aplicar estas nuevas capacidades de precios a cuentas de bajo margen. Paloma Calderon y Bruno Silva enfatizaron que estas fórmulas permiten flexibilidad operativa y monitoreo constante de los márgenes de beneficio, permitiendo ajustar los precios frecuentemente según la rentabilidad analizada.
+  - **Plataforma - Próximas notificaciones**: El equipo está investigando cálculos de tiempo previo a la llegada para activar alertas o mensajes automatizados para los conductores, lo cual facilitará tareas como las confirmaciones mediante inteligencia artificial.
+  - **Aplicación móvil - Funciones de metadatos y archivos adjuntos**: Carolina Osses presentó las actualizaciones en la aplicación, donde los archivos adjuntos y la "información importante" (metadatos) ahora se muestran de manera flexible según la configuración realizada en el Centro de Comando, con iconos actualizados para una mejor usabilidad.
+  - **Aplicación móvil - Roadmap futuro**: Se mencionó la integración de enlaces de dirección web (URL) para archivos adjuntos, siguiendo una sugerencia técnica de Thomas para mejorar la trazabilidad de los documentos.
+  - **Aplicación móvil - Mejoras operativas**: Se planifican mejoras en la sección de dinero, la inclusión de componentes clicables en las notas de los viajes y la simplificación de los entornos de prueba para el equipo interno, especialmente para el mercado de España.
+  - **Integraciones - Eurotransport Car y Penski**: Carolina Osses informó que el desarrollo para Eurotransport Car está completado y se encuentra en fase de pruebas. Para Penski, el equipo está trabajando en la migración de la interfaz de programación de aplicaciones (API) heredada a la nueva integración.
+  - **Integraciones - Otros desarrollos**: Se reportaron avances en la integración con Rivan (gestión de destinos personalizados), Element LMR (análisis de estados de actualización) y la preparación para la integración de Assentiel Insurance, la cual se discutirá en futuras reuniones.

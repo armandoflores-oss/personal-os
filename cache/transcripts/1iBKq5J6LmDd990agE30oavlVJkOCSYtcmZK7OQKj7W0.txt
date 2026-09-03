@@ -1,0 +1,1360 @@
+# **✍️ Quick notes**  
+
+## **BCA Europe Requirements**
+
+  
+
+Sep 3, 2026
+
+[Gerardo Cabanas](mailto:gerardo.cabanas@draiver.com) [Paloma Calderon](mailto:paloma.calderon@draiver.com) [Kevin Burke](mailto:kevin@draiver.com) [Fede Ranero](mailto:fede.ranero@draiver.com) [Armando Flores](mailto:armando.flores@draiver.com) [Nicolas Ariza](mailto:nicolas.ariza@kavak.com) [Nicolas Ariza](mailto:nicolas.ariza@draiver.com)
+
+  
+
+Discussion on British Car Auctions strategy and financial opportunity via technical evaluation.
+
+  
+
+## **British Car Auctions (BCA) partnership strategy**
+
+  - BCA is centralizing logistics operations across 13 European countries into a new tech hub based in Lisbon.
+  - Nicolas estimated the annual opportunity at 1.8 million euros from move volume, excluding potential SAS revenue.
+  - The team aligned on operating as a solution provider rather than a software factory, focusing on strategic, high-value delivery.
+
+  
+
+## **Feature requirement evaluation and prioritization**
+
+  - Kevin assessed that approximately 10 percent of the 19 requested BCA features are native to the current platform.
+  - The group categorized feature requests into tiers to clarify native capabilities, partner integrations, and necessary future development.
+  - Armando recommended evaluating integrations with existing client CRM and finance systems instead of building custom modules.
+  - Paloma proposed treating the engagement as a regional expansion to effectively manage infrastructure and custom invoice requirements.
+
+  
+
+## **Resource allocation and execution planning**
+
+  - Kevin identified an available mid-level, AI-native backend developer candidate for immediate onboarding.
+  - The team agreed to adopt a consulting-led approach to bridge gaps between existing platform capabilities and client needs.
+  - Nicolas prioritized clarifying the project roadmap through a direct follow-up meeting with BCA leadership.
+
+  
+
+## **Next steps**
+
+  - \[Kevin Burke, Paloma Calderon\] Review Requirements: Review the requirements list from British Car Auctions to distinguish between native product features, in-progress items, and necessary custom modifications. Identify which categories align with strategic development goals.
+  - \[Nicolas Ariza Bagoud\] Schedule Client Call: Contact Anders and Mikl to schedule a meeting between next Monday and Wednesday. Ensure Fede is included in the invitation.
+  - \[The group\] Evaluate Feature List: Provide feedback on the requirements grid by the 17th to confirm which features the system currently supports. Determine which requested items are feasible and which require further development or strategic evaluation.
+  - \[Kevin Burke, Paloma Calderon\] Update Feature Grid: Populate the feature documentation grid with supporting evidence for each feature category. Detail existing capabilities to assist in the presentation preparation.
+  - \[Nicolas Ariza Bagoud\] Prepare Presentation Slides: Design the summary and follow-up presentation slides with product screens and descriptive bullets. Include relevant questions to facilitate the client discussion.
+
+  
+  
+
+  
+**Want to see more?** [View the full notes  
+](about:blank)Tip: You can always access your full notes from the left sidebar.
+
+  
+  
+  
+
+*You should review Gemini's notes to make sure they're accurate.* [*Get tips and learn how Gemini takes notes*](https://support.google.com/meet/answer/14754931)
+
+*How is the quality of* ***these specific notes?*** [*Take a short survey*](https://google.qualtrics.com/jfe/form/SV_5bXzKQfylMIhSXc?confid=M_BIgWgH0plDtIOMvmyyDxISOBEBMgUIigIgABgDCA&entryPoint=footerQuickNotes&isGoogler=False) *to let us know your feedback, including how helpful the notes were for your needs.****  
+***
+
+# **ð Full notes***  
+*
+
+ Sep 3, 2026
+
+## **BCA Europe Requirements**
+
+Invited [Gerardo Cabanas](mailto:gerardo.cabanas@draiver.com) [Paloma Calderon](mailto:paloma.calderon@draiver.com) [Kevin Burke](mailto:kevin@draiver.com) [Fede Ranero](mailto:fede.ranero@draiver.com) [Armando Flores](mailto:armando.flores@draiver.com) [Nicolas Ariza](mailto:nicolas.ariza@kavak.com) [Nicolas Ariza](mailto:nicolas.ariza@draiver.com)
+
+Attachments [BCA Europe Requirements](https://calendar.google.com/calendar/event?eid=NG5wbnNsc2J1czQ4NDZuOWc4NGIwdDRpMW4gbmljb2xhcy5hcml6YUBkcmFpdmVyLmNvbQ)
+
+Meeting records [Transcript](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?usp=drive_web&tab=t.d32i58bnm059) 
+
+  
+  
+
+### **Summary**
+
+Discussion on British Car Auctions strategy and financial opportunity via technical evaluation.  
+  
+**Strategic context and opportunity**  
+British Car Auctions represents a major engagement opportunity with significant annual SaaS and move volume revenue potential in Europe.  
+  
+**Operational complexity and platform strategy**  
+The client requires a complex system involving CRM and fleet management, forcing the team to evaluate custom development versus partner integrations.  
+  
+**Feature prioritization and consulting approach**  
+Categorization of requested features and adoption of a solution provider mindset will guide the upcoming client engagement.
+
+  
+  
+
+### **Decisions**
+
+## **Needs Further Discussion**
+
+  - **Status of the BCA engagement pursuit** The group deferred a final decision on pursuing the BCA FTL engagement pending completion of feature mapping and upcoming stakeholder discussions.
+
+  
+
+## **Aligned**
+
+  - **Approach for the initial client proposal** The team agreed to present a simplified, scoped perspective of current platform capabilities rather than attempting to custom-build BCA's entire requested feature list during the initial meeting.
+
+  
+  
+
+### **Next steps**
+
+  - \[Kevin Burke, Paloma Calderon\] Review Requirements: Review the requirements list from British Car Auctions to distinguish between native product features, in-progress items, and necessary custom modifications. Identify which categories align with strategic development goals.
+  - \[Nicolas Ariza Bagoud\] Schedule Client Call: Contact Anders and Mikl to schedule a meeting between next Monday and Wednesday. Ensure Fede is included in the invitation.
+  - \[The group\] Evaluate Feature List: Provide feedback on the requirements grid by the 17th to confirm which features the system currently supports. Determine which requested items are feasible and which require further development or strategic evaluation.
+  - \[Kevin Burke, Paloma Calderon\] Update Feature Grid: Populate the feature documentation grid with supporting evidence for each feature category. Detail existing capabilities to assist in the presentation preparation.
+  - \[Nicolas Ariza Bagoud\] Prepare Presentation Slides: Design the summary and follow-up presentation slides with product screens and descriptive bullets. Include relevant questions to facilitate the client discussion.
+
+  
+  
+
+### **Details**
+
+  - **NIFcif Tax Identification**: Kevin Burke inquired about the "NIFcif" field required for Spanish account invoices, seeking to understand if it is a standard tracking requirement for all business accounts. Armando Flores and Nicolas Ariza Bagoud clarified that this is the fiscal identification of the company, comparable to the RFC in Mexico, and it is a necessary communication field for tax authorities on every invoice ([00:00:10](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.qyriih5ofkf4)).
+
+  - **British Car Auctions (BCA) Strategic Context**: Nicolas Ariza Bagoud provided context on the engagement with British Car Auctions, which is the largest auction house in both Spain and Europe. BCA operates across 13 countries and is currently establishing a centralized tech hub in Lisbon and a centralized logistics arm ([00:03:21](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.h3psoq1sbx94)). As of 2025, they aim to manage approximately 300,000 vehicles using a fleet of 150 trucks, with the objective of centralizing all logistics operations across markets ([00:04:37](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.otxy93iiajdf)).
+  - **European Logistics Pain Points**: The team identified the movement of vehicles across European markets as a significant challenge, specifically due to paperwork requirements that can cause delays of 30 days or more between purchase and transport ([00:06:11](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.yreaide9vrfl)). Nicolas Ariza Bagoud noted that while they have not yet identified a solution for this, it represents a major pain point for BCA as they attempt to manage defleeting processes across Europe ([00:07:43](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.tacwn3b4mh3h)).
+  - **BCA Pilot and Funding Expectations**: Nicolas Ariza Bagoud explained that BCA is interested in a pilot in Spain to either remove or heavily track their current provider ([00:07:43](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.tacwn3b4mh3h)). The client understands that a full solution is not currently available but is willing to fund ad hoc developments to bridge functionality gaps ([00:08:52](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.3j8kk7c51do)).
+  - **Operational Challenges and Complexity**: Paloma Calderon raised concerns regarding the complexity of the request, noting that the client appears to want a comprehensive system—a mix of Salesforce, command center, and ERP—to manage their own customers, transport providers, and accounting ([00:09:59](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.f6lf8jr5yvfk)) ([00:18:42](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.wnxzjirr6z9a)). The team discussed that this would require building a platform that allows BCA to manage multiple pools of contractors and provide them with their own white-labeled interface, adding significant architectural complexity compared to a standard turnkey solution ([00:09:59](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.f6lf8jr5yvfk)) ([00:19:49](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.radxn2lhh862)).
+  - **Market Opportunity and Financial Sizing**: The team estimated the potential value of the BCA engagement in Spain. The pure SaaS revenue is estimated at 70,000 euros annually ([00:12:31](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.x7htnw5ou2wj)) ([00:20:50](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.kc9hovp6jwob)). Additionally, capturing 30% of their move volume (approximately 15,000 moves) at a rate of 120 euros per move represents an upside of 1.8 million euros per year, providing a significant financial justification for pursuing the engagement ([00:11:22](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.an8cm488ask1)) ([00:13:48](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.x1rstngklafm)).
+  - **Product and Feature Prioritization**: The team discussed the list of 19 features requested by BCA ([00:16:18](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.4x1qkldj3was)). Kevin Burke suggested conducting a detailed exercise to categorize these requirements into "green" (aligned), "yellow" (in progress), "orange" (adaptable), and "white" (non-existent) to manage client expectations ([00:23:00](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.jhpfi9qya42p)). The team agreed that focusing on high-impact, achievable features is necessary to avoid over-committing to custom building items that offer low long-term strategic value ([00:14:53](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.6g2ijhylv78h)) ([00:23:57](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.46l04let7qsy)).
+
+  - **Consulting and Strategic Approach**: Fede Ranero and Nicolas Ariza Bagoud emphasized that the team must approach BCA as a solution provider rather than a software factory ([00:34:53](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.397wxfmf96ts)). They noted that BCA lacks in-house technical capabilities and desires an all-in-one provider that includes consulting, implementation, and SaaS services ([00:21:47](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.11n2tjfugg72)) ([00:32:09](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.c90chbyugxvb)). The team plans to frame the conversation around the "three-for-one" value proposition: SaaS, consulting, and the marketplace/drive-away services ([00:33:48](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.dshjgqnw34mo)).
+
+  - **Engagement with BCA Leadership**: Nicolas Ariza Bagoud committed to contacting Anders and Mikl to schedule a follow-up call, likely between Monday and Wednesday of the following week. Fede Ranero will be invited to participate to provide a high-level perspective on what the company can and cannot deliver ([00:26:32](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.betmpjtnpvxt)) ([00:32:09](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.c90chbyugxvb)).
+  - **Market Differences and Service Scope**: Fede Ranero highlighted that differences between the US and Spanish markets often result in more generalized, high-level requests from senior stakeholders in Spain ([00:29:35](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.27y592nb7tmq)). He noted that the team needs to bring a clear, structured perspective to the next meeting, explicitly stating what they will build, what they will not build, and what conditions are required for the development of custom features ([00:31:29](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.dfa622ka0wko)).
+  - **FDE Role and Development Pipeline**: Kevin Burke provided an update on the Full-time Development Engineer (FDE) pipeline, noting they are close to extending an offer to a mid-level candidate who could start immediately ([00:36:15](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.l7b46zuk1dpq)). The team discussed utilizing this role to build standalone solutions or integrations for BCA, even if those solutions do not fit perfectly into the core long-term platform roadmap ([00:37:09](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.vj4hefvxcy33)).
+  - **Platform Strategy and Invoicing**: A discussion occurred regarding the strategic direction of the platform. Kevin Burke noted that while they can build a portal for BCA to manage their own customers, the platform is currently not designed to generate invoices on behalf of third parties. The team needs to decide if they want to move toward a B2B2C model or remain a logistics executor ([00:38:59](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.ulppdm8roy4r)) ([00:51:16](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.akw4q1oyag57)).
+
+  - **Specific Feature Capabilities**: The team reviewed specific requirements such as fleet management, CRM, and documentation ([00:48:35](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.d1te0lvtpqi6)). They determined that certain functions, like fleet management, are better handled through integrations with existing partners rather than internal development ([00:49:40](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.twzrjd4ug8a3)). Regarding documentation, such as Electronic Consignment Notes (eCMR), the team noted that they currently have some capabilities and could adapt others to meet client needs ([00:44:10](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.s88pyl6q7hvz)).
+  - **Next Steps for Documentation**: Kevin Burke and Paloma Calderon will work on filling out the feature documentation with technical detail to support the upcoming client meeting. Nicolas Ariza Bagoud will prepare the summary slides, using the agreed-upon color-coded categorization to clearly communicate the current product scope and roadmap to BCA ([00:47:40](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.l1a3zch8ld7w)) ([00:56:33](https://docs.google.com/document/d/1iBKq5J6LmDd990agE30oavlVJkOCSYtcmZK7OQKj7W0/edit?ouid=107114406729300780928#heading=h.g3iol48e566q)).
+
+  
+  
+
+*You should review Gemini's notes to make sure they're accurate.* [*Get tips and learn how Gemini takes notes*](https://support.google.com/meet/answer/14754931)
+
+*How is the quality of* ***these specific notes?*** [*Take a short survey*](https://google.qualtrics.com/jfe/form/SV_5bXzKQfylMIhSXc?confid=M_BIgWgH0plDtIOMvmyyDxISOBEBMgUIigIgABgDCA&detailLevel=standard&hasImages=True&entryPoint=footerMain&isGoogler=False) *to let us know your feedback, including how helpful the notes were for your needs.****  
+***
+
+# **ð Transcript***  
+*
+
+ Sep 3, 2026
+
+## **BCA Europe Requirements - Transcript**
+
+### **00:00:10**
+
+  
+
+**Paloma Calderon:** Hola,
+
+**Armando Flores:** Hello
+
+**Nicolas Ariza Bagoud:** Can I
+
+**Paloma Calderon:** Catal.
+
+**Armando Flores:** there.
+
+**Kevin Burke:** Hey, I got a quick question uh for you guys on the Spain side. Um so for the account invoice that we generate,
+
+**Nicolas Ariza Bagoud:** go?
+
+**Kevin Burke:** it has an NIFcif. So, is that something like all businesses have in communicate that we're putting on the invoice and like we need to track on the on the account level?
+
+**Armando Flores:** The what?
+
+**Kevin Burke:** Uh this this was a sample like invoice that we were talking about and
+
+**Armando Flores:** The
+
+**Kevin Burke:** it's this field right here. So, I assume this would be like the company name, their address,
+
+**Nicolas Ariza Bagoud:** Yeah.
+
+**Kevin Burke:** the emails, you know,
+
+**Armando Flores:** Yeah. Yeah.
+
+**Kevin Burke:** payment emails.
+
+**Armando Flores:** Yeah. Yeah. N.
+
+**Kevin Burke:** This guy right here
+
+**Armando Flores:** Yes. Yes. That one is It's like the ref from Mexico.
+
+**Nicolas Ariza Bagoud:** Ah, six. Yeah.
+
+**Armando Flores:** It's like the RFC from Mexico,
+
+**Nicolas Ariza Bagoud:** It's the fiscal identification of the
+
+  
+  
+
+### **00:00:58**
+
+  
+
+**Armando Flores:** Kevin. Yeah. the tax
+
+**Kevin Burke:** Okay.
+
+**Nicolas Ariza Bagoud:** company.
+
+**Kevin Burke:** For the company. So they share that with us like when we onboard and we would track that like on their account.
+
+**Armando Flores:** ID.
+
+**Nicolas Ariza Bagoud:** Exactly.
+
+**Kevin Burke:** Okay. So we just need a new
+
+**Nicolas Ariza Bagoud:** That's I would say it's the field that we communicate in every invoice with
+
+**Kevin Burke:** field.
+
+**Nicolas Ariza Bagoud:** the tax uh authority. Uh and it tracks let's say who owes what. Okay, I think we're all here. There's even no I don't know if I invited him to the
+
+**Fede Ranero:** the
+
+**Nicolas Ariza Bagoud:** meeting. I invited him but I'm not sure if he's going to be able to join. Uh guys, let's try and do this fairly quickly. Like we only put 30 minutes here. My my question here is more regarding the document that uh BCA sent if you have any doubts or questions. uh and then from that document out of the Excel that I uh build and that Paloma put in the sheets uh ideally from here to the 17th we get with let's say a yes or no answer uh for each of the fields uh to tell them right like here Fede I don't know with your email from Penske this morning how do we let's say mix that we'll have a couple of hours with these guys but I think what they want
+
+  
+  
+
+### **00:02:21**
+
+  
+
+**Nicolas Ariza Bagoud:** to understand is one can we deliver a solution that let's say uh fills every single one of the gaps that they have yes or no and if not where can we build like where can we have value for their
+
+**Fede Ranero:** Yeah. No,
+
+**Nicolas Ariza Bagoud:** operation
+
+**Fede Ranero:** that's the the Pensky thing I shared was not necessarily specific to to this engagement. It's just as I think you told us that uh doing a a Pensky specific demo and case study on the SAS uh right would be valuable. So that's why I shared this one quantifies the specific savings they have already achieved by chaining and the the whole potential if if if uh they continue to extract value from the system. So I think from a case study perspective that's a good one to to have there uh coupled with the demo that we'll do with some of these players. Whether we want to do with this one or not you guys decide you you have been closer to them. Um but yeah, let's go over the document and what what we need to, you know, build, improve,
+
+  
+  
+
+### **00:03:21**
+
+  
+
+**Nicolas Ariza Bagoud:** So to give you guys full let's say context here uh I'll
+
+**Fede Ranero:** or already have.
+
+**Nicolas Ariza Bagoud:** upload sorry I'll I'll share the screen here on on the sheets that Paloma created. Uh it's I think it's much better on sheets Paloma you're 100% right. So to give you a little bit of context end of July we had a session with the CIO of BCA. So to give you let's say here in Spain, British Car Auctions is the largest auctions house in Spain and they are the largest auctions house in Europe. So we had a conversation first in Spain brought by Gerardo. Then we arrived to the CIO of the European uh operation which handles the 13 countries that they operate. And he's the one that put us in contact with their CEO, COO and with the let's say he's managing director of their logistics arm. So how does this work? BCA is trying to push for a centralization across all markets of their logistics operation in every market.
+
+  
+  
+
+### **00:04:37**
+
+  
+
+**Nicolas Ariza Bagoud:** They had let's say an operation in which each local country let's say had uh providers for logistics, providers for tech, providers for different services and they're building a centralized tech uh hub based in Lisbon. That's the guy that we met. And a centralized logistics arm uh which already as of 2025 moves around 300,000 vehicles with around 150 uh trucks. Now their objective is in Spain, in France, in Germany to push for the same and centralize 100% of PCA's operation. and let's say use that same infrastructure to sell logistics for uh other players mostly clients that would be let's say ideal clients from um uh from drivers. mostly rent a carart companies that need to do some defleing, right? Because they do the defleing through the auctions house essentially. So that's full context.
+
+**Paloma Calderon:** the Yeah, I was curious because okay, when I started reading a lot of this Um I put my comments but what I like with the context even now are they considering Dra to be the system that centralizes everything?
+
+  
+  
+
+### **00:06:11**
+
+  
+
+**Paloma Calderon:** It appears to be so.
+
+**Nicolas Ariza Bagoud:** So what what they expect essentially is like they spent a couple of years trying to look for a s a solution for essentially their overall needs. uh they have a solution from Bosch uh which covers I would say 70% of their needs but uh it's mostly on dispatch what they want is and that they don't have anything today is anything around planning the movements anything around uh let's say tracking those movements and anything around like they have fairly simple I would say dispatch solution but they have no uh let's say planning uh movement automation uh tracking none of those features they have right so when we started discussing with them we we have not gone through the full demo uh they just received essentially the pitch the highle pitch and from here let's say one point of context that I uh that it's important to mention is in another track that I'm exploring with Carlos, we are looking at a way that we can serve these options houses to move vehicles across Europe and try and solve the let's say European paperwork paypoint.
+
+  
+  
+
+### **00:07:43**
+
+  
+
+**Nicolas Ariza Bagoud:** Okay, that's I think that's going to be a a pretty big uh problem to solve.
+
+**Fede Ranero:** Does Euro transport card do do they solve any of that paperwork stuff interport thing or not with me?
+
+**Nicolas Ariza Bagoud:** So inter Europe no like to be honest today I think it's probably one of the
+
+**Fede Ranero:** Okay.
+
+**Nicolas Ariza Bagoud:** mo biggest pain points for buying cars B2B is that it's 30 days plus uh between the moment you purchase a car and the
+
+**Fede Ranero:** Yeah.
+
+**Nicolas Ariza Bagoud:** moment you can actually bring it the car between European markets because of paperwork. So this is one thing that BCA it's it's a major paypoint for them because they want to do
+
+**Fede Ranero:** Yeah,
+
+**Nicolas Ariza Bagoud:** defleing across
+
+**Fede Ranero:** cuz I'm wondering if there are any players that do that,
+
+**Nicolas Ariza Bagoud:** Europe
+
+**Fede Ranero:** any integrations we could pursue that will allow us to solve that because
+
+**Nicolas Ariza Bagoud:** as of right now I haven't found it.
+
+**Fede Ranero:** building is probably a huge heavy lift. Yeah.
+
+**Nicolas Ariza Bagoud:** Yeah. So on this let's say I would probably go first step by step on they want to either remove or start heavily tracking their current provider in Spain.
+
+  
+  
+
+### **00:08:52**
+
+  
+
+**Nicolas Ariza Bagoud:** So what they proposed is we can start in Spain. These are all like this is like their wish list like the Christmas wish list of what they would like to have what we need to have is more of a clear conversation with them on this we can do this we won't do and let's say based on that uh move to the next step which would be setting up let's say how that pilot would work here the important point is that what they at least they mentioned is they understand that let's say they haven't found a
+
+**Paloma Calderon:** Okay.
+
+**Nicolas Ariza Bagoud:** solution for many reasons but if we need a commitment like economic commitment from our side for them to let's say sign something they can right so for example they would not happily like depending on a price but they would fund uh in case we need to do ad hoc developments they would fund for that because I I put it that most of the requests We probably won't have them uh
+
+**Paloma Calderon:** Yeah. Yeah. I I'll say my highlevel comments uh at least as I was reading through it the
+
+  
+  
+
+### **00:09:59**
+
+  
+
+**Nicolas Ariza Bagoud:** immediately.
+
+**Paloma Calderon:** negative sides I thought like wow I it sounds like they need like a super dispatch which in at times is a competitor of ours um because a lot of what they're doing is from multiple customers like getting moves and they need to get assigned to transport companies that are also being managed in the system. So that would be like my first flag and then the second one that's like the negative side is I'm also seeing a lot of the pattern which we faced before with like large customers that want like a white labeled version of our system but not just what we sell right now as turnkey like hey I'll make you an accounting command center is like no they want to manage their own customers and their own accounts and their own different like transport providers there. So that on itself adds another layer of complexity. I think already like we have a lot of things already because a we are a transport company and b because we have experience with integrations with like color companies where where we say okay we're not going to be the transport provider but we're going to track this transport in our system and then send it to someone else.
+
+  
+  
+
+### **00:11:22**
+
+  
+
+**Paloma Calderon:** So the overall like I understand why this is a potential fit, but I do want to flag that a a lot of things that I saw as we got through more of like the payments and like the transport company rating and productivity um would be gaps that that we will need to assess.
+
+**Nicolas Ariza Bagoud:** Yeah, that's fair enough. Like here you can see like these guys what they do not do directly is everything that is drive away which is around 30% of their movements. The rest they want to handle themselves.
+
+**Paloma Calderon:** Okay.
+
+**Nicolas Ariza Bagoud:** So for me it would be kind of like the clickers discussion, right? Like if you help them solve let's say the system for the 70% that they do on trucks, they will give you the 30% that they do on drive away.
+
+**Fede Ranero:** And this is one of the largest opportunities we we we have right I think the challenge we're going to have here is to you know prioritize based on on uh you know the typical ease of implementation versus size of the price or impact.
+
+  
+  
+
+### **00:12:31**
+
+  
+
+**Fede Ranero:** This is one of the largest sizes of the price we have right and we're going to have to to manage what to deliver right now or in the future or say no but it's highly complex. I think the situation we want to avoid is custom building specific things for something that will not be a high size of the price because that migration to transaction won't happen or because they will be stuck
+
+**Nicolas Ariza Bagoud:** Thank you.
+
+**Fede Ranero:** being assassin customer paying 50 100k a year and then you know the juice is not worth the squeeze. So do we have clarity? This is this is one that that brings a good balance of of of what we need to of effort versus payoff.
+
+**Nicolas Ariza Bagoud:** Like just putting into perspective, let's say if they're moving around 50,000 cars in Spain alone and just on the SAS tariffs that we have today, only on the SAS, this would be a 50,000. No. So almost 70,000
+
+**Fede Ranero:** 16.
+
+**Nicolas Ariza Bagoud:** euros 70,000 euros uh
+
+**Fede Ranero:** Okay. Mhm.
+
+**Nicolas Ariza Bagoud:** customer in the year just let's say on the SAS without considering any upside from drive away that we can get from them like that.
+
+  
+  
+
+### **00:13:48**
+
+  
+
+**Nicolas Ariza Bagoud:** We're not talking about a $1,500 uh dollar client. This is only Spain. If we get let's say the at some point and this for me like this is the type of competition that will take probably 18 months in in closing let's say for the European level right probably the SAS we can get it much faster than the operation like we won't be in 18 months ready to let's say do drive away in Germany or in France I don't know like
+
+**Fede Ranero:** But say say that the size of the price of of the driveway space uh um specifically it's you said like 30% of that so 15,000 moves at what $100 per move something like that.
+
+**Nicolas Ariza Bagoud:** Yeah. 12.
+
+**Fede Ranero:** So that's 1.5 per year.
+
+**Nicolas Ariza Bagoud:** I put it at
+
+**Fede Ranero:** Uh okay. So that's what 1.7 per million something like that.
+
+**Nicolas Ariza Bagoud:** 120.
+
+**Fede Ranero:** Uh 1.8. So so yeah this for context we're sizing the opportunity in space at around 12 per year. So this is you know 1.8 A plus the SAS takes it,
+
+  
+  
+
+### **00:14:53**
+
+  
+
+**Nicolas Ariza Bagoud:** So this would be 1.8 8 million plus let's say whatever we can have on the SAS Just
+
+**Fede Ranero:** right? Right. So,
+
+**Nicolas Ariza Bagoud:** speak.
+
+**Fede Ranero:** it's it's it is a significant payoff. Now, does that mean that we need to build everything they're asking for? For sure,
+
+**Nicolas Ariza Bagoud:** No, no,
+
+**Fede Ranero:** no. Right. Um and and and we should just have a plan.
+
+**Nicolas Ariza Bagoud:** no
+
+**Fede Ranero:** Okay. You know, here's the do the same level of prioritization per feature, right? Like the the quick wins and highest impact and then phase out,
+
+**Nicolas Ariza Bagoud:** here.
+
+**Fede Ranero:** right?
+
+**Nicolas Ariza Bagoud:** Especially I think my ask here is what it wasn't even me like what Claude did is take all the transcripts from our product and tech and ops conversations from let's say the last weeks and from the let's say pitches that we have on the features that driver already has and match them to their requirements. This is where I need let's say product and tech to actually tell me are these features like is this actually a have verified uh as cloud understands it or are there new uh this is where I don't know the product nor the tech uh well enough to complete this uh full and based on that the next step would be to understand let's say the the effort to build
+
+  
+  
+
+### **00:16:18**
+
+  
+
+**Kevin Burke:** Yeah, Plum and I can spend some time going through because there's a lot of these things here that we we either just straight up don't have uh not been a focus or there might be some things that yeah, we could adapt but it might require a spec, you know, certain amount of effort. My biggest concern is that there's a lot of categories in here that are basically like standalone products themselves and there's a lot of things that we'd have to build. Now, if this is their like if I got everything in the cherry on top wish list and they really only need four of these components, then I think maybe understanding the yeah, the impact. Yeah, like that one. A CRM or the employee management or the
+
+**Nicolas Ariza Bagoud:** So the thing is like this is a little bit the summary of what they send us.
+
+**Kevin Burke:** B.
+
+**Nicolas Ariza Bagoud:** I I put the the actual text that they sent us.
+
+**Kevin Burke:** Okay.
+
+**Nicolas Ariza Bagoud:** Uh but the summary was let's say they essentially need it's like 18 tools uh 19 tools like 19 features and there were like
+
+  
+  
+
+### **00:17:16**
+
+  
+
+**Kevin Burke:** Mhm.
+
+**Nicolas Ariza Bagoud:** uh five like the X ones is let's say like the nice to haves right like for them everything like around here is the musthaves uh like the N01's etc. Everything around here is the let's say n nice nice to haves. So all of this I would only put like do we have a check for that already or not? And based on that what claude in this case built is in their initial uh document what they were saying for example like a CRM self-management. Okay, that's a tool that is composed on certain features as per their own word. So uh centralization like a database for customers, prospects, contacts like each of the features that should have in that CRM what it did is build it into a grid of requirements. So N01 is actually let's say divided in seven sub features. So this is a much more detailed version to try and come to them to with something of okay yeah I can have a CRM for you but within this CRM managing expectations of this feature this feature this feature I can deliver this no no and no I don't
+
+  
+  
+
+### **00:18:42**
+
+  
+
+**Armando Flores:** Kevin on my perspective this this looks like a mix between Salesforce and command center right I mean it's gathering everything that we have around the customers in Salesforce and the
+
+**Nicolas Ariza Bagoud:** Oh,
+
+**Armando Flores:** profitability and the customer relationship and the contacts and everything and then it has the execution part that It's kind of like the the command center. So, it's I I don't know
+
+**Kevin Burke:** But then on top of that,
+
+**Armando Flores:** if Yeah.
+
+**Kevin Burke:** then it's Netswuite and then it's uh it's claimable and you know like I think out of this list we really only have about three of the values that they have that are native in the product.
+
+**Paloma Calderon:** Yeah.
+
+**Kevin Burke:** Now, could we adapt something we have or could we, you know, just straight up white label again for that purpose? But they're really looking for something that's like a whole ecosystem of tools, not even just one application.
+
+**Paloma Calderon:** Yeah. And my concern is um we did a project um called Horizon in the US for one of our like driveaway competitors where we basically we actually did not even split um like our databases.
+
+  
+  
+
+### **00:19:49**
+
+  
+
+**Paloma Calderon:** It was still going to like our regular Salesforce and admin and we just built like some guard rails around it. Um but to try to see like okay I'm going to build this whole new world for you. I'll start like creating the accounts myself. But like I know that I'm working towards giving you that autonomy. But Armando to your point like we're not just giving them the turnkey solution of like here's your command center account and like you can build like here here are your employees drive employee drivers. We would need to build because from what I was reading like separate pools of like contractors or like transport companies. you need to give them like again their own Salesforce or their own Netswuite integration. Um so I was doing again we I think it's still good to do the exercise and to be honest it's not I think I've done like two or three for the US already. So these might be signs also that there is a larger market like in a way Draper in itself is building this solution we're just building it for ourselves.
+
+  
+  
+
+### **00:20:50**
+
+  
+
+**Paloma Calderon:** So it might be like a sign of like, hey, is this what a lot of companies are asking for? And if is it worth bringing to a point where it's easier for for us to replicate this in the future, right? And we actually like go and sell these like full solutions. Um, but I was just doing like the rough math between the um the 70k a year. Um, was it 70k or 700k for the sas? 70k. No.
+
+**Nicolas Ariza Bagoud:** It's 70k for the SAS and
+
+**Fede Ranero:** 70 and 1.8
+
+**Paloma Calderon:** 70k. Yeah.
+
+**Nicolas Ariza Bagoud:** 1.8
+
+**Paloma Calderon:** So 70k is like if we're doing the 250 developer hour, let's say it's like less than 300 development hours. So again just for us to measure like okay what are doing all these integrations and and spanning out this like new system and it's okay it might be worth the investing like hey we're not going to break even until like three years from now. Um but it'll just be good to consider while we're doing this
+
+  
+  
+
+### **00:21:47**
+
+  
+
+**Armando Flores:** Nick,
+
+**Nicolas Ariza Bagoud:** here one thing that we need to consider in those 70k is that like this is like the pure
+
+**Armando Flores:** Nick,
+
+**Paloma Calderon:** exercise.
+
+**Armando Flores:** you got
+
+**Nicolas Ariza Bagoud:** SAS uh type that we have it has no let's say consulting service for me what I understand from these guys and I would say most of the clients that we're meeting here
+
+**Paloma Calderon:** Yeah.
+
+**Nicolas Ariza Bagoud:** is they have zero zero tech um let's say capabilities in house and what they want is like sort of like
+
+**Fede Ranero:** And the resources got
+
+**Nicolas Ariza Bagoud:** a all-in-one provider that does not only the consulting but also like the implementation right uh and
+
+**Fede Ranero:** so it could be like like the Penske prepaid development hours and then okay you prepay this yeah
+
+**Nicolas Ariza Bagoud:** that's
+
+**Fede Ranero:** we have this road map it might take us a couple of years to tackle. We're going to build against that while we go. Right.
+
+**Nicolas Ariza Bagoud:** so this is like to be honest And that might be also on my side like uh from most of the discussion and that's why I I mentioned to you F like I think what they want is something that we are offering to Ben but it might be less might be more it might be let's say not on my side a full understanding of everything that we cover for Ben.
+
+  
+  
+
+### **00:23:00**
+
+  
+
+**Kevin Burke:** Can you click on the BCA source text? Sorry to jump in there.
+
+**Nicolas Ariza Bagoud:** Yeah.
+
+**Kevin Burke:** I started doing some real quick highlighting of the things that I think like green are pretty aligned, yellow is in progress, and the kind of orangey is stuff that we could do with some more modifications, and then white basically means it's non-existent. So, just to baseline where we're at from my perspective real quick, that's the part that I'm concerned about.
+
+**Nicolas Ariza Bagoud:** You know
+
+**Fede Ranero:** No. Yeah. Yeah. And and and when if you look at the word that they sent, it's it's pretty clear,
+
+**Nicolas Ariza Bagoud:** dreams.
+
+**Fede Ranero:** right? It's a CRM, payroll, finance, accounting. Uh it's a um what else was crazy that I saw in there? Um one second. I'm opening up right there. It is claims management. um ESG intelligence.
+
+**Kevin Burke:** Yeah.
+
+**Fede Ranero:** I mean, of course, like there's gonna be a lot that that we have to say. No, uh we don't and no, we won't, right?
+
+  
+  
+
+### **00:23:57**
+
+  
+
+**Kevin Burke:** Mhm.
+
+**Fede Ranero:** Uh,
+
+**Nicolas Ariza Bagoud:** Yeah.
+
+**Fede Ranero:** no. The other is Yeah. Okay. This is what we're gonna But to Nico's point,
+
+**Nicolas Ariza Bagoud:** Yeah.
+
+**Fede Ranero:** like most likely if we do even the ones that you have in green plus have a Roma to do the yellows, we're going to solve probably 80% of the issues for them or they're going to be happy at least to to serve relationship and maybe down the years we solve more. Do you agree with that?
+
+**Nicolas Ariza Bagoud:** 100% like the the the question that I have to be honest is more let's say and we can probably have a call than before out of all of this there's a lot of things that we are not going to have and like I agree It's it's a waste of time for us to try and and and and offer it. Now, do we have because from these call like what I'm getting is much more cold feet on even is it worth it pursuing this conversation. If you have 25 issues and we have zero greens then there's zero feet, right?
+
+  
+  
+
+### **00:25:00**
+
+  
+
+**Nicolas Ariza Bagoud:** Like I mean uh but then it's a a massive misunderstanding on my side on what the product actually can deliver for a a carrier like this size.
+
+**Armando Flores:** Nikico I I just have one one question is um they should be using something today other than this system of Bosch right um they should be using I don't know whatever other other CRM right they couldn't be operating only by
+
+**Nicolas Ariza Bagoud:** You didn't mention Yeah.
+
+**Armando Flores:** this system of Bush well at least on on my mind right so
+
+**Nicolas Ariza Bagoud:** Right.
+
+**Armando Flores:** Um, how I mean and here they asking for the full Santa Claus list, right? They're asking for the finance piece, for the customer relationship, for everything. Do you think they're willing to take only kind of like the transportation fully related piece uh or some of it? I'm trying to put like effort.
+
+**Nicolas Ariza Bagoud:** As soon as they got
+
+**Armando Flores:** I'm trying to put like effort and connectivity and then we integrate to the existing CRM that they're using. I don't know if they're using uh I don't know Oracle or uh SAP or whatever right I'm just trying to throw some ideas because I don't know how easy it's to develop all those type of things where that we haven't developed like the finance piece uh or the customer relation piece uh like on that detail it's it's just an idea just to understand if we can just know what they're using today and maybe create a module that fits into that part and and fits from
+
+  
+  
+
+### **00:26:32**
+
+  
+
+**Armando Flores:** all those things or they need a fully new module for
+
+**Nicolas Ariza Bagoud:** this I I don't have an answer here.
+
+**Armando Flores:** everything.
+
+**Nicolas Ariza Bagoud:** This might be a quick call with them like maybe out of this call. What I I'm taking is uh I'll write to Anders and Mikl uh tomorrow and let's try and figure out a call with them Monday through uh Wednesday next week. Uh Fay, I'll invite you there because I like I I want to because obviously scenary of these guys. I think it's important that you participate there. Uh and then we define like if we see that definitely there's nothing that we can do like we can just like have cordial breakfast with them. They're going to be a pretty big client I think on the driveway in Spain whether it's directly or indirectly. Uh but regarding this branch which is FTL uh we need to figure out if there's something that we can add on value for them. If not, it's also fair to say
+
+  
+  
+
+### **00:27:31**
+
+  
+
+**Armando Flores:** I know and my position Nico is is not to to see it's like understanding
+
+**Nicolas Ariza Bagoud:** them.
+
+**Armando Flores:** how how flexible they they would be in accepting like a more limited offer right because I I do think I agree with you this if we get this customer it's a game changer for the whole region Right. I mean, we're today we're talking about Spain, but it would be I mean, we're looking forward not only Spain, we're looking toward the full region. And if we can have add one these guys from our P to our pocket, get 1.2 million only in moves regardless of the SAS, I think we should make an effort somehow, right, to get these guys. So if we see that it's I don't know for this 70,000 a year for SAS we need to invest 140k or 300k as paloma might might mention over three years it might be worth the effort but maybe with those 70k uh and we invest 35 only doing five or six uh requirements that we know that we can execute I think it would be kind of like a big win as well but that that was my my my only point
+
+  
+  
+
+### **00:28:35**
+
+  
+
+**Paloma Calderon:** Yeah. And to me, this seems like a again similar conversations to if they know what we're doing with Pensky, then it's worth because I imagine like whoever wrote this list might not be the people that like probably use the system. And again, you have like okay, these are like the 20 things that ideally, yes, you have centralized. Even for Draver, right? Ideally, we have everything centralized, but you still have a hotspot, a net suite, you have AI solution one, two, 12, three. So there might be some bigger ones that as long as we have those what we would help them with or that's part of the like the consulting piece that comes in is like okay if we have to do custom development or like the last one that we talked about so we did a proposal for element uh back in the day h remember fed like for the full like t like command center or something like that and then we're talking to one customer in the US about something similar and one of the things that like Dreyird has been able to do pretty well has been the consulting piece or the for example they're asking for very specific like reports and for us it's like
+
+  
+  
+
+### **00:29:35**
+
+  
+
+**Nicolas Ariza Bagoud:** Oops.
+
+**Paloma Calderon:** we don't have them in the system because we build them custom for each of our customers. So instead we have um superset and then we just build you whatever you want because as long as we have the data it's fine. So I think the whatever feedback you can get from the conversation, Nico might be good to again help us like how green or like how much should we fight to look green and then like okay we'll do some development like get it working and then continue to build or is it something where like we should humbly say hey this is probably not the solution and instead like let's work together on the driveway. away.
+
+**Fede Ranero:** I think, you know, in contrast to those examples in the US, what what we're seeing here is just another example of of the market differences in in Spain and the US where the best analogy is that of of sports where, you know, in American football, you have very specialized people that only come into play and do this kick and nothing else.
+
+  
+  
+
+### **00:30:41**
+
+  
+
+**Fede Ranero:** Whereas, you know, in traditional soccer, you have a little bit of variability here and there. That's the difference that you can see by the requirements and the asks that this is a little bit all over the place and that's
+
+**Nicolas Ariza Bagoud:** This
+
+**Fede Ranero:** a function of you know less specialization and us hitting more senior people in the organization that have a
+
+**Nicolas Ariza Bagoud:** is
+
+**Fede Ranero:** wider scope like our hit rate in the terms of the things that we have already built in here I think in here must be like what 15% 20 something like that our hit rate in the element or
+
+**Nicolas Ariza Bagoud:** good.
+
+**Fede Ranero:** the other engagement uh I believe it was 60 to 80%. Why? because it was narrowed down to someone very specific in the scope of transportation that knew what they were asking for. They weren't caring about ESG. They weren't caring about payroll. They weren't caring about CRM. They were you know what I'm saying? So I I think that's something that we're going to encounter.
+
+  
+  
+
+### **00:31:29**
+
+  
+
+**Fede Ranero:** We're hitting more senior people and we're hitting more generalist people with a wider scope.
+
+**Nicolas Ariza Bagoud:** Oops.
+
+**Fede Ranero:** Now they I would have done the same thing on their shoes. I would have say you know these are my challenges and can you solve for that and see what happens. I think we now have to come and say, you know, this is what this is who we are and this is what what we do and we have and and come in with a perspective and and and and say this is what we could build. This is not something that we would build and and what needs to be true for us to start building that is is this and that. Uh but but I don't think they would have an issue for like if we solve like who is going to solve all this list for them? There's no one in the world, right?
+
+**Nicolas Ariza Bagoud:** No, no, that's that's the
+
+**Fede Ranero:** uh and and and who's going to solve that like we need to understand how important are things that we solve to them right uh
+
+  
+  
+
+### **00:32:09**
+
+  
+
+**Nicolas Ariza Bagoud:** point.
+
+**Fede Ranero:** but but but uh I think for those specific points we can be the best in the world on those specific points can we adapt to build some of the other yeah it's going to take some time and it requires some consulting approach and money from you guys uh but if if we believe this is long-term partner uh that is going to be a win-win yeah we're willing to invest on it um and that's where the FD come into play and maybe
+
+**Nicolas Ariza Bagoud:** figure it this way here.
+
+**Fede Ranero:** we'll sit them with with that Tenerate it, right?
+
+**Nicolas Ariza Bagoud:** And this is more of an insight that we got from so the CEO Espa is very close to Har. They're like super super good friends. What he said is look these guys are spending at a European level. I don't know let's say the the amount but it's stupid amount of money in third-party services for tech third party services and providers for let's say any type of consulting you want and they have I would say average at best tech and uh services right so what they want is they they will not be able to inhouse house every yes they have let's say or at least they're pushing to have a tech hub in in in Lisbon and etc but they will still have to go through certain providers now the question is within these providers how much can one single provider
+
+  
+  
+
+### **00:33:48**
+
+  
+
+**Nicolas Ariza Bagoud:** handle and I think this for me the conversation should be what's the scope that we can commit offer a good service and offer I would say the three things the SAS the consulting and then the driveway or at least the marketplace because for me at least on their side it's a three for one right they want as little providers as possible and they want I would say as little autonomy as possible on the local markets to move away from a centralized solution given their size two,
+
+**Kevin Burke:** One exercise.
+
+**Nicolas Ariza Bagoud:** right? Like they're not in a launching phase. They're in a super consolidated phase and they need to like they have 2 million vehicles being sold through BCA Europe every year, right? So it doesn't mean that they move those 2 million vehicles but those are 2 million vehicles that are being sold in auction
+
+**Fede Ranero:** Yeah.
+
+**Nicolas Ariza Bagoud:** through let's say each of their country's uh options
+
+**Fede Ranero:** Yeah. I think the conversation is going to be valuable as as long as and they might have their their expectations because what they sense
+
+  
+  
+
+### **00:34:53**
+
+  
+
+**Nicolas Ariza Bagoud:** houses
+
+**Fede Ranero:** and hear from Quebec and AI and everything, but I think it's important for them to know that that we're not a software factory, right? We're we're not we're not going to come in and and rebuild your entire stack for everything uh with all of our amazing AI and people. We're we're a solutions provider, right? And software is just the way to access those solutions. Um, so I think it's it might be us getting to know each other, but we probably need to put into to a couple of sites uh our perspective. Um, that is probably just somewhere in that deck. Uh and then another thing that we need to to align probably this call is good use of it is the where would the the FD role come into play to all of this because at some point we'll have a road map and say okay yes uh not yet and yes in three months so or or or yet right now but and no forever but at some point like we will know this is what we need to build And uh yeah, when like you told me the pipeline yesterday, Kevin, but when can we expect to have our FDE and and probably this is this is an amazing thing to hit the ground running and start to understand how does that entire role fit into the organization and what it can do,
+
+  
+  
+
+### **00:36:15**
+
+  
+
+**Fede Ranero:** right? And at what point it can develop something independently versus have to go through the centralized pipeline, which is the whole point on on being a little bit more chaotic and decentralized to ship fast. As long as we know that this is going to bring back the benefits to the organization in terms of us being able to have a sticky customer for which we deliver our solutions where we are the best of the world and not on building the software in and of itself necessarily, right? Does that make sense? And what what's your sense on of the FDA and give us a a status on on the pipeline and and what can we expect in terms of timing and and and and role of of that person.
+
+**Kevin Burke:** Yeah. Um, so we have the one candidate that would basically be like everybody that we're looking at is AI native but back uh backend. He's the mid-level candidate. You know, we're looking at extending an offer to him. He can start immediately because his contract just ended.
+
+  
+  
+
+### **00:37:09**
+
+  
+
+**Kevin Burke:** But I guess the question a little bit of some of this is like which how much do we want to focus on developing just our product capabilities versus uh like one-off AI solutions to power a part of a company for a period of time. Um and I think that'll be the trade-off on some of these because we can we can do some of the stuff like Thomas has been doing but they don't necessarily fit into a larger scheme of what we have. So they can be short-term solutions and we can definitely do that kind of thing. Like we could create a customer portal that's this one-off and that behind the scenes could kind of connect in for this for this person, but it won't necessarily fit into a larger vision of what we're doing because it's going to be purpose built and running for that customer. So I think some of this stuff will just be deciding what is worth building as a core feature versus can we get by with a hack um you know hopefully a polished hack but a hack nonetheless.
+
+  
+  
+
+### **00:38:04**
+
+  
+
+**Kevin Burke:** Uh, so I mean at least for the position it could be starting tomorrow, but I don't know some of these pieces will it function in the way that we want it to as a standalone because those projects work when the customer is okay with interacting with a different page or a system if it's not embedded into the tool that they're using. You like we could create a claimable thing like what uh Rafa is doing. That'd be a good example of being like,"Hey, somebody needs to go off and create a claims portal that they can log into and submit things and maybe it can do a lookup on some of our trips." Like that would be a good example of it. But if it has to be integrated and viewed through command center or something, that's where it gets a lot more complicated to link those together versus being standalone pieces that might behind the scenes. I know I'm kind of like complicating this portion a little bit, but some of the stuff will fit well as being like that kind of approach to delivering the solutions.
+
+  
+  
+
+### **00:38:59**
+
+  
+
+**Kevin Burke:** And some things will not fit well because they have to have a deeper level of integration for them. But what what I was going to say and that's would fit into this is that I think we need to look at this list and figure out what do we want to do from a company perspective to deliver these features. Paloma says that we have customers that are interested. It would be great for us to focus on what are the ones that align with what we want to do strategically. And even a big decision of all this is is like the project horizon is do we want to be a B2B tob customer um or and allow people to manage Draver as a platform to invoice and manage their own customers rather than being a facilitator of movements and that you deal with the invoicing and the customer interactions and the intakes like we're assuming that you're doing that not just we're creating our white label product for you to manage it all like the CRM requirement or the ERP and invoicing. Like we generate an invoice to invoice our customers, but we don't create a way for them to go on and invoice their customers on our behalf.
+
+  
+  
+
+### **00:40:01**
+
+  
+
+**Kevin Burke:** And that's building a quite a bit different platform than just a logistics executor. And so I don't know that that's my viewpoint is we should look at these as like how do they fit in strategically for what we want to build and we want to do anyways and focus on those items as what we pitch to them of saying like these are things that we can do for you and then ideally they fund our development and the efforts that we already want to go and do anyways and then we see which ones are their hard passes and then decide okay is this something that like you know new AI solutions that we could just build custom and try to not invest too heavily in that area, but check the box for them.
+
+**Nicolas Ariza Bagoud:** I I think here I'd say in terms of of next step for me is let's say I don't know if you want to do on the full detailed grid or in this BCA source text but just put let's say what is already part of let's say the the the solutions that we could implement whether it's for this customer for any other customer that we see that there's a match what are things that this is a red line like nothing that we will do or or or or want to even uh develop and what are things in which we could offer something similar the what I would like like here is like as much detail as you can give me here like I will I will I will use it also for me to understand how do we sell
+
+  
+  
+
+### **00:41:36**
+
+  
+
+**Nicolas Ariza Bagoud:** this uh better onwards because I'm basing myself on off on on on what Kos is saying right and and here. B, you know the the the drill, right? Like Carlos is selling a a vision. This is what we're selling here. What I want is to make sure that between that vision and the actual reality of the tool, we don't have that much of a gap because like I don't want to Let's say meet expectations of of of especially during the
+
+**Fede Ranero:** Yeah. When so in this list at some point they started with nice two halves,
+
+**Nicolas Ariza Bagoud:** demos.
+
+**Fede Ranero:** right? Maybe we just do that cost on this specific tab. You know what I'm saying?
+
+**Nicolas Ariza Bagoud:** Uh like the nice two habs are put here.
+
+**Fede Ranero:** So the the the word I sent where
+
+**Nicolas Ariza Bagoud:** Like if you if you want to look their document like
+
+**Fede Ranero:** searchs ah x. Okay, perfect. So it's 19 plus x.
+
+**Nicolas Ariza Bagoud:** literally has the the watermarks
+
+  
+  
+
+### **00:42:30**
+
+  
+
+**Fede Ranero:** Okay, so out of 19 we have two. So it's a 10%.
+
+**Nicolas Ariza Bagoud:** like no their document actually has watermarks from AI
+
+**Fede Ranero:** Yeah. Mhm.
+
+**Nicolas Ariza Bagoud:** right so it was generated let's say probably by by let's say because this guy Mik
+
+**Fede Ranero:** Yeah. Yeah. Sure.
+
+**Nicolas Ariza Bagoud:** is the from what I understood he's the COO of FPL right So we have access to the CEO and the
+
+**Fede Ranero:** Yeah, whatever. So, so let's let's discuss this this in their language like Oh, I did something. Why transport booking?
+
+**Nicolas Ariza Bagoud:** CO
+
+**Fede Ranero:** Why is that not something we could do? Yeah. Okay. Yellow. I agree.
+
+**Kevin Burke:** Yeah,
+
+**Fede Ranero:** You agree? Okay.
+
+**Kevin Burke:** I just put some but it's on on behalf of their their customer.
+
+**Fede Ranero:** Wonderful.
+
+**Kevin Burke:** So this is kind of what I was saying is like we support it interacting from our customer to us but we would have to make some adaptions for them to have their customers basically kind of book through through them.
+
+  
+  
+
+### **00:43:18**
+
+  
+
+**Fede Ranero:** Right. And then we we I think we can also count on etc for that like that's
+
+**Kevin Burke:** It's a nuance but it's different.
+
+**Fede Ranero:** basically etc's bread and butter know.
+
+**Kevin Burke:** Done.
+
+**Fede Ranero:** So okay wonderful AI price engine agree load planning and dispatch agree spot market management is isn't that something we can cut on EDC as well. I mean ETC is doing either that transported contract that already has set of prices, but they also do the spot moves for which they send the market and and and get back some some
+
+**Nicolas Ariza Bagoud:** This f is follow-up conversation like I wouldn't even touch this conversation of etc.
+
+**Fede Ranero:** stuff.
+
+**Nicolas Ariza Bagoud:** but what I'm basing myself here is whatever driver does not deliver I'm 90% sure that etc has a way of delivering it uh probably
+
+**Fede Ranero:** Yeah. No, no, but of course not mentioned to them,
+
+**Nicolas Ariza Bagoud:** the
+
+**Fede Ranero:** but but I'm saying to we we we need to bring a perspective to that meeting and that perspective, you know, what are chances of acquiring ETC?
+
+  
+  
+
+### **00:44:10**
+
+  
+
+**Fede Ranero:** It's pretty high and etc has that. So maybe we put this in in in an orange as opposed to a white. That's that's all I'm saying, right?
+
+**Nicolas Ariza Bagoud:** Yeah,
+
+**Fede Ranero:** Um we don't need to give details of or expectations or even names and possibilities of of etc. Um okay,
+
+**Nicolas Ariza Bagoud:** just put Argus there.
+
+**Fede Ranero:** CRM. Yeah,
+
+**Nicolas Ariza Bagoud:** So if we share anything like we don't share the name of of BTC,
+
+**Fede Ranero:** exactly. Yeah,
+
+**Nicolas Ariza Bagoud:** I I'll I'll know about this.
+
+**Fede Ranero:** exactly. Okay. Um, N07. So, ECRM.
+
+**Kevin Burke:** I don't know what an ECRM
+
+**Fede Ranero:** Yeah.
+
+**Nicolas Ariza Bagoud:** This is what we're developing for like the TEA everything that we're doing for clickers right now.
+
+**Kevin Burke:** is.
+
+**Nicolas Ariza Bagoud:** So the uh like the QR code like
+
+**Paloma Calderon:** Yeah. Creation of the custom documents.
+
+**Fede Ranero:** It's the CRM. It's CMR.
+
+**Kevin Burke:** Okay.
+
+**Nicolas Ariza Bagoud:** all that ECMR.
+
+**Fede Ranero:** Ah, the QR code. Hold on.
+
+  
+  
+
+### **00:44:53**
+
+  
+
+**Nicolas Ariza Bagoud:** Yeah, it's ECMR.
+
+**Paloma Calderon:** that one I think I had put that we have some of it because We're releasing a lot of the like, okay,
+
+**Fede Ranero:** Oh.
+
+**Paloma Calderon:** here's a document that you can attach to a move and then show it on the app from the drivers.
+
+**Nicolas Ariza Bagoud:** Yeah, I
+
+**Paloma Calderon:** So, I think we have
+
+**Kevin Burke:** We have POD too,
+
+**Nicolas Ariza Bagoud:** am.
+
+**Kevin Burke:** but I like generating off of the invoices and OCR
+
+**Paloma Calderon:** it
+
+**Kevin Burke:** converts scan documents into structural operational data and valid completeness.
+
+**Fede Ranero:** Yeah.
+
+**Kevin Burke:** It's like, okay, does that mean we're going to get documents versus making it available for drivers? I don't
+
+**Fede Ranero:** So it's it's a partial one. It's a light green or whatever. We can keep it as as green, but of course the devil's in the details.
+
+**Kevin Burke:** know.
+
+**Fede Ranero:** But just high level again, we need to take this conversation high level like this was probably a you know someone dictating stuff to GPT that translate into this and maybe they don't even know what what AI OCR means.
+
+  
+  
+
+### **00:45:42**
+
+  
+
+**Fede Ranero:** But um we we can say you know this is what we have. So the perspective we have to bring is out of all of this these are the yellows the greens and the the whatn not here's the detail in the greens of of what we have right anything beyond that would become a yellow right
+
+**Nicolas Ariza Bagoud:** Hey.
+
+**Paloma Calderon:** Yeah.
+
+**Fede Ranero:** uh so I think that's that that would be a good outcome of that meaning so this for me becomes a green um with with a a follow-up slide showing what we mean by
+
+**Paloma Calderon:** And I and I think to this we won't tell them but
+
+**Fede Ranero:** green
+
+**Paloma Calderon:** for us to keep in mind the way I think about a customer like this is as if we're like opening a new country where we need to make a co or like opening a new Spain where it's like okay we're making a copy of our system like Spain customer list doesn't talk to the US one and we're building like custom invoices for them like this is what the invoice needs to look at this is how like the driver pay
+
+  
+  
+
+### **00:46:31**
+
+  
+
+**Nicolas Ariza Bagoud:** What is that?
+
+**Paloma Calderon:** or like transport per provider. So that they don't see in their requirements and it's okay. That's like our secret list of like okay if we were to say yes like that would be the the kind of effort required to like spin up a new environment and then they have some really good ones at the bottom like there's like AI negotiation agent is like we've like Draper has talked
+
+**Fede Ranero:** Mhm.
+
+**Paloma Calderon:** a lot about doing that for our own driveaway moves. So, same thing is like, okay,
+
+**Fede Ranero:** Mm-m.
+
+**Paloma Calderon:** it's one thing to build it for our own versus like productizing it for someone, but maybe we think about them as like, okay, they're going to be the draper of this new country, and we just needed to put it in a place that's good enough for them um to use knowing that it's not a full service like fancy product as Kevin was referring to.
+
+**Fede Ranero:** Yeah. Okay. So, so yeah, for for that meeting again, we're going to need, you know, one summary slide of of the green, yellow, orange, and then one follow-up slide for each of the greens with example princes and
+
+  
+  
+
+### **00:47:40**
+
+  
+
+**Nicolas Ariza Bagoud:** If you guys Kevin and and Paloma can can fill this document.
+
+**Kevin Burke:** Sorry.
+
+**Fede Ranero:** stuff.
+
+**Nicolas Ariza Bagoud:** I'll prepare those slides and I'll prepare the the the like coordinate them the like I'll I'll put whatever questions I can have there.
+
+**Fede Ranero:** Okay.
+
+**Nicolas Ariza Bagoud:** But if you can just help me fill the at least the field like if it's not in the gray is and the grid part was useful for me for example here on let's say what evidence we have that we can support this type of feature and this is
+
+**Fede Ranero:** Yeah.
+
+**Nicolas Ariza Bagoud:** where every single step of what they were asking was like um device so for example I don't know what you were saying like the AI uh OCR is embedded into a single feature and this is where like can we have this yes or not for me it's it's much easier If you can help me
+
+**Fede Ranero:** Mhm. I think
+
+**Nicolas Ariza Bagoud:** just let's say correct this version and then the output for them would be a much shorter one.
+
+**Fede Ranero:** Okay.
+
+  
+  
+
+### **00:48:35**
+
+  
+
+**Fede Ranero:** You're saying bottom up.
+
+**Nicolas Ariza Bagoud:** Yeah. Yeah.
+
+**Fede Ranero:** Yeah. Okay. It could be.
+
+**Nicolas Ariza Bagoud:** Yeah.
+
+**Fede Ranero:** I just Yeah. I don't know if the if they were so conceptual high level they're doing a bottom up per feature when maybe they haven't even really thought those features through is what makes me think more top down than bottom up but but yeah okay I uh I I'll agree with your approach but then okay generally fleet management so this is something we definitely don't have this is the bread and butter of autofleet for example is that something that down the role we could offer through an integration. Would we want to go that route or not? Even
+
+**Nicolas Ariza Bagoud:** Is it for me part of the discussion is hey like these for example I don't know like whatever we have here
+
+**Fede Ranero:** everything in no8 is Yeah,
+
+**Nicolas Ariza Bagoud:** like we don't do this no8 let's here like for example
+
+**Fede Ranero:** exactly.
+
+**Nicolas Ariza Bagoud:** no8 like all of this like we don't do this uh but we can find let's say a partner that we integrate with or if you guys have one we can integrate it I don't
+
+  
+  
+
+### **00:49:40**
+
+  
+
+**Fede Ranero:** Yeah.
+
+**Nicolas Ariza Bagoud:** know like this
+
+**Fede Ranero:** or like more specific in this we know a partner this is their bread and butter we're integrating with them and we're doing business with them out
+
+**Nicolas Ariza Bagoud:** is
+
+**Fede Ranero:** of fleet belongs to element and all they do is exactly what this is uh
+
+**Kevin Burke:** I think the angle would be is that the companies monitor that and then when that service requires a
+
+**Fede Ranero:** so
+
+**Kevin Burke:** transportation aspect then they send us the move because we're responsible of the transportation.
+
+**Fede Ranero:** exactly exactly
+
+**Kevin Burke:** We don't manage the fleet. We're not trying to like balance hours or maintenance or anything, but if it then comes to the point where it is a service we provide, then we have the ability for them to connect with us and put in a move in the
+
+**Fede Ranero:** Yeah, I think that's a good p perspective to bring and say uh you know I mean with with names and
+
+**Kevin Burke:** system.
+
+**Fede Ranero:** everything. Okay. I mean finance,
+
+**Nicolas Ariza Bagoud:** Okay.
+
+**Fede Ranero:** no claims management.
+
+  
+  
+
+### **00:50:25**
+
+  
+
+**Fede Ranero:** No, right. Uh customer portal, self-service, booking, price check, shipping, tracking. Well, that's driver now basically. No.
+
+**Kevin Burke:** Yeah,
+
+**Fede Ranero:** N12.
+
+**Kevin Burke:** read it.
+
+**Fede Ranero:** Yeah, driver now and tracker
+
+**Kevin Burke:** Yeah,
+
+**Fede Ranero:** links.
+
+**Kevin Burke:** but there's no self-service booking. There's no quote.
+
+**Fede Ranero:** Why not drive
+
+**Kevin Burke:** I mean, D Now, so the problem with Driver now is that they're all individuals.
+
+**Fede Ranero:** out?
+
+**Kevin Burke:** We'd have to modify it to be like you could be tied to a company that then has your movements done through that parent company.
+
+**Fede Ranero:** Okay. And and sell service. I'm in me this also It sounds like command center, right? Why wouldn't they focus on command
+
+**Kevin Burke:** I think we would, if we're going to do this,
+
+**Fede Ranero:** center?
+
+**Kevin Burke:** I think we should build a a portal that's more meant for limited users and then allow a business to sit in between as their own standalone. So like consumer Yeah.
+
+**Fede Ranero:** So like the move request we did for element for example like
+
+  
+  
+
+### **00:51:16**
+
+  
+
+**Kevin Burke:** Like it like the consumer app or the Draver now would technically all those people log in in general would roll
+
+**Fede Ranero:** the
+
+**Kevin Burke:** up to our concierge account. But then in theory you could use Draver now or just a portal. Do we need an actual app? But customers can do that. But it would roll up to BAC instead and manage it.
+
+**Fede Ranero:** Yeah. Yeah.
+
+**Kevin Burke:** But then BAC needs the ability to like onboard those customers,
+
+**Fede Ranero:** Yeah.
+
+**Kevin Burke:** create accounts, create the contacts and put them into their hierarchy. So they need a fair amount of hierarchy management. But we could do it. But like there's just a lot of those tools that we don't have available to customers like in command center because we're not assuming they're doing thirdparty management of somebody else or if they're doing it they're managing it outside of our system because like project horizon they onboard their like locations and then they invoice those locations but we're not generating like invoices on their behalf.
+
+  
+  
+
+### **00:51:58**
+
+  
+
+**Fede Ranero:** Exactly.
+
+**Kevin Burke:** We're not giving them a portal where they can log in to those and so on. So, if they can use either command center as a limited user on those accounts and see their moves, put their moves in, that would work. Um,
+
+**Fede Ranero:** Yeah.
+
+**Kevin Burke:** we could even set up quoting for them if it fits within our pricing.
+
+**Fede Ranero:** and they have the B they I think element LMR right they go into a portal they have all the
+
+**Kevin Burke:** Yeah, we'd have to see.
+
+**Fede Ranero:** bins uploaded they have the pricing they have the origin destinations can send they can track they have I think that's
+
+**Kevin Burke:** I think that have to be the vision. But then the part we just have to track or decide is all right,
+
+**Fede Ranero:** it
+
+**Kevin Burke:** do we deal with like the invoicing of those customers? Can they generate invoices on behalf of those? Because all we're going to want to do is invoice BAC if they use our
+
+**Fede Ranero:** yeah an invoice is always a local problem like they cannot expect us to have emo ready for you know
+
+  
+  
+
+### **00:52:44**
+
+  
+
+**Kevin Burke:** marketplace.
+
+**Fede Ranero:** something like this. So, uh, yeah, sure. There's things that we'll have to figure out or exclude. The band forecasting, no ESG. Oh my god. So, European, of course, not um the loading and unloading. Yeah. Okay. Da yellow builtin status of this. Sure. W API connectivity. Sure. Why is that? I mean,
+
+**Kevin Burke:** Oh,
+
+**Fede Ranero:** we have to build it.
+
+**Kevin Burke:** that was just it's just generic.
+
+**Fede Ranero:** Yeah.
+
+**Kevin Burke:** I mean, we have the ability to connect with any of these systems, but we don't have anything pre-existing. So, it's saying that we could build it, but it would have to align with like us investing in there.
+
+**Fede Ranero:** Yeah,
+
+**Kevin Burke:** I mean, that could be 14 different providers that would be all from scratch integrations.
+
+**Fede Ranero:** sure.
+
+**Kevin Burke:** So, we could do it. It's just is that are those things more important than other
+
+**Fede Ranero:** Okay. Predictive customer intelligence.
+
+**Kevin Burke:** things?
+
+  
+  
+
+### **00:53:42**
+
+  
+
+**Fede Ranero:** No, got to build AI negotiation agent. You mentioned Paloma to build waiting time tracking.
+
+**Paloma Calderon:** even even the customer intelligent like like it's something that in a way we want to build ourselves and then we already do but we do informally through like a report right like hey I'm dragging this customer this is The number of moves we're hitting like the summer or like the summer is ending. So like this customer is likely to fall. So because we're also a transport company like the operations side already does that we just don't productize it. So if they wanted like a reporting command center that shows or in Salesforce or something custom it's like okay it's doable but I would have to build you something
+
+**Fede Ranero:** Yeah. If intelligence means like a backward looking review of what's going on, but if if they're asking us to to forecast and predict, I mean, there's so many baked in assumptions in the business that we will be in a very horrible spot to do the forecast. Uh but but intelligence means uh how's everyone performing?
+
+  
+  
+
+### **00:54:39**
+
+  
+
+**Fede Ranero:** How are the drivers? How are the pickup times? How are the drop off times? How is the cost per mile per location, per type, per request? Sure. Uh what do you do with that intelligence to predict is your business, not mine? Um but yeah, we could we could show it that way. Waiting time tracking. Sure. I mean we we have all all the periods.
+
+**Kevin Burke:** We have timestamps. I think the second part I don't know what that means because we we do track when they well
+
+**Fede Ranero:** Mhm.
+
+**Kevin Burke:** not loading and well I guess kind of unloading and loading. We don't deal with a lot of haulers,
+
+**Fede Ranero:** It's like the pick up and drop.
+
+**Kevin Burke:** but it's Yeah, like pickup start and drop off start.
+
+**Fede Ranero:** Yeah.
+
+**Kevin Burke:** So, we'd have Yeah, we'd have timestamps. Uh, not and we also have location reports, but not specific to hauler
+
+**Fede Ranero:** Yeah,
+
+**Kevin Burke:** level.
+
+**Fede Ranero:** I think this is just generic language,
+
+  
+  
+
+### **00:55:35**
+
+  
+
+**Paloma Calderon:** I was more of or what it is they're expecting because
+
+**Fede Ranero:** but
+
+**Paloma Calderon:** like for example open lane that's like SAS only they they just care about data and we send them all of this and we explain it to them and then they build like their pricing intelligence based on like the waiting times and everything. So that's an example of like we have this and we work with you like we consult with you. I don't know if in their mind they want to see like oh we want to be able to rank like our transport providers see like which ones and then like okay then we have to think about what screens we need to build them and like 50% consulting the other.
+
+**Nicolas Ariza Bagoud:** I I would much more simplify this conversation like the the question with them is guys this
+
+**Paloma Calderon:** Uhhuh.
+
+**Nicolas Ariza Bagoud:** is what we have this is what we can do and let's
+
+**Fede Ranero:** Yeah.
+
+**Nicolas Ariza Bagoud:** say all of this if you want us to do it like these are the things that we can actually build uh but these are the things that we won't even touch because I think we we can we can go into
+
+  
+  
+
+### **00:56:33**
+
+  
+
+**Paloma Calderon:** Okay.
+
+**Nicolas Ariza Bagoud:** a super long list of things that we can build but do we actually want to dedicate time with them is it easier for them to just find another provider? Do we build any moat in the relationship of building it with them?
+
+**Fede Ranero:** Yeah.
+
+**Nicolas Ariza Bagoud:** I don't know.
+
+**Fede Ranero:** Yeah. That's that's what I like.
+
+**Nicolas Ariza Bagoud:** Uh like but here it's more
+
+**Fede Ranero:** I like that this this level for at least that initial conversation. and and again each of the greens would have specific print screens examples of what we mean by what we have today. Then just to to close up, I know it's like 8 or 9 p.m. for you, Nikico. Um 9:00 p.m. So AI exception management. Yeah, that we have that's the Slack integrations and the the triggers and whatnot, right?
+
+**Kevin Burke:** Yeah, we cover a couple of these. Um, we would we would probably need to invest a lot more time into these,
+
+**Fede Ranero:** Yeah.
+
+**Kevin Burke:** but we do have some alerts and we could we could break down the alerts we have.
+
+**Fede Ranero:** Okay, cool. All right. Um so yeah,
+
+**Kevin Burke:** All
+
+**Fede Ranero:** let's build with that. uh help us with with with slides that are just product screens and bullets describing them and then get to do them and that should open up a good conversation. Okay. Right. I do have to drop a phone as well.
+
+**Paloma Calderon:** Hey,
+
+**Fede Ranero:** Thank you guys.
+
+**Kevin Burke:** right. Later.
+
+**Fede Ranero:** Right.
+
+  
+  
+
+### **Transcription ended after 01:07:53**
+
+  
+
+*This editable transcript was computer generated and might contain errors. People can also change the text after it was cre

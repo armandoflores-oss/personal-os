@@ -1,0 +1,44 @@
+# **✍️ Quick notes**
+
+## **Daily Huddle - Ops MX**
+
+Sep 2, 2026
+
+Uriel Vargas (uriel.vargas@driverdo.com) Cristian Arizmendi (cristian.arizmendi@driverdo.com) Julia Diaz (julia.diaz@draiver.com) Armando Flores (armando.flores@draiver.com) Diego Diaz (diego.diaz@draiver.com) Camila Flores (camila.flores@draiver.com) Jose Duran (jose.duran@driverdo.com) Gerardo Acosta (gerardo.acosta@kavak.com)
+
+Seminar planning and driver verification via operational logistics
+
+## **Driver Data and Profile Verification**
+
+  - The team conducted a review of driver records and profiles.
+  - Jose Duran and Uriel Vargas coordinated the verification of individuals including Victor Romero and Mario Sanchez.
+  - Camila Flores referenced Salesforce during the data review process.
+
+# **Full notes**
+
+Sep 2, 2026
+
+## **Daily Huddle - Ops MX**
+
+Invited Uriel Vargas (uriel.vargas@driverdo.com) Cristian Arizmendi (cristian.arizmendi@driverdo.com) Julia Diaz (julia.diaz@draiver.com) Armando Flores (armando.flores@draiver.com) Diego Diaz (diego.diaz@draiver.com) Camila Flores (camila.flores@draiver.com) Jose Duran (jose.duran@driverdo.com) Gerardo Acosta (gerardo.acosta@kavak.com)
+
+### **Summary**
+
+Seminar planning and driver verification via operational logistics
+
+**Seminar Planning and Drivers**
+Discussion covered safe drivers for the upcoming seminar and events.
+
+**Driver Verification**
+Review of the roster identified specific individuals and their regional work.
+
+**Operational Logistics**
+Operational challenges and tracking systems were coordinated for live operations.
+
+### **Details**
+
+  - **Initial Meeting Coordination**: Participants including Camila Flores, Uriel Vargas, and Julia Diaz initiated the conversation, focusing on initial logistical elements and the topic of drivers.
+  - **Seminar and Event Planning**: Diego Diaz and Julia Diaz coordinated regarding "safe drivers" in the context of an upcoming seminar and events, with a specific mention of Singapore.
+  - **Driver Identification and Regional Verification**: Jose Duran and Julia Diaz reviewed a roster of drivers, identifying specific individuals such as Jose Fernandez and Victor Romero, and noting their association with work in Mexico.
+  - **Operational Logistics and Communication**: Cristian Arizmendi, Camila Flores, and Julia Diaz discussed operational challenges, including signal reliability and the logistics concerning driver trips and coaches.
+  - **Finalizing Staffing and Systems**: The team concluded the discussion by referencing Mario Sanchez, the use of Salesforce for tracking, and the coordination of "live ops".

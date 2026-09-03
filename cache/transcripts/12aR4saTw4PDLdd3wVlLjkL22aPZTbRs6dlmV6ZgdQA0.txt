@@ -1,0 +1,1091 @@
+# **✍️ Quick notes**  
+
+## **\#team-one: Uber Presentation Discussion**
+
+  
+
+Aug 31, 2026
+
+[Paloma Calderon](mailto:paloma.calderon@draiver.com) [Dan Rizzo](mailto:dan.rizzo@driverdo.com) [Kevin Burke](mailto:kevin.burke@driverdo.com) [Fede Ranero](mailto:fede.ranero@driverdo.com) [Armando Flores](mailto:armando.flores@driverdo.com) [Bruno Silva](mailto:bruno.silva@driverdo.com) [Rafael Pagliuso De Andrade](mailto:rafael.andrade@driverdo.com) [Paulo Ferrato](mailto:paulo.ferrato@driverdo.com)
+
+  
+
+The project proposal involves operational logistics and technical differentiation to secure the strategic partnership with Uber.
+
+  
+
+## **Houston Pilot Operational Requirements**
+
+  - Plan for 63 W2 employees working in 8-hour shifts.
+  - Target initial fleet size of approximately 260 vehicles requiring 13 seats.
+  - Set April launch date following heavy hiring and training in Q1.
+  - Require facility within 10 minutes of ODS, fitting 5 support vehicles and 2 tow trucks.
+
+  
+
+## **Strategic Positioning**
+
+  - Fede emphasizes the relationship as a long-term partnership rather than a one-time hire.
+  - Position the company as a tech-first partner, distinct from traditional staffing firms.
+  - Focus on "4 machines": operator acquisition, vetting, training, and operational data visibility.
+  - Acknowledge Uber's requirement for W2 employees to mitigate potential misclassification risks.
+
+  
+
+## **Operational Scalability and Modeling**
+
+  - Propose hybrid W2 and independent contractor models to allow for future scaling flexibility.
+  - Use historical trip data to optimize operational hub placement and staff distribution.
+  - Demonstrate system responsiveness using heat maps and synthetic demand modeling.
+
+  
+
+## **Presentation Strategy**
+
+  - Prepare for the Tuesday, 8th meeting with a concise, high-impact visionary deck.
+  - Use video demonstrations to showcase operational tech while protecting sensitive client identities.
+  - Structure the pitch with extensive appendices to address potential technical follow-up questions.
+
+  
+
+## **Proposal Strategy and Competitive Positioning**
+
+  - Fede Ranero emphasizes the necessity of developing distinct, high-quality content to avoid submitting generic, "copy-paste" proposals.
+  - The team estimates the probability of winning the bid at approximately 50%, an increase from the initial 20-30% projection.
+  - Fede Ranero directs the team to prioritize this project, requesting deep individual focus and significant time investment to enhance the proposal's competitive edge.
+
+  
+
+## **Project Management and Cadence**
+
+  - Fede Ranero suggested implementing daily sync meetings to track progress on presentation materials and refine the overarching strategy.
+
+  
+
+## **Next steps**
+
+  - \[Fede Ranero\] Share intelligence: Send the competitor intelligence document and related podcast to the team.
+  - \[The group\] Compile appendix: Create a list of case studies and story lines to be ready by Friday. This content will serve as an appendix for the final proposal.
+  - \[The group\] Rehearse pitch: Conduct practice sessions on Thursday, Friday, and Saturday. Ensure the full presentation deck is rehearsed for the meeting on Tuesday.
+  - \[Bruno Silva\] Design deck: Enhance the visual design of the slides using the driver design system. Ensure the presentation is aesthetically professional.
+  - \[Rafael Pagliuso De Andrade\] Identify supervisors: Review the current team for qualified W2 staff who could serve as site supervisors in Houston.
+  - \[Fede Ranero\] Define agenda: Develop the structure for the pitch meeting agenda.
+  - \[The group\] Create playbook: Develop a slide showing the playbook for scaling operations in the United States and abroad.
+  - \[The group\] Develop Proposal: Develop presentation slides detailing both long term and express launch models. Include all relevant technical capabilities and operational strategies.
+  - \[Bruno Silva\] Create Video Mockup: Create a brief animation demonstrating artificial intelligence driven trip creation and heat map visualizations. Use this visual aid to illustrate system responsiveness without displaying real customer names.
+  - \[Paloma Calderon\] Plan Houston Hubs: Propose specific locations for operational sites in Houston based on historical data and travel volume patterns. Tailor the distribution to ensure optimal coverage for anticipated routes.
+  - \[The group\] Schedule Daily Sync: Conduct daily meetings to review progress on presentation materials and refine the proposal strategy. Align all members on the core message and document formatting.
+
+  
+  
+
+  
+**Want to see more?** [View the full notes  
+](about:blank)Tip: You can always access your full notes from the left sidebar.
+
+  
+  
+  
+
+*You should review Gemini's notes to make sure they're accurate.* [*Get tips and learn how Gemini takes notes*](https://support.google.com/meet/answer/14754931)
+
+*How is the quality of* ***these specific notes?*** [*Take a short survey*](https://google.qualtrics.com/jfe/form/SV_5bXzKQfylMIhSXc?confid=G3pf1gW7OeXSbY5tmnLkDxISOBEBMgUIigIgABgBCA&entryPoint=footerQuickNotes&isGoogler=False) *to let us know your feedback, including how helpful the notes were for your needs.****  
+***
+
+# **ð Full notes***  
+*
+
+ Aug 31, 2026
+
+## **\#team-one: Uber Presentation Discussion**
+
+Invited [Paloma Calderon](mailto:paloma.calderon@draiver.com) [Dan Rizzo](mailto:dan.rizzo@driverdo.com) [Kevin Burke](mailto:kevin.burke@driverdo.com) [Fede Ranero](mailto:fede.ranero@driverdo.com) [Armando Flores](mailto:armando.flores@driverdo.com) [Bruno Silva](mailto:bruno.silva@driverdo.com) [Rafael Pagliuso De Andrade](mailto:rafael.andrade@driverdo.com) [Paulo Ferrato](mailto:paulo.ferrato@driverdo.com)
+
+Attachments [\#team-one: Uber Presentation Discussion](https://calendar.google.com/calendar/event?eid=bDJwcGFlNXVhNXIyMmtsZ2p0YzhlcTlyY28gZmVkZS5yYW5lcm9AZHJpdmVyZG8uY29t)
+
+Meeting records [Transcript](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?usp=drive_web&tab=t.4si5aewuvo60) 
+
+  
+  
+
+### **Summary**
+
+The project proposal involves operational logistics and technical differentiation to secure the strategic partnership with Uber.  
+  
+**Operational and Facility Planning**  
+The project requires hiring 63 W2 staff members to support a fleet of 5 vehicles and 2 tow trucks. Teams must secure a facility near deployment sites by the first quarter to enable an April launch.  
+  
+**Strategic Positioning and Competition**  
+The team aims to distinguish itself from standard staffing agencies by leveraging data-driven optimization and four core operational machines. They will utilize technology to demonstrate marketplace control while avoiding direct comparisons to competitors.  
+  
+**Presentation and Preparation Strategy**  
+The team finalized an interactive presentation plan combining slide decks with live visual demonstrations to highlight technical prowess. All members must prioritize this proposal above other tasks to maximize win probability.
+
+  
+  
+
+### **Decisions**
+
+## **Aligned**
+
+  - **Presentation submission deadline** The final draft of the presentation appendix is set for completion by end of day Friday, with Saturday reserved for a full deck rehearsal if required.
+  - **Presentation delivery format** The presentation strategy for the Uber pitch is set to use live narration with silent video clips rather than pre-recorded audio to ensure client confidentiality and maintain interactive engagement.
+
+  
+  
+
+### **Next steps**
+
+  - \[Fede Ranero\] Share intelligence: Send the competitor intelligence document and related podcast to the team.
+  - \[The group\] Compile appendix: Create a list of case studies and story lines to be ready by Friday. This content will serve as an appendix for the final proposal.
+  - \[The group\] Rehearse pitch: Conduct practice sessions on Thursday, Friday, and Saturday. Ensure the full presentation deck is rehearsed for the meeting on Tuesday.
+  - \[Bruno Silva\] Design deck: Enhance the visual design of the slides using the driver design system. Ensure the presentation is aesthetically professional.
+  - \[Rafael Pagliuso De Andrade\] Identify supervisors: Review the current team for qualified W2 staff who could serve as site supervisors in Houston.
+  - \[Fede Ranero\] Define agenda: Develop the structure for the pitch meeting agenda.
+  - \[The group\] Create playbook: Develop a slide showing the playbook for scaling operations in the United States and abroad.
+  - \[The group\] Develop Proposal: Develop presentation slides detailing both long term and express launch models. Include all relevant technical capabilities and operational strategies.
+  - \[Bruno Silva\] Create Video Mockup: Create a brief animation demonstrating artificial intelligence driven trip creation and heat map visualizations. Use this visual aid to illustrate system responsiveness without displaying real customer names.
+  - \[Paloma Calderon\] Plan Houston Hubs: Propose specific locations for operational sites in Houston based on historical data and travel volume patterns. Tailor the distribution to ensure optimal coverage for anticipated routes.
+  - \[The group\] Schedule Daily Sync: Conduct daily meetings to review progress on presentation materials and refine the proposal strategy. Align all members on the core message and document formatting.
+
+  
+  
+
+### **Details**
+
+  - **Proposed Operational Scope and Hiring**: Dan Rizzo detailed the requirements for the proposed project, which involves maintaining five support cars staffed with two people each to ensure a response time within 10 minutes of an incident flagging. The operation requires a minimum of one tow truck and necessitates hiring approximately 63 staff members to work eight-hour shifts, alongside an HR representative and a program manager. These individuals must be W2 employees, as the client has expressed no interest in an independent contractor model at this time.
+  - **Operational Timeline and Facility Requirements**: Rafael Pagliuso De Andrade and Paulo Ferrato outlined the schedule, which includes heavy hiring in January and February, intensive training throughout February and March, and a go-live date in April ([00:01:10](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.u5fyslxkecbv)). The team must secure a facility located within 10 minutes of the client's operation deployment sites to house the five support vehicles, two tow trucks, and a small office space. Paulo Ferrato confirmed that while properties have been scouted and brokers contacted, a lease agreement must be finalized to ensure the location is adapted and ready by the end of the first quarter ([00:02:15](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.6odbsfwkozu4)).
+  - **Financial Context and Fleet Scale**: Fede Ranero noted the company is projected to close the year at 45 million in revenue. The initial contract for managing the fleet in Houston involves approximately 200 vehicles, based on a ratio of 1 seat per 20 vehicles for the 13 initial seats, although this remains an estimate ([00:03:36](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.2r2g8eluomw)).
+  - **Vehicle Technology and Client Strategy**: Fede Ranero explained that the fleet consists of Lucid Gravity vehicles equipped with Nuro self-driving systems, which have received equity backing from Uber. Uber is positioning itself as the demand channel and aggregator, aiming to increase vehicle utility and trip frequency, with a goal of utilizing its substantial equity investments in the space ([00:04:45](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.a4k44brl4kvu)). The team aims to earn "trusted partner" status by focusing on vehicle uptime and utilization at the highest point of the demand curve, planting the seed for future scalability into tens of thousands of vehicles across multiple cities ([00:05:54](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.eyongk647c3l)).
+  - **Strategic Positioning**: Fede Ranero emphasized that this contract serves as an entry point, or "Hawaii," for the company, requiring flexibility and understanding of the client's current needs while demonstrating the capability to scale. The company aims to differentiate itself from traditional staffing firms or employers of record by showing advanced operational capabilities, even if the current scope involves fixed W2 roles and specific facilities ([00:07:01](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.e97g0y9kn1ge)).
+  - **Competitive Landscape**: Fede Ranero identified competitors such as Taskos and advised the group to avoid being categorized as a standard staffing agency ([00:08:16](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.c4mgada7d41r)). The team will focus on showcasing their "four machines"—operator acquisition, vetting and training, captive insurance, and data-driven optimization—to prove they can handle high-complexity operations ([00:09:27](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.ku1d9ayu4bsk)) ([00:17:12](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.pe7b78yfb988)). Fede Ranero planned to share a competitor intelligence document and a podcast to provide context on the opposition ([00:08:16](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.c4mgada7d41r)).
+  - **Presentation and Meeting Strategy**: Fede Ranero and the team discussed the upcoming meeting on Tuesday the 8th, agreeing that the presentation should be a combination of a slide deck and live demonstrations ([00:10:48](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.rtxfrqll05az)) ([00:22:22](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.wser6sew6dm9)). The team aims to avoid over-presenting and will focus on an interactive, simplified narrative of the proposal, using their existing 98-slide submission as a base while keeping specific details in an appendix ([00:11:57](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.ha66lvt0snkp)) ([00:29:52](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.8estm32pzcm9)). They will utilize existing case studies from companies like Kavak and Pensky, using video demonstrations to protect client confidentiality ([00:11:57](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.ha66lvt0snkp)) ([00:25:33](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.ilq4ka9y6rwc)).
+  - **Internal Preparation and Workflow**: The team agreed to prioritize this proposal above all other routines, setting a goal to have a solid final draft of a long appendix by Friday end-of-day. Rafael Pagliuso De Andrade proposed holding a rehearsal on Saturday to ensure the team is fully prepared for the Monday/Tuesday meetings ([00:23:16](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.m482at5l2gk4)) ([00:33:30](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.42tlqpc11rxn)). Fede Ranero encouraged the team to focus on the strategic vision and creative elements of the deck rather than just the layout ([00:34:17](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.7824b1cqgtqn)).
+  - **Addressing Legal and Operational Concerns**: Bruno Silva and Rafael Pagliuso De Andrade discussed the importance of the W2 requirement, noting that Uber is focused on avoiding misclassification lawsuits ([00:52:58](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.iuoj4a395q87)). While Uber currently requires W2 employees, the team intends to frame their pitch to highlight the flexibility of their technology, ensuring that if the client moves toward a hybrid or contractor model in the future, the company is prepared to support that transition ([00:14:18](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.ve9oxhnjdz8e)) ([00:51:04](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.d272j8e031y8)).
+
+  - **Leveraging Technology and Data**: The team explored ways to showcase their technical prowess, including using heat maps to demonstrate demand anticipation and dispatch optimization ([00:47:02](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.4zgsiu6cqwhy)). Paloma Calderon suggested that displaying their control over the marketplace and ability to use data for positioning employees or resources would be a key differentiator ([00:49:09](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.aym5j0b7jfdy)). Fede Ranero reinforced that all discussions, whether regarding insurance or operations, should be anchored in technology and the "four machines" framework ([00:17:12](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.pe7b78yfb988)) ([00:21:32](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.tcdvdg891war)).
+
+  - **Refining Competitor Cohorts**: Paulo Ferrato and Fede Ranero discussed categorizing competitors into three cohorts—fleet management, offline local players, and new market commerce firms—to better highlight the company’s unique blend of technology and operational scale ([00:43:46](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.cty7lybihpb9)). This approach will allow the team to tailor their differentiators depending on which type of competitor they are compared against ([00:44:48](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.erkir8u1pc33)).
+  - **Final Meeting Preparation**: Fede Ranero directed the team to focus their upcoming efforts on refining the slide deck, integrating visual demonstrations of their technical capabilities, and preparing to pivot quickly into a question-and-answer format during the meeting with Uber. The team will create short video clips for demonstrations, ensuring they are presented live without audio to maintain professionalism while avoiding the disclosure of sensitive customer names ([00:56:15](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.t8efguckvjxc)).
+  - **Project Presentation and Personal Commitment**: Fede Ranero discusses the preparation of presentation materials, emphasizing the importance of the current project and sharing that they have been dedicating significant time and thought to it, even amidst personal distractions. Fede Ranero expresses a clear expectation that all team members must invest the same high level of energy to ensure the project is successful ([00:58:00](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.4rcx5i9jriaj)).
+  - **Winning Probability and Strategic Differentiation**: Fede Ranero assesses the team's chance of winning, stating that while they initially estimated the probability at 20-30%, they believe it has increased, though they acknowledge it may still be a "coin flip". To improve their chances, Fede Ranero urges the team to go above and beyond to provide distinct thinking, specifically warning against simply copying and pasting the proposal sent to Task Cost, as that would be an ineffective approach ([00:58:00](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.4rcx5i9jriaj)).
+  - **Execution Strategy and Follow-up**: Fede Ranero instructs the team to clear their agendas and engage in deep work, suggesting that they should spend tokens on personal plans if necessary to prioritize this effort. To maintain momentum, Fede Ranero proposes a daily meeting cadence to track progress, with the team planning to reconnect the following day to determine the next steps ([00:58:00](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.4rcx5i9jriaj)).
+  - **Meeting Conclusion**: The meeting concludes with Paloma Calderon, Fede Ranero, Paulo Ferrato, Armando Flores, and Bruno Silva exchanging closing pleasantries and confirming their shared excitement regarding the project ([00:58:00](https://docs.google.com/document/d/12aR4saTw4PDLdd3wVlLjkL22aPZTbRs6dlmV6ZgdQA0/edit?ouid=107114406729300780928#heading=h.4rcx5i9jriaj)).
+
+  
+  
+
+*You should review Gemini's notes to make sure they're accurate.* [*Get tips and learn how Gemini takes notes*](https://support.google.com/meet/answer/14754931)
+
+*How is the quality of* ***these specific notes?*** [*Take a short survey*](https://google.qualtrics.com/jfe/form/SV_5bXzKQfylMIhSXc?confid=G3pf1gW7OeXSbY5tmnLkDxISOBEBMgUIigIgABgBCA&detailLevel=standard&hasImages=True&entryPoint=footerMain&isGoogler=False) *to let us know your feedback, including how helpful the notes were for your needs.****  
+***
+
+# **ð Transcript***  
+*
+
+ Aug 31, 2026
+
+## **\#team-one: Uber Presentation Discussion - Transcript**
+
+### **00:00:00**
+
+  
+
+**Dan Rizzo:** in terms of what they're looking for uh when there are vehicle incidents. So the idea is we will have um at all times five um I forget the term they use but five cars with two people in them of to go check out an incident and it's a very uh I think the response time is within 10 minutes of them flagging something. We need to have a car there. Um and then we also have to have at a minimum one tow truck in operations. So I think all in all we would be looking to hire in our proposal is somewhere around 63 people um to basically work in uh eight hour shifts throughout the day and then also someone on the HR side and a program manager as well to kind of help oversee and facilitate everything. So, it's very different from what we're doing now with vehicle movements. These would all be W2 employees. They said that at this time they do not have any interest in the contractor model. Um, and so we'd be looking to hire and and retrain all these people.
+
+  
+  
+
+### **00:01:10**
+
+  
+
+**Dan Rizzo:** We'd have to also rent a facility um down there. And I think Paulo, you you had kind of scoped out a couple of facilities. Um, we also kind of looked into, you know, what type of vehicles we would need um to purchase. Uh, I'm trying to think, are there any I think those are kind of the main highlights. Rafa and Paulo, I don't know if you guys want to compliment with anything there, but I think that's, you know, to the
+
+**Rafael Pagliuso De Andrade:** Yeah. Yeah. Just the uh uh one I mean it's not only like hire and hit the ground running.
+
+**Dan Rizzo:** logist
+
+**Rafael Pagliuso De Andrade:** There's a there's a training element that we're going to need to to uh put these people through training training schedule. So uh you know all in all uh if uh Uber follows their their um um timeline we should be looking at a very heavy hiring in and we'll win the the bid of course uh would be looking have very heavy hiring in January February heavy training February and March and go live in April right Um we yeah we have uh we have you
+
+  
+  
+
+### **00:02:15**
+
+  
+
+**Dan Rizzo:** Oops.
+
+**Rafael Pagliuso De Andrade:** know contacted a few uh um training groups uh that there's no reason for us to build training if uh it's cheaper just to tap into companies that do that for a living. uh and Paulo about the the location. You want to talk a little bit about it? What you're what you're envisioning?
+
+**Paulo Ferrato:** I think it's very straightforward. But they we need to find a location that will be 10 minutes away from the pol the the the the OD the ODS they have around the the city and we need to fit five support vehicles and two tool trucks there and uh and also a small office. So we we researched some properties uh you know in property websites we contacted two uh brokers in the city also and we um and we we get we got a couple of uh options and all and and consider it and the pricing also. So, we're going to have not only the hiring process challenge, but also the property challenge. So, we need to find a location.
+
+  
+  
+
+### **00:03:36**
+
+  
+
+**Paulo Ferrato:** We need to sign a lease agreement. We need to adapt the location for the operation if you win and need to be ready uh Q 27 suppose end of Q1.
+
+**Fede Ranero:** I think it's Q1 no or Q2 launch.
+
+**Paulo Ferrato:** Yeah, of I know more than me.
+
+**Fede Ranero:** Okay.
+
+**Paulo Ferrato:** I was just I need to refresh my mind about
+
+**Fede Ranero:** Yeah. Um but yeah, that's it guys. For context again, we're going to close this year at 45 million revenue. And this single contract of what it is to manage the initial batch of vehicles in Houston, which is probably a couple hundred, you know, the the typical ratios of vehicles to to, you know, seat uh is like 1 to 20 or 1 to 50. they're probably going to be very more conservative initially. So again, this 13 seats time 20 takes you to 260. So that's probably around the the fleet size that we're look looking at. They have not told us which vehicles it is, but I think we know based on on the market announcements.
+
+  
+  
+
+### **00:04:45**
+
+  
+
+**Fede Ranero:** These are the the new Lucid vehicles for Houston. You you can Google that. But it's basically a Lucid Gravity which is sort of like my my Toyota Sienna much but costing like 10X much nicer and a self-driving system on top uh provided by Neuro um and uh initially deployed in in Houston. Uber has backed both Lucid and Nuro with uh equity deals. So their whole uh strategy into the space is owning uh equity investments. They have announced a total of $10 billion to be deployed into the space. But they clearly want to be the the distribution, the demand channel, the aggregator to pro provide the the highest utility for those vehicles so that the vehicle owners and operators can choose to um plug their vehicles into Uber because in Uber they could do call it you know D the CEO mentioned in the last earnings call a typical EV is doing uh like 20 trips per day. We're seeing some of our EVs doing close to 30 trips per day. that incrementality in terms of trip per day.
+
+  
+  
+
+### **00:05:54**
+
+  
+
+**Fede Ranero:** You know, part of that is is the demand that they can bring. uh of course uh but where where we specialize and focus on is that uh that that the uptime right there's uh the availability of that vehicle and uh after being available having the vehicle be utilized at the highest point of the demand curve meaning the the point of its highest yield and that's why you get futuristic about moving AVs across cities and what not that that you've seen in in my deck from the conference that's not an issue today that's not what they're buying today they are not open to dieseS at this stage today that's totally fine our job is to be visionary futuristic to earn the trusted partner status that is going to be a long journey a long dance but I think for now we we need to plant the seed for them to know that we're not thinking about solving these 30 13 seats for Houston only and this couple hundred vehicles we're thinking about they scaling to the tenth of thousands per vehicle per city across multiple cities and they're thinking of partners that can help them throughout their journey not only to scale within in the city but across the multiple locations which include a bunch of of international locations.
+
+  
+  
+
+### **00:07:01**
+
+  
+
+**Fede Ranero:** So going back to what this means for us again think of this you know 6.5 million relative to our 45 just by this initial batch by this single city. Not only would that city grow in multiples but also multiple cities uh across so this could be transformative for us. Um this is our Hawaii uh in in in the element analogy, right? This is our way in uh our our are showing what we can do requires some compromises, right? Uh compromises what Paul will describe, right? They want W2s. They want fixed people. They want fixed facility for them to park the vehicles and work from and have the shift manager sit in. Uh and they want the the fixed vehicles. as we grow into that we're going to need a variability right of both the labor from IC's and uh the the vehicles from chase model and whatn not and that's where we need to be v visionary and show understanding on the space and capabilities to grow beyond what's needed today because those those peaks and bodies will come those opportunities beyond the corrective to get that vehicle back on the road to the opportunistic to get the vehicle to the highest point of earning and that Super Bowl weekend in Dallas uh in my example in the conference is going to be where where we can uh truly differentiate.
+
+  
+  
+
+### **00:08:16**
+
+  
+
+**Fede Ranero:** Um we're competing against uh players that that have already done this for a long time uh but that tend to be the typical staffing firm, the typical employer of record. Uh so there's this company called Taskos. Uh I'll share with you guys competitor intelligence document and a podcast from this layer for you to know who we're playing against. And it's important because ultimately you know in the room at this stage we will have half AV operators and we've already met them had call with them show them what driver is etc. And you have the the sourcing team, right? This is going to be like two or three of each team. And the sorting team is going to be very methodical, making sure they ask the same questions, they have the same core in a standardized and competitive crosses across and then the operating team is going to know what this means on the ground. Um but what I want us to focus on is show that we're not another employer record or staffing firm right uh and that's why you know summarizing those four machines but we want to bring our distinct ability whether that applies to what they're buying today for a couple hundred vehicles of Houston or not is is less relevant.
+
+  
+  
+
+### **00:09:27**
+
+  
+
+**Fede Ranero:** They want to know that we're not a bunch of rookies that we've done competitive sorry complicated and uh high complexity operations. We've we've solved at scale whether that's the twos where that's uh fix whether that's variable. We understand that the elasticity becomes the product at some point and we can solve that but we can uh also solve that today. And uh we don't want them to think that oh well these guys typically do 1099 so now they're going to have to repurpose all of their their focus and abilities to find no no it's the same capabilities it's the same acquisition machines it's the same funnels it's the you know the same ways of working where we can find and convert people just like we've done for the fixed shifts in in in Quebec or examples in Pensy or just like we've done in the com situations like you know end to end multimodel uh in the yard management for Tesla or the you know customer deliveries for Stellantis in Brazil or the site inspections for element that's what they want to they will want to see and that's how we score points with both teams because we understand the operation we've done it and we will give specific criteria for the you know call it consultant type team of of of sourcing people that will go then and look at you know what's the score across these categories for this player versus that player.
+
+  
+  
+
+### **00:10:48**
+
+  
+
+**Fede Ranero:** We want to give them arguments to defend us in the room. But this comes to the final stage which would be okay. They select either a winner or a couple of finalists and then we can be expected to be invited to to Houston where they will show us uh probably the depot operations and uh we will continue to to discuss and get down to to the the operative stuff. Um so that's what we can expect. I think all all this group can expect to be involved at different stages even at the visit. We'll have to play it by ear. Uh we we we're not going to need everyone in the room for this initial call. Uh we don't want to to overkill and and you know keep the two pizza rule in check and make sure that we have a good discussion. But then there'll be multiple stages. Again think of this as a building a relationship as a dance. Uh and um for now what I need from group is as as described in in the in the chat right let's let's go a long list of of good things that could answer those questions or could hit points on those uh scores, right?
+
+  
+  
+
+### **00:11:57**
+
+  
+
+**Fede Ranero:** Um, and let's start doing a long list. You know, it could become a huge appendix or it could evolve into sort of a story line, but 60 minutes is not a lot, right? I mean, we already have 98 slides in the submission document plus an Excel model. I mean, this is mostly going to look like, okay, here's an intro and I'd like to go from the top, here's a vision, here's the solution for Texas, and then we go uh particularly for stuffing, but then you you can probably expect that to break into a, you know, a tree of possibilities. And what I I want us to do is is go already. Okay. Okay. Uh for this we can show that um because of client confidentiality as much as we have RFPs and whatn not we're going to need to get creative. For instance, I think there's there's no issue in us showing Kavak trips because number one is international, number two is a company, number three is a highly complex high volume operation. So I think that would be great to do a live demo using Kavak.
+
+  
+  
+
+### **00:12:56**
+
+  
+
+**Fede Ranero:** But then for other stuff I don't think we want to show element. I mean there might way to show Pensky. I don't know like but we would show that probably in a video where we cover the logos. Uh you know so it might require some pre-work where we sit down with Alina or or or cloud and and and and get to do a 30 or 60 second video where we show this and that. But uh I think it's important to keep in mind yes what they're buying today and how we could solve for that today but also be futuristic right it's like okay we as we grow we will enter into this in those situations where we're going to need the flexibility of labor here's the chase model we're going to need the flex the flexibility of vehicles here's the chase model we're going to need the flexibility of labor here's the 1099 or W2 model for that matter right show our depth of of of supply and and capabilities of the acquisition machines right maybe show some of the live ops or show some some of how we process the funnels or how we did our Hawaii or many multiple Hawaiies where we go into location where we've never operated before but we can leverage our existing infra and funnels to go and activate you know that's that's what I think we we need to do right now um evidently we're we're the small player here uh we're the risky player uh we're betting on them trusting us um and we're betting on them looking
+
+  
+  
+
+### **00:14:18**
+
+  
+
+**Fede Ranero:** for multiple players and not wanting to um you know in bed with with a couple of of large players particularly because this competitor task is is is pretty in bed with way more they're not going to like that so they're going to like look for for alternatives and in the grand scheme of things 6.5 million country in Houston is not huge for them they could test multiple suppliers so we need to find our way in then as we operate we're going to earn uh the scale within the city or multiple cities but um like I think we have we have a lot of advantages for them to be intrigued by us. Um and uh yeah. Yeah. So, let me stop there for for questions comes from you guys while I'll send you competitive blocks.
+
+**Bruno Silva:** The question that I have is more like so for now we don't can't have like the contractors but like one of the things that maybe can show as a strength is like we can use contracts even to hire for a day or for a week or whatever that could be like complementing the the employees.
+
+  
+  
+
+### **00:15:19**
+
+  
+
+**Bruno Silva:** But as understood they wants to guarantee that is this person are employees for us right even if we have like a driver for 8
+
+**Fede Ranero:** Yeah, both both are true. So,
+
+**Bruno Silva:** hours.
+
+**Fede Ranero:** so right now they want to guarantee this fix person, but it's not a lot of seats, right? It's 13 seats. If we go to FTE 247, which is a possibility,
+
+**Bruno Silva:** Mhm.
+
+**Fede Ranero:** they ask for three models. uh but uh that that that uh all the way 24/7 uh 365 would be uh it's a factor of 4.7 so 64 ft but um at this stage yes as this grows again uh I think we want to show what you just said right and and we want to show how we would do it right show the finals or or where we have done it in a case study so both are
+
+**Bruno Silva:** Yeah,
+
+**Rafael Pagliuso De Andrade:** And
+
+**Bruno Silva:** I would just I would just compliment just before handing for the others like as we are like the outsider probably like
+
+**Rafael Pagliuso De Andrade:** then
+
+  
+  
+
+### **00:16:14**
+
+  
+
+**Bruno Silva:** as understanding like what is our big I like say strange is a part of the and I understand that Uber loves that is a part of the data that we can generate with that.
+
+**Fede Ranero:** is
+
+**Bruno Silva:** I think like if we can partnership and we can share that we're going to partnership with them like sharing all this data
+
+**Fede Ranero:** it?
+
+**Bruno Silva:** that we're learning on this process that in the end of the day will be optimizing costs and SLAs and then experience I think that where we can win and
+
+**Fede Ranero:** Yep.
+
+**Bruno Silva:** differentiate from the others because the other are more people intensive I believe
+
+**Fede Ranero:** Totally. Yeah. Yeah. I think you know that's what I thought about the four machines, right? It's like we have an operator acquisition machine, right? Uh we can we already have active and in-depth funnels and at scale bases that we can leverage into. We have an ability to vet them, to train them, to dispatch them, and to to manage them as we see fit. Telematics, cross trainining, shifts for a day, shifts for a month, what whatever is needed depends on the client circumstances.
+
+  
+  
+
+### **00:17:12**
+
+  
+
+**Fede Ranero:** Double the tools. Sure. Um, I mean, with Kavak were just discussing. Oh, we need another fixed layer of drivers, right? Wonderful. That's double the tools. Do they see a Kavak? Do they see a driver? It really depends. But, but we have an ability to solve for any of that. I think insurance being a captive is is particularly differentiated and how it's activated with with the technology right everyone has insurance but showing the ability of you know we've we've gone captive we've gone through the specific periods Uber does that so they we're going to be preaching to the car but they're going to like that that we have that that ability to do that and the third one is fourth one is what what you said right is is the the you know full x-ray visibility and optimization through the data and and we should show like what do we have in the in the performance reviews and customers and think we've optimized and uh case studies I send one.
+
+  
+  
+
+### **00:17:59**
+
+  
+
+**Fede Ranero:** So I'm so sure.
+
+**Rafael Pagliuso De Andrade:** Yeah, I accidentally turned off mine, but uh let me just make one comment. Uh so first Bruno uh one thing that you know Fed and I were talking also uh is we we have what 100,000 drivers that we we don't we just don't have the business to um um activate them.
+
+**Bruno Silva:** Yes.
+
+**Rafael Pagliuso De Andrade:** That'll be part of our pipeline to to to get um uh drivers even even though they're W2 uh we already have you know at least prevetted. We're going to look into that. Uh second thing is uh and you know then we're going to have to talk a little bit about this in more detail but there are some people in our team that are already W2 that of course they wouldn't need to want to move to Houston but uh that we could plug and play as as the supervisor of the site you know from an operations perspective. So if if we can show that knowledge also I think it'll be very beneficial for us when we're sitting down in front in front of them in their next in their coming up meeting.
+
+  
+  
+
+### **00:19:03**
+
+  
+
+**Rafael Pagliuso De Andrade:** Sorry Paloma.
+
+**Paloma Calderon:** No, not at all. Um, I think it's all complimentary, but um, obviously our ability to, as we've said, recruit drivers and and have similar methods even though they're W2. Um, I think it's a good to do the analogy and we started doing it with Element where we have the ability to dispatch a an in back then an independent contractor to do things, right? It wasn't just to drive a vehicle, but it could have been when we were talking about tasks. I think here is just we have another pool of resources that could have different abilities in the future. Um, and the technology and the backbone of all of that is already built into a the way that we work and and two from what we could grow. Um so bringing examples of like tasks or items and again we we not only focus on moving cars but we also have this new concept right of like something's needed to be done somewhere. um what type of thing is it who do we have qualified that can do it around and then how do we do like quickly dispatching of that person and then scaling that with AI but then also scaling which we've talked about this before but scaling the tasks as well so where a lot of our competitors might think that they need a human to be doing 100% of the tasks that uh Uber requires it might be 90 at the beginning for us and we're going to keep pushing to 85,
+
+  
+  
+
+### **00:20:36**
+
+  
+
+**Paloma Calderon:** right? So whether it's the automatic dispatching or even like building out schedules um to anticipate demand, like those are a lot of the things that our our competitors are going to be doing manually and we're going to be thinking about uh scaling. So I think there's a lot of opportunity Yes.
+
+**Fede Ranero:** Yeah, all good points for sure. And I think AI specific and how we're using it that that deserves a couple sides. you know, five size or so. Whether we use them or not, we're for sure going to talk about it. Um, you know, the whole point of on being a technology company and not a staffing company that is using cloud, uh, is is is part of the core differentiators, right? Um, and each of the pieces is like there's no specific piece for like I think for AI specifically because Uber has been very hot in the news about AI usage and ROI and money selection and and all that. We might want to to show what the specific part is in there.
+
+  
+  
+
+### **00:21:32**
+
+  
+
+**Fede Ranero:** But everything as part of like the four machines everything has to start and end with technology again insurance all the business in the world but it starts with the ability to to have specific coverage as triggered by the application right so always bring it back to to to that right uh make it sound like yeah you know we do this and then we have this initiatives like we're you know tech first AF first at everything we do and we need to portray that but but yeah Bruno show throw in the slides about the latest of all that products. I think yeah like what what do you share recently with me? I I just put in a letter. I don't have any slides. Slides don't be pretty. Uh Cloud does an amazing job. Cloud design does an amazing job. Hope you all have migrated to the personal account. So for $200 you can burn uh I don't know two or $7,000 in tokens
+
+**Bruno Silva:** Yes. Yes.
+
+**Fede Ranero:** without an issue.
+
+  
+  
+
+### **00:22:22**
+
+  
+
+**Fede Ranero:** So uh go ahead and make them pretty with that. Use that driver design system. But don't worry too much beyond be beyond that point. I think what they want to know is okay here's the impact here's a cost per ticket here's a um productivity pay per per am here's what the product does and confirmations and metrics right so bring it to to ROI on on AI because I think they're going to like that uh they have been debating a lot whether to open up AI or restrict it or how do they measure the ROI and if we show that mindset I think it's going to be
+
+**Bruno Silva:** Okay, thanks.
+
+**Armando Flores:** ju just a couple of things. So, when do we have to make this um show to to Uber? I have a couple of ideas, but it all depends on the timing.
+
+**Fede Ranero:** So the call is next Tuesday the 8th.
+
+**Armando Flores:** Okay.
+
+**Fede Ranero:** Um I want us to to to spend a lot of time this week. Like guys for me this is the top right.
+
+  
+  
+
+### **00:23:16**
+
+  
+
+**Fede Ranero:** Like I kid you not last night I dreamt so much about like it is at that level for me right now. uh because and this is not nothing new uh you know we had the the specific OKR having two paying customers this year maybe that was too aggressive but I don't think even are aggressive is even close to what how big this this could be I might not have that paying customers this year because all the projects like Uber or even Adams in LA which are the two biggest logos I could think of um would start in Q127 um but I I think our our landing this logo who is so strategic because he's going to open the floodgates for us. Um,
+
+**Armando Flores:** because
+
+**Fede Ranero:** it will it will become public. So, but I'll close my ass with this. Like, spend a lot of energy, cancel every routine, ridiculous stuff. Like, trust this could drastically change the trajectory of the company, right? I mean, the 6.5 million in Houston could be uh 100 million in Houston at scale in Houston, right?
+
+  
+  
+
+### **00:24:15**
+
+  
+
+**Fede Ranero:** What about the other cities if we prove that we can operate well? uh you know spend proportionally the amount of energy and and and whatever idea you're about to pitch me uh do it Armando but let's try let's try to have it this week to have a good solid final draft of at least a long appendix by Friday um Friday end of day um yeah Monday I'll do my best to think of how we structure our pitch and agenda uh and we might not use it all at this stage we might not have everyone in the room at stage but we will uh this this is going to this is going to be a lot of steps. Okay.
+
+**Armando Flores:** Yeah. So, so my experience gaining those type of projects is actually putting things on the ground working. Okay. So my idea that we could something could easily execute and show them that we can set up something physical that we can run operations on site that we can do uh people would be setting up in Kavak as the team that we have put a Dra logo uh put them uniforms uh and create something additional there like putting a a Dra booth uh doing some inspections I mean showing that we can actually set up something really quickly with our brand with our people operating because today they know we operate right but they haven't seen something physical.
+
+  
+  
+
+### **00:25:33**
+
+  
+
+**Armando Flores:** I mean this is more like a show than than something maybe that we're already doing. But if we can develop or put a booth or put I don't know some sort of structure saying in Kabak in LMA to with logo or something physical I think that would call their attention and seeing people we can even bring people there and show them what we're doing. I don't know what we would be doing but we can invent something from here to Tuesday right for them.
+
+**Fede Ranero:** I mean, um, let me find the deck decent for for Tuesday. it won't be ready. But I think this is where we where we leverage a lot of the give me one second. Where do I want to find the Google doc version submission deck? I don't know. Here it is. Uh I leverage a lot of like the physical stuff of of connecting company at the end things that I I personally built. Um I think for Tuesday, you know, we already have the case studies of the yards and and whatnot.
+
+  
+  
+
+### **00:26:34**
+
+  
+
+**Fede Ranero:** Um maybe for a later stage if we do a visit or something like that we we could but like this sorts of things like literally I built uh across multiple markets and what not. like get a bunch of of of data like this is a continuous improvement problem we had with all team. They don't care about branding, uh, right? They want to know that we've we can do it right and even our parents operation or our past operation like Paulo how many sites like those have you done for rapy like we need to bring those you you bring it lightly uh you know typically in my experience when we've done this and that this is what you do um and if I don't think they would visit they wouldn't care about visiting me Mexico uh uh except one person in the team that of the operators that I know I think is the only one that would care about visiting people, but um they're not going to care about that. They want to know,
+
+**Armando Flores:** Okay.
+
+**Fede Ranero:** you know, can this guy do do it?
+
+  
+  
+
+### **00:27:34**
+
+  
+
+**Fede Ranero:** And that's a function of have they done it? Um either in this life or in in
+
+**Armando Flores:** All
+
+**Fede Ranero:** another um and and how good are they to absorb and tackle new challenges. So the whole mindset and energy and ability to take on new challenges is going to be very important because like even coming out to from the AV conference last week. Everyone is figuring this out. No one has any idea of what they're getting into, which is why Uber is not taking the risk of trusting the reliability of a marketplace to do everything on demand at this stage. I get that are in the spot. You cannot have an AV stuck forever because the company failed to have a contractor in seven minutes. So, they're going to bet a lot in our ability to build a future, right? Not necessarily in our ability to show because no one except like task cost or those companies that might say yeah we we're doing the 200 wayos in Phoenix type of thing because all of the fleets are 100 200 vehicles except Whimo in San Francisco that is inhouse and that's a thousandish vehicles.
+
+  
+  
+
+### **00:28:43**
+
+  
+
+**Fede Ranero:** The rest is very small fleet. No one can claim a historical le expertise uh in in their in their CVs. Um what they're looking for is um you know replicable capabilities, right? And you know the the attitude really the aptitude and the attitude to to build this this
+
+**Paulo Ferrato:** Jesus.
+
+**Fede Ranero:** for ultimately they're going to be betting on the team. Uh so so yeah may maybe you know if he gets to a visitor or something like that for sure if this guy tells me he's coming we're going to do something like that but I think we can with the yards of Tesla right uh bring pictures of that uh do a more detailed case study uh than the one that we have in there which is you know very very basic with AI images right uh uh the Stellantis in Brazil is a great one the sides of of elements the top
+
+**Paulo Ferrato:** Let me comment just just my my vision here again. I was out last week so I don't know if you get involved. I think you did a very amazing probably one of the best decks you probably ever did uh about it and they have 100 slides.
+
+  
+  
+
+### **00:29:52**
+
+  
+
+**Fede Ranero:** $1,000. $1,000 in pocket.
+
+**Paulo Ferrato:** So covering.
+
+**Armando Flores:** Plus my tokens for the
+
+**Paulo Ferrato:** So we have So we have all this
+
+**Fede Ranero:** Plus your tokens. You help me a lot with the case studies.
+
+**Paulo Ferrato:** this content um that I'm sure covers 90% of you know anything you want to discuss and in the meeting they probably would like to make more questions or we need to find a way to be more theatical and compress all this information uh in an easy way. So I like the idea of the video. Maybe not a know a video so complex like we we did for the explainer but something that you know um we we present instead of a slideshow stuff that could be fast like five 10 minutes maximum and then compress all these 100 slides and concepts in maybe three topics. You know how why we are the the best player right now, how we do it and how we going to support you in the future. something simple and then open the space for for the questions they probably have after read all this content.
+
+  
+  
+
+### **00:30:56**
+
+  
+
+**Paulo Ferrato:** No. So I I'm not I don't know if it could build more things and bring more
+
+**Fede Ranero:** Yeah.
+
+**Paulo Ferrato:** complexity in terms of cases and and things because there's a lot of good stuff here already. So I' I would go in the another direction to to simplify it and make um and create more room in the meeting to discuss uh rather than present new stuff. My my my vision
+
+**Fede Ranero:** Yeah, true. What I what I think is since we were answering to an RFP, we didn't have a chance to display about the future and we need to plant the seed and and we need to use this this opportunity to do that. So as much as not 100% of the meeting is going to be go to towards that way we can simply plant a seed by showing something but surely as the Q\&A grows you're going to say well when you need to find hundreds of more operators how are you going to do that they didn't ask for that in the RFP it's not in the deck that we send that's an opportunity to show that this is nothing new for us that we have technology funnels existing base to do that and for that uh we probably just want to go and you know here's Here's a slide of driver acquisition and here's a you know gift plane on the right side of uh filtering and whatnot and then I don't know live
+
+  
+  
+
+### **00:32:14**
+
+  
+
+**Fede Ranero:** ops for dispatching that's what I'm talking about because either we use it right now or not uh we we will at some point and it's always in my experience better to overprepare um and in terms of the agenda they have already shared it I just repasted this is what it comes in the invite it's the same as as the email um but They're asking for the elements that differentiate us and they don't want us to walk through the full proposal. They want to look at specific things that operating model and overall approach. I think that we already have we're going to use the same slides uh in the the first six slides which summarize our approach for Houston in in six slides. Right? Then the key strength and differentiators I think it'll be good to to maybe we we could structure the deck as as this right uh and maybe we reuse some some of the slides um but yeah there are some specifics right and and many we have answered mainly we can bring in a seed that is not part of the RFP and and show some some visionary so I think it's a good idea let's do a an appendix summarizing in this this bullet like to your questions this is what we built expect a lot of you you know, it's not going to be like slide by slide by slide.
+
+  
+  
+
+### **00:33:30**
+
+  
+
+**Fede Ranero:** It's going to be a lot of interaction, right? So, this might take us into that rabbit hole. And it was very helpful for that rabbit hole to show this three slides that we have in an appendix of 200 slides that we might only use 10 during the meeting, but they showed what they were looking for, right? Um, so that that's what what I'm thinking.
+
+**Rafael Pagliuso De Andrade:** Can Can we do Can we do a or I I I I think leaving it for Monday, Friday can be uh
+
+**Fede Ranero:** Yeah,
+
+**Rafael Pagliuso De Andrade:** to Yeah,
+
+**Fede Ranero:** let's do another touch point in between. I was thinking, you know, end of day, Friday,
+
+**Rafael Pagliuso De Andrade:** but I I I Yeah,
+
+**Fede Ranero:** the final version,
+
+**Rafael Pagliuso De Andrade:** I was I was thinking like Thursday, Friday, and if need be,
+
+**Fede Ranero:** but
+
+**Rafael Pagliuso De Andrade:** we we spill to Saturday to have a rehearsed full deck. And then Monday will be our our
+
+**Fede Ranero:** yeah, I like that. I mean, make this your priority, council me.
+
+  
+  
+
+### **00:34:17**
+
+  
+
+**Rafael Pagliuso De Andrade:** cushion.
+
+**Fede Ranero:** Trust me, there's nothing more important in terms of the future of this company than this right now. Like simply put uh and so uh your 101s, your weeklies, your whatever thing is can wait and and this is not something that is because we have AI. This is about taste, right? This is about uh creativeness. This is not about spending time doing slides, right? Uh this is about being really strategic of where we want to focus on. So um yeah. Um, let's let's start a a deck. I will throw in my my vision slides. I think it's they're going to like that. I already tested that on stage. It's going to be a more summarized version, but uh people aren't really thinking about this operational levers and what this means for for the ROIs of AVs. And I think that in essence is what makes us different on top of the proven capabilities that we can redeploy to to to this which we will then get into as as we work through through these things.
+
+  
+  
+
+### **00:35:20**
+
+  
+
+**Rafael Pagliuso De Andrade:** And Fede, did you get any any other insights from from Uber team or no? Uh from the people
+
+**Fede Ranero:** No, nothing that they're they reinforce that they're looking for W2s.
+
+**Rafael Pagliuso De Andrade:** there?
+
+**Fede Ranero:** They agree that 1099s could could serve a purpose in the future, but that's not what they're sourcing for right now. Um they're a little bit delayed in the process. I don't know why. there's there's surely more people competing against us uh despite what so there was this point where everyone had to submit questions and then they submitted all of the questions back to everyone and our 16 questions were the questions submitted so at some point we're like are we the only guys in uh but we're Um, and uh I don't know where we're competing against, but I'm pretty sure the task is is in
+
+**Kevin Burke:** Yeah.
+
+**Fede Ranero:** there.
+
+**Kevin Burke:** Do they list like what kind of common scenarios that they would need to deal with?
+
+**Rafael Pagliuso De Andrade:** Kevin
+
+**Kevin Burke:** Because you know there's a closed door, but then I assume there's a lot more situations like hopefully not an accident or some kind of breakdown mechanical like you said the tow truck, but like have they given us any kind of expectations around the problems that we'll have to try to solve?
+
+  
+  
+
+### **00:36:30**
+
+  
+
+**Fede Ranero:** Yeah. So, so make sure you you read that the entire FP it's not very long. Um, but they they do they have some Let me pull it up. Some situations. Um,
+
+**Kevin Burke:** Because the angle part too for that I think that would be a competitive advantage is a lot of the other companies are going
+
+**Fede Ranero:** yeah. Go ahead.
+
+**Kevin Burke:** to be more task rabbit oriented so they can help with the doors but like we focus on drivers
+
+**Fede Ranero:** Yeah.
+
+**Kevin Burke:** and not only that we have CDL drivers that have basic mechanical and like engine running knowledge. you could leverage the Kavach and like mechanical training or something for resources, maybe even remote diagnostic that we could offer that other companies don't. So that's kind of why I was asking a little bit more in detail around some of the situations because a standard plug-in charger
+
+**Fede Ranero:** Yeah,
+
+**Kevin Burke:** or close a door, I think any comp company can cover that.
+
+**Fede Ranero:** it's very basic and and I think their their expectation is that the people that we bring will be trained by the SOPs of Nor and Luc Lucid Neuro and Lucid and so they're not looking for capabilities out there because no one really knows how to reboot a northern lucid that does not exist today.
+
+  
+  
+
+### **00:37:37**
+
+  
+
+**Fede Ranero:** Uh so they're going to go through and that's part of the logic behind these W2s. Uh so they will have to go through specific training programs and be ready to do some some things. They're going to have some sort of remote operations and they already have a depot that is doing the deeper mechanics and fixing of these vehicles of process that can only be performed in the depot. But these people are the the quick response. Um and I think what you see in manage light cleaning door and truck closure charging loss item retrieval right rescue uh and you know these are the things that I where am I here? If we look at you know the my conference slides of things that we need a vehicle needs we mention a lot of those and then we go futuristic about this proactive position across ODS which is not not a thing today because there are multiple ODS um and it's not like your size of fleet or depth of that fleet uh would get you to think about optimizing for the network but it will be and for these situations when you need to move a vehicles outside of Austin Houston and San Antonio and Oklahoma to Dallas on a 2 or 3:00 a.m. on Friday to be there for the airport trips and the morning Monday morning commute and the weekend festivities and back on Sunday after midnight to be ready Monday uh weekday this is a test that can only be operated efficiently with IC's
+
+  
+  
+
+### **00:39:06**
+
+  
+
+**Fede Ranero:** right so inevitably you go into this right where where as you grow you will need a dedicated base of the tools and then you will need some um some 1099s that some of them might need a lighter training or there think about you know had another example in here about uh okay you know we can night life you know you'll surprised how often this happens, right? Of uh passengers getting sick in the back after one too many, right? So, a vehicle that is bombed is a vehicle that cannot be used, right? Well, if you if you drive it out to a depot and back, you're going to lose probably 60 minutes whether you have a specialized squat, right? Think of what the airlines have solved to do this very quickly on turning around the aircraft um you know in the corners around that weekend night life and they're trained specifically with the cleaning equipments and whatnot to have the vehicle
+
+**Paulo Ferrato:** But
+
+**Fede Ranero:** back in the road in 10 minutes. Well, that's
+
+**Paulo Ferrato:** so summarize will be cleaning the positioning around all the influ
+
+  
+  
+
+### **00:40:00**
+
+  
+
+**Fede Ranero:** something
+
+**Paulo Ferrato:** defle and and tech outage things like this.
+
+**Fede Ranero:** Yeah. Mhm. I'm not very
+
+**Paulo Ferrato:** So my suggestion can you open can you open the mayo where they ask a specific point?
+
+**Fede Ranero:** complex.
+
+**Paulo Ferrato:** Sorry I was not remember about it.
+
+**Fede Ranero:** The email or the presentation
+
+**Paulo Ferrato:** They ask specific points they ask us six points to focus.
+
+**Fede Ranero:** this
+
+**Paulo Ferrato:** Yeah. So operation operating model and overall approach I think is very well covered by
+
+**Fede Ranero:** Mhm.
+
+**Paulo Ferrato:** by your material. So the strength and differentiations differentiators.
+
+**Fede Ranero:** Yep.
+
+**Paulo Ferrato:** So this is something we didn't cover. So maybe what it can do is create like three cohorts of competitors and how we you know like a SWAT only with strains of course versus these three cohorts maybe you know.
+
+**Fede Ranero:** Yeah.
+
+**Paulo Ferrato:** Okay. Uh task
+
+**Fede Ranero:** And and some of the slides.
+
+**Paulo Ferrato:** us.
+
+**Fede Ranero:** So the sort of like proven performance some of the the slides plus deep dives,
+
+**Paulo Ferrato:** Yeah.
+
+  
+  
+
+### **00:40:57**
+
+  
+
+**Paulo Ferrato:** The commercial model still well covered right.
+
+**Fede Ranero:** right?
+
+**Paulo Ferrato:** um the ability to scale. I think we give examples how we scale but we didn't brought um a playbook. So maybe what you can do is simple slide showing a playbook how to scale. So you know inform us days before of it you can start with contractors or if you want you know the traditional model we need two months to hire and find a location etc. So maybe a playbook if it's in US of course will be super fast if they want us in
+
+**Fede Ranero:** Y
+
+**Paulo Ferrato:** Europe would takes more time approach to implementation staffing operational
+
+**Fede Ranero:** something like
+
+**Paulo Ferrato:** scalability I don't know if this is well covered in material uh stuffing it
+
+**Fede Ranero:** Mhm.
+
+**Paulo Ferrato:** is right
+
+**Rafael Pagliuso De Andrade:** Yeah, it's definitely it is and Paulo, but I I think you bring a good point.
+
+**Paulo Ferrato:** but
+
+**Rafael Pagliuso De Andrade:** In the US, it's it's uh we can hit the ground running. It's the same Europe. I think we can make an argument now that we're we're operating there.
+
+  
+  
+
+### **00:41:58**
+
+  
+
+**Rafael Pagliuso De Andrade:** uh that we could potentially hit the ground running as well. Uh uh
+
+**Fede Ranero:** Is it wait for an EU EU country um and and ready in the US
+
+**Paulo Ferrato:** Yeah.
+
+**Fede Ranero:** anywhere
+
+**Paulo Ferrato:** What you can do for us is like maybe two models.
+
+**Fede Ranero:** basically?
+
+**Rafael Pagliuso De Andrade:** yeah.
+
+**Paulo Ferrato:** One similar scope model that would take maybe months and another one is an express launch.
+
+**Fede Ranero:** Mhm.
+
+**Paulo Ferrato:** So, okay, we bring the contractors, we use a we rent a facility, you know, we use a a logistics operator or existent parking or yard and they're going to be ready to operate in two weeks, you know, something that bring them the the the perception that we can be fast. Uh if they accept to switch the mo to change the model in the future,
+
+**Rafael Pagliuso De Andrade:** Yeah.
+
+**Paulo Ferrato:** no. Uh and and then and then in the end they they bring recommendation opening for recommendations,
+
+**Fede Ranero:** Yeah.
+
+**Paulo Ferrato:** right? So I think ICS are one of the things we we can bring
+
+  
+  
+
+### **00:42:46**
+
+  
+
+**Rafael Pagliuso De Andrade:** Heat.
+
+**Fede Ranero:** Yeah.
+
+**Paulo Ferrato:** here to it. Maybe use our command center or technology to to the data thing that Bruno mentioned. U I it was not in my mind but look the the the meeting is very already u targeted to the six points here.
+
+**Fede Ranero:** Yeah,
+
+**Rafael Pagliuso De Andrade:** Yeah.
+
+**Fede Ranero:** this is you know it's it's a sourcing team think of like a they might even be external consult no I don't think they are but they might
+
+**Rafael Pagliuso De Andrade:** Now
+
+**Fede Ranero:** be advised by external consultants so it's going to be very standardized how they score everyone and whatn not so we want to of answer what they're asking you
+
+**Paulo Ferrato:** Yeah, this is important I think and we need to take care to not know start to deviate a lot know like so let's talk about this topic and explain close and jump
+
+**Fede Ranero:** Mhm.
+
+**Paulo Ferrato:** to the next do not overwhelm I'm I'm worried about overwhelm the guys, you know,
+
+**Fede Ranero:** Yeah.
+
+**Paulo Ferrato:** with a lot of information, but I think you said something
+
+  
+  
+
+### **00:43:46**
+
+  
+
+**Rafael Pagliuso De Andrade:** Can we can we think of other Can we think of other uh uh competitors?
+
+**Paulo Ferrato:** important.
+
+**Rafael Pagliuso De Andrade:** Uh and and the reason I ask is probably some of those competitors, they're already in the towing business and then all they would do is that rescue cars potentially,
+
+**Fede Ranero:** Yeah. Did you check the document I sent you?
+
+**Rafael Pagliuso De Andrade:** right?
+
+**Fede Ranero:** There's a dozen of them.
+
+**Rafael Pagliuso De Andrade:** No, no, no, no,
+
+**Fede Ranero:** Half a
+
+**Rafael Pagliuso De Andrade:** no. more specific like like there's half a dozen but I think all of those are or
+
+**Fede Ranero:** dozen.
+
+**Rafael Pagliuso De Andrade:** or
+
+**Paulo Ferrato:** we should cohort them. So maybe you know um uh uh fleet management
+
+**Rafael Pagliuso De Andrade:** Yeah.
+
+**Paulo Ferrato:** companies that already are using it to do it but they're not in a scale in a speed that the project would need. uh then um offline players that just have local drivers or hollowway a service entry maybe new uh new market commerce that are you know scaling projects with humans and AI but they don't have that the technology in the marketplace so maybe three comforts and then
+
+  
+  
+
+### **00:44:48**
+
+  
+
+**Rafael Pagliuso De Andrade:** Exactly. Exactly, Paul.
+
+**Paulo Ferrato:** we send
+
+**Rafael Pagliuso De Andrade:** And and you got my point.
+
+**Fede Ranero:** Yeah, we can go hard.
+
+**Rafael Pagliuso De Andrade:** And you got my point. That's the the the strength in the I mean ours is techn technology right and the and the the number of the the size of the pipeline the differentiators that's where I think you know depending because if it's a to company we we have one regulatory differentiator if it's a fleet company a different and so on and so forth
+
+**Fede Ranero:** Yes,
+
+**Paulo Ferrato:** So I want to explain something here to Bruno and then mainly Bruno um
+
+**Fede Ranero:** sir.
+
+**Paulo Ferrato:** that I don't know if you want to um deep dive on it. So Bruno one of the the things we are discussing okay so how to tend this demand with contractors that they know they need us uh in the location 10 minutes after the request with our current marketplace that maybe not currently of course we can uh boost the cities that we going to attend but I thought about two technologies that we can maybe present that we can build here even maybe for Paloma that we build for um turbo deliveries the happy 10 minutes delivery Um in Latan so one is the fake order.
+
+  
+  
+
+### **00:46:00**
+
+  
+
+**Paulo Ferrato:** So we fed brought a nice concept here. We bring a synthetic demand and then we create fake orders for contractors that they will checking and be ready to support in a specific area. If there is no um no um um trip for them then we pay them you know um a small fee to compensate that 10 minutes or 15 minutes they stay there available available for us. And maybe another option or a complimentary option would be a booking area booking model where they can uh book a specific zone maybe ODD or a polygon that we define in a specific time of the day that will be available and uh exclusive port driver and then we're going to prioritize that in this area that of course will be based on the demand that we could have uh from Uber. again those ideation that's a few things that we thought here to you know defend the IC model uh in the future so I don't know if you want to better elaborate it but uh it's something we brought to to the
+
+**Bruno Silva:** Yeah,
+
+  
+  
+
+### **00:47:02**
+
+  
+
+**Paulo Ferrato:** discussion
+
+**Bruno Silva:** go ahead and comment.
+
+**Paloma Calderon:** No, it's okay. We don't know. Go ahead. I'll call
+
+**Bruno Silva:** No, I think that's fine. Like we did this like uh pre-booking that was like even like a hire for a day,
+
+**Paloma Calderon:** them
+
+**Bruno Silva:** but I think we can go more granular by map area that I think like this will be helpful. Uh I was even wondering like maybe we can simulate you know at least maybe a mock up with like a a trip creation like simulating that with a heat map or something like that like uh I think I share like on the previous monthly like a gift like with a AI doing a trip creation maybe we can do something like that just to show them that is like our capability to say like we have a heat here's the heat map of the city for example with the drivers and if we add for example the area hose will be a beautiful heat map especially in Houston and basically basically saying like here like you have a demand here we create and dispatch like automatic something that we can show that we can do like very quickly.
+
+  
+  
+
+### **00:47:58**
+
+  
+
+**Bruno Silva:** like in a seconds for example for them to see and the kind of a beautiful heat map. But I do agree that like of course like if we can cross this barrier for individual contribution we can have like some heat maps like or at least like some probably locations on the the map that is more demanded to have that what do we call like in like a dedicated supply just like a radi and basically like the driver you just received from the these locations. Um, I think that's makes sense. Um, I think that's also similar from rapid turbo.
+
+**Paloma Calderon:** Yeah. One thing I want to point out, not a potential risk, but something that we will have to define how much we want to talk about is I think our our control or the way we manage the marketplace is very impressive and we should use that as our advantage. I don't know how much we want to push the contractor model even if it's like, hey, we could start very quickly if you really needed it because we do have contractors, but I'm just scared that they might think that we're too focused on the contractors versus like, hey, we're hiring W2s and we're going to do it in a strategic and good way.
+
+  
+  
+
+### **00:49:09**
+
+  
+
+**Paloma Calderon:** Um, but we know that that's part of like the vision that Uber has and and I don't want them to think that by us proposing the like contractors that that we're like pitching against it. The the part that I do like a lot whether it's on the heat map or just on data itself. Um, we know that Uber has a lot of data on their side as well and thinking about how we could work together to leverage it. So an example is if if we were to pick a hub in Houston for these employees to be based out of. Some of the things that we could propose are hey based on the trip data that we have or the existing trips and routes that we know that the vehicles are going to be following we're going to position uh these employees or these people in different locations. So instead of having like one large location in Houston, we're actually going to have three in every day based on like data that historical data that we have. Again, like Thursday is a big travel day.
+
+  
+  
+
+### **00:50:08**
+
+  
+
+**Paloma Calderon:** So we know that there's going to be a lot of volume going towards the airport. So the probability of an issue happening there on this route is going to be greater that day. That means that we have to staff our different sites differently on that day of the week. So again, not necessarily like in the same way that we reposition contractors or we build heat maps to understand where the demand is going to be that we do the same or we propose to do the same um for this specific use case.
+
+**Fede Ranero:** Yeah, it's a great point. I think the way to think about that is first of all, for sure, we don't want to oversell on the contractor capability. We don't want to be labeled. We don't want to give the sourcing scoring team and make it too easy for them to say, you know, these are are the contractor guys. So the risk is that they won't be able to do this for $10.99. 9 or sorry twos. So how we purpose that is again look at the four machines.
+
+  
+  
+
+### **00:51:04**
+
+  
+
+**Fede Ranero:** The second one is that and it's not a you know a contractor management. It's an operator vetting training dispatching and management and we show that we have an ability to do that for any resource be that an employee of yours of ours or a 1099 and here's an example of a contractor because we're showing you this or then you bring here's an example of a pensy employees or and you just call it employees right things like that. So we want to show them capabilities and and and frame away from giving them the the the easy way out of bucketing us of like the contractor only guys if that makes sense. But it's okay to show a contractor example. You know, this is a contractor example, but we could very well do this for um the W2s u in in in any scenario and and what we need to do right now is just to plant the seed that we know that as this scales 1099s will have a use and the the answer will be a hybrid model and we've done the hybrid model multiple times.
+
+  
+  
+
+### **00:51:58**
+
+  
+
+**Fede Ranero:** Uh so yeah, we understand this how we want to start. We have a bunch of technology that applies for this W2 model only. As we grow, we have a variety of models where this becomes even more relevant. You know, that's that's how we position.
+
+**Bruno Silva:** Yeah. The comment that I would just quickly do is like maybe what we can do is like here for example we have like the driver pool like heat map but we can have like a I don't know another one that is will be like connected the hybrid that'll be kind of like employees you know and basically like that would be something that I I was thinking like maybe we can show for them is like I don't know like we have like an employee here that we also filter all the drivers that are employee of course in this first moment we'll bring everyone that is from Pensky and also Weser and etc. And we can basically like have something like I don't know something as like auto plan that basically shows something that will be like oh I can filter like all the employees and create like a movement and we can do of course a fake movement just to show for them like in Houston uh with whoever like employees we have and even can add like fake employees just to show for them.
+
+  
+  
+
+### **00:52:58**
+
+  
+
+**Bruno Silva:** But my point for them is like if we have an ability to show like the two system working this could be a differential right because like that will be the only company who opers like with the two models right for
+
+**Rafael Pagliuso De Andrade:** Yeah. Now,
+
+**Bruno Silva:** them.
+
+**Rafael Pagliuso De Andrade:** uh I I think that of course there is an operational uh reason for them asking for for W2s and not 1099s. the model they have in their mind and that's my opinion uh is I need fixed people sitting down waiting like in a firehouse uh if they they're called they need to go right if we can show that we can have that same speed with 1099s that starts to soften the blow the second reason is purely legal I mean Uber faces the largest misclass uh lawsuits and the worst thing that could happen and is one of their providers uh be the reason for uh a bad misclass lawsuit. So uh we need to have those two things in mind.
+
+  
+  
+
+### **00:54:00**
+
+  
+
+**Rafael Pagliuso De Andrade:** I think time but also the the legal aspect and uh their their own uh legal strategy again towards 1099s.
+
+**Paloma Calderon:** And sorry I'm skipping back a subject to what Bruno was showing, but I think for the video would be good to to drive them through the analogy of like right now we show the the heat map, beautiful heat map with all the drivers, right? And we say,"Okay, here's how quickly we can dispatch in in our case right now a driver for a move or something like that." and then show okay in the same way that we've built a pool of independent contractors that sit in Houston like here's the example of like maybe the initial 16 uh seats that we would have and then same thing move request equals the same as a task basically someone needs to be dispatched somewhere with certain like qualifications or scale perfect and then what we could show is like the hypothetical of like what that could look like at scale so whether it's a larger pool that is that is able to adapt to more fluctuating situations or like a pool that's further out um in all the country and just being able to say like hey we're going to scale it out in the same way but I think showing them like the the real capability that we have now and like a real case what it would look like for what exactly what they're
+
+  
+  
+
+### **00:55:23**
+
+  
+
+**Paloma Calderon:** asking and then the pitch for like the the scale of the future
+
+**Paulo Ferrato:** So moving forward, we're going to present a deck or a video
+
+**Fede Ranero:** a combination. Our job right now is to do to drop everything in in in slides.
+
+**Paulo Ferrato:** combination.
+
+**Fede Ranero:** So if you have a video, drop it in the slide. Sorry, I'm eating. That's why I'm turning the camera off. But I like everything you said right now is to get creative and unconstrained. So I think sometimes the agenda constraints a bit. Think of just put yourself in the shoes as operators and what you think could be useful for today or tomorrow. Try putting it in slides. um maybe we can structure around the agenda they send, but don't be too concerned about that. And know that 95% of what we put in there is going to go into appendix and will not be used in this meeting and that's okay. It's going to shape our thinking. It's going to prepare us for an answer.
+
+  
+  
+
+### **00:56:15**
+
+  
+
+**Fede Ranero:** It's going to be used in later stages. That's totally fine. The energy that you're going to spend into this is going to pay back. Um so do that right now. If you need a video, put it into a slide and that way we can make sure that you know access and everything works as someone is sharing screen which could jump from one person to the to the other as we do do Q\&A. I think that's that's what we do for you know the next 24 and 48 hours. Um after we can start to distill a bit and cut into a a more sort of like main deck that we can show in 60 minutes. Although I know that that that deck will be destroyed. You know, it's going to be it's going to pivot into Q\&A very very quickly. And that's and that's totally fine. Does that make sense to you all?
+
+**Paulo Ferrato:** If so, if you need a video that will be simple but we need at least four days we need to to have any uh
+
+  
+  
+
+### **00:57:10**
+
+  
+
+**Fede Ranero:** Well, I'm not thinking about don't don't do a a 4 minute video or I'm thinking of a
+
+**Paulo Ferrato:** scriptors.
+
+**Fede Ranero:** video to show in 30 seconds what Bruno just showed or what Par was talking about.
+
+**Paulo Ferrato:** Okay.
+
+**Fede Ranero:** But I I I don't don't like the idea of hi all great mission.
+
+**Paulo Ferrato:** Okay.
+
+**Fede Ranero:** We did a four minute video last no like walk me through it, you know.
+
+**Paulo Ferrato:** Okay.
+
+**Fede Ranero:** So even if we play a video, no sounds, you're going to be presenting and talking as the thing moves, you know, it's just a hack to not have to open the system and show a customer name. But actually, if we're showing a live demo, I would want want you guys to to click click show. For Kavak, I think it's fine. for any other customer. I think we probably want to do a video to not show customer names, you know, but but it's that let's let's not come in with Yeah, we did a video and play and have everyone listen. No, no sound.
+
+  
+  
+
+### **00:58:00**
+
+  
+
+**Fede Ranero:** Just like it's it's it's material for our presentation as we speak through it. Yeah. Video video that is I guess. Yeah. run 16 kilometers today. Probably same as you guys. So that's that's why I'm very hungry. Been thinking the whole hour and a half about this thing and plenty times in the night. It didn't help that my daughter has her first day of school today. So she couldn't sleep and was waking me up and every time she woke me up, I was thinking about W2s and stuff. It's crazy, man. But but I what I expect of all of you to to invest the same level of energy because trust me this is going to pay off and we've been you know had that intent going to this pace. Uh we I think we we we we have a high possibility of winning. I put our chances of winning this at the beginning at 20 30%. I think it's a little bit higher now. Um but it might be a coin flip. So we need to that extra mile that ability to show some distinct things and thinking relative to task cost that is going to copy paste the proposal that they sent to way more that's going to show. So cancel your agendas go deep um spend tokens on your personal plans and and and let's catch up. Maybe we do a daily and see where where we land tomorrow on this and and then we we take it from there. Okay. Okay, cool. Thank you guys.
+
+**Paloma Calderon:** exciting.
+
+**Fede Ranero:** Exciting.
+
+**Paloma Calderon:** Thank you.
+
+**Paulo Ferrato:** That's good.
+
+**Fede Ranero:** Later.
+
+**Paloma Calderon:** Yeah.
+
+**Paulo Ferrato:** Thank you,
+
+**Armando Flores:** the gym that
+
+**Paulo Ferrato:** man.
+
+**Paloma Calderon:** Bye, guys.
+
+**Bruno Silva:** Thank you.
+
+  
+  
+
+### **Transcription ended after 00:59:40**
+
+  
+
+*This editable transcript was computer generated and might contain errors. People can also change the text after it was cre

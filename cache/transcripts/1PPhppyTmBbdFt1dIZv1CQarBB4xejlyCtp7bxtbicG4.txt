@@ -1,0 +1,79 @@
+# **Las notas**
+
+sept 2, 2026
+
+## **Diaria Spain Launch**
+
+Invitado Daniel Escribano (daniel.escribano@draiver.com) Armando Flores (armando.flores@driverdo.com) Artur Morais (artur.morais@draiver.com)
+
+### **Resumen**
+
+Revisión operativa y análisis de fallas para centralizar la gestión de transportes y optimizar herramientas.
+
+**Problemas operativos actuales**
+Altas tasas de cancelación y procesos manuales lentos debido a la fragmentación de herramientas de gestión.
+
+**Evaluación de fallas técnicas**
+Análisis de limitaciones en Command Center y Salesforce para mejorar la búsqueda por matrícula y el contacto.
+
+**Aprobación de plantillas**
+Definición de mensajes estándar para WhatsApp y centralización de permisos para reducir la carga de trabajo.
+
+### **Decisiones**
+
+## **Requiere más debate**
+
+  - **Evaluación de cuenta maestra en Command Center** Se acordó consultar con el equipo de producto la viabilidad de configurar una cuenta maestra en Command Center para gestionar todos los clientes de España desde un único acceso.
+
+## **Acordada**
+
+  - **Creación de tabla de modos de falla** Se acordó compilar y organizar en una tabla los modos de falla operativos reportados para evaluar sus posibles soluciones.
+  - **Creación de plantilla de WhatsApp para conductores** Se acordó crear y enviar una plantilla de mensaje genérica de WhatsApp a Meta para su aprobación y habilitar la comunicación saliente con los conductores.
+  - **Estandarización de siglas en ubicaciones** Se acordó configurar las ubicaciones de transporte con siglas de ciudad y precargar los puntos frecuentes en el sistema a partir de los archivos de los clientes.
+
+### **Próximos pasos**
+
+  - [Armando Flores] Crear tabla fallos: Clasificar los modos de falla reportados por el equipo en una tabla detallada para medir su gravedad. Priorizar las soluciones manuales necesarias antes del próximo lanzamiento.
+  - [Armando Flores] Revisar con Paloma: Analizar las fallas reportadas con Paloma para identificar soluciones definitivas y mitigaciones. Retornar los resultados y los próximos pasos a Daniel Escribano.
+  - [Artur Morais] Definir bonos conductores: Consultar con Moa sobre la estrategia y automatización de las campañas de bonos para conductores. Validar la viabilidad técnica para implementarlas correctamente.
+  - [Artur Morais] Desarrollar bot comunicación: Colaborar con Tiago en la creación de un sistema automatizado o bot que permita la interacción inicial con los conductores. Resolver el problema de falta de agilidad en los contactos.
+  - [Daniel Escribano] Enviar lista incidencias: Compartir la lista recopilada de quejas y errores de los conductores con el resto del equipo. Facilitar la información necesaria para organizar los problemas reportados.
+  - [Kevin] Gestionar accesos Salesforce: Contactar a Kevin para habilitar permisos en Salesforce. Permitir la edición de horarios, precios y la inclusión de matrículas.
+  - [Daniel Escribano] Compartir archivos clientes: Enviar a Artur Morais los archivos con las solicitudes de los clientes actuales. Proporcionar la información necesaria para realizar el mapeo de las direcciones.
+  - [Artur Morais] Mapear ubicaciones sistema: Crear y cargar las ubicaciones en el sistema basándose en los archivos recibidos. Mejorar la visibilidad de las ciudades en la aplicación para los conductores.
+  - [Daniel Escribano, Armando] Reportar incidencias sistema: Consolidar los problemas encontrados y las solicitudes de mejora en un reporte formal. Compartir dicho archivo con Artur Morais para que pueda evaluar los comentarios y opiniones.
+  - [Artur Morais] Verificar funcionalidades producto: Verificar con el equipo técnico las funcionalidades actuales del sistema. Confirmar la capacidad de gestionar, editar y organizar viajes desde la cuenta maestra.
+
+### **Detalles**
+
+  - **Situación operativa actual**: Daniel Escribano reporta una alta tasa de rechazos y cancelaciones de transportes debido a la fragmentación de herramientas y dificultades operativas, como la falta de estandarización en las ubicaciones de los sitios y la gestión de divisas.
+  - **Dificultades en el flujo de trabajo**: Daniel Escribano señala que la organización de un transporte toma aproximadamente 30 minutos debido a la dispersión de datos en cuatro o cinco fuentes distintas, incluyendo la necesidad de buscar la matrícula fuera de Command Center y un proceso manual de 10 minutos para gestionar el seguro de cada vehículo.
+  - **Propuesta de tabla de modos de falla**: Armando Flores sugiere crear una tabla detallada con los "modos de falla" identificados por Daniel Escribano, clasificándolos entre problemas hacia el conductor y problemas internos, para evaluar qué se puede resolver con el próximo lanzamiento (release) y qué requiere mitigación manual.
+  - **Limitaciones en herramientas de gestión**: Daniel Escribano expresa su preocupación por la falta de una "cuenta maestra" en Command Center, lo que obliga a iniciar y cerrar sesión constantemente para gestionar diferentes clientes, perdiendo agilidad operativa.
+  - **Uso de Salesforce para modificar precios**: Artur Morais y Armando Flores aclaran que Salesforce sí permite modificar precios, lo cual podría simplificar el flujo de trabajo al permitir que Daniel Escribano utilice una sola plataforma en lugar de alternar entre Salesforce y Command Center.
+  - **Necesidad de búsqueda por matrícula**: Daniel Escribano enfatiza que la imposibilidad de buscar transportes por número de matrícula, cuando los clientes proporcionan ese dato en lugar de un ID, genera ineficiencias significativas que requieren una solución rápida.
+  - **Comunicación de salida (Outbound) con conductores**: Se discute la dificultad para contactar a los conductores a través de WhatsApp debido a las restricciones actuales del sistema. Armando Flores y Artur Morais analizan la posibilidad de utilizar HubSpot o WATI para permitir que el equipo de soporte de nivel 2 inicie comunicaciones, buscando un equilibrio entre la automatización y la necesidad de contacto humano.
+  - **Gestión de expectativas del conductor**: El equipo reconoce que, aunque algunos conductores reportan que la aplicación es intuitiva, otros experimentan confusión por la falta de datos visibles (como autorizaciones o matrículas) hasta que aceptan el viaje. Se acuerda que, aunque se requiere un periodo de adaptación, es necesario implementar un flujo de trabajo que mitigue las cancelaciones inmediatas.
+  - **Próximas mejoras técnicas**: Armando Flores confirma que el martes se llevará a cabo un lanzamiento de mejoras (enhancements) en la aplicación, y el equipo se compromete a verificar qué problemas específicos se resolverán con esta actualización y a medir la gravedad de los restantes.
+  - **Logística y operaciones en zonas remotas**: Daniel Escribano detalla problemas específicos de acceso logístico en una instalación en Olías del Rey (Toledo), a 70-75 km de Madrid, donde los conductores tienen dificultades para volver tras las entregas. Se ha solicitado al equipo de logística que facilite el traslado de los conductores a estaciones cercanas para mejorar la aceptación de viajes.
+  - **Estado de los viajes programados**: Daniel Escribano informa que, de cinco viajes programados, tres se han realizado con éxito, uno fue cancelado por el conductor a última hora y otro debido a una avería mecánica del vehículo, lo cual es responsabilidad del cliente y del conductor, no del sistema de gestión.
+  - **Discusión sobre bonos e incentivos**: El equipo debate la implementación de bonos para conductores. Daniel Escribano advierte que mostrar bonos integrados en el precio total del viaje genera confusión, por lo que propone campañas masivas por correo electrónico o incentivos automáticos por volumen de viajes, evitando que se malinterprete como un aumento en el precio del servicio.
+  - **Creación de cuenta maestra en Command Center**: Daniel Escribano reitera que es indispensable contar con un acceso único de "cuenta maestra" en Command Center para gestionar todos los clientes bajo su cuenta de correo de Driver, evitando la fragmentación actual de accesos.
+  - **Configuración de plantilla de mensaje para WhatsApp**: Artur Morais y Daniel Escribano definen y aprueban una plantilla de mensaje estándar ("Somos del departamento de conductores de Driver") para iniciar conversaciones con los conductores y superar las limitaciones de contacto de salida, la cual será enviada a Meta para su validación.
+  - **Acceso y permisos en Salesforce**: Se identifica que Daniel Escribano requiere permisos adicionales en Salesforce, gestionables a través de Kevin, para modificar horarios, fechas y asignar conductores manualmente, lo cual centralizaría gran parte de la operación y reduciría la dependencia de múltiples plataformas.
+  - **Resolución de idioma y visualización en Salesforce**: El equipo resuelve un problema técnico donde Salesforce aparecía en inglés, cambiándolo a español, y discute la posibilidad de optimizar las visualizaciones de ubicación en Command Center (usando siglas como MAD o BCN) para que los conductores identifiquen más fácilmente el origen y destino de los transportes.
+  - **Gestión de documentos y acceso a carpetas**: Daniel Escribano confirma que Artur Morais tiene acceso completo a la carpeta principal de clientes, la cual está organizada en subcarpetas específicas para "Car 10" y "Vicentin". Dentro de esta estructura, se almacenan los archivos de solicitudes y una carpeta dedicada a documentos donde se cargan las autorizaciones de recogida, permitiendo que el personal coloque los enlaces correspondientes. Artur Morais indica su intención de utilizar esta configuración para crear ubicaciones y mejorar la visibilidad para los conductores en los próximos viajes.
+  - **Proceso de solicitud y comunicación de problemas**: Artur Morais propone que, cuando Daniel Escribano y Armando creen el archivo de solicitudes y problemas, lo compartan para que Artur Morais pueda aportar sus comentarios y opiniones. Este proceso permitirá recordar funcionalidades de productos que han sido prometidas o lanzadas pero que aún no están disponibles, garantizando una alineación con el estado actual del producto.
+  - **Centralización de plataformas y carga de trabajo**: Daniel Escribano manifiesta una sobrecarga de trabajo, dedicando jornadas laborales desde las 8:00 o 9:00 de la mañana hasta la medianoche, lo que ha generado agotamiento. Ante esta situación, Daniel Escribano subraya la necesidad de centralizar todas las operaciones en una sola plataforma, ya sea Salesforce o Command Center, para simplificar el flujo de trabajo, cambiar precios, gestionar horarios y tener acceso a la información completa, evitando la fragmentación actual que dificulta la gestión.
+  - **Funcionalidad de Salesforce y Command Center**: La conversación aborda la necesidad de una cuenta maestra en Command Center para organizar viajes, mientras que los transportes deben crearse necesariamente en esta misma aplicación. No obstante, Daniel Escribano señala que Salesforce es preferible para manejar los datos de los conductores, ya que Command Center no proporciona acceso a números de teléfono u otra información de contacto, incluso después de que se acepta un viaje.
+  - **Acceso a datos de conductores**: Se identifica un problema técnico en Command Center donde, aunque se muestra el nombre del conductor tras aceptar un viaje, no se cargan sus datos de contacto ni números de teléfono. Daniel Escribano menciona que este error obliga a buscar manualmente la información en archivos externos de conductores, lo cual resulta ineficiente para la operación diaria.
+  - **Proceso tedioso de documentación para seguros**: Daniel Escribano describe el proceso actual para gestionar los seguros de los conductores como una tarea tediosa y compleja. Este procedimiento exige descargar ambas caras del DNI para extraer datos como la fecha de nacimiento y el lugar de residencia, además de obtener información del carnet de conducir para verificar fechas específicas, lo que complica significativamente la gestión de un transporte.
+  - **Mejoras del sistema y próximos pasos**: Artur Morais reconoce que, aunque el proceso actual es complejo, la experiencia directa permitirá a Daniel Escribano ganar conocimiento sobre el sistema para sugerir mejoras futuras. Se acuerda mantener la comunicación constante a través de WhatsApp para cualquier duda o consulta, y Artur Morais se compromete a estar más disponible la semana siguiente para colaborar estrechamente en la resolución de los problemas identificados.
+
+# **Transcripción**
+
+sept 2, 2026
+
+## **Diaria Spain Launch - Transcripción**
+
+### **La transcripción finalizó después de 00:00:11**
