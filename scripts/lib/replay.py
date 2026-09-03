@@ -26,6 +26,13 @@ def _apply(tasks: dict, ev: dict, line_no: int) -> None:
             "waiting_on": None,
             "blocked": None,
             "snoozed_until": None,
+            # Ingest derives these once, at creation, from the full message.
+            # Recomputing them later from the title alone loses the sender and
+            # the body, which is where the counterparty usually lives.
+            "action": p.get("action"),
+            "counterparty": p.get("counterparty"),
+            "source": p.get("source"),
+            "evidence": p.get("evidence"),
             "archived": False,
             "vetoed": False,
             "applied": False,
