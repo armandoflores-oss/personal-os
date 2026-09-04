@@ -18,3 +18,6 @@
 {"leg": "heartbeat", "stage": "end", "task": "brief-personal-os", "ts": "2026-09-04T22:45:14+00:00"}
 {"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-09-04T22:45:25+00:00"}
 {"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-09-04T22:45:26+00:00"}
+{"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-09-04T22:50:11+00:00"}
+{"creados": [], "leg": "inbound", "source": "gmail", "suprimidos": [], "tope_alcanzado": 0, "ts": "2026-09-04T22:51:33+00:00", "vistos": 12, "watermark": "2026-09-04T22:29:08Z", "ya_vistos": 12}
+{"casi": [], "cerrados": [], "leg": "outbound", "revisados": 2, "ts": "2026-09-04T22:51:33+00:00"}
