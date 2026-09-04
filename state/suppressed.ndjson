@@ -90,3 +90,5 @@
 {"detail": "^\\s*updated invitation:", "item_id": "1a068d64f53372b7", "reason": "meta", "source": "gmail", "subject": "Updated invitation: Uber alignment @ Thu Sep 3, 2026 3pm - 4pm (CST)", "ts": "2026-09-04T21:52:20+00:00"}
 {"detail": "^\\s*invitation:", "item_id": "1a068d6010fe3d91", "reason": "meta", "source": "gmail", "subject": "Invitation: USE THIS LINK Zoom: Uber Alignment @ Thu Sep 3, 2026 3pm - 3:40pm (CST)", "ts": "2026-09-04T21:52:20+00:00"}
 {"detail": "", "item_id": "190PFHKvntlUfu6NYB3KJxIpDTJmj6jeMU-FWPMKmkQ8", "reason": "sin_compromiso", "source": "drive", "subject": "Drivers \"Fijos\" - 2026/09/03 16:00 CST - Notes by Gemini", "ts": "2026-09-04T21:53:15+00:00"}
+{"detail": "", "item_id": "1a06e701c3d02e48", "reason": "sin_compromiso", "source": "gmail", "subject": "🗓 REUNION DRAIVER on September 3, 2026 | Read Meeting Report", "ts": "2026-09-04T22:27:13+00:00"}
+{"detail": "", "item_id": "1a06e6389872dddf", "reason": "sin_compromiso", "source": "gmail", "subject": "[DriverDO LLC] [Airbase] Erin Seebacher: '@Paulo Ferrato Can you remove Cris from this too?  I cannot do it.'", "ts": "2026-09-04T22:27:13+00:00"}

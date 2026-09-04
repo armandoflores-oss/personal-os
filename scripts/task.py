@@ -73,7 +73,8 @@ def cmd_event(args) -> None:
 
 def main() -> None:
     p = argparse.ArgumentParser()
-    p.add_argument("--actor", default="user")
+    p.add_argument("--actor", required=True,
+                   help="'user' solo si lo dijo Armando; si no, 'system:<rutina>'")
     sub = p.add_subparsers(dest="cmd", required=True)
     c = sub.add_parser("create")
     c.add_argument("--title", required=True)

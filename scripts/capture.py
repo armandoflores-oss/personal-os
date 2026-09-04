@@ -131,7 +131,11 @@ def main():
     s.add_argument("--card-title", help="human title for a new card")
     s.add_argument("--domain", choices=sorted(constants.DOMAIN_SLUGS))
     s.add_argument("--code", help="related task code, e.g. T-4")
-    s.add_argument("--actor", default="user")
+    s.add_argument("--actor", required=True,
+                   help="'user' SOLO si lo dijo Armando; si no, 'system:<rutina>'. "
+                        "Obligatorio a propósito: el grader de la Fase 6 distingue "
+                        "eventos suyos de eventos del sistema, y un default silencioso "
+                        "los volvía indistinguibles.")
     s.add_argument("--no-card", action="store_true", help="log the signal only")
     s.set_defaults(func=cmd_signal)
 
