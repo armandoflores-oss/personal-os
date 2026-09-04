@@ -29,7 +29,8 @@
       "mcp__d0d63bc7-ca62-4971-98ab-f59efe86c0c6__list_recent_files",
       "mcp__d0d63bc7-ca62-4971-98ab-f59efe86c0c6__search_files",
       "mcp__d0d63bc7-ca62-4971-98ab-f59efe86c0c6__read_file_content",
-      "mcp__0c7acc06-c2f0-41b3-a9fb-499c05b20a59__slack_send_message"
+      "mcp__0c7acc06-c2f0-41b3-a9fb-499c05b20a59__slack_send_message",
+      "mcp__18fee21b-4c38-4d1c-b67d-4f0e6c437528__get_message"
     ],
     "deny": [
       "mcp__18fee21b-4c38-4d1c-b67d-4f0e6c437528__send_message",
@@ -51,7 +52,13 @@
       "mcp__0c7acc06-c2f0-41b3-a9fb-499c05b20a59__slack_create_canvas",
       "mcp__0c7acc06-c2f0-41b3-a9fb-499c05b20a59__slack_create_list",
       "mcp__0c7acc06-c2f0-41b3-a9fb-499c05b20a59__slack_update_canvas",
-      "mcp__0c7acc06-c2f0-41b3-a9fb-499c05b20a59__slack_schedule_message"
+      "mcp__0c7acc06-c2f0-41b3-a9fb-499c05b20a59__slack_schedule_message",
+      "Write(/Users/armando/.claude/scheduled-tasks/**)",
+      "Edit(/Users/armando/.claude/scheduled-tasks/**)",
+      "Write(/Users/armando/.claude/settings.json)",
+      "Edit(/Users/armando/.claude/settings.json)",
+      "Write(/Users/armando/.claude/CLAUDE.md)",
+      "Edit(/Users/armando/.claude/CLAUDE.md)"
     ]
   }
 }
