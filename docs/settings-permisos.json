@@ -30,7 +30,15 @@
       "mcp__d0d63bc7-ca62-4971-98ab-f59efe86c0c6__search_files",
       "mcp__d0d63bc7-ca62-4971-98ab-f59efe86c0c6__read_file_content",
       "mcp__0c7acc06-c2f0-41b3-a9fb-499c05b20a59__slack_send_message",
-      "mcp__18fee21b-4c38-4d1c-b67d-4f0e6c437528__get_message"
+      "mcp__18fee21b-4c38-4d1c-b67d-4f0e6c437528__get_message",
+      "Bash(python3 /Users/armando/Documents/Claude Personal Improvement/scripts/heartbeat.py:*)",
+      "Bash(python3 /Users/armando/Documents/Claude Personal Improvement/scripts/brief.py:*)",
+      "Bash(python3 /Users/armando/Documents/Claude Personal Improvement/scripts/ingest.py:*)",
+      "Bash(python3 /Users/armando/Documents/Claude Personal Improvement/scripts/task.py:*)",
+      "Bash(git -C /Users/armando/Documents/Claude Personal Improvement pull:*)",
+      "Bash(git -C /Users/armando/Documents/Claude Personal Improvement add:*)",
+      "Bash(git -C /Users/armando/Documents/Claude Personal Improvement commit:*)",
+      "Bash(git -C /Users/armando/Documents/Claude Personal Improvement status:*)"
     ],
     "deny": [
       "mcp__18fee21b-4c38-4d1c-b67d-4f0e6c437528__send_message",
