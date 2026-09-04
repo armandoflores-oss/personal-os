@@ -64,7 +64,13 @@
   "domain": "operacion-kavak",
   "due_date": null,
   "evidence": "RE: ENTREGA UNIDADES KAVAK | MERIDA | 09/09/26\nBuenos días @jose.duran de tu apoyo para programar el traslado de 6 unidades para el Miércoles 09 de septiembre por favor confirmar nombre de los operado",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "Hilo gmail:1a06818c9583bd19 (AVASA/Hertz, Jesus Tzacum, 3-sep 10:27 CDMX): pide a jose.duran@driverdo.com confirmar NOMBRES DE LOS OPERADORES para 6 unidades Hertz Merida Aeropuerto -> Kavak Merida el mie 09/09. Armando NO esta en To ni CC; el destinatario Draiver es Jose Duran, con Julia Diaz en copia. En la bandeja de Armando el hilo tiene 1 solo mensaje, sin respuesta y sin leer. Patron: ~26 hilos ENTREGA UNIDADES KAVAK de jtzacum, casi todos sin leer y sin respuesta visible, cubriendo traslados del 04 al 14 de septiembre (CDMX, Merida, Monterrey), todos pidiendo lo mismo.",
+    "ts": "2026-09-04T15:21:21+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a06818c9583bd19",
