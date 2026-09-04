@@ -40,7 +40,9 @@
       "Bash(git -C /Users/armando/Documents/Claude Personal Improvement status:*)",
       "Bash(python3 *)",
       "Bash(git -C *)",
-      "Bash(python3 \"/Users/armando/Documents/Claude Personal Improvement/scripts/*)"
+      "Bash(python3 \"/Users/armando/Documents/Claude Personal Improvement/scripts/*)",
+      "Write(//Users/armando/Documents/Claude Personal Improvement/**)",
+      "Edit(//Users/armando/Documents/Claude Personal Improvement/**)"
     ],
     "deny": [
       "mcp__18fee21b-4c38-4d1c-b67d-4f0e6c437528__send_message",
