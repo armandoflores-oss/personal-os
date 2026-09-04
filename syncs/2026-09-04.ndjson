@@ -13,3 +13,5 @@
 {"casi": [], "cerrados": [], "leg": "outbound", "revisados": 4, "ts": "2026-09-04T22:35:02+00:00"}
 {"ts": "2026-09-04T22:35:08+00:00", "leg": "heartbeat", "stage": "end", "task": "ingest-personal-os"}
 {"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-09-04T22:40:36+00:00"}
+{"creados": [], "leg": "inbound", "source": "gmail", "suprimidos": [{"detail": "", "item_id": "1a06e8a83753589a", "reason": "sin_compromiso", "source": "gmail", "subject": "Conductor Fijo - GDL - Agosto", "ts": "2026-09-04T22:43:25+00:00"}], "tope_alcanzado": 0, "ts": "2026-09-04T22:43:25+00:00", "vistos": 1, "watermark": "2026-09-04T22:29:08Z", "ya_vistos": 0}
+{"leg": "heartbeat", "stage": "start", "task": "brief-personal-os", "ts": "2026-09-04T22:45:14+00:00"}
