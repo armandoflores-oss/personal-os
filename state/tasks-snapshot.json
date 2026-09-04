@@ -10,11 +10,17 @@
   "domain": "grandes-deals",
   "due_date": null,
   "evidence": "Les recordamos que el día de hoy debemos recibir las propuestas comerciales antes de las 6:00 pm.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-09-04T23:28:36Z a ayvens: «PROPUESTA COMERCIAL_ Servicio de traslados interestatales y verificaciones_ DRIV»",
+    "ts": "2026-09-04T23:51:46+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a06dba5716a7cbd",
-  "status": "open",
+  "status": "done",
   "task_id": "072b210e20bb",
   "title": "Licitación Servicio de traslados interestatales y verificaciones.- 3ra etapa envío de formato propuesta comercial (RECOR",
   "vetoed": false,
@@ -166,6 +172,27 @@
   "status": "open",
   "task_id": "c26b4dbca0b4",
   "title": "RE: TESLA - TC - LARMEX MTY Dispatch - Q3 2026 Sept",
+  "vetoed": false,
+  "waiting_on": null
+ },
+ "c28196aa12f3": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-13",
+  "counterparty": "zapata",
+  "created": "2026-09-04T23:51:45+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Les envio la prefactura de la reparación, para que nos apoyen con el pago correspondiente por favor.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a06ea28eba260b6",
+  "status": "open",
+  "task_id": "c28196aa12f3",
+  "title": "Re: MUSTANG | GRIS CARBONO | 1FA6P8CF6T5408892",
   "vetoed": false,
   "waiting_on": null
  },
