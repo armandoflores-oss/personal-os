@@ -264,5 +264,32 @@
   "title": "DSP Code Catalogue (1).xlsx",
   "vetoed": false,
   "waiting_on": null
+ },
+ "f8109a7b8fad": {
+  "action": null,
+  "applied": false,
+  "archived": true,
+  "blocked": null,
+  "code": "T-12",
+  "counterparty": null,
+  "created": "2026-09-04T22:33:39+00:00",
+  "domain": "operacion-semanal",
+  "due_date": null,
+  "evidence": null,
+  "notes": [
+   {
+    "actor": "system:prueba",
+    "note": "archivado: descartada por Armando: no aplica",
+    "ts": "2026-09-04T22:33:39+00:00"
+   }
+  ],
+  "owner": null,
+  "snoozed_until": null,
+  "source": null,
+  "status": "open",
+  "task_id": "f8109a7b8fad",
+  "title": "prueba de humo",
+  "vetoed": false,
+  "waiting_on": null
  }
 }

@@ -73,10 +73,15 @@ def cmd_event(args) -> None:
 
 def main() -> None:
     p = argparse.ArgumentParser()
-    p.add_argument("--actor", required=True,
-                   help="'user' solo si lo dijo Armando; si no, 'system:<rutina>'")
     sub = p.add_subparsers(dest="cmd", required=True)
+
+    # --actor va en los subcomandos que ESCRIBEN, no en el parser de arriba:
+    # `rebuild` solo reconstruye estado derivado y no firma nada, y lo invocan
+    # ingest.py y reply.py por subproceso. Exigírselo rompía toda la tubería.
+    ACTOR = dict(required=True,
+                 help="'user' solo si lo dijo Armando; si no, 'system:<rutina>'")
     c = sub.add_parser("create")
+    c.add_argument("--actor", **ACTOR)
     c.add_argument("--title", required=True)
     c.add_argument("--prefix", default="T", choices=sorted(constants.CODE_PREFIXES),
                    help="T=tarea, A=acción que te requiere, P=propuesta")
@@ -84,6 +89,7 @@ def main() -> None:
     c.add_argument("--due")
     c.set_defaults(fn=cmd_create)
     e = sub.add_parser("event")
+    e.add_argument("--actor", **ACTOR)
     e.add_argument("--code", required=True)
     e.add_argument("--kind", required=True, choices=sorted(constants.EVENT_KINDS - {"create"}))
     e.add_argument("--payload", default="{}")
