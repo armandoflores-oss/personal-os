@@ -68,7 +68,15 @@
       "Write(/Users/armando/.claude/settings.json)",
       "Edit(/Users/armando/.claude/settings.json)",
       "Write(/Users/armando/.claude/CLAUDE.md)",
-      "Edit(/Users/armando/.claude/CLAUDE.md)"
+      "Edit(/Users/armando/.claude/CLAUDE.md)",
+      "Bash(cd *)",
+      "Bash(for *)",
+      "Bash(ls *)",
+      "Bash(cat *)",
+      "Bash(head *)",
+      "Bash(tail *)",
+      "Bash(grep *)",
+      "Bash(find *)"
     ]
   }
 }

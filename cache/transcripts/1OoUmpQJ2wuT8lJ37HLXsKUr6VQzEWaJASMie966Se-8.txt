@@ -1,0 +1,1120 @@
+# **ð Las notas**  
+
+ sept 4, 2026
+
+## **Diaria Spain Launch**
+
+Invitado [Daniel Escribano](mailto:daniel.escribano@draiver.com) [Armando Flores](mailto:armando.flores@driverdo.com) [Artur Morais](mailto:artur.morais@draiver.com)
+
+Archivos adjuntos [Diaria Spain Launch](https://calendar.google.com/calendar/event?eid=MzY3dWlhYW9qYXQxOG5qdjRkcDh2MGEwdjRfMjAyNjA5MDRUMTQzMDAwWiBhcm1hbmRvLmZsb3Jlc0Bkcml2ZXJkby5jb20) [Notes - Diaria Dani/ Armando](https://docs.google.com/document/d/1j5t5mWLyC4RxCiFJqWGKgFX75xHRLXBB2cbRmXrQGI8/edit)
+
+Registros de la reunión [Transcripción](https://docs.google.com/document/d/1OoUmpQJ2wuT8lJ37HLXsKUr6VQzEWaJASMie966Se-8/edit?usp=drive_web&tab=t.fuz8w7eyi5j2) 
+
+  
+  
+
+### **Resumen**
+
+Revisión de problemas con seguros para transportes y contratación de personal.  
+  
+**Problemas de seguros y flota**  
+Seguro actual ineficiente y costoso. Propuesta de seguro de flota.  
+  
+**Contratación y personal**  
+Uso de headhunter para selección. Preselección de candidatos en España.  
+  
+**Situación en Diaria**  
+Reestructuración y cambios en Diaria. Desempeño financiero en Europa.
+
+  
+  
+
+### **Decisiones**
+
+## **Requiere más debate**
+
+  - **Exploración de un modelo de seguro alternativo** Se discutió la contratación de un modelo de seguro de flota alternativo y la necesidad de proponerle opciones a Rafa ante las deficiencias del sistema actual, quedando su implementación pendiente de desarrollo y revisión.
+
+  
+  
+
+### **Próximos pasos**
+
+  - \[El grupo\] Explorar seguros: Identificar proveedores distintos para sustituir la solución actual insuficiente. Proponer las opciones resultantes a Rafa para su desarrollo.
+  - \[Daniel Escribano\] Compartir finalistas: Enviar a Armando la lista de perfiles seleccionados para los nuevos puestos. Incluir también cualquier aspirante sobre el cual exista duda para recibir retroalimentación.
+  - \[El equipo de Armando Flores\] Responder a Daniel: Contactar a Daniel para dar seguimiento a las dudas o solicitudes pendientes del equipo.
+  - \[Cristian\] Buscar fecha: Obtener la información sobre la fecha del cliente requerida para el proceso de planificación.
+
+  
+  
+
+### **Detalles**
+
+  - **Problemas con la activación del seguro actual**: Daniel Escribano reporta que activar el seguro toma entre 10 y 20 minutos debido a los 18,000 datos requeridos. Además, al activarlo, se genera un retraso numérico de una hora (por ejemplo, si se activa a las 16:36, opera a partir de las 17:36), dejando una hora de vacío sin cobertura. Armando Flores y Daniel Escribano coinciden en que el seguro actual es deficiente, inflexible y costoso. Armando Flores menciona que habló con Rafa, quien defendió la solución, pero Armando Flores insiste en que no funciona ([00:02:02](https://docs.google.com/document/d/1OoUmpQJ2wuT8lJ37HLXsKUr6VQzEWaJASMie966Se-8/edit?ouid=107114406729300780928#heading=h.sv8yoz5v0ily)).
+  - **Intentos fallidos de contacto con proveedores alternativos de seguros**: Daniel Escribano intentó contactar a Lagunaro en dos ocasiones por correo electrónico y teléfono, sin recibir respuesta, ya que exigen comunicación exclusiva por correo. Daniel Escribano incluso insinuó pagarles más que a Trainy para captar su atención, sin éxito. Ante esto, Daniel Escribano ha llegado a mover transportes de trayectos cortos, como Madrid a Toledo, sin seguro previo, activándolo solo si ocurre algún incidente ([00:04:14](https://docs.google.com/document/d/1OoUmpQJ2wuT8lJ37HLXsKUr6VQzEWaJASMie966Se-8/edit?ouid=107114406729300780928#heading=h.g1wldsgvzoeb)).
+  - **Riesgos regulatorios y propuesta de seguros de flota**: Armando Flores expresa su preocupación por la responsabilidad civil durante la hora sin seguro operativo y el riesgo ante la policía. Daniel Escribano explica que no pueden activar el seguro con anticipación debido a las constantes cancelaciones de transportes. Como alternativa, Daniel Escribano propone contratar un seguro de flota similar al de Centauro o grandes concesionarios (por ejemplo, asegurar 300 coches fijos e ir intercambiándolos), donde el costo sea bajo por vehículo y el resto se destine a un fondo común. Armando Flores compara este esquema con el seguro cautivo en Estados Unidos o el plan piso en México ([00:05:25](https://docs.google.com/document/d/1OoUmpQJ2wuT8lJ37HLXsKUr6VQzEWaJASMie966Se-8/edit?ouid=107114406729300780928#heading=h.lawu4j7sbvu2)).
+  - **Gestiones de recursos humanos y fricciones con la dirección**: Daniel Escribano comenta que Rafa gestiona recursos humanos y le escribió sobre una oferta de empleo pidiendo trato directo. Daniel Escribano argumenta que actúa con rapidez para no ralentizar la operación, comparándolo con los retrasos en los eventos de Nico. Armando Flores señala que Rafa necesita sentirse involucrado y que tardó una semana en responder. Armando Flores detalla su reunión del martes con Jacqueline para revisar descripciones de puestos, destacando que operan en México a un 150% comparado con el año anterior, moviendo cerca de 3,000 unidades semanales ([00:09:59](https://docs.google.com/document/d/1OoUmpQJ2wuT8lJ37HLXsKUr6VQzEWaJASMie966Se-8/edit?ouid=107114406729300780928#heading=h.70wbbshvau38)).
+  - **Impacto de la reducción de personal y uso de empresas de selección**: Armando Flores explica que en un equipo reducido, la pérdida de un miembro representa una disminución del 30% de la capacidad operativa. Por ello, Armando Flores defiende el uso de una empresa de selección (headhunter) que garantiza candidatos viables en una semana y ofrece una garantía de tres meses. Aunque Rafa se opone por costos, Armando Flores argumenta que es preferible contar con personal que carecer de él ante el alto volumen de trabajo ([00:13:53](https://docs.google.com/document/d/1OoUmpQJ2wuT8lJ37HLXsKUr6VQzEWaJASMie966Se-8/edit?ouid=107114406729300780928#heading=h.foarf8eyd1zt)).
+  - **Estudio salarial y conflicto en la absorción de personal de CABC**: Armando Flores preparó un estudio completo para incorporar a cinco empleados de la nómina de CABC al equipo de Driver, respetando antigüedad y condiciones. Sin embargo, Jacqueline elevó las ofertas otorgando un incremento salarial del 50%, lo cual generaría conflictos masivos con el personal restante de CABC que realiza las mismas tareas. Armando Flores lo resolvió directamente con Jacqueline y Julia para corregir la situación ([00:16:16](https://docs.google.com/document/d/1OoUmpQJ2wuT8lJ37HLXsKUr6VQzEWaJASMie966Se-8/edit?ouid=107114406729300780928#heading=h.ml5zay33qwwe)).
+  - **Preselección de candidatos y estrategia de contratación en España**: Daniel Escribano informa que tiene ocho candidatos preseleccionados en un archivo de Drive y se ha quedado con tres finalistas. Armando Flores pide que le envíe los candidatos finales o con dudas para una entrevista de 20 minutos. Daniel Escribano explica que publicaron el anuncio en LinkedIn y InfoJobs especificando rangos salariales y un perfil tipo cazatalentos (hunter), logrando filtrar perfiles demasiado sénior que rechazaban el sueldo y atrayendo candidatos jóvenes con ambición en el mercado español ([00:18:21](https://docs.google.com/document/d/1OoUmpQJ2wuT8lJ37HLXsKUr6VQzEWaJASMie966Se-8/edit?ouid=107114406729300780928#heading=h.snx6mzi4prcy)).
+  - **Problemas logísticos en transportes de larga distancia y cancelaciones**: Daniel Escribano relata un problema con un transporte de larga distancia de A Coruña a Sevilla (casi 1,000 km) y su respectivo enlace de Sevilla a Madrid, los cuales fueron cancelados porque el cliente olvidó cancelar un camión precontratado. Armando Flores sugiere incluir noches de hotel, pero Daniel Escribano señala que los márgenes no lo permiten y que la cultura de albergues para trabajadores no está desarrollada. Daniel Escribano menciona que un conductor en Calaf exigió un pago de taxi bajo amenaza de cancelación, a lo cual Daniel Escribano se negó para evitar un mal precedente ([00:23:24](https://docs.google.com/document/d/1OoUmpQJ2wuT8lJ37HLXsKUr6VQzEWaJASMie966Se-8/edit?ouid=107114406729300780928#heading=h.t495nmj9spow)).
+  - **Control de conductores y medidas disciplinarias ante extorsiones**: Armando Flores comparte su experiencia en México, donde conductores en Monterrey y Guadalajara se organizaron en chats y Facebook para exigir pagos adicionales de 10 euros bajo amenazas de boicot. Armando Flores respondió desactivando las cuentas de dichos conductores de inmediato para evitar chantajes en el negocio. Daniel Escribano añade que en Diaria ocurría algo similar con personal de operaciones que inflaba precios ([00:26:48](https://docs.google.com/document/d/1OoUmpQJ2wuT8lJ37HLXsKUr6VQzEWaJASMie966Se-8/edit?ouid=107114406729300780928#heading=h.iprs3ldd37o7)).
+  - **Situación interna y reestructuración en Diaria**: Daniel Escribano propone incorporar a una excompañera de Diaria que fungía como enlace entre comercial y operaciones debido a su alto rendimiento y capacidad organizativa. Daniel Escribano detalla que el nuevo responsable comercial en Diaria, Sergio, busca despedir a gran parte de la cúpula directiva anterior (director comercial, director de operaciones —a quien califican de exbotones—, personal de validación ineficiente y la responsable de marketing Eva Llorente) debido a la inoperancia y falta de métricas ([00:29:11](https://docs.google.com/document/d/1OoUmpQJ2wuT8lJ37HLXsKUr6VQzEWaJASMie966Se-8/edit?ouid=107114406729300780928#heading=h.x96ci2pme2m2)).
+  - **Estilo de liderazgo en Diaria y posible alianza con Metis**: Daniel Escribano critica al director general Constantín Lamber por evadir los problemas hasta que se vuelven insostenibles, utilizando a figuras como Enrique de chivo expiatorio. Daniel Escribano y Armando Flores analizan que Diaria atraviesa cambios debido a la presión competitiva y una posible asociación con una empresa de inteligencia artificial llamada Metis, cuyo directivo ha asumido un cargo directivo en Diaria con un discurso enfocado en la automatización y reducción de recursos ([00:34:49](https://docs.google.com/document/d/1OoUmpQJ2wuT8lJ37HLXsKUr6VQzEWaJASMie966Se-8/edit?ouid=107114406729300780928#heading=h.576qbesvltt)).
+  - **Desempeño financiero de Diaria en Europa y expansión de mercado**: Daniel Escribano analiza el rendimiento de Diaria en Europa, señalando que Francia lleva dos años en pérdidas a pesar de haber alcanzado una facturación de 20 a 22 millones, afectada por la competencia de High Flow y Crédit Agricole. En contraste, España creció de 4-5 millones a 12 millones de facturación en dos años gracias a la implementación de una estructura comercial y de indicadores de rendimiento (KPIs) creada por Daniel Escribano. Armando Flores y Daniel Escribano discuten las oportunidades y restricciones en el Reino Unido tras el Brexit, destacando la presencia de conductores autónomos de la Commonwealth ([00:42:16](https://docs.google.com/document/d/1OoUmpQJ2wuT8lJ37HLXsKUr6VQzEWaJASMie966Se-8/edit?ouid=107114406729300780928#heading=h.ohvv44lqwund)).
+  - **Comparativa de culturas económicas y laborales entre Alemania y España**: Daniel Escribano y Armando Flores contrastan la economía de servicios de España con la cultura de producción y calidad industrial de Alemania. Discuten además los desafíos migratorios recientes en Alemania, el impacto en las escuelas públicas, y cómo la comunidad alemana busca alternativas educativas privadas ([00:50:58](https://docs.google.com/document/d/1OoUmpQJ2wuT8lJ37HLXsKUr6VQzEWaJASMie966Se-8/edit?ouid=107114406729300780928#heading=h.b5vbkzz8x123)).
+  - **Clarificación sobre fechas de planificación y cierre de la reunión**: Armando Flores interrumpe para unirse a una reunión con el equipo de operaciones y aclara una duda sobre las fechas: la fecha inicial y final proporcionada por el cliente es exclusivamente para la planificación interna del gestor, mientras que la fecha asignada al conductor es la elegida específicamente en el plan. Daniel Escribano lo comprende, y ambos se despiden cordialmente ([00:57:10](https://docs.google.com/document/d/1OoUmpQJ2wuT8lJ37HLXsKUr6VQzEWaJASMie966Se-8/edit?ouid=107114406729300780928#heading=h.mj24aktm047y)).
+
+  
+  
+
+*Revisa las notas de Gemini para asegurarte de que sean precisas.* [*Obtén sugerencias y descubre cómo Gemini toma notas*](https://support.google.com/meet/answer/14754931)
+
+*Cómo es la calidad de* ***estas notas específicas?*** [*Responde una breve encuesta*](https://google.qualtrics.com/jfe/form/SV_5bXzKQfylMIhSXc?confid=snINX3J1pNhZrI10ZY8NDxIUOBEBMgUIigIgABgDCA&detailLevel=standard&hasImages=False&entryPoint=footerMain&isGoogler=False) *para darnos tu opinión; por ejemplo, cuán útiles te resultaron las notas.****  
+***
+
+# **ð Transcripción***  
+*
+
+ sept 4, 2026
+
+## **Diaria Spain Launch - Transcripción**
+
+### **00:02:02**
+
+  
+
+**Armando Flores:** Hola, Daniel.
+
+**Daniel Escribano:** Hola, Armando.
+
+**Armando Flores:** ¿Terminaste llamada?
+
+**Daniel Escribano:** Sí, era una entrevista.
+
+**Armando Flores:** Ya,
+
+**Daniel Escribano:** Eh,
+
+**Armando Flores:** ya.
+
+**Daniel Escribano:** estaba contestando ahora a Paloma. Efectivamente, que ayer con tanto jaleo no te lo pude comentar, es que llevo unos días un poco desbordado, ¿eh?
+
+**Armando Flores:** Me imagino.
+
+**Daniel Escribano:** y se me han olvidado cosas, por eso me las voy apuntando en cloud para que me vaya ayudando. E tenemos un problema con el seguro.
+
+**Armando Flores:** ¿Cuál?
+
+**Daniel Escribano:** Eh, lo que dice ahí Paloma, eh,
+
+**Armando Flores:** No he visto.
+
+**Daniel Escribano:** cuando yo le di cuando yo le di a activar el seguro, primero que me tiro 20 minutos o 10 minutos de reloj para activar un seguro con los 18,000 datos que piden, que tengo que buscarlos por siete sitios distintos. Y aparte de eso, cuando le doy a activar la póliza, me sale un contador numérico que me dice, por ejemplo, si es Ahora las en España las 16:36 me dice que el seguro está operativo a partir eh a las 17:36. Entonces, ¿qué pasa?
+
+**Armando Flores:** M.
+
+**Daniel Escribano:** Que me quedo una hora sin seguro.
+
+**Armando Flores:** Sí.
+
+  
+  
+
+### **00:03:13**
+
+  
+
+**Daniel Escribano:** Entonces tú imagínate, o sea, si es un si es un daño leve, no pasa nada porque le digo al conductor que se espere y sabes lo que te digo y yo doy la notificación una hora después y no pasa nada. Pero imagínate que sale el conductor de la campa y atropella a alguien a los 5 o 10 minutos después.
+
+**Armando Flores:** Sí,
+
+**Daniel Escribano:** Entonces es que este seguro, con todos mis respetos, es una m\*\*\*\*\* como un piano. O sea, es que no vale para nada este seguro.
+
+**Armando Flores:** sí. No, no sirve nada.
+
+**Daniel Escribano:** Ya.
+
+**Armando Flores:** Eh, Feed de hoy,
+
+**Daniel Escribano:** Primero el
+
+**Armando Flores:** fe de hoy, ve a Adriano, al que nos quiere dar la solución. Voy a ver qué qué sale de ahí. Este, pero sí, o sea, el otro día yo hablé con Rafa, me dice,"Oye, Armando, ¿por qué dices que el seguro no es?" Le digo,"Gey, le digo, Rafa es una m\*\*\*\*\* de seguro, o sea, no lo podemos operar. Este tiene esto, está carísimo, es inflexible, tiene tal." Pero hay algo, hay algo ahí raro. ¿Por qué estamos tan insistentes en solo tener esa solución? El otra vez que hablamos, Gerardo, con la otra compañía, dijo Gerardo que ya estaban viendo, creo que con otra o que creo que más bien o más bien ya nos resignamos, pero no.
+
+  
+  
+
+### **00:04:14**
+
+  
+
+**Armando Flores:** Yo creo que sí deberíamos de ver algo diferente.
+
+**Daniel Escribano:** Es que no hay manera. Los de los de Lagunaro les he mandado dos email, no me contestan, les he llamado por teléfono y me dicen que el contacto tiene que ser por email.
+
+**Armando Flores:** ¿Sabes qué pasa? que a estas empresas no les interesa, o sea, o sea, ellos ellos prefieren tener un seguro de una flota más grande y a lo mejor con eso ganan más dinero y ya no.
+
+**Daniel Escribano:** Claro, pero yo le he llegado a insinuar hasta por email que le pagamos más dinero que Trainy. Se lo he llegado a insinuar por email, decirle si es problema de precio lo hablamos y si hay que pagar un poco más. ¿Sabes lo que te digo? Y es que ni digo más que nada por captar a ver si así me responden. ¿Sabes lo que te digo? Y y no hay manera, macho. Yo ya vamos con decirte que hay transportes que los estoy moviendo sin seguro porque si lo tengo de lo heches Madrid Toledo, Madrid Toledo no es una hora ni no es ni una hora del viaje.
+
+**Armando Flores:** No,
+
+**Daniel Escribano:** Entonces, ¿para qué voy a activar el seguro? Si me llama el cliente y me dice que ha tenido un arañazo, o sea, el conductor que ten un arañazo ha tenido cualquier cosa, activo el seguro y el parte después.
+
+  
+  
+
+### **00:05:25**
+
+  
+
+**Daniel Escribano:** Es que claro, porque es que
+
+**Armando Flores:** a mí lo que me preocupa es, o sea, la responsabilidad civil en ese momento. Digo, el vehículo debe tener algún tipo de seguro. Este
+
+**Daniel Escribano:** claro, pero es lo que comentaba el otro día, una cosa es el seguro de flota, otra cosa es el seguro a terceros y otra cosa es el Pero claro, es que si te paran, pero si te para la policía igual en el momento ese que no está activado, la primera hora que no está activado el seguro, pues tener el mismo problema también. A ver, yo les puedo mandar el justificante de que lo he solicitado antes, ¿sabes? Y claro,
+
+**Armando Flores:** Sí.
+
+**Daniel Escribano:** no, yo yo no puedo activar el seguro antes porque si es que tú sabes la de veces que han cancelado los transportes, si estoy todo el rato asignando y reasignando, se nos se nos iría el dinero en seguros porque ahora si el seguro nos diera la opción de asegurar el coche y no el conductor, pues entonces no hay problema. Bueno, ahí porque si le pasas de día el el transporte ya pierdes el seguro, pero bueno, si es dur si es en el mismo día, pues bueno, le cambio el conductor y ya está, no palmamos seguro. ¿Me explico?
+
+  
+  
+
+### **00:06:45**
+
+  
+
+**Armando Flores:** O sea, Me queda claro que no sirve este y no podemos retrasar cada uno 50 minutos y esperarlo Este
+
+**Daniel Escribano:** Ahora se me a mí se me ocurre otra acción, hasta qué punto queramos correr riesgos. Pero si hay empresas pequeñitas que se lo hacen a Centauro, ¿cómo no lo vamos a poder hacer nosotros? Esto lo podemos hablar con Rafa. ¿Por qué no por qué no contratamos nosotros una flota?
+
+**Armando Flores:** Rafa.
+
+**Daniel Escribano:** Es decir, aquí los concesionarios o empresas de grandes de coches contratan una
+
+**Armando Flores:** Mhm.
+
+**Daniel Escribano:** flota, ¿vale? Es decir, hablan con un seguro y contratan, un ejemplo, eh, 300 coches de flota, ¿vale?
+
+**Armando Flores:** Hm.
+
+**Daniel Escribano:** Esos 300 coches, sacas uno, metes uno, sacas uno, metes uno, sacas uno, metes uno. O sea, siempre tienes el mismo número en la flotas e contratado, pero yo puedo ir cambiando esto.
+
+**Armando Flores:** Mhm.
+
+**Daniel Escribano:** El vacío, ¿cuál es? Que esos seguros de flota solamente puede moverlos en empleados de la flota, ¿vale? Y que si tú tienes un accidente no te cubre, tienes que pagarlo tú. Pero si nosotros metemos en una hucha, un ejemplo, ¿cuánto nos cuesta el seguro de flota por coche?
+
+  
+  
+
+### **00:08:10**
+
+  
+
+**Daniel Escribano:** 1 € 2 € Vale, los otros 8 € van a una hucha, toda la hucha y y asegur y aseguramos y aseguramos
+
+**Armando Flores:** Sí. Sí, o sea, en ese en ese sentido eso es parecido a lo que tienen en Estados
+
+**Daniel Escribano:** Nootros
+
+**Armando Flores:** Unidos e que le llaman un seguro cautivo, eh, combinado como con uno de flota. Aquí en México le llaman plan piso, ¿no? Es que es lo que tú dices, que aseguras una cantidad de coches que son los que usan los concesionarios normalmente. Este cada tiene un seguro así. Tenemos que ver alternativas.
+
+**Daniel Escribano:** Así no se puede,
+
+**Armando Flores:** Eso síos.
+
+**Daniel Escribano:** así no se puede trabajar. primero por bueno, porque aunqueunque aunque tengamos la API que nos la haga automáticamente Pero claro, si nos lo hace automáticamente en el momento que se vuelca se se empieza a realizar el transporte, tenemos 50 minutos de vacío.
+
+**Armando Flores:** No, necesitamos otro seguro. No sé por qué están. Bueno, estaban muy insistentes porque es la única que tenemos, la única solución que tenemos, pero funciona a un 30% lo que necesitamos.
+
+**Daniel Escribano:** Ja.
+
+**Armando Flores:** O sea, no, yo creo que si hay que proponer la RAF alternativas este o ponerle presión para que desarrolle alternativas.
+
+**Daniel Escribano:** Sí, por cierto, Rafa lleva recursos humanos y yo no lo sabía.
+
+  
+  
+
+### **00:09:59**
+
+  
+
+**Armando Flores:** Sí.
+
+**Daniel Escribano:** me escribió el otro día con lo de la oferta y me dice,"Dani, la próxima vez dímelo a mí directamente y yo me encargo." Y le digo,
+
+**Armando Flores:** ¿Qué oferta?
+
+**Daniel Escribano:** "Ya digo, si me lo dijo Armando, digo, pero como no quería cargarle, yo digo, no quería cargarle a Armando esa responsabilidad, digo, y y nadie, o sea, no tenido no he tenido noticias, digo, mira, es que antes de que digo, tú me has porque me escribió ayer, eh, Rafa, digo, me has escrito tú." digo, pero es que ya tengo prácticamente ahora te iba a comentar, digo, ya tengo prácticamente seleccionada las personas o sabes lo que te digo digo es que al final yo trabajo a otro ritmo. Si dependemos de tanta gente se me se ralentiza mucho el el tema. Y te pongo el ejemplo. Mira, Nico, con lo del con lo del evento, dependes de aline, dependes de uno, dependes de otro, al final se ralentiza el sistema un montón.
+
+**Armando Flores:** Sí, no, a ver, pero era lo que te dije, o sea, son un pocos sentidos, pero tenía que estar Rafa involucrado, ¿no? O sea,
+
+**Daniel Escribano:** Sí,
+
+**Armando Flores:** yo se los dije qué día fue el día que tú me dijiste, no me acuerdo cuandondo fue la semana pasada,
+
+  
+  
+
+### **00:11:09**
+
+  
+
+**Daniel Escribano:** claro.
+
+**Armando Flores:** no recuerdo bien qué día.
+
+**Daniel Escribano:** Pero es que fíjate, Rafa tardado en contestar una semana, o sea,
+
+**Armando Flores:** Sí.
+
+**Daniel Escribano:** Rafa tardado en escribirme a mí una semana.
+
+**Armando Flores:** Yo les dije,"Yo tengo esto y yo tenía junta, yo estuve junta el martes con Jacqueline y le dije,"Oye, es esto, aquí está la descripción de puesto, tienes esto, ta tal." No sé si regresó contigo. Le dije,"Oye, y hablé con Rafa y le dije,"Oye, ¿quieres que ponga una junta de Jacqueline o tú ya lo tomas? ¿O quieres que yo lo tome?" No, o sea, digo,"Dámelo." No, este, no, no, no. Pero es lo que te digo, es que tienen que tomar la responsabilidad, ¿no? Pero no hay conflicto, ¿eh? A ver, Rafa, y y te lo voy a poner para que no Rafa, es así, ¿no?
+
+**Daniel Escribano:** No, No, si Rafa me cae me cae muy bien. Yo no tengo no he tenido problema con él.
+
+**Armando Flores:** Es
+
+**Daniel Escribano:** é me lo él me lo dijo como para saberlo y digo,"Ah, pues raza, yo no sabía que tú estabas en eras ahora responsable de la parte recursos humanos. Digo,
+
+  
+  
+
+### **00:11:59**
+
+  
+
+**Daniel Escribano:** no lo sabía. Digo, yo sabía de Jaqueline Sánchez, que es con quien que me hablaste tú y con quien hablé yo cuando entré en la empresa. Digo, me parece perfecto. Digo, pero que no sabía que Rafa esté involucrado. Además, yo con Rafa me llevo bien, me escribo cada dos por tres por cosas.
+
+**Armando Flores:** Sí.
+
+**Daniel Escribano:** Entonces, te lo hubiera dicho yo directamente, no hubieran involucrado a mejorar Armando para que te cargues tú de una cosa que no te teníes que cargar. Digo, te lo hubiera escrito yo directamente, ahora ya lo sé. Y pues ya está, pues para la próxima vez te digo, oye, tal y ya está.
+
+**Armando Flores:** Sí, el Rafa lo único que tiene que es un poco sentido, ¿no? Este tiene, no le gusta que sentirse fuera de del juego.
+
+**Daniel Escribano:** Ya.
+
+**Armando Flores:** Entonces, cuando pasa algo así es eso. O sea, digo, uno, ellos lo tienen que hacer, no han habido avances, ¿no? A pesar que yo le avisé,"Oye," me dijo Nico,"¿Y este que ya estaban a probar estos recursos?" Y luego tú me dijiste,"Oye, ya probaron estos, ¿no?" Entonces, y me dice,"Rafa, ¿y por qué? ¿Y por qué no me avisas?" Y no sé qué.
+
+  
+  
+
+### **00:12:52**
+
+  
+
+**Armando Flores:** Dije,"Bueno, pues yo no yo no sabía que los habían aprobado, güey. O sea, ya te estoy avisando, ¿no? O sea, es este, o sea, te estoy avisando. Es eso. Este, pero es así es, ¿no? O sea, no.
+
+**Daniel Escribano:** Yo yo sin embargo estoy acostumbrado a no cargar a gente con cosas que puedo hacer yo y y sobre todo que que las puedo hacer rápido,
+
+**Armando Flores:** El tema, ¿sabes qué es? Sí.
+
+**Daniel Escribano:** porque yo soy una persona que no me dejo me gusta dejar las cosas para mañana, yo las hago rápido.
+
+**Armando Flores:** Sí, o sea, y se lo dije a Rafa el otro, le dije,"Rafa, o sea, es que recurso humanos es lento." Entonces me dice,"No, siempre tengo la misma discusión." me dice,"No es cierto, no sé qué prefiero, digo, no, yo no prefiero tardarme 6 meses a tener alguien porque a mí se me carga la operación, ¿no? O sea, yo he estado en casos en los que necesito contratar a alguien y no tengo candidatos y traigo la operación a tope, ¿no? O sea, estamos operando en México a un 150% conforme el año pasado. O sea, estamos ya ya perdí la cuenta ahorita, pero estamos moviendo cerca de 3000 unidades semanales, o sea, es mucho, ¿no?
+
+  
+  
+
+### **00:13:53**
+
+  
+
+**Armando Flores:** O sea, si es si es es un volumen grande. Entonces este, si a mí se me va una persona que tú ya viste que es un equipo reducido, pues se me va la capacidad, este,
+
+**Daniel Escribano:** Claro,
+
+**Armando Flores:** proporcionalmente se me va muchísima capacidad, ¿no?
+
+**Daniel Escribano:** cuando es un equipo cuando es un equipo reducido,
+
+**Armando Flores:** Entonces sí,
+
+**Daniel Escribano:** te falta una pieza, se Eh,
+
+**Armando Flores:** o sea, tenía tres y se me va uno, pues disminuyes el 30% tu capacidad. Es muchísimo. Hm. O sea, es es fuerte. Entonces, eso es algo que ellos no entienden. No hay que perar al candidato ideal. Te digo, es que es mejor un peor, un mal candidato a un no candidato, ¿no? O sea, ya estoy en esa etapa en el que no me importa lo que venga con que me quite un poco de trabajo con eso, ¿no? Entonces este me ha dicho,"No, ya no puedes usar head hunter." Tal vez yo usado el headhunter porque si no el headhunter me tiene la garantía que en una semana me tiene tres candidatos para esa posición viables y filtrados y todas las veces que me ha mandado candidatos han sido útiles todas las veces. No, digo, yo lo conozco porque era mi director de recursos humanos en la empresa anterior, entonces puse un negocio y me dice,"Oye, hermano te do estas garantías y me dio garantías así tr meses y si no te repongo el dinero, me dice,"Lo único que quiero es como que poner el nombre de driver y yo te lo doy casi gratis, ¿no?" Dije,
+
+  
+  
+
+### **00:15:08**
+
+  
+
+**Armando Flores:** "Vale, no." Se los mandé a recursos humanos, lo vieron y él ya contrató a gente a operaciones en Colombia, en México, o sea, todos, ¿no? Entonces, pero eh hubo el mismo conflicto con Rafa,"¿Y por qué y no y es que es mejor el notter?" Le digo,"Bueno, pues entonces contrata la gente." Me dice,"Es que con lo que nos gastamos en head hunter podría tener una persona." Entonces, contrata un reclutador, cabrón. No, o sea, no me vengas con que no puedes contratar gente y que contrata un head hunter y este es malo. Y entonces, ¿qué hacemos? Nos quedamos sin contratar Heunter y nos quedamos sin gente, ¿no? Entonces me dice,"No, no, este, mejor contratamos una persona." Digo, pues a mí no me tienes que convencer. O sea, yo soy la persona que necesita gente y no me la consigue. Defiende mucho también a a su equipo. Jacki sobre todo la defiende mucho y y la verdad es que, o sea, yo con Jacki lo que hago es entregarle el trabajo ya hecho y que me lo revise y ya no, o sea, ahorita tengo un conflicto porque te voy a dar un ejemplo, tengo las ofertas, o sea, tengo que traer a cinco personas que están en la nómina de CABC a mi equipo.
+
+  
+  
+
+### **00:16:16**
+
+  
+
+**Armando Flores:** Entonces hice todo un estudio de cuánto ganaban, cuántas horas extas se les pagaban las primas dominicales, eh cómo era el esquema de bonos, cuáles son los las prestaciones que tenían en CABAC versus las que tenemos. Hice todo el estudio, saqué, se los entregué, ¿no? Dije, aquí está el paquete, ¿no? Y les dije,"Estas son las legislaciones aplicables y los vamos a traer nuestro equipo porque tenemos que hacer una sustitución patronal, respetar la antigüedad, o sea, habían varias cosas. Le di el paquete completo. Sí, llegan las ofertas. Son puestos muy básicos, ¿no? Son sueldos muy muy básicos, un poco arriba de salario mínimo para México. Y me llega y ya aquí las veo elevadas, ¿no? O sea, una persona, todos ellos traían un 50% incremento salarial, ¿no? Y yo digo, o sea, no está mal pagarles eso porque la verdad es que es un sueldo muy bajo. El problema lo que hace es que las personas que se quedan en Cabac, que hacían lo mismo o eso antes, pues va a causar un conflicto enorme. H,
+
+**Daniel Escribano:** Claro,
+
+**Armando Flores:** o sea, porque se sientan ahí. Es este,
+
+**Daniel Escribano:** van a comer y te doy y hago lo mismo que tú,
+
+  
+  
+
+### **00:17:21**
+
+  
+
+**Armando Flores:** o sea,
+
+**Daniel Escribano:** pero gano más.
+
+**Armando Flores:** sí, sí, sí, ¿no? O antes nada más por pasarme a Driver gané el 50%, ¿no? Este, entonces llegué y le dije, o sea, nada más veo las ofertas y digo, bueno, a lo mejor lo que están haciendo es incluyéndole los bonos, ya no vamos a pagar horas extras, se las integraron. O sea, quiero entender el racional, ¿no? O sea, cuando yo veo las ofertas y el racional fue de pues es que son los las puestos que tienes tú de área managers y pues los puse ahí, pues ya no para que yo hago todo el estudio y todas esas cosas, o sea, en fin, ya ni hablé esto con Rafa, ¿no? O sea, ya no lo hablé, ya lo hablé con Jackie. Julia me está ayudando con eso. Le dije,"Julia, voy a ahorcar a alguien si esto sigue así." Entonces, ella ya se ocupó. Julia es es muy buena, es una es una bala. Este, entonces ya estamos de ese lado. Pero el tema también es que para ser una empresa de este volumen tenemos un departamento de recursos humanos muy limitado, ¿no? Necesitas alguien que haga de todo en recursos humanos y y no hacen de todo o no están tan metidos.
+
+  
+  
+
+### **00:18:21**
+
+  
+
+**Armando Flores:** Entonces, es un tema ahí. Pero bueno, este ya está involucrado, Rafa. No, no. Y y lo que te dije, tú sigue haciendo lo que estás haciendo, pero sin o sea, hay que involucrarlos, ¿no? Es nada más darles partida y ya.
+
+**Daniel Escribano:** Vale, pues le digo,"Oye, mira, hemos ofrecido esto porque lo que lo que hemos ofrecido, lo acordé, vamos, yo le he dicho, le dije a Nico, Nico me dijo que adelante." Eh, digo,"Mira, hemos acordado estos cuatro puestos. En principio solo va de primera vamos a contratar solo estos dos, los otros dos es de cara a corto medio plazo. Y estas son las condiciones que vamos a ofrecer en cada puesto, tal cual. Y ya ahora ya tengo la gente prácticamente medio seleccionada. Entonces,
+
+**Armando Flores:** Cuando tengas finalistas,
+
+**Daniel Escribano:** eh,
+
+**Armando Flores:** mándamelos a mí también, porfa.
+
+**Daniel Escribano:** vale. Sí, mira, te lo mando ya si quieres.
+
+**Armando Flores:** No, no.
+
+**Daniel Escribano:** ¿Qué quieres ser?
+
+**Armando Flores:** O sea, para entrevista 20 minutos, o sea, no, no les quiero quitar el tiempo, ¿eh? Vamos a
+
+**Daniel Escribano:** Ah, que quieres verlos también tú.
+
+  
+  
+
+### **00:19:18**
+
+  
+
+**Daniel Escribano:** Vale, pues a ver, vale, te doy acceso si no al archivo este que tengo yo aquí, que he puesto los datos de los que he ido seleccionando y
+
+**Armando Flores:** nada más el, o sea, cuando tengas ya los candidatos finales ya para contratar, o sea, no no todos. O si tienes duda de alguno también mándamelo.
+
+**Daniel Escribano:** vale.
+
+**Armando Flores:** Este,
+
+**Daniel Escribano:** Yo ahora mismo, ahora mismo tengo aquí preseleccionados 1 2 3 4 5 6 7 ocho, de los cuales tengo puestos que me gustan tres. decir, eh,
+
+**Armando Flores:** pues si quieres esos tres o o dos finales más bien, pero o sea, nada más como para entender qué es lo que estamos contratando ya.
+
+**Daniel Escribano:** creo que tengo una o dos entrevistas más pendientes y yo creo que ya freno porque de lo que he visto ahora hay tres ya que me gustan y luego decir decidimos y salimos de dudas y y ya está. Así que, pero mira, pusimos el el este en LinkedIn, nada más que entra la gente super senior y ahora con el anuncio este que yo he puesto, que es lo mismo, solo que matiza un poquito en el en el en el cuerpo, pues eso, que que sí que es SDR, pero que la función es muy Hunter, ¿sabes? Entonces, claro, ya te entran perfiles más junior y también como en Infoy puedes poner el anuncio con el rango salarial, también ya te descartas la gente que no quiere, ¿sabes?
+
+  
+  
+
+### **00:20:49**
+
+  
+
+**Daniel Escribano:** Porque los dos primeros que entrevisté a través de LinkedIn me han dicho que no por el sueldo, que tampoco que tampoco me gustaban,
+
+**Armando Flores:** Hm.
+
+**Daniel Escribano:** eh, la verdad, Pero así
+
+**Armando Flores:** Pues mira, Este, o sea,
+
+**Daniel Escribano:** que esperamos que tengo aquí tengo aquí toda la información en
+
+**Armando Flores:** si no, o sea, yo creo que para ese yo pensaría que para
+
+**Daniel Escribano:** un en un drive.
+
+**Armando Flores:** ese nivel de sueldo hay mucho mercado en España también, ¿no?
+
+**Daniel Escribano:** Sí.
+
+**Armando Flores:** O sea, me refiero con los niveles de desempleo que hay y el sueldo y demás, yo pensaría que sí hay gente que quiere tomar esas posiciones.
+
+**Daniel Escribano:** Sí. A ver, lo que pasa que es un poco como todo, eh, siempre te van a pedir, el que tenga un poquito de formación o un poquito de experiencia, aunque sea mínima, te va a pedir más dinero,
+
+**Armando Flores:** Sí.
+
+**Daniel Escribano:** porque de de un buen comercial o un buen Aquí es cierto que aquí se gana dinero, toto con comisiones y tal, pero bueno, que sí que ahí ya está mecado. Mira, en menos de una semana, bueno, o en una semana, porque llevo unos días con esto, puse el anuncio en info, yo creo que fue el miércoles, algunos que había entrevistado ya antes, uno que trabajó conmigo hace tiempo, pero que no le quiero porque lleva muchos años ya en el sector y ya viene de vuelta.
+
+  
+  
+
+### **00:22:10**
+
+  
+
+**Armando Flores:** Ya está viciado.
+
+**Daniel Escribano:** Y para este sí, y para este y para este puesto es mejor gente que venga de otros sectores o que esté empezando a trabajar, que sea muy joven y que tenga hambre, ¿sabes? porque es el que tiene que tener hambre para llamar o sabes,
+
+**Armando Flores:** Mm.
+
+**Daniel Escribano:** ambición y hambre. Entonces, cuando digo hambre, me refiero energía, que tenga ganas,
+
+**Armando Flores:** No, no, eso me queda.
+
+**Daniel Escribano:** que tenga Ah,
+
+**Armando Flores:** Se se usa la misma expresión aquí.
+
+**Daniel Escribano:** vale. Entonces, eh, pero bueno,
+
+**Armando Flores:** Oye,
+
+**Daniel Escribano:** veremos.
+
+**Armando Flores:** y e te iba a preguntar, ¿cómo van los transportes que estabas ejecutando?
+
+**Daniel Escribano:** Pues he tenido un problema con uno que me ha fastidiado muchísimo.
+
+**Armando Flores:** el de ayer, el que me mandaste ayer.
+
+**Daniel Escribano:** Yo tenía uno que era muy largo, era un Coruña, un conductor me iba a hacer de un cliente eh, Coruña, Sevilla, o sea, punta a punta, eran como casi era 1000 km, ¿vale?
+
+**Armando Flores:** Mhm.
+
+**Daniel Escribano:** y me iba a hacer un Sevilla, eh, Madrid para volverse a casa. Es madrileño. Vale. ¿Qué pasa? Que por suerte ha llamado a la campa que le preparen el coche y se la acaba de llevar el camión.
+
+  
+  
+
+### **00:23:24**
+
+  
+
+**Daniel Escribano:** Es decir, que el cliente se le olvidó cancelar el camión que tenía precontratado. ¿Sabes qué ha pasado? Que no solo me cancela ese, también me cancela el de enlace, el que tenía en Sevilla para Madrid. Entonces, tengo los dos abiertos y sobre todo el de el de Coruña Sevilla es un transporte que es casi imposible de asignar porque son 1000 km y no son entre que estén un Madrid, un Barcelona de por medio, ¿sabes?
+
+**Armando Flores:** Esos, eso era lo que te iba a decir. O sea, en esos, ¿por qué no le integramos una noche a hotel ahí de una vez? M.
+
+**Daniel Escribano:** porque no te no te da no te da el
+
+**Armando Flores:** ¿No hay alguno?
+
+**Daniel Escribano:** margen.
+
+**Armando Flores:** ¿Cuánto cuesta un hotel de carretera en España?
+
+**Daniel Escribano:** Depende. Lo mínimo te va a costar unos 50 € o o 40 un de carretera, como tú dices. Pero pero no. A ver, lo suyo los conductores, ¿sabes lo que hacen? Los conductores se cogen albergues. No sé si allí está la cultura del albergue, del hostel, el hostel europeo.
+
+**Armando Flores:** Mm. Hay algunos, pero no no existe, eh, o sea, yo conozco los hostel europeo, no existen, no existe esa cultura aquí, o sea, hay hay de repente algunos los hemos usado con con algunos chóeres, pero no está no está desarrollada la cultura más que para turismo,
+
+  
+  
+
+### **00:24:44**
+
+  
+
+**Armando Flores:** más que para turismo, ¿no? No tanto como para trabajo.
+
+**Daniel Escribano:** Mochilero.
+
+**Armando Flores:** Es sí, o sea, y el problema es que es ese, ¿no? O sea, tú quieres captar, si pones un hostel, quieres captar turismo mochilero, este, los europeos, etcétera, este, pero cuando lo pones muy barato, pues te va a caer justamente el chóer o te va a caer esas cosas que no es lo que buscan este los mochileros dormir al lado de uno de ellos, ¿no?
+
+**Daniel Escribano:** Hm.
+
+**Armando Flores:** Entonces esteh
+
+**Daniel Escribano:** Sí, pero aquí no puedes hacer eso porque primero porque te lo te vas a cargar el margen y segundo porque lo van a tomar como costumbre. Entonces, cada vez que tengan uno de esos te piden un este, ¿sabes? Porque yo ya me lo sé de Diaria.
+
+**Armando Flores:** Hm.
+
+**Daniel Escribano:** Te llega un tío y dice,"Oye, en Calaf, que Calaf es una campa muy común de que se recogen coches, pero la es muy difícil. Entonces, eh, te amenazan con cancelarlo si no les pagas un taxi desde la estación a la campa, ¿no? Y ayer ya uno pidiéndome un taxi y le dije que no. ¿Por qué?
+
+  
+  
+
+### **00:25:49**
+
+  
+
+**Daniel Escribano:** Dije,"Jol es que si no tal no me vendas la moto." Digo que sé que Diaria no te paga, no te está pagando lo que te lo que te pago, lo que te estamos pagando nosotros por ese viaje. Digo,"La otra compañía te va a pagar mínimo 30, 40 o 20 € menos por ese viaje." Digo,"Que sé perfectamente los precios porque los puse allí y los puse aquí." Quiero decir que sé perfectamente eh los precios. A ver, no se lo dije así, ¿sabes? Pero entonces le tienes que decir que no, porque como le digas que sí, una vez todos los viajes que va a Calaf,
+
+**Armando Flores:** Ya todos.
+
+**Daniel Escribano:** en el último momento te dice que o le pagas el taxi o te lo cancela,
+
+**Armando Flores:** Sí,
+
+**Daniel Escribano:** ¿sabes?
+
+**Armando Flores:** sí. No, no,
+
+**Daniel Escribano:** Entonces,
+
+**Armando Flores:** eso lo han lo han hecho aquí. Aquí el problema te voy a decir, cuando yo tomé el eh, o sea, pasó eso que a ver, les pagaban comidas, les pagaban hoteles de 70 € les pagaban este una noche de hotel más para que llegaran temprano, les pagaban el Uber para llegar, para salir, para todo, ¿no?
+
+  
+  
+
+### **00:26:48**
+
+  
+
+**Armando Flores:** O sea, eran como ejecutivos, ¿no? Entonces, ¿qué es lo que pasa? que empiezo yo a revisar los costos, veo y digo, vamos a empezar a poner reglas. Y entonces eh hay una ciudad que es Monterrey, que todos los conductores hicieron un chat y por Facebook se organizaron y entonces de repente ponen ahí de,"No, no tomes este transporte, no tomes esto, no sé cuál." Entonces, lo que yo he tenido que hacer es darle baja a cantidad de conductores ahí, ¿no? Porque llegaron una vez y llegaron y se presentaron en la campa y dicen,"No me los voy a llevar, a menos que nos deste 10 € más a cada uno." Entonces, en ese momento me dicen,"Oye, hermano, ¿dónde está?" Le digo,"En este momento desactívales la cuenta a todos y que se vayan." Hm. Y así he tenido que hacerlo, ¿no? O sea, de decir,"¿Sabes qué? Si me vas a secuestrar a mí el negocio, te vas." Entonces, ya con eso ya la piensan dos veces, ¿no? Entonces, ya en otra ciudad, que también aquí se llama Guadalajara, lo nos estaba pasando lo mismo y tuve que empezar a poner reglas, pero es más difícil poner las reglas después de que lo hiciste que antes, ¿no?
+
+  
+  
+
+### **00:27:50**
+
+  
+
+**Armando Flores:** Este, o sea, porque si no te cuesta el doble, o sea, al final te cuesta el doble porque tienes que conseguir más conductores, que si el conductor la primera vez que te intentas hacer eso, al primero lo das de baja o lo suspendes o le das cualquier cosa, el de al lado, por más que digas,"Sí, somos compañeros y yo te apoyo y eso tiene que comer, ¿no? Este,
+
+**Daniel Escribano:** Total
+
+**Armando Flores:** o sea, no, no, o sea, digo, suena feo, pero al final son chóeres, ¿no? O sea, son conductores y se dedican a eso porque esa es su habilidad y y y porque no se han logrado con este dedicar a otras cosas muchas veces, ¿no? Este que muchos de los bueno, no muchos, gente de los que yo he contratado ha sido conductor, pero se ha decidido crecer.
+
+**Daniel Escribano:** En en Diaria se hizo lo mismo, los la gente que hay en operaciones, los dos o tres los dos o tres primeros os que hay en operaciones eran conductores, que son los lo que te dije, lo de los venezolanos, que entre ellos se subían precios y tal,
+
+**Armando Flores:** Sí, no es que también os se juntan E.
+
+**Daniel Escribano:** que por eso que por eso digo que conflicto de interés ya,
+
+**Armando Flores:** Mhm.
+
+**Daniel Escribano:** pero el es lo que he puesto en el grupo, eh, el nuevo ya se ha dado cuenta, eh, el Filipo Bruneleski este ya se ha dado cuenta, eh, porque, bueno, no sé, yo creo que te lo he contado, una amiga mía personal, pero personal de mi familia, o sea, de siempre, ¿vale?
+
+  
+  
+
+### **00:29:11**
+
+  
+
+**Daniel Escribano:** Yo la metí a trabajar en Diaria, ¿vale? Y ella sigue allí trabajando.
+
+**Armando Flores:** Mhm.
+
+**Daniel Escribano:** De hecho, a mí me gustaría como como manager traérmela con nosotros porque en Diaria eh no llevaba mucho tiempo, pero controla todo porque era como el enlace entre comercial y operaciones, ¿sabes? es la que hacía un poco el enlace de todo.
+
+**Armando Flores:** Hm.
+
+**Daniel Escribano:** Entonces, para el trabajo que nosotros queremos desempeñar sería perfecta, la verdad,
+
+**Armando Flores:** Sì.
+
+**Daniel Escribano:** eh, como área manager a co manager, ¿sabes? Porque es que realmente lo que hace ya en en Dimy, porque ella lo que hace es poner al departamento comercial con toda su ventas en enlace con el departamento de operaciones y ella saben que falla también operaciones muchísimo porque ella es la que trabaja con ellas de, ¿sabes lo que te digo? se encarga de todo.
+
+**Armando Flores:** Sí.
+
+**Daniel Escribano:** Es es como que hace el el filtro,
+
+**Armando Flores:** Yeah.
+
+**Daniel Escribano:** el embudo. entre comercial y operaciones. Ahí está muy separado, pero ella y Eduardo, que es otro chico también que me encantaría traerle aquí, pero Eduardo yo creo que no, porque Eduardo tiene otras pretensiones. Eduardo también, aparte de eso, controla mucho de sistemas, ¿sabes?
+
+  
+  
+
+### **00:30:15**
+
+  
+
+**Daniel Escribano:** Y allí lo teníamos a mi cargo y es un crack, ¿eh? Lo que pasa que le falta un poco ambición, es muy parado, ¿sabes?
+
+**Armando Flores:** Hm.
+
+**Daniel Escribano:** Pero como conocimiento es lo que pasa que él te va a pedir un fijo porque como en el variable no es tan ambicioso, ¿sabes? Él va a otra manera,
+
+**Armando Flores:** Sí.
+
+**Daniel Escribano:** pero para que lo que nosotros queremos como account manager y area manager, esta chica es perfecta. Lo que pasa que ahora me va a costar moverla de allí porque está muy cómoda y aunque también a ella le molesta estar cómoda a su vez, ¿no? Porque ella es la primera que se ha se ha quejado en su día de que no está bien dirigido, de que operaciones no funciona, de que el Ahora mismo, ¿qué es lo que te iba a contar? El el nuevo responsable comercial, antes estaba Nacho, cuando se fue Nacho me quedé yo, ¿vale?
+
+**Armando Flores:** Mhm.
+
+**Daniel Escribano:** Y después de mí, eh, ya ha entrado este otro, ¿no? El tal Sergio. Bueno, yo coincidí con Sergio un poco tiempo, que me vendieron como que íbamos a hacerlo los dos y no gusta allí. Vale, entonces eh el nuevo no le gusta al director comercial, operaciones no le gusta, quiere mantenerlo de mantenerlo entero.
+
+  
+  
+
+### **00:31:30**
+
+  
+
+**Daniel Escribano:** Dice que no tiene ningún sentido tanta gente para no hacer nada. Es decir, que no no era mucha gente para hacer nada. Lo mínimo, una cosa que mi propia amiga prácticamente les está dirigiendo, les está controlando, ¿para qué quieres alguien que dirija? Si esta chica que te hace te está diciendo lo que tienes que hacer.
+
+**Armando Flores:** Hm.
+
+**Daniel Escribano:** No necesitas ningún responsable en operaciones, ni necesitas nadie porque es que encima tienes casi más personal que que gente operando. O como la chica de validaciones, aquí no has visto en las tarifas que yo he puesto un servicio de validación que es 15 € para eso está en
+
+**Armando Flores:** Hm.
+
+**Daniel Escribano:** Diaria, ¿vale? Y es que es muy heavy la chica que contrataron para validaciones, que miramos los datos y hay días que solamente tiene dos validaciones en un día. Mi amiga, la chica esta que te digo, ¿vale?,
+
+**Armando Flores:** Mhm.
+
+**Daniel Escribano:** le llovían del enlace de comercial a operaciones, le llovían un montón y ella decía,"Mira, ¿para qué lo voy a pasar a activaciones si se va a quedar ahí parado y no la va a llamar hasta dentro de cuo o c días y solo hace dos llamadas por día?" Y la chica aparte se hacía sus 20 activaciones diarias.
+
+  
+  
+
+### **00:32:29**
+
+  
+
+**Daniel Escribano:** ¿Sabes lo que te digo? Por eso te digo que esta chica es una crack y es la y es la que ha destapado junto conmigo en su día y un poco Nacho Ignacio cuando se fue y demás. Somos los que hemos destapado un poco todo eso que estaba pasando allí, que a la gente que nos gustan las cosas bien organizadas y el trabajo bien hecho y que tenemos ambición no nos gusta, ¿no? Pues ha llegado este nuevo y ha puesto el grito en el cielo. Se quiere cargar al director comercial, a todo el, no, o sea, perdón, al director, al director. No. que no es director comercial porque ahora es como yo me quedé con ese puesto, era el Kakum Manager Senior, eh, por no llamarlo director comercial, que lo hicieron por no subirnos el sueldo, así de claro te lo digo, ¿vale? En vez de llamarnos director comercial era aquella con Manel senior que era mi puesto,
+
+**Armando Flores:** Hm.
+
+**Daniel Escribano:** pero pero vamos que cuando se fue a Ignacio yo hacía de director comercial, era mi función, el responsable del departamento comercial, el director del departamento comercial. Bueno, pues se quiere cargar a ese tío, al que ahora está en ese puesto, se quiere encargar al director de operaciones, que era el amigo de Enrique, que es el que llevamos diciendo mucho tiempo, que no vale ni para que era botones de un hotel, o sea,
+
+  
+  
+
+### **00:33:35**
+
+  
+
+**Armando Flores:** Hm.
+
+**Daniel Escribano:** y le pone director comercial, o sea, director de operaciones. Se quiere cargar a todo el departamento de operaciones con la chica esta que te digo de que está dentro de operaciones, que es la de validaciones. que quiere cargar a la que conoce Gerardo, que es la responsable de marketing, la que iba a todos los eventos, que es Eva Llorente, que dice dice que que ha sido su trabajo, ha sido el trabajo, además con estas palabras me lo han contado, eh, que es el trabajo más fácil de evaluar, dice, porque no hace nada. No puedo evaluar nada porque no hace nada. Es más,
+
+**Armando Flores:** No sé.
+
+**Daniel Escribano:** me coge y me dice para pasearse en dos eventos al año y dice,"Es que un becario me es más rentable." con esas palabras.
+
+**Armando Flores:** Pero bueno,
+
+**Daniel Escribano:** Entonces,
+
+**Armando Flores:** puede que,
+
+**Daniel Escribano:** Eh
+
+**Armando Flores:** o sea, también la organización no la hayan, o sea, la descuidaron cierto tiempo, lo que tú dices, no daban los sueldos adecuados, no daban la posición, no daban la supervisión, este, o sea, e el tema es cómo lo vas haciendo. No lo puedes hacer, ese tipo de cambios no los puedes hacer de un día para otro. O sea, tienes que tener un plan, tienes que ver cómo lo vas haciendo, vas a una persona, metes a otra, luego vas.
+
+  
+  
+
+### **00:34:49**
+
+  
+
+**Armando Flores:** Pero así de llegar a decir eso, no sé.
+
+**Daniel Escribano:** Constantín Lamber, que es el hermano Lamber que lleva España, es un cero a la izquierda. Es decir, él lo que quiere es que no le llegue nada. Es decir, no quiere ni un solo problema, no quiere ver que haya un solo problema en la empresa. Entonces, él es como como el niño pequeño que va del problema o el niño joven que va del
+
+**Armando Flores:** Hm.
+
+**Daniel Escribano:** problema hasta que el problema se le ha hecho bola. Es decir, yo evado, evado, evado. El problema nada, a mí no me afecta como no me estoy dando cuenta, como lo evado, no, no es que ya se te ha hecho una pelota que tienes un problemón como un piano por no poner los puntos al inicio, ¿no?
+
+**Armando Flores:** Mhm.
+
+**Daniel Escribano:** Entonces, Constantín no quiere gente que le dé problemas, no quiere despedir a nadie porque despedir a alguien va a suponer tener a alguien descontento en la oficina o que cuando le digas que se tiene que ir, te va a montar el espectáculo. ejemplo, eh, o sea, no quiere problemas, él quiere vivir tranquilo, va a la oficina media hora con el perro a darse un paseo y se va, ¿vale? O sea, Constantín me dice que quiere hablar conmigo, ¿vale?
+
+  
+  
+
+### **00:35:55**
+
+  
+
+**Daniel Escribano:** y tarda 6 meses en hablar conmigo porque le da pereza. ereza, o sea, y es el que me dijo que quería hablar conmigo, ¿sabes? Sobre lo de fue cuando lo de se fue Nacho y yo me quedé a cargo, ¿sabes? Entonces, eh de director de como director comercial, entonces 6 meses para, ¿sabes lo que te digo? Eh, ¿por qué le va del problema, no quiere No quiere? Entonces, a mí me extraña mucho, por ejemplo, Enrique. Enrique, ¿por qué estuvo tanto tiempo en Diaria? Porque Enrique era, con todos mis respetos, era el tonto que le ponía el títere así y le decía,"Los palos a este." Era el espantapájaros,"Los palos a este. A mí que no me llegue nada, ¿sabes? Entonces, claro, no es que Enrique fuera un mal jefe, que seguramente también lo es, pero Enrique era no era mala persona, ¿sabes? O sea, que Enrique le pusieron ahí de espantapájaros y se llevó todos los palos, ¿sabes? Entonces, me cuesta creer que ya por fin se haya dado cuenta de que tiene que cambiar y que tiene que hacer una revolución en la empresa para que no se vaya a la m\*\*\*\*\* ni le coma la tostada la competencia.
+
+  
+  
+
+### **00:37:09**
+
+  
+
+**Daniel Escribano:** ¿Vale? Entonces, yo creo que ya después de lo de Nacho, después de lo de Enrique y después de lo mío, yo creo que ya se ha dado cuenta, porque luego a mí me intentó convencer, ¿sabes? y me acuerdo que ya llorente, eh, se reunieron conmigo, oye, me intentaron convencer, pero yo creo que ya le ven las orejas al lobo. Primero porque ya también se olían que yo me puedo ir a la competencia como se fue Enrique, ¿sabes? Y segundo, porque yo creo que porque ya cuando me fui me dijeron que están buscando y negociando con un nuevo country manager y que si lo del el que habían puesto supuestamente de que con Manager senior conmigo, que iban a ser dos, a mí no me valía. que estaba en periodo de prueba y que si me quedaba yo y si me tenían que dar el título y subirme el sueldo, que lo hacían. Entonces dije,"Sí, pero ya tarde." ¿Sabes?
+
+**Armando Flores:** Mhm.
+
+**Daniel Escribano:** Yo lo que creo es que por fin ya se ha dado cuenta, porque con lo que le ha pasado se ha dado cuenta y a lo mejor como también han buscado la opción porque otra cosa igual es todo muy arcaico y eran muy reacios al tema de la inteligencia artificial. Entonces, lo que puede ser que haya pasado es que se han dado cuenta el tema de la IA, se hayan asociado con una empresa Metis, eh,
+
+  
+  
+
+### **00:38:30**
+
+  
+
+**Armando Flores:** Eso está muy raro.
+
+**Daniel Escribano:** se yo lo tengo,
+
+**Armando Flores:** Hm.
+
+**Daniel Escribano:** yo cada vez lo tengo más claro, se han asociado con ellos, va a ser su proveedor de inteligencia artificial, ¿vale? Y dentro de eso, este hombre, que es uno de los altos mandatarios de la empresa de inteligencia artificial y que ha trabajado en muchos mercados, ¿vale?, entra como country manager en Diaria, pero asociado a su vez con su empresa, porque yo creo que van a hacer un tipo de fusión para todos los servicios en conjunto, sino al tiempo.
+
+**Armando Flores:** Yo creo que a esa empresa de Metis no le está yendo bien de dinero. Esa es mi lectura. Eh, si no no estarían tan desesperados. en un inicio de ver a Fede. Esa es una Fede, es que para entender a Fede, Fede también tiene un venture capital, ¿okay? Fed también fondea startups y negocios y y cosas grandes. Este, entonces yo creo que inicialmente estaban muy insistentes con eso y en paralelo surgió esto y esta persona, o sea, porque no sale que estén logrando o vendiendo algo concreto, o sea, lo que se lee es que están intentando entrar en vehículos autónomos los de Metis, ¿no? Entonces, e
+
+**Daniel Escribano:** En América a Fede le iban a ofrecer hacer lo mismo que le han ofrecido a los lamber en Europa.
+
+  
+  
+
+### **00:40:00**
+
+  
+
+**Daniel Escribano:** ¿Qué te juega eso?
+
+**Armando Flores:** sí, sí, sí, sí, sí, Pero Mhm.
+
+**Daniel Escribano:** buscan buscan asociarse y entrar en el mercado conjunto. Por eso le habrán dado el puesto a este hombre para que meta, porque el primer discurso que dio es la inteligencia artificial.
+
+**Armando Flores:** Hm.
+
+**Daniel Escribano:** Vamos a implementar la inteligencia artificial en nuestro servicio y el que no funcione vamos a tener que recortar recursos y el que funcione vamos a ir a muerte porque queremos crecer todos juntos al futuro. Ese fue su discurso, amigable al principio. Entonces yo creo que blanco y en botella.
+
+**Armando Flores:** Pues vamos a ver. Eh, no, no me preocupa este estuvo muy curiosa la interacción que tuvieron ahí con Fe de Ah, cierto, olvidé mencionar que era este también el CEO de
+
+**Daniel Escribano:** Contry manager. Es country manager. En principio lo anuncia como country manager de España,
+
+**Armando Flores:** Sí, sí.
+
+**Daniel Escribano:** ¿no?
+
+**Armando Flores:** Ah, olvidé,
+
+**Daniel Escribano:** El CEO,
+
+**Armando Flores:** olvidé mencionar que el Country Manager sí me dio mucha risa.
+
+**Daniel Escribano:** el el CEO el CEO sigue siendo constantín.
+
+**Armando Flores:** Pero Fede, Fede decía,"¿Es el Sí, es el mismo Fede?" A mí me escribió aparte, me dice,"No, no puede ser." O sea,
+
+  
+  
+
+### **00:41:10**
+
+  
+
+**Armando Flores:** porque me está buscando para esto. Digo,"No, es el mismo." O sea, porque en el en el anuncio, digo, viene el nombre, que no es un nombre muy común. Dos, venía la experiencia que tenía en renta tal ta tal. Le digo, pues coincide con su currículum. Este, pero Fede no es nada tonto.
+
+**Daniel Escribano:** Pero yo yo me puse yo cuando Pero escucha
+
+**Armando Flores:** A Fede no se lo a Fede, a Fede no se le va una. No se le va una.
+
+**Daniel Escribano:** y vamos y a mí como me dé con Luego yo estoy a lo mejor puedar a mis cosas y no me doy cuenta de algunas cosas, pero si yo te pongo el foco, te saco. Y yo y yo en cuanto puse el foco en este tío, saqué lo de Metis y y saqué el enlace, lo saqué rapidísimo. ¿Sabes lo que te digo?
+
+**Armando Flores:** T
+
+**Daniel Escribano:** Porque algo allí tenía yo con la monja detrás de la oreja, ¿sabes? Por eso me puse a investigar y cuando vi que era el había sido C o o eh de la empresa esta de incluso parte fundadora, ¿sabes? Dije,
+
+**Armando Flores:** Mhm.
+
+**Daniel Escribano:** "Hombre, ves, es que claro, y luego lo que yo no sabía es que habían intentado en nuestro evento y habían intentado negociar con Fede." Claro,
+
+  
+  
+
+### **00:42:16**
+
+  
+
+**Daniel Escribano:** cuando ya me decís eso, ya indagas más. Y claro, yo es que es muy gracioso porque yo no he tenido que yo no he llamado a nadie para pedir información. Es que como hablo con mi amiga y el chico con el que estuve en su boda, que también que es de que es el que te digo este que es el cerebrito de allí, eh, el y el country manager de Italia, ¿sabes? Que de vez en cuando quedamos, pues eso, hablamos por teléfono o le vi la boda o cosas así. Claro, cuando hablas con ellos es que no tengo ni ni que preguntarles, es que me lo cuentan ellos, ¿sabes lo que te digo? No tengo ni que preguntarles. Ya me están contando. Dice, entonces yo sabía que algo había.
+
+**Armando Flores:** Sí,
+
+**Daniel Escribano:** No sabía.
+
+**Armando Flores:** pero yo creo que es natural que estén nerviosos, eh, porque yo creo que están en una posición muy cómoda en Diaria están este,
+
+**Daniel Escribano:** Pero ya no están cómodos.
+
+**Armando Flores:** o sea, ahora ya no.
+
+**Daniel Escribano:** En Francia era el país Francia era el país clave y lleva en los dos últimos años en pérdidas. España era el único que los dos únicos eh España, bueno, y un poco el Reino Unido, pero España era el único que llevaba la la tendencia ascendente.
+
+  
+  
+
+### **00:43:24**
+
+  
+
+**Daniel Escribano:** Y claro, ¿cómo no vas a llevar la la tendencia ascendente? Desde que entramos, desde que entré yo creé un creé un sistema comercial que es que no tenían, o sea, no tenían ni una estructura comercial, o sea, que es que te lo juro que era dantesco. Claro, en cuanto le creas una estructura comercial al sistema, empezaron a crecer los números que dices, claro, si es que solamente tener un objetivo, o sea, ¿dónde se ha visto un departamento comercial sin objetivo? Un departamento de operaciones sin KPIs que cumplir. Entonces, cada uno hace lo que le da la gana.
+
+**Armando Flores:** Sí,
+
+**Daniel Escribano:** No hay no hay no hay un volumen.
+
+**Armando Flores:** claro.
+
+**Daniel Escribano:** Tú no no estás midiendo la capacidad en volumen. Entonces, claro, en cuanto empiezas a medir ese volumen, te das cuenta de que llevas 2 años una tendencia ascendente brutal, ¿sabes? Y Francia, todo lo contrario. Entonces, algo les estaba fallando. Y Francia es el motor porque España estaba, yo me cuando yo me fui, cuando yo entré España facturaba 5 millones, ¿vale? Yo solo estado 2 años en Diaria,
+
+**Armando Flores:** Hm.
+
+**Daniel Escribano:** pero yo en 2 años yo entré con Drying facturando 4,illones y pico 5,000ones y yo me fui eh facturando el último año 12,000ones.
+
+  
+  
+
+### **00:44:26**
+
+  
+
+**Daniel Escribano:** El primer año que yo estuve ocho y el segundo eh 12. Vale, cuando ellos habían estancado entre 3 y 4 millones y pico, llevaban estancados pues unos años. ¿Sabes lo que te digo? Francia, eh, estaba, vamos, te lo puede corroborar, Nico, si veo los números con ellos para que se sentaron para evaluar lo de la posible compra,
+
+**Armando Flores:** No, no, no lo sé. Los conozco perfectos.
+
+**Daniel Escribano:** te lo te lo va a poder corroborar. En Francia, me parece, eh, ahí te hablo de cabeza, eh, porque no tengo los datos claros. Estaban en el punto más alto. Creo que llegaron a los 20 millones, me parece, no me acuerdo del todo. Eran 20, 22 millones. Bueno, los dos últimos años iban estaban no iban a pérdidas, pero habían bajado, o sea, no estaban en ascendente, estaban en descendente, que lo achacaban a la entrada de High Flow, ¿sabes? De Crédit Agricol, que metió mucho dinero, ¿sabes? Y y lo achacaban un poco así. Es que no me acuerdo si eran 22 m000ones. Es que ya me haces dudar, ya me hago dudo con las cantidades claras de Francia.
+
+  
+  
+
+### **00:45:33**
+
+  
+
+**Daniel Escribano:** Pero vamos, Francia también el objetivo de Francia entraba con el Benelux, ¿vale?
+
+**Armando Flores:** Hm.
+
+**Daniel Escribano:** era el Venenus hacía muy facturaba muy poquito y luego Alemania también facturaba muy poquito. Alemania es que fíjate para mí es el mercado más importante de Europa por población y por volumen de dinero, pero es cierto que ahí las empresas locales están muy consolidadas o logis, por ejemplo, que en España es era insignificante y casi están ya cerraron lo de car y lo demás están ahí ahí. Eh, Logi, sin embargo, en Alemania es super potente, ¿sabes? Ahí son empresas alemanas que están muy muy consolidadas, pero las únicas tendencias positivas eran Reino Unido claras, Reino Unido un pelín y sobre todo España.
+
+**Armando Flores:** Yo creo que Reino Unido va a ser una buena oportunidad. O sea, Rafa dice que no y que no se puede, no sé cuál. Yo trabajé en la empresa, en la empresa que yo trabajaba eh era originalmente australiana, se fijara en Reino Unido y creció muchísimo en Reino Unido, o sea, la economía gig y todo y los autónomos allá funcionan bastante bien. Hay mucha migración igual y los aceptan como va llegando.
+
+**Daniel Escribano:** Aí ya no,
+
+**Armando Flores:** Entonces,
+
+**Daniel Escribano:** eh. Han cerrado fronteras desde que llegó el Brexit.
+
+  
+  
+
+### **00:46:52**
+
+  
+
+**Daniel Escribano:** Han cerrado fronteras.
+
+**Armando Flores:** pues ilegalmente entran entran a la semana,
+
+**Daniel Escribano:** Pero vamos, no era normal.
+
+**Armando Flores:** entran 2000 a la semana, o sea, por más que tú digas que ya cerraron este las cifras dicen que
+
+**Daniel Escribano:** Pero, pero qué nacionalidades
+
+**Armando Flores:** que no igual este africanos, árabes, marroquíes, todo eso, o sea,
+
+**Daniel Escribano:** que allí luego tienen la Commonwealth, que son países que han sido colonia, que han tenido colonia británica,
+
+**Armando Flores:** Sí,
+
+**Daniel Escribano:** que tienen condiciones especiales.
+
+**Armando Flores:** sí, sí.
+
+**Daniel Escribano:** Entonces, si son sudafricanos,
+
+**Armando Flores:** La India y todo eso.
+
+**Daniel Escribano:** claro, son sudafricanos,
+
+**Armando Flores:** Sí.
+
+**Daniel Escribano:** indios, egipcios, y no sé qué países más, es que no les consideran extranjeros porque allí dicen que todos los que combatieron por ellos en la Segunda Guerra Mundial son ingleses.
+
+**Armando Flores:** Mhm.
+
+**Daniel Escribano:** Claro, puede ser que tengan condiciones normales, países de la Comandwell o ex eh británicos tengan alguna condición especial, pero vamos, yo sé que por amigos que tengo allí viviendo han cerrado mucho las fronteras comparado con como estaba antes, pero bueno, siendo el caso, aún así hay muchos dentro, es decir, Yeah. Hay mucho nigeriano autónomo conductor de Uber, hay mucho indio pakistaní, hay mucho árabe, lo que tú dices,
+
+  
+  
+
+### **00:48:08**
+
+  
+
+**Armando Flores:** Mhm.
+
+**Daniel Escribano:** que tienen mucha cultura autónomo porque encima allí el autónomo está mucho mejor visto que en España, no mejor visto, sino mejor tratado económicamente que en España.
+
+**Armando Flores:** No, bueno,
+
+**Daniel Escribano:** decir,
+
+**Armando Flores:** y de vivir de autónomo en Inglaterra a de lo que quieras en Marruecos o Egipto o la India, o sea, las condiciones son super precarias, o sea, Este
+
+**Daniel Escribano:** el el problema que hay allí es la limitación que tienes con el resto de Europa, que por ejemplo en Francia puedes mover coches a España, de España puedes moverlos a Francia, de Alemania poder moverlos a España. Ahora, el Reino Unido está un poco más limitado por licencia de conducir, porque es se conduce a la derecha y por el el canal de la Mancha o o Ferry están un poco más limitados, pero dentro de su mercado, si hay mercado dentro, mira, BCA, por ejemplo, BCA es británica y mira todo lo que ha crecido partiendo desde el Reino Unido solamente con el vehículo ocasión
+
+**Armando Flores:** Sí, no, a ver, eso no va a cambiar. O sea, los inglés, a ver, el Brexit y esas cosas, o sea, limitaron todo, pero eh si tú lo comparas contra otros países y y la conectividad y demás, sigue siendo como un Canadá, Estados Unidos, que son casi lo mismo, ¿no?
+
+  
+  
+
+### **00:49:36**
+
+  
+
+**Armando Flores:** son diferentes países, tienen otras cosas, otras fronteras, pero al final, o sea, el cruce y y todo, o sea, sigue siendo, o sea, no está tan desconectado, se desconectó más, pero proporcionalmente a otro tipo de naciones, es más, proporcionalmente a otros países de fuera de la Unión Europea está más conectado, a mi parecer, o sea,
+
+**Daniel Escribano:** Mhm.
+
+**Armando Flores:** si tú lo ves contra, no sé, este, qué otro país país pudiera ser un buen ejemplo. China, este, Japón, eh, o sea, contra alguno de esos todavía, yo creo que todavía está manteniendo, o sea, al final forman parte de Nato. Al final, o sea, siento que es es fue más show de los ingleses y ya no supieron qué hacer después, o sea, sí les afectó, pero aún así, la libra sí es una moneda muy fuerte. Este, tienen ya cero industria, ahora son un país bancario. No les va mal a los ingleses, no les va nada mal.
+
+**Daniel Escribano:** No, no, no se va bien.
+
+**Armando Flores:** Sí,
+
+**Daniel Escribano:** Ingleses y alemanes son potencia en todo lo que hacen.
+
+**Armando Flores:** sí. Alemania, yo siento que, bueno, no siento, o sea, es una realidad en la que ha, o sea, se aprovechó mucho, yo creo que del petróleo barato, bueno, de los energéticos baratos importados de Rusia los últimos 20 años y y ahora la está sufriendo un poco.
+
+  
+  
+
+### **00:50:58**
+
+  
+
+**Armando Flores:** O sea, yo los amigos que tengo de Alemania y demás en el costo energéticos y y el miedo que le tienen ahora a Rusia sí es real.
+
+**Daniel Escribano:** A ver, la la cultura alemana es completamente distinta al resto de Europa.
+
+**Armando Flores:** Sí.
+
+**Daniel Escribano:** y es una cultura más ganadora. Y te voy a explicar el por qué. Mi mi punto de vista están obsesionados con producir, es decir, Alemania, el buen alemán es un alemán productor. Es decir, para que vean veamos para que tratemos la diferencia, España vive el 20% del sector servicios. No, España no produce, España intercambia dinero, nada más. España mueve dinero, turismo, servicios, ¿vale? No somos productores como hace muchos años. Lo único que producimos es eh a gran escala es aceite, oliva y vino, ¿vale? El resto de cosas dejamos de producirlas. Por ejemplo, País Vasco era una potencia en producir materiales de automoción, ¿no? Eh, Cataluña era una potencia textil, ya no. Todo eso ya no existe, no producimos nada. Asturias era una potencia minera, ya no ya no hay minas. Vale, sin embargo, Alemania sigue con su obsesión de producir, es decir, de fabricar coches, de fabricar tecnología dentro de que Asia se lleva ese gran mercado, pero ellos también fabrican la suya, eh,
+
+  
+  
+
+### **00:52:20**
+
+  
+
+**Armando Flores:** Sí.
+
+**Daniel Escribano:** fabrican, eh, todo, o sea, producen, lo fabrican. Ella es su mentalidad, ¿no? Y dicen,"Nosotros lo fabricamos." Y luego que el alemán es un por mentalidad, aparte de ser mentalidad productora y y ganadora, es una mentalidad muy austera. Es decir, yo tengo una buena casa y tengo un coche que vale lo mismo que mi casa, ¿vale? Pero yo voy de casa al trabajo y del trabajo a casa. O sea, yo voy con mi familia y mi tiempo libre es con mi familia en mi casa. No voy ni al centro comercial a comprarme ropa, ni voy al bar a tomarme una cerveza. ni voy a nada. Es más, las tiendas y los centros comerciales tienen que ponerlos en sitios donde hay parking o en las en las paradas de tren o metro, porque si no la gente no va o o le pilla de pasada o no va. No sé si me estoy explicando.
+
+**Armando Flores:** Sí, no conozco bien a los tengo un medio hermano alemán.
+
+**Daniel Escribano:** Entonces, es verdad, me lo contaste. Es verdad, perdona.
+
+**Armando Flores:** Este la esposa la esposa de mi papá es es alemana y y tengo Sí. Bueno, pues los papás de la escuela, la mitad son alemanes.
+
+  
+  
+
+### **00:53:29**
+
+  
+
+**Armando Flores:** Es son muy curiosos, pero es muy respetable la cultura. Eh, pero como economía eh, sí están pagando uno la cantidad de migración que metieron.
+
+**Daniel Escribano:** Sí, turca y de Europa de esclavos.
+
+**Armando Flores:** Sí, o sea, pero la la última las últimas oleadas que vinieron de Siria, de varios lugares así, la están la están pagando. O sea,
+
+**Daniel Escribano:** Pero
+
+**Armando Flores:** mi medio hermano me dice que en la escuela, o sea, ya la mitad de sus compañeros eran migrantes, ¿no? O sea, escuela pública de todo,
+
+**Daniel Escribano:** Cor.
+
+**Armando Flores:** ¿no?
+
+**Daniel Escribano:** Sí, sí.
+
+**Armando Flores:** Este, digo, a él tú lo ves y es alemán, o sea, habla perfecto alemán, o sea, no no lo ves y dices,"Es un mexicano, es un es un alemán, o sea, si te enseño una foto te vas a dar cuenta, ¿no? Este, y ahí los mismos inmigrantes lo trataban de discriminar, ¿no? Este, o sea, si era como, o sea, mi hermana decí, es que Hermando, no, tú no lo entenderías porque tú en tu escuela viviste con por los mexicanos iban dos, tres extranjeros y siempre los mexicanos atienden a los extranjeros y les gusta llevarlos a pasear y explicarles y todo lo que quiera, ¿no?
+
+  
+  
+
+### **00:54:42**
+
+  
+
+**Armando Flores:** Somos somos muy amores. Dice,"Pero ahí, o sea, estos serán como ellos mismos ya son discriminados, autodiscriminados, ¿no? Son víctimas del sistema,
+
+**Daniel Escribano:** Sí,
+
+**Armando Flores:** ¿no?
+
+**Daniel Escribano:** porque montas sus guetos.
+
+**Armando Flores:** Sí. Entonces llegan y y que no los quieren, no sé qué. Entonces me decía,"No, bueno, ahora en estas vacaciones y no sé cuál." Entonces los alemanes ya empezaron en muchos lugares ya empezaron a decir,"Bueno, vamos a hacer una escuela privada apoyada por el gobierno." Como que le dieron la vuelta y es una escuela católica, ¿no? Con eso le dan la vuelta al sistema, ¿no? Entonces ahí si hay del padre. Bueno, en la escuela de mis hijos siempre está el día del padre, el día de la madre, este, el día de la unificación alemana, el día de tal, o sea, no hay nada de Sí hay. Y hubieras visto lo que se hizo escándalo, porque la Secretaría de Educación en México tiene que regular la los planes. Eh, y la Secretaría de Educación metió un programa de diversidad y el día de la diversidad y el día de no sé qué y el día de no sé cuál. se hizo una entre los papás, eh, la el gobierno alemán y todo, decir,"Oye, a ver, es que no tienes que forzarlo, ¿no? O sea,
+
+  
+  
+
+### **00:55:52**
+
+  
+
+**Armando Flores:** está y no está." Y este y ya, o sea, porque la escuela, la escuela donde van mis hijos aquí está controlada por el gobierno alemán. Entonces es como es un caso extraño, ¿no? Este es muy difícil también, es tiene muchas desventajas, o sea, es muy difícil adaptarse, pero yo respeto mucho esa cultura, me gusta bastante. Este yo lo que siempre he visto es que tiene una cultura de lo que tú dices es producción, pero más que producción es calidad. Dentro de sus estatutos personales y de nación, lo que ellos producen tiene que ser algo de calidad. No puede ser algo masivo,
+
+**Daniel Escribano:** Claro.
+
+**Armando Flores:** no puede ser algo, o sea, tiene que ser algo de lo que tú estés orgulloso como persona de haber producido y eso hace una diferencia enorme,
+
+**Daniel Escribano:** El ejemplo claro lo tienes con la Thermomix,
+
+**Armando Flores:** enorme con los chocolates,
+
+**Daniel Escribano:** con calidad.
+
+**Armando Flores:** con con un chocolate, con una navaja, si lo quieres ver, con un cuchillo boker, con un este, o sea,
+
+**Daniel Escribano:** Sí, sí, sí,
+
+**Armando Flores:** es es impresionante y y es muy curioso porque cuando vienen a México les
+
+**Daniel Escribano:** sí. Tienen esa mentalidad.
+
+**Armando Flores:** da mucho shock, muchas cosas, Pero disfrutan mucho también otras este les gusta también que no todo tiene que ser tan rígido y tan es este, entonces de repente viene aquí y este les gusta bastante esto.
+
+  
+  
+
+### **00:57:10**
+
+  
+
+**Armando Flores:** Oye, te voy a tener que dejar tengo que subir con con el equipo de operaciones. No vi que te hayan respondido a mi equipo. Ahorita les voy a pedir que te que te respondan. No duda. Eh, le pedí a Cristian que te busque la, perdón, antes de cerrar, la fecha que tú dices es del cliente. El cliente te puede dar una fecha inicial y una fecha final, no es la del chóer, ¿okay? Al chóer tú le vas a decir cuándo pasar, pero el cliente te puede dar un rango de fechas en la que tú puedes ir y tú seleccionas para hacer tú tu plan, ¿okay? Esa fecha no le va a aparecer al conductor.
+
+**Daniel Escribano:** Vale, es lo que quería antes.
+
+**Armando Flores:** La fecha del conductor, la fecha del conductor, la fecha le va a aparecer la que tú decidas en el plan. Esa es la que le va a aparecer al conductor. No es es para que tú planees, no para que el conductor planee.
+
+**Daniel Escribano:** Te entiendo, pero al conductor también le gusta ver que, por ejemplo, si el el coche se va a hacer entre el lunes y el miércoles, él pueda elegir entre el lunes y el miércoles la hora exacta porque cuadra con una ruta de ida o de vuelta. Pero bueno, yo se lo yo lo estoy les estoy preguntando y lo estoy intentando cuadrar yo. No te quito tiempo que llegas tarde.
+
+**Armando Flores:** Vale,
+
+**Daniel Escribano:** Hablamos.
+
+**Armando Flores:** seguimos en contacto.
+
+**Daniel Escribano:** Chao. Sí.
+
+**Armando Flores:** Bye.
+
+**Daniel Escribano:** Buen fin de si no hablamos. Yeah.
+
+  
+  
+
+### **La transcripción finalizó después de 00:58:18**
+
+  
+
+*Esta transcripción editable se generó por computadora y puede contener errores. Los usuarios también pueden cambiar el texto después de que se 

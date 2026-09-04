@@ -1,12 +1,12 @@
-# **Las notas**
+# Las notas
 
 sept 1, 2026
 
-## **Diaria Spain Launch**
+## Diaria Spain Launch
 
-Invitado Daniel Escribano (daniel.escribano@draiver.com) Armando Flores (armando.flores@driverdo.com) Artur Morais (artur.morais@draiver.com)
+Invitado: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
 
-### **Resumen**
+### Resumen
 
 Se evaluaron estrategias de reclutamiento y problemas operativos junto con la aprobación de una nueva oficina.
 
@@ -19,33 +19,33 @@ La búsqueda de instalaciones concluyó con la selección de un espacio competit
 **Deficiencias técnicas de aplicación**
 La aplicación carece de información crítica sobre los vehículos, provocando posibles cancelaciones de viajes por parte de los conductores al no visualizar detalles esenciales del transporte.
 
-### **Decisiones**
+### Decisiones
 
-## **Requiere más debate**
+## Requiere más debate
 
-  - **Ajustes de visualización de datos en la aplicación** La necesidad de mostrar los detalles del vehículo y la matrícula a los conductores en la aplicación está pendiente de una discusión futura en la próxima reunión.
+- **Ajustes de visualización de datos en la aplicación** La necesidad de mostrar los detalles del vehículo y la matrícula a los conductores en la aplicación está pendiente de una discusión futura en la próxima reunión.
 
-### **Próximos pasos**
+### Próximos pasos
 
-  - [Daniel Escribano] Hablar con Recursos Humanos: Informar al departamento de Recursos Humanos que el equipo ha tenido que realizar tareas de búsqueda de candidatos por su propia cuenta para presionar por una mejor gestión.
+- [Daniel Escribano] Hablar con Recursos Humanos: Informar al departamento de Recursos Humanos que el equipo ha tenido que realizar tareas de búsqueda de candidatos por su propia cuenta para presionar por una mejor gestión.
 
-### **Detalles**
+### Detalles
 
-  - **Entrevista de reclutamiento**: Daniel Escribano comentó sobre una entrevista realizada a una candidata contactada a través de LinkedIn que contaba con experiencia en el sector. La candidata cuestionó el esquema de salario fijo, a lo cual Daniel aclaró que el puesto está enfocado principalmente en incentivos; la persona indicó que enviaría un correo electrónico si le interesaba la propuesta (00:01:35).
-  - **Estrategia de contratación y relación con Recursos Humanos**: Armando Flores mencionó que tiene programada una reunión con el departamento de Recursos Humanos para tratar la publicación de vacantes, ya que Daniel Escribano prefiere utilizar InfoJobs dado que LinkedIn atrae un volumen excesivo de perfiles o candidatos con un nivel senior inadecuado debido al título técnico en inglés del puesto, el cual se percibe como demasiado alto en España. Armando Flores señaló que el equipo de Recursos Humanos debería gestionar estas tareas, expresando frustración por haber tenido que contratar headhunters externos debido a retrasos previos en la cobertura de vacantes y a una rotación alta en las contrataciones recientes (00:21:40) (00:24:01).
-  - **Enfoque de contratación mediante contactos**: Daniel Escribano explicó que, dada su experiencia previa en empresas como Auto 1, prefiere confiar en sus contactos y en personas con las que ha trabajado anteriormente para conformar equipos, en lugar de depender únicamente de procesos de selección externos (00:22:45).
-  - **Búsqueda de oficinas**: Daniel Escribano informó sobre la búsqueda de una nueva oficina, destacando que ha encontrado una opción que satisface sus necesidades por un costo de 650 euros mensuales, un precio que consideran muy competitivo, y que ya cuenta con la aprobación de Nico (00:24:01).
-  - **Gestión operativa y carga de trabajo**: Daniel Escribano enfatizó su preferencia por ejecutar las tareas con rapidez para optimizar el tiempo, agradeciendo el apoyo recibido por Kevin y Paloma, con quienes trabajó hasta altas horas de la noche. Armando Flores sugirió aprovechar los momentos de menor carga de trabajo para resolver tareas operativas y evitar que se acumulen pendientes (00:25:20).
-  - **Situación de viaje y logística de conductores**: Armando Flores mencionó que Artur lleva aproximadamente 24 horas de viaje debido a una escala en México en su trayecto hacia São Paulo. Daniel Escribano reportó que el equipo está enfrentando dificultades operativas con los conductores, incluyendo quejas sobre precios y problemas de acceso al sistema (00:26:25).
-  - **Problemas de visualización en la aplicación**: Daniel Escribano detalló que los conductores están amenazando con cancelar viajes debido a que la aplicación no muestra información crítica como la matrícula, marca, modelo, ni el tipo de transmisión o motor del vehículo. Daniel explicó que, durante la fase de desarrollo, la prioridad fue la funcionalidad técnica de la aplicación, por lo que ahora han solicitado al equipo de producto que incorpore estos datos específicos de manera urgente, un tema que se discutirá en una reunión posterior (00:27:43).
+- **Entrevista de reclutamiento**: Daniel Escribano comentó sobre una entrevista realizada a una candidata contactada a través de LinkedIn que contaba con experiencia en el sector. La candidata cuestionó el esquema de salario fijo, a lo cual Daniel aclaró que el puesto está enfocado principalmente en incentivos; la persona indicó que enviaría un correo electrónico si le interesaba la propuesta (00:01:35).
+- **Estrategia de contratación y relación con Recursos Humanos**: Armando Flores mencionó que tiene programada una reunión con el departamento de Recursos Humanos para tratar la publicación de vacantes, ya que Daniel Escribano prefiere utilizar InfoJobs dado que LinkedIn atrae un volumen excesivo de perfiles o candidatos con un nivel senior inadecuado debido al título técnico en inglés del puesto, el cual se percibe como demasiado alto en España. Armando Flores señaló que el equipo de Recursos Humanos debería gestionar estas tareas, expresando frustración por haber tenido que contratar headhunters externos debido a retrasos previos en la cobertura de vacantes y a una rotación alta en las contrataciones recientes (00:21:40) (00:24:01).
+- **Enfoque de contratación mediante contactos**: Daniel Escribano explicó que, dada su experiencia previa en empresas como Auto 1, prefiere confiar en sus contactos y en personas con las que ha trabajado anteriormente para conformar equipos, en lugar de depender únicamente de procesos de selección externos (00:22:45).
+- **Búsqueda de oficinas**: Daniel Escribano informó sobre la búsqueda de una nueva oficina, destacando que ha encontrado una opción que satisface sus necesidades por un costo de 650 euros mensuales, un precio que consideran muy competitivo, y que ya cuenta con la aprobación de Nico (00:24:01).
+- **Gestión operativa y carga de trabajo**: Daniel Escribano enfatizó su preferencia por ejecutar las tareas con rapidez para optimizar el tiempo, agradeciendo el apoyo recibido por Kevin y Paloma, con quienes trabajó hasta altas horas de la noche. Armando Flores sugirió aprovechar los momentos de menor carga de trabajo para resolver tareas operativas y evitar que se acumulen pendientes (00:25:20).
+- **Situación de viaje y logística de conductores**: Armando Flores mencionó que Artur lleva aproximadamente 24 horas de viaje debido a una escala en México en su trayecto hacia São Paulo. Daniel Escribano reportó que el equipo está enfrentando dificultades operativas con los conductores, incluyendo quejas sobre precios y problemas de acceso al sistema (00:26:25).
+- **Problemas de visualización en la aplicación**: Daniel Escribano detalló que los conductores están amenazando con cancelar viajes debido a que la aplicación no muestra información crítica como la matrícula, marca, modelo, ni el tipo de transmisión o motor del vehículo. Daniel explicó que, durante la fase de desarrollo, la prioridad fue la funcionalidad técnica de la aplicación, por lo que ahora han solicitado al equipo de producto que incorpore estos datos específicos de manera urgente, un tema que se discutirá en una reunión posterior (00:27:43).
 
-# **Transcripción**
+# Transcripción
 
 sept 1, 2026
 
-## **Diaria Spain Launch - Transcripción**
+## Diaria Spain Launch - Transcripción
 
-### **00:01:35**
+### 00:01:35
 
 **Armando Flores:** Sí. M. Sí. M. H Ok.
 
@@ -63,7 +63,7 @@ sept 1, 2026
 
 **Daniel Escribano:** "Te mando un email si me interesa y así tú puedes valorar." Y digo,"Venga, pues ya está." Pero bueno,
 
-### **00:21:40**
+### 00:21:40
 
 **Daniel Escribano:** la verdad que es una pena porque es un perfil que no está mal, pero no para esto, ¿sabes? Pero bueno, eh, ¿te contestó algo recursos humanos sobre lo del puesto
 
@@ -97,7 +97,7 @@ sept 1, 2026
 
 **Armando Flores:** Este, o sea, es y me han dicho,"No, es que esta persona renunció al mes, entonces está mal y tu head counter no sirve." digo,
 
-### **00:22:45**
+### 00:22:45
 
 **Armando Flores:** "Bueno, las últimas dos posiciones tú me las llenaste en 6 meses." Hm. Entonces este hm y las últimas cinco posiciones yo tenido que buscar los candidatos tres. Entonces con eso y yo hablé con Fede y ese rollo, pero es es más lo que yo quiero que tú tomes es que si no hago esto de empujar a recursos humanos de este lado, este, ellos van a decir,"Ah, es que cuando alguien renuncie o cuando hay algún tema o cosas así, no es que solo Dani lo contrató y él lo buscó y este fueron, o sea, ya los conozco." Tú decirle,"Oye, tú no hiciste nada, nosotros tuvos que moverlo." Y es eso, ¿no?
 
@@ -115,7 +115,7 @@ sept 1, 2026
 
 **Daniel Escribano:** contraté yo, es decir, de gente porque al final en este sector te gusta llevarte a la gente en la que confías, ¿sabes lo que te digo? Y gente con la que has trabajado con ellos. Mira, mira, yo por ejemplo el ejemplo con Gerardo o o sabes o otras empresas, pues te vas, oye, ¿te te interesa este trabajo, ¿te interesa venirte conmigo a esta empresa?
 
-### **00:24:01**
+### 00:24:01
 
 **Daniel Escribano:** Al final, ¿sabes? El problema que el trabajo de de Hunter es como mucho más principiante. Entonces, y el problema es que en LinkedIn, como me dijo Nico, que a Fede no le gustaba la palabra Tele6 porque es sinónimo de spam, claro, lo hemos vendido con el nombre técnico en inglés y se lo que se me presenta es la gente cuando ve un
 
@@ -131,7 +131,7 @@ sept 1, 2026
 
 **Daniel Escribano:** y me cuadra. He visto dos y esta última me cuadra, ¿sabes? Ya se lo he pasado a Nico. A Nico también le ha gustado lo que le he pasado. 650 € al mes nada más. Es un regalo,
 
-### **00:25:20**
+### 00:25:20
 
 **Armando Flores:** Está muy
 
@@ -161,7 +161,7 @@ sept 1, 2026
 
 **Daniel Escribano:** porque mira, llevamos ahora dos días con la operativa, que es una locura con lo de los conductores,
 
-### **00:26:25**
+### 00:26:25
 
 **Armando Flores:** Sí.
 
@@ -197,7 +197,7 @@ sept 1, 2026
 
 **Armando Flores:** Pues bueno, qué bueno que ya empezamos con esto, porque si no hubiera sido, o sea, arrancando con un centauro hubiera sido un caos enorme.
 
-### **00:27:43**
+### 00:27:43
 
 **Daniel Escribano:** Uh, imposible. Es más,
 
@@ -227,4 +227,4 @@ sept 1, 2026
 
 **Armando Flores:** Vamos, vamos.
 
-### **La transcripción finalizó después de 00:29:12**
+### La transcripción finalizó después de 00:29:12
