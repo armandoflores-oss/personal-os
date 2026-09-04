@@ -1,1537 +1,183 @@
-# **ð Las notas**  
+# Las notas
 
- sept 3, 2026
+sept 3, 2026
 
-## **viajes / feedback drivers**
+## viajes / feedback drivers
 
-Invitado [Paloma Calderon](mailto:paloma.calderon@draiver.com) [Artur Morais](mailto:artur.morais@draiver.com) [Daniel Escribano](mailto:daniel.escribano@draiver.com) [Armando Flores](mailto:armando.flores@driverdo.com)
+Invitado: Paloma Calderon (paloma.calderon@draiver.com), Artur Morais (artur.morais@draiver.com), Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com)
 
-Archivos adjuntos [viajes / feedback drivers](https://calendar.google.com/calendar/event?eid=NnZhaW9pZTJyMDM5c3VzbTcyaGF0c2hhdmkgYXJtYW5kby5mbG9yZXNAZHJpdmVyZG8uY29t)
+### Resumen
 
-Registros de la reunión [Transcripción](https://docs.google.com/document/d/1YvskG1KGw62H_9XujtTlsz3TzdeudO5WK3SpLOSWrAg/edit?usp=drive_web&tab=t.dws9h6lqt4me) 
+Revisión operativa en España mediante análisis de problemas técnicos y planificación de mejoras.
 
-  
-  
+**Problemas de acceso y conexión**
+Conductores enfrentan dificultades críticas para acceder a la aplicación y visualizar viajes debido a posibles fallas de geolocalización. Se instruyó documentar cada incidencia mediante el canal específico para facilitar un diagnóstico preciso.
 
-### **Resumen**
+**Visualización de documentos y vehículos**
+Conductores presentan problemas para descargar autorizaciones de recogida y ver información de vehículos. Próximas actualizaciones de la aplicación y Command Center resolverán estas limitaciones de visibilidad.
 
-Revisión operativa en España mediante análisis de problemas técnicos y planificación de mejoras.  
-  
-**Problemas de acceso y conexión**  
-Conductores enfrentan dificultades críticas para acceder a la aplicación y visualizar viajes debido a posibles fallas de geolocalización. Se instruyó documentar cada incidencia mediante el canal específico para facilitar un diagnóstico preciso.  
-  
-**Visualización de documentos y vehículos**  
-Conductores presentan problemas para descargar autorizaciones de recogida y ver información de vehículos. Próximas actualizaciones de la aplicación y Command Center resolverán estas limitaciones de visibilidad.  
-  
-**Optimización de búsqueda de viajes**  
+**Optimización de búsqueda de viajes**
 El sistema de radio de búsqueda amplio dificulta filtrar por ubicación. El equipo acordó buscar soluciones como la inclusión de códigos de provincia para mejorar la experiencia de los conductores.
 
-  
-  
+### Decisiones
 
-### **Decisiones**
+## Acordada
 
-## **Acordada**
+- **Mantenimiento del radio amplio de búsqueda** El equipo acordó mantener amplio el radio de búsqueda de viajes para los conductores en España con el fin de priorizar la disponibilidad de opciones frente a limitaciones regionales.
 
-  - **Mantenimiento del radio amplio de búsqueda** El equipo acordó mantener amplio el radio de búsqueda de viajes para los conductores en España con el fin de priorizar la disponibilidad de opciones frente a limitaciones regionales.
+### Próximos pasos
 
-  
-  
+- [Daniel Escribano, Paloma Calderon] Investigar problemas login: Investigar y diagnosticar el problema de inicio de sesión de los conductores, incluyendo la posible causa de geolocalización o restricciones de red. Se debe documentar la incidencia con nombres y detalles específicos de los conductores afectados.
+- [Daniel Escribano] Reportar acceso Command Center: Reportar los fallos de acceso al Command Center en el canal de incidencias técnicas para obtener instrucciones sobre cómo resolver problemas de cookies o sesiones persistentes.
+- [Daniel Escribano] Registrar incidencias: Registrar cada nueva incidencia técnica con el nombre del conductor y los detalles del problema en el formulario de problemas de aplicación (API Issues) para su seguimiento y escalamiento.
+- [Daniel Escribano] Compartir datos conductores: Proporcionar los datos de contacto y detalles de las incidencias reportadas anteriormente por los conductores para que puedan ser integrados en el sistema de seguimiento oficial.
+- [Daniel Escribano] Elaborar resumen: Preparar un resumen detallado de los problemas operativos y técnicos detectados durante la reunión.
+- [Daniel Escribano] Crear documento sugerencias: Crear un documento compartido donde el equipo pueda añadir sugerencias y comentarios sobre las mejoras posibles.
+- [Armando Flores] Programar reunión equipo: Agendar la sesión de seguimiento para revisar el resumen de problemas preparado.
+- [Armando Flores] Programar reunión Thomas: Coordinar una reunión con Thomas para analizar las posibles soluciones técnicas a los problemas de configuración.
 
-### **Próximos pasos**
+### Detalles
 
-  - \[Daniel Escribano, Paloma Calderon\] Investigar problemas login: Investigar y diagnosticar el problema de inicio de sesión de los conductores, incluyendo la posible causa de geolocalización o restricciones de red. Se debe documentar la incidencia con nombres y detalles específicos de los conductores afectados.
-  - \[Daniel Escribano\] Reportar acceso Command Center: Reportar los fallos de acceso al Command Center en el canal de incidencias técnicas para obtener instrucciones sobre cómo resolver problemas de cookies o sesiones persistentes.
-  - \[Daniel Escribano\] Registrar incidencias: Registrar cada nueva incidencia técnica con el nombre del conductor y los detalles del problema en el formulario de problemas de aplicación (API Issues) para su seguimiento y escalamiento.
-  - \[Daniel Escribano\] Compartir datos conductores: Proporcionar los datos de contacto y detalles de las incidencias reportadas anteriormente por los conductores para que puedan ser integrados en el sistema de seguimiento oficial.
-  - \[Daniel Escribano\] Elaborar resumen: Preparar un resumen detallado de los problemas operativos y técnicos detectados durante la reunión.
-  - \[Daniel Escribano\] Crear documento sugerencias: Crear un documento compartido donde el equipo pueda añadir sugerencias y comentarios sobre las mejoras posibles.
-  - \[Armando Flores\] Programar reunión equipo: Agendar la sesión de seguimiento para revisar el resumen de problemas preparado.
-  - \[Armando Flores\] Programar reunión Thomas: Coordinar una reunión con Thomas para analizar las posibles soluciones técnicas a los problemas de configuración.
+- **Contexto de la operación en España**: La reunión inició con una revisión del contexto operativo actual en España, donde el equipo está analizando el feedback sobre el nuevo lanzamiento. Armando Flores y Daniel Escribano destacaron la importancia de revisar punto por punto los problemas identificados para mejorar la gestión operativa tanto para los conductores como para el equipo interno, mencionando que la colaboración de personas como Kevin y Paloma es fundamental para analizar detalles complejos y realizar ajustes técnicos in situ (00:00:08) (00:02:12).
+- **Problemas de conexión y acceso de los conductores**: Daniel Escribano reportó que un número significativo de conductores enfrenta dificultades críticas para acceder a la aplicación, lo que les impide visualizar sus viajes o utilizar funciones básicas (00:06:45). Se identificó que algunos conductores experimentan fallas de conexión al salir de su ubicación habitual, lo que sugiere posibles problemas de geolocalización o de configuración de red, un tema que Artur Morais y el resto del equipo han estado monitoreando desde el inicio de las operaciones (00:07:55) (00:12:38).
+- **Proceso de diagnóstico para fallas de los conductores**: Armando Flores enfatizó la necesidad de evitar suposiciones sobre las causas de los errores y, en su lugar, documentar casos específicos para encontrar la causa raíz (00:15:02). Paloma Calderon instruyó al equipo a utilizar el formulario o canal de "API Issues" para reportar cada incidencia con el nombre del conductor y el problema puntual, lo cual facilitará un diagnóstico preciso, ya sea que afecte a un solo usuario o a un grupo más amplio (00:15:54) (00:21:44).
+- **Acceso técnico al Command Center**: Daniel Escribano señaló que tiene dificultades para acceder al Command Center, viéndose obligado a utilizar una ventana de incógnito para poder operar (00:22:54). A pesar de los intentos realizados durante la sesión para resolverlo mediante la limpieza de cookies y datos del sitio, el problema persistió, por lo que el equipo acordó reportarlo formalmente a soporte técnico para encontrar una solución definitiva (00:23:49).
+- **Visualización de autorizaciones y documentos de viaje**: Daniel Escribano mencionó que los conductores tienen problemas para ver y descargar las autorizaciones de recogida, lo que causa inconvenientes al llegar a los puntos de entrega (00:29:16). Paloma Calderon confirmó que este problema quedará resuelto con el próximo lanzamiento de la aplicación, programado para la semana siguiente, el cual incluirá soporte para archivos adjuntos (00:30:09).
+- **Visibilidad de la información del vehículo**: Se discutió la necesidad de que los conductores tengan acceso temprano a la información de los vehículos, como las matrículas, para aumentar su seguridad y confianza al realizar los servicios. Daniel Escribano explicó que actualmente esta información solo aparece cuando el estado del viaje cambia a "llegado", pero Paloma Calderon aseguró que las próximas actualizaciones del Command Center mejorarán la visibilidad de estos datos para facilitar la operativa diaria (00:30:49) (00:32:40).
+- **Flujo operativo para la planificación de viajes**: Daniel Escribano compartió detalles sobre su proceso manual de creación de movimientos y planes de viaje. Se identificó que la falta de códigos de ciudad en la previsualización del viaje complica que los conductores identifiquen las oportunidades que les resultan convenientes, lo cual es un aspecto que el equipo debe considerar para optimizar la interfaz y la eficiencia del flujo de trabajo (00:33:35).
+- **Radio de búsqueda y visualización de viajes por provincia**: La conversación abordó el desafío del radio de búsqueda de viajes, dado que actualmente el sistema envía notificaciones amplias que dificultan a los conductores filtrar por ubicación de interés (00:35:30) (00:37:33). Daniel Escribano sugirió que permitir a los conductores configurar su propio radio o incluir el código de provincia en la previsualización del viaje ayudaría a que los conductores vean ofertas relevantes para su zona (00:38:34) (00:43:03). El equipo acordó que, aunque el radio amplio ayuda a cubrir áreas con escasez de conductores, buscarán soluciones como la inclusión de códigos de provincia para mejorar la experiencia sin sacrificar la cobertura geográfica (00:41:04) (00:44:20).
+- **Planificación de próximos pasos y seguimiento**: Para cerrar la reunión, los participantes acordaron consolidar una lista de problemas operativos y técnicos en un documento compartido para su revisión. Armando Flores se comprometió a agendar reuniones de seguimiento, mientras que Artur Morais propuso utilizar este documento compartido para recopilar insights y sugerencias de manera offline, permitiendo que todos los involucrados contribuyan antes de las próximas sesiones de trabajo (00:44:20) (00:47:24).
 
-  
-  
+# Transcripción
 
-### **Detalles**
+sept 3, 2026
 
-  - **Contexto de la operación en España**: La reunión inició con una revisión del contexto operativo actual en España, donde el equipo está analizando el feedback sobre el nuevo lanzamiento. Armando Flores y Daniel Escribano destacaron la importancia de revisar punto por punto los problemas identificados para mejorar la gestión operativa tanto para los conductores como para el equipo interno, mencionando que la colaboración de personas como Kevin y Paloma es fundamental para analizar detalles complejos y realizar ajustes técnicos in situ ([00:00:08](https://docs.google.com/document/d/1YvskG1KGw62H_9XujtTlsz3TzdeudO5WK3SpLOSWrAg/edit?ouid=107114406729300780928#heading=h.3hx3reobcyn6)) ([00:02:12](https://docs.google.com/document/d/1YvskG1KGw62H_9XujtTlsz3TzdeudO5WK3SpLOSWrAg/edit?ouid=107114406729300780928#heading=h.na5xglocr1h4)).
-  - **Problemas de conexión y acceso de los conductores**: Daniel Escribano reportó que un número significativo de conductores enfrenta dificultades críticas para acceder a la aplicación, lo que les impide visualizar sus viajes o utilizar funciones básicas ([00:06:45](https://docs.google.com/document/d/1YvskG1KGw62H_9XujtTlsz3TzdeudO5WK3SpLOSWrAg/edit?ouid=107114406729300780928#heading=h.urvv3ldft7ul)). Se identificó que algunos conductores experimentan fallas de conexión al salir de su ubicación habitual, lo que sugiere posibles problemas de geolocalización o de configuración de red, un tema que Artur Morais y el resto del equipo han estado monitoreando desde el inicio de las operaciones ([00:07:55](https://docs.google.com/document/d/1YvskG1KGw62H_9XujtTlsz3TzdeudO5WK3SpLOSWrAg/edit?ouid=107114406729300780928#heading=h.69b5a3577t5a)) ([00:12:38](https://docs.google.com/document/d/1YvskG1KGw62H_9XujtTlsz3TzdeudO5WK3SpLOSWrAg/edit?ouid=107114406729300780928#heading=h.uhkjsb7i9rm7)).
-  - **Proceso de diagnóstico para fallas de los conductores**: Armando Flores enfatizó la necesidad de evitar suposiciones sobre las causas de los errores y, en su lugar, documentar casos específicos para encontrar la causa raíz ([00:15:02](https://docs.google.com/document/d/1YvskG1KGw62H_9XujtTlsz3TzdeudO5WK3SpLOSWrAg/edit?ouid=107114406729300780928#heading=h.6uw3lm809srv)). Paloma Calderon instruyó al equipo a utilizar el formulario o canal de "API Issues" para reportar cada incidencia con el nombre del conductor y el problema puntual, lo cual facilitará un diagnóstico preciso, ya sea que afecte a un solo usuario o a un grupo más amplio ([00:15:54](https://docs.google.com/document/d/1YvskG1KGw62H_9XujtTlsz3TzdeudO5WK3SpLOSWrAg/edit?ouid=107114406729300780928#heading=h.vs75b65eaeby)) ([00:21:44](https://docs.google.com/document/d/1YvskG1KGw62H_9XujtTlsz3TzdeudO5WK3SpLOSWrAg/edit?ouid=107114406729300780928#heading=h.z5khoa7y6h6q)).
-  - **Acceso técnico al Command Center**: Daniel Escribano señaló que tiene dificultades para acceder al Command Center, viéndose obligado a utilizar una ventana de incógnito para poder operar ([00:22:54](https://docs.google.com/document/d/1YvskG1KGw62H_9XujtTlsz3TzdeudO5WK3SpLOSWrAg/edit?ouid=107114406729300780928#heading=h.ns70nqeuoumq)). A pesar de los intentos realizados durante la sesión para resolverlo mediante la limpieza de cookies y datos del sitio, el problema persistió, por lo que el equipo acordó reportarlo formalmente a soporte técnico para encontrar una solución definitiva ([00:23:49](https://docs.google.com/document/d/1YvskG1KGw62H_9XujtTlsz3TzdeudO5WK3SpLOSWrAg/edit?ouid=107114406729300780928#heading=h.il6u0ueufpcm)).
-  - **Visualización de autorizaciones y documentos de viaje**: Daniel Escribano mencionó que los conductores tienen problemas para ver y descargar las autorizaciones de recogida, lo que causa inconvenientes al llegar a los puntos de entrega ([00:29:16](https://docs.google.com/document/d/1YvskG1KGw62H_9XujtTlsz3TzdeudO5WK3SpLOSWrAg/edit?ouid=107114406729300780928#heading=h.4mdjmjcxlkxy)). Paloma Calderon confirmó que este problema quedará resuelto con el próximo lanzamiento de la aplicación, programado para la semana siguiente, el cual incluirá soporte para archivos adjuntos ([00:30:09](https://docs.google.com/document/d/1YvskG1KGw62H_9XujtTlsz3TzdeudO5WK3SpLOSWrAg/edit?ouid=107114406729300780928#heading=h.d6h89zj0a7bp)).
-  - **Visibilidad de la información del vehículo**: Se discutió la necesidad de que los conductores tengan acceso temprano a la información de los vehículos, como las matrículas, para aumentar su seguridad y confianza al realizar los servicios. Daniel Escribano explicó que actualmente esta información solo aparece cuando el estado del viaje cambia a "llegado", pero Paloma Calderon aseguró que las próximas actualizaciones del Command Center mejorarán la visibilidad de estos datos para facilitar la operativa diaria ([00:30:49](https://docs.google.com/document/d/1YvskG1KGw62H_9XujtTlsz3TzdeudO5WK3SpLOSWrAg/edit?ouid=107114406729300780928#heading=h.y8dlaf6etyrh)) ([00:32:40](https://docs.google.com/document/d/1YvskG1KGw62H_9XujtTlsz3TzdeudO5WK3SpLOSWrAg/edit?ouid=107114406729300780928#heading=h.myabnvtovsxj)).
-  - **Flujo operativo para la planificación de viajes**: Daniel Escribano compartió detalles sobre su proceso manual de creación de movimientos y planes de viaje. Se identificó que la falta de códigos de ciudad en la previsualización del viaje complica que los conductores identifiquen las oportunidades que les resultan convenientes, lo cual es un aspecto que el equipo debe considerar para optimizar la interfaz y la eficiencia del flujo de trabajo ([00:33:35](https://docs.google.com/document/d/1YvskG1KGw62H_9XujtTlsz3TzdeudO5WK3SpLOSWrAg/edit?ouid=107114406729300780928#heading=h.xfjqogz2pa2r)).
-  - **Radio de búsqueda y visualización de viajes por provincia**: La conversación abordó el desafío del radio de búsqueda de viajes, dado que actualmente el sistema envía notificaciones amplias que dificultan a los conductores filtrar por ubicación de interés ([00:35:30](https://docs.google.com/document/d/1YvskG1KGw62H_9XujtTlsz3TzdeudO5WK3SpLOSWrAg/edit?ouid=107114406729300780928#heading=h.tq5ehdiznftt)) ([00:37:33](https://docs.google.com/document/d/1YvskG1KGw62H_9XujtTlsz3TzdeudO5WK3SpLOSWrAg/edit?ouid=107114406729300780928#heading=h.z5dqocuwg45z)). Daniel Escribano sugirió que permitir a los conductores configurar su propio radio o incluir el código de provincia en la previsualización del viaje ayudaría a que los conductores vean ofertas relevantes para su zona ([00:38:34](https://docs.google.com/document/d/1YvskG1KGw62H_9XujtTlsz3TzdeudO5WK3SpLOSWrAg/edit?ouid=107114406729300780928#heading=h.vxd3642iok5m)) ([00:43:03](https://docs.google.com/document/d/1YvskG1KGw62H_9XujtTlsz3TzdeudO5WK3SpLOSWrAg/edit?ouid=107114406729300780928#heading=h.bajohcth1m9b)). El equipo acordó que, aunque el radio amplio ayuda a cubrir áreas con escasez de conductores, buscarán soluciones como la inclusión de códigos de provincia para mejorar la experiencia sin sacrificar la cobertura geográfica ([00:41:04](https://docs.google.com/document/d/1YvskG1KGw62H_9XujtTlsz3TzdeudO5WK3SpLOSWrAg/edit?ouid=107114406729300780928#heading=h.esetubdck0hz)) ([00:44:20](https://docs.google.com/document/d/1YvskG1KGw62H_9XujtTlsz3TzdeudO5WK3SpLOSWrAg/edit?ouid=107114406729300780928#heading=h.kqkvg5p8unhh)).
-  - **Planificación de próximos pasos y seguimiento**: Para cerrar la reunión, los participantes acordaron consolidar una lista de problemas operativos y técnicos en un documento compartido para su revisión. Armando Flores se comprometió a agendar reuniones de seguimiento, mientras que Artur Morais propuso utilizar este documento compartido para recopilar insights y sugerencias de manera offline, permitiendo que todos los involucrados contribuyan antes de las próximas sesiones de trabajo ([00:44:20](https://docs.google.com/document/d/1YvskG1KGw62H_9XujtTlsz3TzdeudO5WK3SpLOSWrAg/edit?ouid=107114406729300780928#heading=h.kqkvg5p8unhh)) ([00:47:24](https://docs.google.com/document/d/1YvskG1KGw62H_9XujtTlsz3TzdeudO5WK3SpLOSWrAg/edit?ouid=107114406729300780928#heading=h.g66dmce00poh)).
+## viajes / feedback drivers - Transcripción
 
-  
-  
+(Nota: transcripción capturada parcialmente — hasta ~00:30:09 de 00:47:24. Las notas de arriba cubren la reunión completa.)
 
-*Revisa las notas de Gemini para asegurarte de que sean precisas.* [*Obtén sugerencias y descubre cómo Gemini toma notas*](https://support.google.com/meet/answer/14754931)
+### 00:02:12
 
-*Cómo es la calidad de* ***estas notas específicas?*** [*Responde una breve encuesta*](https://google.qualtrics.com/jfe/form/SV_5bXzKQfylMIhSXc?confid=1HuQduk8733_k4aJ7PCUDxIYOBEBMgUIigIgABgBCA&detailLevel=standard&hasImages=False&entryPoint=footerMain&isGoogler=False) *para darnos tu opinión; por ejemplo, cuán útiles te resultaron las notas.****  
-***
+**Armando Flores:** Como contexto, ayer hablé con Paloma revisando los puntos y el feedback que nos trae Dani, y estuvimos platicando algunas cosas que ya salen en el nuevo release, algunas cosas que podemos tener un work around de manera manual, otras que probablemente tengamos que vivir con ellas o esperar, o que quizás involucre cambiar el comportamiento de los conductores.
 
-# **ð Transcripción***  
-*
+### 00:03:41
 
- sept 3, 2026
+**Armando Flores:** Creo que la mayoría de los puntos se puede solucionar. Y también, Dani, platicando con Fede, queremos —teniendo ya cierto volumen de viajes y cierto tipo de operaciones— llevarnos a Kevin a España. Irnos y sentarnos y ver punto por punto. Kevin tiene la ventaja de que cosas que a lo mejor podemos ver medio complejas aquí, él agarra su laptop y las arregla en dos segundos, o determina "esto no se puede hacer".
 
-## **viajes / feedback drivers - Transcripción**
+**Daniel Escribano:** Lo primero por mi parte es separar dos cosas: una, funcionalidad de conductores, que es de lo que se trata ahora; pero también me gustaría, por otra parte, la funcionalidad nuestra en cuanto al servicio de operaciones, porque tal y como está ahora es imposible gestionarlo en el tiempo. Pero ahora la prioridad es la de los drivers. En ambas partes, Kevin y Paloma son claves.
 
-### **00:00:08**
+### 00:05:01
 
-  
+**Artur Morais:** La idea, ahora que empezamos a operar, es que yo pueda hacer los filtros de todo lo que necesitamos y tener una forma de compartir con producto, porque tengo un poco más de conocimiento de los productos que ya tenemos y features. Y también saber hasta qué punto podemos llegar o de hecho lanzar para la plataforma España. Por ahora Dani ha colectado informaciones de clientes y de conductores. Algunas ya tenemos la solución, basta implementarla para España, para Command Center. Otras creo que van a demandar algún tipo de desarrollo o definiciones internas para que comprendamos cómo hablar con los conductores al respecto de cada tema.
 
-**Armando Flores:** Hola,
+**Armando Flores:** Bueno, pues si quieren vamos punto por punto. ¿Quieres proyectar lo que me mandaste, Dani? Y vamos uno a uno, y ya con las notas de esta reunión hacemos una matriz y vemos cómo se resuelve o cómo no se resuelve.
 
-**Daniel Escribano:** Hola, Armando, ¿qué tal?
+### 00:06:45
 
-**Armando Flores:** ¿qué tal? Vamos a a ver que ayer hablé con Paloma, este, recorrimos justo los puntos que traes ahí. Eh, digo, ahorita vi quear que otro no los he visto a detalle, pero la idea es revisar esos. Hola,
+**Armando Flores:** Ahorita vamos a ver lo de conductores, que es lo que más te ha estado haciendo ruido. Artur trae igual el pipeline de todo lo que es referente a la cuenta, pero de cliente, porque si estamos trayendo a los hunters, necesitamos hacer a los clientes más autónomos; no podrías estar tú creando todos los viajes para ellos. No es que no sea importante, pero lo que urge ahorita es bajar un poco el ruido y entender cómo queda con los conductores.
 
-**Paloma Calderon:** Hola, chicos.
+**Daniel Escribano:** Estos tres días muy intensos por los primeros transportes, cancelaciones, reasignaciones, mucha pregunta de conductores, mucha queja de conductores, y he ido apuntando más o menos un poco todo.
 
-**Armando Flores:** Paloma,
+### 00:07:55
 
-**Paloma Calderon:** ¿Qué tal?
+**Daniel Escribano:** El problema no es porque lo mencionara ayer; ya nos pasaba cuando registramos a los conductores hace una o dos semanas, ¿te acuerdas, Artur? Se quejaban mucho de eso, pero no le hemos dado tanta importancia hasta ahora que vemos en la operativa diaria de los viajes que no pueden entrar a ver sus viajes ni pueden entrar a ver nada porque hay muchos problemas de conexión con la aplicación. Uno: con Wi-Fi sí pueden entrar algunos, pero en cuanto salen de su ubicación habitual no pueden entrar, como si la aplicación los geolocalizara y no pudieran utilizarla fuera de su geolocalización. Punto número dos: muchos se quejan desde el principio de que no pueden ni entrar ni cambiar la contraseña.
 
-**Armando Flores:** buen día.
+### 00:09:08
 
-**Daniel Escribano:** Buenos días,
+**Artur Morais:** Sobre el primer tema, reportamos. Andrés hizo tests. Dani también ha logrado dialogar con internet en la calle, pero algunos conductores aparentemente no. La idea que Andrés ha dicho es como que si tuvieran un VPN o algo así, porque el sistema no entiende que están en España.
 
-**Paloma Calderon:** ¿Cómo van?
+**Paloma Calderon:** Yo creo que hay que separar: cuál es el problema, cuántos drivers lo están reportando, y qué canal de comunicación queremos usar. Podemos crear un correo electrónico y que por ahí manden todo el registro, o hasta entrar en una llamada con ese driver. Pero tiene que ser un caso puntual. A mí me pasa: mi teléfono es mexicano, mi proveedor es mexicano.
 
-**Daniel Escribano:** Paloma. Gracias por el madrugón a los dos.
+### 00:10:36
 
-**Paloma Calderon:** Acá son las 10 de la mañana, entonces no te preocupes.
+**Paloma Calderon:** Entonces yo a veces, estando en Estados Unidos, cuando entro a páginas de internet me manda a la página de México — por ejemplo Costco.com me manda a Costco México en vez de Costco Estados Unidos. Entonces puede ser un problema de esos, pero hay que entender quién es el usuario. Lo que tenemos que ver es cómo diagnosticamos con los usuarios y si son 30 o si es un driver, porque eso también importa.
 
-**Armando Flores:** Aquí
+**Daniel Escribano:** Igual no vas mal encaminada porque, si os fijáis en los conductores, no te exagero, el 80-90% de los conductores son extranjeros, no son españoles. Es un sector que suele ser mucho de extranjeros.
 
-**Paloma Calderon:** Ya me tomé el
+### 00:11:42
 
-**Daniel Escribano:** Ah. Ah, bueno,
+**Daniel Escribano:** Aquí todos son números españoles. Pero puede ser que su terminal —su iPhone, su Android, el teléfono que sea— lo tengan registrado en otro país.
 
-**Armando Flores:** son
+**Paloma Calderon:** O el proveedor. Me puedo imaginar algo como que el proveedor Orange tiene su terminal en Marruecos, entonces todo se manda como si estuvieras en Marruecos, y a la hora de loguearte decimos "esto no es Unión Europea" y por eso no los deja loguearse. Pero puede ser problema del proveedor del teléfono y no necesariamente del usuario. Por eso es bueno identificar si le está pasando a una persona o a 30 o a 20.
 
-**Daniel Escribano:** claro que es Nueva York.
+### 00:12:38
 
-**Paloma Calderon:** Sí,
+**Daniel Escribano:** Es un tema que llevamos desde que dimos las claves a todos los conductores. Pasa desde el principio. Al principio no le hemos dado tanta importancia porque decía, bueno, a lo mejor no se han leído ni la guía de usuario. Pero ahora que les avisas que hay viajes, sí hacen hincapié en hacer las cosas bien y se preocupan. Entonces te estás dando cuenta de que el problema no es puntual ni es de ellos. El problema es nuestro. Pero no te sé decir una cantidad porque desde el principio ni Artur ni yo hemos llevado ese control, pero es cierto que son bastantes.
 
-**Daniel Escribano:** Claro, claro. Es verdad.
+**Artur Morais:** Lo que me recuerdo: había problemas de que algunos conductores que ya deberían estar activos en Salesforce estaban como "registration", y esos tuvieron problema porque la contraseña no estaba reseteada. Lo que me recuerdo fueron dos o tres que tuvieron ese problema exactamente, que lograron acceder a la aplicación por wifi en casa pero en la calle no se pudiera.
 
-**Paloma Calderon:** pero Armando, sí.
+### 00:13:57
 
-**Daniel Escribano:** Perdona.
+**Daniel Escribano:** Yo en Salesforce he intentado trastear: le he dado a "registration" y luego le he vuelto a dar "activo", a ver si por lo que sea reseteaba, y le sigue dando fallo. Entonces es un problema porque ha habido algún conductor que sí ha querido hacer el viaje y no puede entrar todavía. Y sobre todo no quedamos bien si no lo conseguimos solucionar rápido. No es culpar a nadie, no sabemos ninguno cuál es el fallo.
 
-**Armando Flores:** Yo soy de 8:15. Pues mira, yo me despierto a las 5:30 de la mañana, o sea, no no me hicen madrugar, pero este tengo toda una rutina antes de esto que es involucra niños, desayuno, pasar al perro, todo
+**Armando Flores:** Lo único que me preocupa es que estamos asumiendo que este es un error; no lo tenemos claro de que sea el origen.
 
-**Daniel Escribano:** A mí cuando me lo cuenta, yo le digo que eso para mí está prohibido.
+### 00:15:02
 
-  
-  
+**Armando Flores:** Entonces creo que aquí, Dani, lo que necesitamos de tu lado es que nos digas: mira, este conductor puntualmente se quejó de esto, vamos a revisar su cuenta específicamente. Y a lo mejor revisarlo de manera manual, porque estamos asumiendo que a lo mejor su compañía esté en Marruecos. Y en una de esas tiene una compañía española, vive ahí, y tenemos algún error. A mí me gustaría que encontráramos realmente la causa raíz y descartar el error. Y aunque tengan telefonía de Marruecos, ¿cómo vamos a hacer para que esto les funcione a ellos?
 
-### **00:01:13**
+**Daniel Escribano:** Ahora el problema es que yo no puedo acceder al historial de mensajes por el sistema de WATI, que eso es otra cosa de la que me quejo: si pasan más de 24 horas no puedo acceder al historial.
 
-  
+**Artur Morais:** No, el historial sí se puede; no se pierden las conversaciones. Solo que no se puede enviar un nuevo mensaje.
 
-**Armando Flores:** eso.
+### 00:15:54
 
-**Daniel Escribano:** O sea, para mí levantarme antes de las 7:30 de la mañana, yo lo prohibiría oa directamente. Prohibido y penado con cártel.
+**Paloma Calderon:** Guárdenlo en un documento. Lo que les pido es, por cada fallo — tenemos por ejemplo para Estados Unidos el "API Issues" form. Lo que necesito es nombre, correo de la persona, y cuál es el problema puntual. Y si son 15, 10 — obviamente si le pasa a uno de todos modos lo vamos a ver. Nos pasa en todos los países: si se están quejando 50 drivers al mismo tiempo, okay, tenemos un problema enorme. Pero aunque sea un driver, Dani, te prometo que si necesito meterme en un grupo de WhatsApp con los tres drivers que tienen ese problema y decir "a ver, ahora intenten esto", lo tenemos que hacer. Tenemos que entender por qué está pasando, pero también con qué prioridad contra todas las otras fallas técnicas.
 
-**Paloma Calderon:** En España son mucho más nocturnos.
+### 00:16:53
 
-**Daniel Escribano:** Sí,
+**Paloma Calderon:** Si pueden revisar lo de WATI y ver cuántos drivers siguen teniendo estos problemas para poderlos desbloquear.
 
-**Armando Flores:** Sí.
+**Artur Morais:** Estamos intentando resolver con Andrés, el equipo técnico, y el link que Dani ha probado enviar a los drivers para ver qué retorna. Y la parte de actualización de datos dentro de la aplicación la he reportado también, y habían dicho que la nueva versión, que debería ser lanzada esa semana, estaría solucionada.
 
-**Daniel Escribano:** mucho más,
+**Paloma Calderon:** Y todo eso, por mientras, si alguien necesita cambiar su teléfono, ustedes se los pueden actualizar en Salesforce, en el backend. Pero está en la siguiente versión de la app. Y para que sepan, depende de si es Android o iPhone: ellos van soltando esa versión a diferentes porcentajes de usuarios.
 
-**Paloma Calderon:** Entonces también sí lo entiendo.
+### 00:18:31
 
-**Daniel Escribano:** mucho más.
+**Paloma Calderon:** Entonces no es instantáneo. Hoy en la demo les voy a mostrar lo que vamos a hacer para forzar a los drivers a que se actualicen a la nueva versión en diferentes países. Eso también va a ayudar.
 
-**Paloma Calderon:** O sea, si te estás durmiendo a la medianoche pues sí, antes de las 7.
+**Daniel Escribano:** El fix no es persistente. Apunta a bug de sesión/token. Es que yo he ido poniendo todos los fallos a Claude para que me vaya ayudando.
 
-**Daniel Escribano:** Sí,
+**Paloma Calderon:** Dile a Claude que ponga de cada persona: Juan Pérez tiene este problema, y así poderlo mandar al canal de Tech y en un futuro poder ver ese usuario.
 
-**Paloma Calderon:** No,
+**Armando Flores:** Ponle nada más: dime cuáles fueron los usuarios de la queja relacionada número uno, y con eso debería de funcionar.
 
-**Daniel Escribano:** aquí no es normal madrugar mucho,
+### 00:19:33
 
-**Paloma Calderon:** no. Interesante. O
+**Daniel Escribano:** Es que no le pasa el nombre y no puedo enlazarlo. He intentado enlazarlo con Salesforce. Mira, aquí tengo uno que lo reportó: "Solo en mi casa me conecto; salgo de mi casa y no me deja conectar."
 
-**Daniel Escribano:** es verdad. De hecho,
+**Paloma Calderon:** Tal vez — creo que no estás en el canal de API Issues, pero puede ser bueno para que tú también guardes los récords cuando son casos de un driver.
 
-**Paloma Calderon:** sea,
+### 00:21:44
 
-**Daniel Escribano:** los niños siempre se pone de referencia al horario de los colegios y es a las 9 de la mañana cuando empiezan y antes era las 9:30, ahora lo han adelantado media hora, pero sí,
+**Paloma Calderon:** Más ahorita que ya estamos operando, te voy a subir ahí. Tenemos un flujo que te pregunta cuál es el nombre del driver; a veces son issues que tienen en el trip, entonces también cuál es el número de trip, etcétera. Y ahí puedes ver todos los problemas que tenemos del lado técnico. También es bueno porque yo ese canal lo tengo monitoreado: estas cosas no están resueltas, esta todavía falta, tenemos que escalar a alguien más técnico. Y una vez que lo reportas, para ti se queda guardado; no tienes que estar regresando al WhatsApp. Si te mandan ellos fotos, eso sirve muchísimo.
 
-**Paloma Calderon:** sí.
+### 00:22:54
 
-**Armando Flores:** Uy,
+**Paloma Calderon:** Algo que había visto es que muchos de los drivers de España no podían entrar a Command Center, y no sé por qué están queriendo entrar a Command Center, porque no deberían de poder hacerlo.
 
-**Daniel Escribano:** sí.
+**Daniel Escribano:** Pero yo sigo con el mismo problema en Command Center. Yo tengo que abrirlo con una pestaña de incógnito porque no puedo entrar de otra manera, y es un poco coñazo porque cuando quiero sacar algún reporte de Command Center a través de Claude no puedo hacerlo.
 
-**Armando Flores:** no, aquí mis hijos pasa el bus por ellos. Y pasa tarde, pasa 720 este porque ya son los últimos de la ruta y y
+**Armando Flores:** Para sacar la data lo podrías hacer de otra forma, pero hay que solucionarlo. Está raro que solo lo puedas abrir en incógnito.
 
-**Paloma Calderon:** Impresionante.
+**Paloma Calderon:** Podemos forzar un hard refresh. Te puedo mostrar cómo, o si no repórtalo a API Issues y te decimos cómo.
 
-**Armando Flores:** se van directo a la escuela, pero hay niños por los que pasan 6:20 de la mañana el
+### 00:23:49 – 00:27:22
 
-  
-  
+(El equipo intenta resolver en vivo el acceso a Command Center: borrar cookies y datos de sitio en Chrome, reiniciar el navegador, Ctrl+F5. El problema persiste.)
 
-### **00:02:12**
+**Paloma Calderon:** En el peor de los casos lo pones en API Issues, y si no te ayudo yo, te ayuda Rolando, que es el experto en eso.
 
-  
+### 00:29:16
 
-**Daniel Escribano:** Madre mía,
+**Armando Flores:** Para no atorarnos aquí, si quieres vamos con la lista de los conductores.
 
-**Armando Flores:** bus.
+**Daniel Escribano:** Por el impacto: uno, acceso de todos los conductores. Dos, no pueden ver ni descargar las autorizaciones de recogida; llegan a campa/dealer sin poder acreditarla. Las mando yo antes, cuando se quejan las mando yo. Y además les estoy dando mucho cariño a los conductores porque como estaban cancelando mucho al principio, yo les digo "pídeme lo que necesites". Pero claro, ahora son 13 viajes; haciendo esto por 40 pantallas distintas, cuando haya más viajes eso va a ser casi imposible de gestionar al día, igual que los seguros. De hecho, ya se me ha olvidado hacer un seguro porque me salieron dos transportes a la vez.
 
-**Daniel Escribano:** van los niños. Bueno, aquí si haces eso, van los niños así más sonámblos.
+### 00:30:09
 
-**Armando Flores:** Sí. No, no,
+**Paloma Calderon:** Si te unes a la siguiente junta que tenemos, que es el sprint demo, vas a ver que va a salir el martes con el siguiente release de las tres semanas.
 
-**Paloma Calderon:** Sí.
+**Armando Flores:** Estos son los adjuntos. Entonces este queda resuelto. Ahora vas a sufrir un poco, Dani, pero este queda resuelto.
 
-**Armando Flores:** aquí es es otra rutina, pero e a ver si quieres. Ah, mira, si estás
-
-**Paloma Calderon:** Ora
-
-**Armando Flores:** Artur
-
-**Daniel Escribano:** Arthur, muchas gracias, muchas gracias por por conectarte en tus vacaciones,
-
-**Artur Morais:** Señora, no, no pasa
-
-**Armando Flores:** Artur, fue la mejor época para vacaciones,
-
-**Daniel Escribano:** mayoras.
-
-**Artur Morais:** nada.
-
-**Armando Flores:** ¿verdad? Te Estamos.
-
-**Artur Morais:** Estoy manejando bien ahora por la mañana estuve en las calas, en la playa. Está todo increíble y ahora estoy en un hotel y bueno, manejamos bien, no pasa nada.
-
-**Paloma Calderon:** Sí.
-
-**Armando Flores:** Va,
-
-**Daniel Escribano:** Perfecto.
-
-**Armando Flores:** yo estoy todavía desde el teléfono porque mi internet ha estado fallando desde antier, ya lo reportamos, pero a ver, a ver si Yeah.
-
-**Armando Flores:** Listos. Este, el eh digo como contexto, ayer hablé con Paloma, eh, revisando lo lo puntos y el feedback que nos trae Dani y estuvimos platicando algunas cosas que ya salen en el en el nuevo release, algunas cosas que podemos tener un work around de manera manual, este, otros que que probablemente tengamos que vivir con ellos o o esperar o o que quizás se involucre cambiar el comportamiento de los conductores.
-
-  
-  
-
-### **00:03:41**
-
-  
-
-**Armando Flores:** Creo que la mayoría de los puntos se soluciona o se puede solucionar. Esa es una. Y también eh Dani platicando con Fede, eh queremos también teniendo ya cierto volumen de viajes y y cierto tipo de
-
-**Paloma Calderon:** Vale.
-
-**Armando Flores:** de operaciones, llevarnos a Kevin a España, ¿no? Irnos y sentarnos y ver punto por punto, Dani, de cuál puede ser. O sea, Kevin, la verdad es que también tiene la ventaja que cosas que a lo mejor podemos ver medio complejas aquí, él agarra su laptop y las arregla en dos segundos, ¿no? O sea, es es un crack o determina,"Ah, esto no se puede hacer, esto, o sea, es es parte de la idea."
-
-**Daniel Escribano:** A ver,
-
-**Armando Flores:** Va.
-
-**Daniel Escribano:** lo primero por mi parte es pues eso, separar dos cosas. una funcionalidad de clientes, o sea, de perdona, de conductores, ¿no?, que es de lo que se trata ahora,
-
-**Paloma Calderon:** Ok.
-
-**Armando Flores:** Mhm.
-
-**Daniel Escribano:** pero también me gustaría, por otra parte la funcionalidad nuestra en cuanto a al servicio de operaciones,
-
-**Armando Flores:** Mhm.
-
-**Daniel Escribano:** porque tal y como está ahora es imposible gestionarlo en el tiempo, pero ahora la prioridad es eh la que vamos a tratar, que es la de los drivers. En ambas partes, Kevin y Paloma son claves.
-
-  
-  
-
-### **00:05:01**
-
-  
-
-**Daniel Escribano:** Y y Arthur, ven ya, por favor. I need
-
-**Artur Morais:** Ah, sí, sí. La idea creo que ahora que empezamos a operar es que yo
-
-**Daniel Escribano:** you.
-
-**Artur Morais:** pueda como hacer los filtros de todo que necesitamos y tenemos tener una una forma de compartir con producto porque yo tengo un poco más de de conocimiento de productos que ya tenemos y features y todo más, pero ah en todo las manos todo para hacerlo. y también saber hasta qué punto podemos llegar o de hecho lanzar para plataforma España. Entonces, pero creo que por ahora colectamos Dani colectado informaciones de de clientes, de conductores. Mm. Creo que algunas ya tenemos la solución, basta implementarla para para España, para Comand Center y todo y adaptarse esfuerzo,
-
-**Daniel Escribano:** Ok.
-
-**Artur Morais:** cosas así y otras creo que va va a demandar algún tipo de desarrollo o o definiciones internas para que comprendamos cómo hablar con los conductores al respecto de cada tema también, ¿vale? Entonces creo que es eso.
-
-**Armando Flores:** Bueno, pues si quieren vamos punto por punto. ¿Quieres proyectar lo que lo que me mandaste, Dani? y y vamos uno a uno, este, y ya con las notas de esta reunión hacemos una una matriz y vemos cómo se resuelve o cómo no se resuelve, ¿no?
-
-  
-  
-
-### **00:06:45**
-
-  
-
-**Daniel Escribano:** Vale, dme un segundito.
-
-**Armando Flores:** Entonces, pero sí coincido contigo, Dani. Ahorita vamos a ver lo de conductores, que es lo que más te ha estado haciendo ruido. Digo,
-
-**Daniel Escribano:** No.
-
-**Armando Flores:** Arthur trae igual el pipeline de todo lo que es referente a la cuenta, pero de cliente, porque si estamos trayendo a los hunters, necesitamos hacer a los clientes más autónomos, no podrías estar tú creando todos los viajes para ellos y todas esas cosas. Entonces, creo que es un punto ahí. No, no es que no sea, no es que no sea importante, pero creo que lo que urge es más bien ahorita bajar un poco el ruido y entender cómo queda con los conductores. ¿Estamos de acuerdo?
-
-**Daniel Escribano:** Mm.
-
-**Armando Flores:** Vale.
-
-**Daniel Escribano:** Vale. Eh, bueno, ¿veis la pantalla, no?
-
-**Paloma Calderon:** Sí.
-
-**Daniel Escribano:** Sí. Vale, eh estos tres días muy intensos por efectivamente los primeros transportes, cancelaciones, reasignaciones, mucha pregunta de conductores, mucha queja de conductores y he ido apuntando más o menos eh un poco todo. Vale. Eh,
-
-**Armando Flores:** Pues vamos una a uno.
-
-**Daniel Escribano:** a ver,
-
-**Armando Flores:** Esta esta sí no hemos visto,
-
-**Daniel Escribano:** vale, mira,
-
-**Armando Flores:** ¿no?
-
-  
-  
-
-### **00:07:55**
-
-  
-
-**Armando Flores:** O sea,
-
-**Daniel Escribano:** eh,
-
-**Armando Flores:** no hemos no tenemos bien detectado este tema de estabilidad o sí, Paloma. O sea, ayer lo mencionó Dani, eh,
-
-**Daniel Escribano:** no, pero es que el problema es que no es porque lo mencionara ayer, es que te diga Arthur,
-
-**Paloma Calderon:** No.
-
-**Daniel Escribano:** ya nos pasaba cuando registramos a los conductores hace una dos semanas, ¿te acuerdas, Arthur? que se quejaban mucho de eso, pero claro, eh no le hemos dado tanta importancia hasta ahora que vemos en la operativa diaria de los viajes, que no pueden entrar a ver sus viajes ni pueden entrar a ver nada porque eh hay muchos problemas de conexión con la con la con la aplicación, varios problemas que medio detecto yo dentro de lo que yo puedo entender,
-
-**Artur Morais:** Sí.
-
-**Daniel Escribano:** ¿vale? Uno con con Wi-Fi, eh, sí pueden entrar algunos, pero en cuanto salen de su ubicación habitual no pueden entrar, como si la la aplicación los geolocalizara y no pudieran utilizar la aplicación fuera de su geolocalización. ¿Vale? Eso,
-
-**Paloma Calderon:** Sí.
-
-**Daniel Escribano:** eso es el punto número uno. Eh, punto número dos, es cierto que muchos se quejan desde el principio que no puede ni entrar ni cambiar la contraseña. Lo que ya me hace dudar es que si a todos los conductores que les pasa eso están en la localización que ellos eh registraron como inicio.
-
-  
-  
-
-### **00:09:08**
-
-  
-
-**Daniel Escribano:** Esa es mi única
-
-**Artur Morais:** No. Creo que bueno, sobre el segundo el primero tema, bueno, reportamos Andrés dice testes.
-
-**Daniel Escribano:** duda.
-
-**Artur Morais:** Dani también ha logrado dialogar con con internet en la calle, pero algunos conductores aparentemente no. y la cómo se dice, la idea y que Andrés ha dicho como que si tuvieran como un VPN o algo así porque no están como el
-
-**Paloma Calderon:** Sí,
-
-**Artur Morais:** sistema no entiende que están en España, entonces no lo sé si si es la posibilidad o si hay algún otro problema que no estamos
-
-**Paloma Calderon:** la
-
-**Artur Morais:** indicando.
-
-**Paloma Calderon:** Sí.
-
-**Daniel Escribano:** Vale.
-
-**Artur Morais:** M.
-
-**Paloma Calderon:** Y yo creo que hay que separar como es, o sea, ese es un problema e y cuántos drivers lo están reportando y eh lo que podemos hacer es también qué canal de comunicación queremos hacer. O sea, Dani, yo sé que tú estás como un poco en el medio, no sé en qué vamos con con el soporte, pero también podemos crear como un correo electrónico y que por ahí manden como que todo el registro o hasta como entrar una llamada con ese driver. Eh, pero tiene que ser un caso puntual y como yo lo que tengo duda es a mí me pasa mi teléfono es mexicano, o sea, la mi proveedor de de teléfono es mexicano.
-
-  
-  
-
-### **00:10:36**
-
-  
-
-**Paloma Calderon:** Entonces, yo a veces estando en Estados Unidos cuando entro a páginas de internet, estando en WhatsApp, me manda a la página de México, por ejemplo, Costco.com y me manda a Costco México en vez de Costco Estados Unidos por lo mismo. Entonces puede ser un problema de esos, pero hay que entender como también quién es el usuario, si es alguien que tal vez, no sé, compra su Se me haría raro que tengan como alguna configuración así, pero sí es problema. O sea, soy la primera en acknowledge. Lo que tenemos que ver es cómo diagnosticamos con los usuarios y si son 30 o si es un driver, porque eso también importar.
-
-**Daniel Escribano:** Igual igual no vas mal encaminada porque si os fijáis en los conductores, no te exagero, el 80 90% de los conductores son extranjeros, no son español. Vale, es un sector que suele ser mucho extranjero, entonces igual no vas mal encaminada y puede ser algo parecido así. No lo sé, eh,
-
-**Paloma Calderon:** Sí,
-
-**Artur Morais:** Pero creo que que van a tener un un teléfono de de España,
-
-**Daniel Escribano:** no lo sé.
-
-**Paloma Calderon:** de España.
-
-**Daniel Escribano:** Sí,
-
-**Artur Morais:** ¿no?
-
-**Daniel Escribano:** tienen un teléfono español porque el número es Ah,
-
-**Paloma Calderon:** Nie.
-
-**Daniel Escribano:** bueno, claro, pero lo que tú dices, Paloma, es número mexicano.
-
-  
-  
-
-### **00:11:42**
-
-  
-
-**Daniel Escribano:** Claro. No, aquí no,
-
-**Artur Morais:** Sí,
-
-**Daniel Escribano:** aquí todos son números españoles.
-
-**Artur Morais:** creo que Paloma,
-
-**Daniel Escribano:** Es verdad.
-
-**Artur Morais:** ¿crees que
-
-**Daniel Escribano:** Pero puede ser que pero puede ser que su terminal su terminal,
-
-**Artur Morais:** como
-
-**Daniel Escribano:** su iPhone, su Android, el teléfono que sea, puede ser que a lo mejor eh lo tengan registrado en otro país y su mismo terminal L No sé,
-
-**Armando Flores:** M.
-
-**Daniel Escribano:** eh, que igual
-
-**Artur Morais:** Sí,
-
-**Paloma Calderon:** o o proveedor, por ejemplo,
-
-**Artur Morais:** sí.
-
-**Paloma Calderon:** me puedo imaginar algo como el proveedor, ¿cómo se llama? Orange e tiene como dice su terminal o algo en Marruecos, entonces todo se manda como si estuvieras en Marruecos y entonces nosotros a la hora que te quieres loguear decimos,"Esto no es Unión Europea y por eso no los deja loguearse, por ejemplo, ¿no? Pero puede ser problema de del proveedor del teléfono y no necesariamente el usuario. Por eso es bueno como identificar cuáles son los, o sea, le está pasando a una persona o a 30 o a
-
-**Daniel Escribano:** No, no te lo puedo decir, te lo puedo decir Artur.
-
-**Paloma Calderon:** 20.
-
-  
-  
-
-### **00:12:38**
-
-  
-
-**Daniel Escribano:** Es un tema que llevamos desde que dimos las claves a todos los conductores. Mira, ves, está sintiendo. Desde pasa desde el principio. Lo que pasa que al principio no le hemos dado tanta importancia porque digo, bueno, es que a lo mejor no se han leído ni la guía de usuario o es que a lo mejor están haciendo algo mal y
-
-**Paloma Calderon:** Ok.
-
-**Daniel Escribano:** demás, pero ahora que les avisas que hay viajes sí hacen hincapié en hacer las cosas bien y se preocupan. Entonces ya te estás dando cuenta que el problema no es puntual ni es de ellos. El problema es nuestro. Pero no te sé decir una cantidad porque desde el principio ni Arthur ni yo hemos llevado ese control, pero es cierto que son que son bastantes,
-
-**Artur Morais:** Oh, no creo que lo que me recuerdo había problemas
-
-**Daniel Escribano:** ¿eh?
-
-**Artur Morais:** de no sé por qué algunos conductores que ya deberían estar como activos en sales for enviamos todo ah lo guía el guía para entrar en la aplicación y todo estaban como registration y eses tuvieron problema porque la contraseña no estaba resetada, no estaba como activos esos todos que fueron reportando o fuimos ahí, ¿vale? Pero lo que me recuerdo fueron dos o tres que tuvieron ese problema
-
-**Paloma Calderon:** M.
-
-**Artur Morais:** exactamente, que lograron de de ascender a la aplicación por wifi en casa, pero la en la calle no no se pudiera.
-
-  
-  
-
-### **00:13:57**
-
-  
-
-**Armando Flores:** Sí.
-
-**Artur Morais:** Entonces, bueno, es es algo para para estar alarmado, bueno, saber qué pasa,
-
-**Paloma Calderon:** No.
-
-**Artur Morais:** pero no lo sé si todos los problemas de de ascender aplicación estaban directamente relacionados a eso, ¿vale? Entonces, solo eso que quería pronto.
-
-**Daniel Escribano:** Yo yo como me dijiste eso, perdona Paloma, como me dijo eso Arthur, eh yo en Saleford he intentado trastear y le he dado a lo de registrar eh registration y luego le he vuelto a dar activo. Digo, a ver si es que les he eh por lo que sea resetear el el activo y le sigue dando le sigue dando fallo.
-
-**Paloma Calderon:** Sí.
-
-**Daniel Escribano:** Entonces es un problema porque ha habido algún conductor que si ha querido hacer el viaje y no y no puede entrar
-
-**Paloma Calderon:** Ok.
-
-**Daniel Escribano:** todavía y sobre todo que no quedamos bien si no lo conseguimos solucionar rápido y tardamos tanto en solucionárselo, que culpa nadie,
-
-**Armando Flores:** Yo yo lo único que que
-
-**Daniel Escribano:** que no sabemos no sabemos ninguno cuál es el fallo, no es no es culpar a nadie,
-
-**Armando Flores:** Exacto.
-
-**Daniel Escribano:** ¿eh? Pero es yo solo repito lo la sensación
-
-**Paloma Calderon:** No.
-
-**Armando Flores:** Nada más. Lo lo único que me preocupa es que estamos asumiendo que este es un error, o sea, no lo tenemos claro de que sea el origen, ¿no?
-
-  
-  
-
-### **00:15:02**
-
-  
-
-**Armando Flores:** Entonces creo que aquí, Dani, lo que necesitamos de de tu lado es que nos digas, mira, este conductor puntualmente se quejó de esto, vamos a revisar su cuenta específicamente, ¿no? Este, y a lo mejor revisarlo de manera manual, porque estamos asumiendo que es un tema que a lo mejor que su compañía esté en Marruecos y que no, o sea, estamos asumiéndolo. Y en una de esas tiene una compañía española, vive ahí y tenemos algún error, ¿no? O sea, a mí me gustaría que encontráramos realmente la causa raíz y descartar el error.
-
-**Artur Morais:** Creo
-
-**Armando Flores:** No sé, no sé ustedes, pero pero creo que si no vamos,
-
-**Artur Morais:** Eh,
-
-**Armando Flores:** o sea, y aunque vivan en aunque tengan telefonía Marruecos, ¿cómo vamos a hacer para que esto les funcione a ellos,
-
-**Paloma Calderon:** Sí, sí, sí.
-
-**Daniel Escribano:** Ahora el problema es que yo no puedo hacer al historial de mensajes porque por el sistema de WTI,
-
-**Armando Flores:** no?
-
-**Daniel Escribano:** que eso es otra cosa de la que yo me quejo, es que si pasa más de 24 horas no puedo acceder al historial de
-
-**Artur Morais:** no, la historia sí se puede,
-
-**Daniel Escribano:** Sí. Ah,
-
-**Artur Morais:** sí,
-
-**Daniel Escribano:** vale,
-
-**Artur Morais:** no se perde las conversaciones,
-
-  
-  
-
-### **00:15:54**
-
-  
-
-**Paloma Calderon:** Y si no,
-
-**Artur Morais:** solo no, no se puede enviar un nuevo mensaje.
-
-**Daniel Escribano:** vale.
-
-**Paloma Calderon:** guárdenlo en un documento y luego le, o sea, yo lo que les pido es por cada fallo y tenemos, por ejemplo, para en Estados Unidos tenemos e el API Shoes eh form. Entonces,
-
-**Artur Morais:** He.
-
-**Paloma Calderon:** ¿qué pueden hacer? O sea, yo lo que necesito es nombre, correo del, o sea, de la persona y cuál es el problema puntual. Y si son 15, 10, o sea, obviamente si le pasa uno de todos modos lo vamos a ver, pero es, o sea, y te puedo decir, nos pasa en todos los países, si se están quejando 50 drivers al mismo tiempo, okay, tenemos un problema enorme. ¿Qué está pasando? Pero aunque sea un driver, porque Dani, si te prometo, si yo necesito meterme un grupo de WhatsApp con los tres drivers que tienen ese problema y decir,"A ver, ahora intenten esto, okay, vamos a cambiarle." Lo lo tenemos que hacer, o sea, tenemos que entender por qué está pasando, pero también con qué prioridad contra todas las otras fallas técnicas que tenemos aquí de no me puedo loguear, no me puedo no sé qué.
-
-  
-  
-
-### **00:16:53**
-
-  
-
-**Paloma Calderon:** Entonces, e si pueden revisar lo de WATI y ver cuántos drivers siguen teniendo estos problemas para poderlos desbloquear, pero para eso a ver quién
-
-**Artur Morais:** Vale,
-
-**Paloma Calderon:** es.
-
-**Artur Morais:** para mí mejorar uno de esos drivers y hablar con más ah abertamente con ello. Estamos intentando resolver tenteo intenteizo con Andrés Team técnico y todo
-
-**Paloma Calderon:** Ok.
-
-**Artur Morais:** y y el link que Dani ha probado enviar a los driver para ver que que que retorna y por ahí va, pero creo que es eso. y la parte de actualización de datos dentro de la aplicación he reportado también y caro había dicho que la nueva versión que debería ser lanzada esa semana, si no no estoy equivocado, estaría como solucionado.
-
-**Paloma Calderon:** Sí.
-
-**Artur Morais:** los C se ya está disponible la nueva versión para que podemos podamos como intentar y lograr M. entenderse este de hecho está está solucionado este
-
-**Paloma Calderon:** Sí.
-
-**Artur Morais:** tema.
-
-**Paloma Calderon:** Y todo eso por mientras lo pueden ver en, o sea, si alguien necesita cambiar su teléfono, ustedes se los pueden actualizar en Sales Force, eh, en el backend, eh,
-
-**Artur Morais:** Sí.
-
-**Paloma Calderon:** pero si, o sea, está en el en la siguiente versión de la app, entonces sale la nueva versión y luego para que sepan, depende quién es, si es Android o iPhone, ellos van soltando esa versión a diferentes porcentaje de usuarios.
-
-  
-  
-
-### **00:18:31**
-
-  
-
-**Paloma Calderon:** Entonces, no es como instantáneo.
-
-**Daniel Escribano:** Esperan.
-
-**Paloma Calderon:** Hoy en la demo les voy a mostrar lo que vamos a hacer para forzar a los drivers que se actualicen a la nueva versión en diferentes países. Entonces, eso también va a ayudar. Pero bueno, em fallas al meter el teléfono,
-
-**Artur Morais:** Vale.
-
-**Paloma Calderon:** errores al entrar.
-
-**Daniel Escribano:** Sí. A ver, ¿dónde
-
-**Paloma Calderon:** Yo sigo en el error al entrar y un caso de login roto recurrente se arregló y volvió a ballar a
-
-**Daniel Escribano:** está a fallar?
-
-**Paloma Calderon:** fallar.
-
-**Daniel Escribano:** El fix no es persistente. Apunta a bug de sesión token. Es que yo es que yo le he ido poniendo todos los las los fallos a Cloud para que me lo
-
-**Paloma Calderon:** Es
-
-**Daniel Escribano:** vaya. ¿Sabes lo que te digo?
-
-**Paloma Calderon:** si le decimos no más dile a Clotario de cada persona. O sea, Juan Pérez tiene este problema e y lo y y para poderlo mandar al canal de Tech y en un futuro Pues y poder ver ese usuario.
-
-**Daniel Escribano:** Espera,
-
-**Armando Flores:** Ahí Ahí ponle nada más dime cuáles fueron los usuarios de la queja relacionada número uno y con eso
-
-  
-  
-
-### **00:19:33**
-
-  
-
-**Paloma Calderon:** Hm.
-
-**Daniel Escribano:** eh, así. ¿Ves?
-
-**Armando Flores:** debería de funcionar así.
-
-**Paloma Calderon:** Por cada queja.
-
-**Daniel Escribano:** Claro, es que no le pasa el nombre y no puedo enlazarlo. He intenta enlazarlo con Silford y con
-
-**Paloma Calderon:** Bueno, o revisar el what y o tal vez te sepas el nombre del driver porque hablas con él, pero para saber
-
-**Daniel Escribano:** Pues mira, mira, hay uno. Vale, ya puedo registrarse. A ver, es un poco locura porque tengo 40.000 mis mensajes. A ver, Mira, aquí tengo uno puesto que lo reporto. Solo en mi casa me conecto, ¿vale? Salgo de mi casa y no me deja conectar. Nada, eso es lo que hemos
-
-**Paloma Calderon:** Sí,
-
-**Daniel Escribano:** hablado.
-
-**Paloma Calderon:** hay uno que reportaste que es eh GCG Arofalo.
-
-**Daniel Escribano:** Orlando Alexandre Alves Portillo.
-
-**Paloma Calderon:** No.
-
-**Daniel Escribano:** No.
-
-**Paloma Calderon:** Tal vez para, creo que no estás en el canal de Appi Shusan,
-
-**Armando Flores:** Ok.
-
-**Paloma Calderon:** pero puede ser bueno para que tú también guardes los récords cuando son casos de un driver.
-
-  
-  
-
-### **00:21:44**
-
-  
-
-**Paloma Calderon:** más ahorita que ya estamos operando, te voy a subir ahí tenemos como un flujo que te pregunta como, ¿cuál es el nombre del driver? A veces son issues que tienen como en el trip, entonces también como cuál es el número de trip e etcétera. Y ahí puedes ver como todos los problemas que tenemos del lado técnico. Pero también puede ser bueno porque yo ese canal lo tengo monitoreado de estas cosas no están resueltas, esta todavía falta, tenemos que escalar a alguien más técnico. Entonces y ahí ya una vez que lo reportas también para ti se queda guardado, o sea, no tienes que estar regresando al WhatsApp. E entonces puede ser bueno para guardar el nombre de ese. Me pudieras para este que acabas de mencionar pasarme mínimo el nombre por aquí para eh crear yo el si lo que es poner
-
-**Daniel Escribano:** por el canal este nuevo, ¿no?
-
-**Paloma Calderon:** ahí tu directo está bien, ¿eh? Si no lo lo puedo meter yo con que me pases el nombre,
-
-**Daniel Escribano:** Vale, pues
-
-**Paloma Calderon:** pero sí, idealmente. O si te mandan ellos fotos, eso sirve muchísimo para saber. Algo que había visto es muchos de los drivers de España no podían entrar a
-
-**Daniel Escribano:** esper,
-
-  
-  
-
-### **00:22:54**
-
-  
-
-**Paloma Calderon:** Comand Center y no sé por qué están queriendo entrar a Comand Center, porque qué bueno, no deberían de poder hacerlo, pero no sé a través de qué liga, no sé si es por registro o si por algo más, están entrando ahí. Entonces, Artur, creo que ya ya regreso.
-
-**Daniel Escribano:** pero yo sigo con el mismo problema en Command Center. Yo tengo que abrirlo con una pestaña de incógnito porque no puede entrar de otra manera y es un poco coñazo
-
-**Paloma Calderon:** Ajá.
-
-**Daniel Escribano:** porque cuando quiero sacar algún reporte de Command Center a través de Cloud, no puedo hacerlo porque solo puedo abrirlo con una con una ventana de incógnito. ¿Me explico?
-
-**Armando Flores:** Bueno, para sacar la data lo podrías hacer de otra forma,
-
-**Paloma Calderon:** Muestra.
-
-**Armando Flores:** pero hay que solucionarlo. O sea, está raro que solo lo puedo abrir en incógnito,
-
-**Daniel Escribano:** Sí.
-
-**Armando Flores:** ¿no,
-
-**Paloma Calderon:** Sí, yo creo, o sea, no sé qué es lo que veas,
-
-**Armando Flores:** Paloma?
-
-**Paloma Calderon:** pero podemos forzar un hard refresh. te puedo mostrar cómo o si no igual repórtalo a ese de shoes y te decimos cómo.
-
-**Armando Flores:** Ah, no. A ver,
-
-  
-  
-
-### **00:23:49**
-
-  
-
-**Paloma Calderon:** Ok.
-
-**Armando Flores:** ¿por qué no lo abres de una vez?
-
-**Paloma Calderon:** Si no empieza a escribir command,
-
-**Daniel Escribano:** No.
-
-**Paloma Calderon:** eh, la palabra
-
-**Armando Flores:** Ahí
-
-**Paloma Calderon:** command.
-
-**Armando Flores:** está.
-
-**Daniel Escribano:** Vale, voy a entrar con una cuenta de cliente que es la que más
-
-**Armando Flores:** ¿Sabes
-
-**Daniel Escribano:** entro. De hecho, lo quité de las de los marcadores precisamente por lo mismo. Digo, a ver si es que por traer los marcadores. Lo he intentado de todas las
-
-**Armando Flores:** que puede ser? Puede ser, Paloma,
-
-**Daniel Escribano:** maneras.
-
-**Armando Flores:** que las cookies que traiga o algo son del com center anterior. Hay que borrar es esas
-
-**Daniel Escribano:** ¿Lo veis?
-
-**Armando Flores:** cosas.
-
-**Daniel Escribano:** No puede entrar.
-
-**Paloma Calderon:** Okay. Dale clic derecho en donde están como el el de refrescar. Ah. Al lado hay como tres burbujitas. Sí. Y estás en España, ¿no? Entonces sí debería de estar e donde hice cookies y datos
-
-**Daniel Escribano:** Sí.
-
-**Paloma Calderon:** de sitio.
-
-**Armando Flores:** No.
-
-**Paloma Calderon:** Gestionar los datos del sitio. Ajá. Ahí.
-
-  
-  
-
-### **00:25:12**
-
-  
-
-**Paloma Calderon:** Ah, a ver. Elimina todos nada más para Estás en Chrome.
-
-**Daniel Escribano:** Chrome
-
-**Paloma Calderon:** Tienes Windows o Mac.
-
-**Daniel Escribano:** Windows.
-
-**Paloma Calderon:** en las vuelve a dar.
-
-**Daniel Escribano:** Nada.
-
-**Paloma Calderon:** Es que estoy traduciendo. Ya está, ya borraste todas las cookies, ¿verdad? Ahí en cookies y datos. Sí.
-
-**Daniel Escribano:** Sí.
-
-**Paloma Calderon:** Okay. E en el arriba del lado derecho de Chrome, donde dice nuevo Chrome disponible, dale privacidad y seguridad en las tres como Ajá.
-
-**Daniel Escribano:** A ver si es que tengo que reiniciar Cron entero. Espera, eh.
-
-**Paloma Calderon:** Mm. No sé si eso. E si no lo solucionamos ahorita, igual lo pongo en Pishus porque sé que les ha pasado a otras. Ay, perdimos a Ah, pues claro, reset.
-
-**Armando Flores:** que se fuera y ahora,
-
-**Paloma Calderon:** Y yo le seguí
-
-**Artur Morais:** Sí, no está aquí.
-
-**Armando Flores:** bueno, en el intero que si solucionamos
-
-**Paloma Calderon:** hablando.
-
-**Daniel Escribano:** Pues clara, claramente reiniciar reiniciado claramente. Eh, te miro y te comparto.
-
-  
-  
-
-### **00:27:22**
-
-  
-
-**Paloma Calderon:** Si haces control F5.
-
-**Armando Flores:** Yes.
-
-**Paloma Calderon:** Okay. A ver, ahora
-
-**Daniel Escribano:** Ahora me voy a ¿Dónde? Aquí no. Priv.
-
-**Paloma Calderon:** ya con el F5 intenta loguearte a ver si con eso sirve.
-
-**Daniel Escribano:** Ah, venga, vamos a ver. Pues sí, toma cohete. Mi 64 GB de RAM. No, bien, ¿no?
-
-**Paloma Calderon:** A ver, te lo si no te lo paso yo porque era cargadriver.com algo así,
-
-**Daniel Escribano:** Mira.
-
-**Paloma Calderon:** ¿no?
-
-**Daniel Escribano:** No me carg de drive.
-
-**Paloma Calderon:** Ahora quedó
-
-**Daniel Escribano:** Bueno,
-
-**Armando Flores:** No,
-
-**Paloma Calderon:** peor.
-
-**Armando Flores:** ahí va. No, ¿qué es eso? Spreadset. Está cargando.
-
-**Daniel Escribano:** sí,
-
-**Armando Flores:** Spreadset.
-
-**Daniel Escribano:** sí, mucha prisa no tiene,
-
-**Paloma Calderon:** Sí. Bueno, en el peor de los casos lo pones en appues y igual si no te ayudo yo,
-
-**Daniel Escribano:** No.
-
-**Paloma Calderon:** te ayuda Rolando, que es el experto como en eso. Entonces ahí te,
-
-**Armando Flores:** Va,
-
-**Paloma Calderon:** o sea, para nada más no sé si acabar en la lista.
-
-  
-  
-
-### **00:29:16**
-
-  
-
-**Armando Flores:** para no atorarnos aquí, si quieres ver lo de los conductores, ¿no? Si quieres vamos con la lista
-
-**Daniel Escribano:** Sí.
-
-**Armando Flores:** entonces.
-
-**Daniel Escribano:** Pues venga, lista. ¿Por dónde vamos? Impact. Vale,
-
-**Artur Morais:** Dos.
-
-**Daniel Escribano:** por el impacto, pues por lo que acceso a todos los conductores. Tal tal tal, tal. Perfecto. Dos, eh,
-
-**Artur Morais:** el problema
-
-**Daniel Escribano:** no pueden ver ni no pueden ver ni descargar las autorizaciones de recogida. Llegan a Campa dealer sin poder acreditarla.
-
-**Artur Morais:** Eh,
-
-**Daniel Escribano:** La mando yo antes, cuando se quejan la mando yo. Y además les estoy dando mucho cariño a los conductores porque como estaban cancelando mucho al principio,
-
-**Paloma Calderon:** Claro. Sí.
-
-**Daniel Escribano:** yo les digo,"Oye, pídeme lo que necesites, pídeme tal cual." Pero claro, ahora son 13 viajes, eh, haciendo esto por 40 pantallas distintas, como estoy haciendo el control de una cosa, el control de otra, cuando haya más viajes, eso va a ser casi imposible poder gestionarlo al día, igual que los seguros. De hecho, ya se me ha olvidado hacer un seguro porque me han salido, me salieron dos transportes a la
-
-  
-  
-
-### **00:30:09**
-
-  
-
-**Paloma Calderon:** Okay. Este,
-
-**Daniel Escribano:** vez.
-
-**Paloma Calderon:** e si te unes a la siguiente junta que tenemos, que es el sprint demo, vas a ver que va a salir el martes con el siguiente release de la tres
-
-**Armando Flores:** Este es Sí, estos son los son los adjuntos.
-
-**Paloma Calderon:** semanas.
-
-**Armando Flores:** Mm son los adjuntos,
-
-**Daniel Escribano:** Perfecto.
-
-**Armando Flores:** ¿no?
-
-**Paloma Calderon:** Exacto.
-
-**Daniel Escribano:** Estos son los adjuntos.
-
-**Armando Flores:** Estos entonces este queda resuelto,
-
-**Artur Morais:** Sí.
-
-**Daniel Escribano:** Sí.
-
-**Paloma Calderon:** Ah.
-
-**Daniel Escribano:** Eh,
-
-**Armando Flores:** ¿no? Entonces este ahora vas a sufrir un poco, Dani,
-
-**Daniel Escribano:** sí, sí,
-
-**Armando Flores:** pero este queda resuelto,
-
-**Daniel Escribano:** no pasa nada,
-
-**Armando Flores:** ¿no?
-
-**Daniel Escribano:** contamos con ellos. No os
-
-**Armando Flores:** Luego info del vehículo,
-
-**Daniel Escribano:** preocupéis.
-
-**Armando Flores:** ni adjuntos en el trip. Bueno, queda la parte del del adjunto y la info del vehículo hoy lo podrías poner en las en las notas del viaje. Solo que ayer me mencionaste una dificultad, Daniel, como para poderla jalar la la información del vehículo y pegarla y demás,
-
-**Daniel Escribano:** A ver,
-
-**Artur Morais:** Sí.
-
-**Daniel Escribano:** es una eso es una dificultad por ambas partes,
-
-  
-  
-
-### **00:30:49**
-
-  
-
-**Armando Flores:** Eh,
-
-**Daniel Escribano:** tanto para conductores como para mí. Si yo la puedo poner así, pero ellos no la ven hasta el último momento. Vosotros el otro día en una reunión dijisteis que no queríais que se viera una en eh una vista previa. Yo puedo entender vuestra opinión, pero el que está en la operativa diaria, con todo mi respeto, soy yo. Y la queja del conductor es que al conductor le da mucha seguridad ver la matrícula desde el principio porque les gusta llamar a la campa de que van a tener el coche listo. Que sí que me lo pueden preguntar a mí. Perfecto, me lo pueden preguntar a mí, pero hay veces que el conductor se siente mucho más seguro verlo porque está acostumbrado a trabajar así.
-
-**Paloma Calderon:** Pero ya que lo pusiste en los trip notes,
-
-**Daniel Escribano:** No obstante,
-
-**Paloma Calderon:** sí se ve.
-
-**Daniel Escribano:** sí, si yo lo pongo en los stream, no no se no no se ve hasta que él no pone que ha llegado,
-
-**Artur Morais:** Sí,
-
-**Daniel Escribano:** me parece.
-
-**Artur Morais:** porque el coche está como to be determinate,
-
-**Paloma Calderon:** No,
-
-**Artur Morais:** porque estamos usando instrucciones para las matrículas,
-
-**Daniel Escribano:** Claro,
-
-**Paloma Calderon:** pero si tú pones Claro,
-
-**Daniel Escribano:** porque porque a mí me han pedido matrículas por por WATI
-
-  
-  
-
-### **00:31:44**
-
-  
-
-**Paloma Calderon:** pero si pero Dani,
-
-**Artur Morais:** Ah.
-
-**Daniel Escribano:** y
-
-**Paloma Calderon:** ¿tú tienes esa información o no la tienes para dársela al driver? O sea, es culpa del cliente que no te lo está pasando,
-
-**Daniel Escribano:** no, no, yo la tengo porque para mí es el primer dato imprescindible que pido,
-
-**Paloma Calderon:** ¿no?
-
-**Daniel Escribano:** que es la matrícula del vehículo. El problema, el problema,
-
-**Paloma Calderon:** Ok.
-
-**Daniel Escribano:** ahora te voy con eso antes de que se me olvide, es una locura porque yo cada vez que necesito mirar un viaje, a mí el cliente me da la matrícula. Entonces, yo me tengo que ir al fichero donde tengo la matrícula con ellos, ver qué coche es. Pero es que nosotros tampoco tenemos eh detalles de marca y modelo. Me tengo que ir metiendo eh plan por plan a ver qué coche es. No puedo buscarlo por matrícula. Ahora lo que se me ha ocurrido hacer es para cubrir ese problema es que cada vez que a mí me den una matrícula y yo suba el el MOF y luego el plan, le pegue en el archivo el ID para poder buscarlo luego rápido. Pero aún así tengo que hacer dos pasos. Es decir, esta mañana, por ejemplo, te pongo otro ejemplo clave.
-
-  
-  
-
-### **00:32:40**
-
-  
-
-**Daniel Escribano:** Eh, en el grupo que tenemos de WhatsApp de lanzamiento de España, pues oye, eh, para cuando se interesan alguien por ver cómo va la historia, oye, un reporte de los de los primeros viajes, ¿qué te dicen los conductores? ¿Qué te dicen los clientes? ¿Cómo me pongo a buscar si me ponga muy la formatrícula y no sé ni cuáles han llegado ni cuáles no han lado. llegado. Tengo que ponerme a mirar transporte por transporte porque es una locura estar saltando de un sitio a otro. No sé si me estoy explicando porque aquí estamos acostumbrados a dar los datos de matrícula, no los datos del
-
-**Paloma Calderon:** Okay,
-
-**Daniel Escribano:** ID.
-
-**Paloma Calderon:** igual en media hora les van a mostrar cómo ya estamos usando la matrícula a Comand Center. Acuérdense que esto antes no lo teníamos, se está trabajando, entonces su vida va a mejorar.
-
-**Daniel Escribano:** Gracias.
-
-**Paloma Calderon:** Esa es la primera cosa.
-
-**Daniel Escribano:** Pero bueno, que tampoco que tampoco es un problema. Quiero decir son dos o tres días lo que llevo así,
-
-**Paloma Calderon:** Segundo,
-
-**Daniel Escribano:** ¿eh? O sea, quiero decir que yo yo solo pongo la pega, pero que que gracias, o sea, que os lo agradezco, que tampoco es un
-
-**Paloma Calderon:** okay,
-
-  
-  
-
-### **00:33:35**
-
-  
-
-**Daniel Escribano:** drama.
-
-**Paloma Calderon:** aquí en las notas de recolección están todas las matrículas. Tun tun tun tun tun. Lo importante es, bueno, todos estos ya tienen plan. Este, por ejemplo, no está planificado. Ah, fue dry. Okay. No he iniciado problemas mecánicos. Pero cuando haya otro nuevo, ya sea que lo estén creando desde antes o estés creando un plan nuevo, aquí pones toda la información de dónde a dónde agregas un movimiento o bueno, en este caso no está creado, pero vamos a decir que va a salir de de este
-
-**Daniel Escribano:** Vale,
-
-**Paloma Calderon:** lugar.
-
-**Daniel Escribano:** porque tú ahí creas el plan directamente, ¿no? Yo estoy creando primero el move y luego y luego el move lo paso a plan.
-
-**Paloma Calderon:** Sí. ¿Qué qué es como el best practice? En especial si después quieres unir vehículos, etcétera. Pero aquí como me estoy saltando pasos para que vean e aquí puedes agregar, o sea, aquí tú ya tuvieras en las notas la matrícula ya estuviera
-
-**Daniel Escribano:** Sí, sí, yo lo Sí,
-
-**Paloma Calderon:** aquí.
-
-**Daniel Escribano:** sí,
-
-**Artur Morais:** No,
-
-**Daniel Escribano:** yo lo Vale,
-
-**Artur Morais:** instrucciones.
-
-  
-  
-
-### **00:34:38**
-
-  
-
-**Daniel Escribano:** pero mira
-
-**Artur Morais:** ¿Qué estamos haciendo?
-
-**Paloma Calderon:** ¿Dónde están? Aquí en las instrucciones.
-
-**Artur Morais:** Las notas,
-
-**Paloma Calderon:** Sí.
-
-**Artur Morais:** las notas del plan que Dan está poniendo la
-
-**Paloma Calderon:** Claro, pero si tú si tú aquí ya estás,
-
-**Artur Morais:** matrícula.
-
-**Paloma Calderon:** o sea, vamos a decir que tú tú aquí ya ligaste el move, aquí lo puedes ver, ¿no? Aquí están las instrucciones de recolección, lo puedes ver acá también, ¿no? Copias,
-
-**Daniel Escribano:** Vale.
-
-**Paloma Calderon:** notas generales. Este es un,
-
-**Artur Morais:** Sí.
-
-**Paloma Calderon:** espera porque quiero ver de dónde dónde va. Este es un Madrid. Madrid. Entonces, ahorita lo que vimos es hay que poner esto porque es
-
-**Daniel Escribano:** Sí, eso eso ahí estoy poniendo otra vez la matrícula y el y efectivamente el
-
-**Paloma Calderon:** importante.
-
-**Daniel Escribano:** código de ciudad a ciudad, pero el código de ciudad a ciudad no sirve de nada ponerlo ahí porque tú te vienes aquí y no te
-
-**Paloma Calderon:** Sí, no se
-
-**Daniel Escribano:** pone el código de ciudad y tú entras aquí y antes de reservar tampoco te pone el código de ciudad. ¿Qué quiero decirte con esto?
-
-  
-  
-
-### **00:35:30**
-
-  
-
-**Paloma Calderon:** sale.
-
-**Daniel Escribano:** Que el conductor ve 40,000 viajes y ya no entra a verlos por pereza. No 40,000 viajes, pero ve 13 y no entra a verlos por pereza porque dice,"Va, si de los 13 no me vale ninguno, si no están en mi ciudad." Ellos quieren poder previsualizarlo para que antes de entrar dentro vean de qué ciudad a qué ciudad es por si les compensa.
-
-**Paloma Calderon:** Sí, pero eso es algo que levantamos esta semana. Entonces sí que nuevo, lo vamos a priorizar,
-
-**Daniel Escribano:** Lo sé, lo sé, lo sé, lo sé,
-
-**Paloma Calderon:** llevar.
-
-**Daniel Escribano:** lo sé. No solo son ruegos,
-
-**Paloma Calderon:** Okay.
-
-**Daniel Escribano:** lloros y lamentos. Luego ya la
-
-**Armando Flores:** Pero a ver,
-
-**Paloma Calderon:** Okay.
-
-**Armando Flores:** esto se debería de solucionar,
-
-**Daniel Escribano:** solución.
-
-**Paloma Calderon:** ¿Cuál cine?
-
-**Armando Flores:** Paloma, si mandamos el viaje como punto de origen en la ciudad de donde están ellos y está el radio, ¿no? O no.
-
-**Paloma Calderon:** Pero dan justo quitamos el radio porque dicen
-
-**Daniel Escribano:** Pero es que Pero es que
-
-**Armando Flores:** A ver, espérate.
-
-  
-  
-
-### **00:36:24**
-
-  
-
-**Armando Flores:** No explica, termina de explicar,
-
-**Daniel Escribano:** K.
-
-**Armando Flores:** Palmá, porque a lo mejor a lo mejor hicimos algo que ahora nos está afectando de este lado, o sea, nada más para entender que, o sea, tenemos un problema, ¿no? Y metimos un fix para resolver otro problema que probablemente nos está haciendo otro problema más grande. Entonces, nada más como para entender si lo si lo tienes, o sea, si tú lo tienes claro, yo no lo tengo claro, ¿no?
-
-**Paloma Calderon:** Sí,
-
-**Armando Flores:** nada más como para
-
-**Paloma Calderon:** en en España son la muchos de los viajes son multiciudad. Entonces, lo que decía es como sí, el driver está en Madrid,
-
-**Armando Flores:** entender.
-
-**Paloma Calderon:** pero el martes va a ir a Toledo o el martes va a ir a Sevilla y quiere poder recibir viajes de Sevilla para poder ver su transporte de vuelta. Regresamos a lo mismo. Esto es muy como manera de operar actual o antigua. Dani, te voy a dar el ejemplo el equivalente. En Estados Unidos tenemos drivers que van de una parte del país a otro o que manejan seis horas y el Driver como empresa se encarga de encontrarles un regreso o regresarlos en avión, en bus, en tren. Entonces, cuando a ellos les llegan las ofertas, ya les llegan las ofertas de viajes, como quien dice, redondo.
-
-  
-  
-
-### **00:37:33**
-
-  
-
-**Paloma Calderon:** Y a veces si les decimos nosotros,"Te regresas en bus," luego les decimos,"Ey, no, te encontré un transporte de regreso. En vez de que te regrese en bus, te quieres llevar esto y sí y ganan más." No, pero para España ahorita todos se los mandamos one way. Entonces les tuvimos que quitar el radio para que a todos les lleguen. Pero lo que les está pasando, Armando, es que ahora les llegan todos los viajes y nosotros en los previews de los viajes no te incluimos de dónde a dónde es porque son normalmente, o sea,
-
-**Armando Flores:** de tu
-
-**Paloma Calderon:** esa pantalla no estará contemplada para eso.
-
-**Armando Flores:** ciudad.
-
-**Daniel Escribano:** Vale,
-
-**Paloma Calderon:** No.
-
-**Daniel Escribano:** pero ahí yo lo he puesto en el punto seis porque es cierto que España las distancias son mucho más cortas, es decir, España como tamaño de país es más pequeño que un estado de Estados Unidos en muchos de los casos. ¿Vale? Entonces, eh aquí es distinto. ¿Qué es lo que pasa? Efectivamente, los conductores tienen rutas de ida y vuelta. Eh nosotros no tenemos conductores en La Coruña, pero el otro día fue un conductor a la Coruña. ¿Por qué? Porque cogió un coche en Madrid de Draimy, lo llevó a Coruña y en la Coruña, coge el nuestro para volverse.
-
-  
-  
-
-### **00:38:34**
-
-  
-
-**Daniel Escribano:** Si eso no lo puedo ver en la aplicación, no puede planificarse ese viaje. Por lo tanto, esos viajes en sitios más complicados en los que no tenemos conductores, no no los van a asignar nunca, o sea, no no los van a reservar nunca. Ahora bien, igual que os digo una cosa, os digo la otra. Hay dos conductores de 110 o de 100 o de 100 conductores, dos que sí me han dicho que solo quieren verlos de su región. ¿Por qué? porque no trabajan a grande.
-
-**Artur Morais:** M.
-
-**Daniel Escribano:** grandes distancias porque aunque hagan idas y vueltas solo los hacen en su en su región, ¿sabes? Y no les gusta salir fuera. ¿Qué es lo que sugiero en el punto se? Que sea configurable por el propio driver, es decir, que el driver pueda configurar su radio de búsqueda y no se lo pongamos nosotros. ¿Me explico?
-
-**Armando Flores:** Ya.
-
-**Paloma Calderon:** Sí, solo es funcionalidad nueva. O sea, entonces es como lo que vamos a tener que empezar a hacer, que está bien, es medir qué, o sea, cuántos drivers son los que están se están quejando y qué impacto va a tener si lo hacemos o si no lo hacemos y le decimos al driver como, mira, figure it out o como vamos a hacer driver, va a ser, por ejemplo, cosas que yo les recomiendo por mientras.
-
-  
-  
-
-### **00:39:42**
-
-  
-
-**Paloma Calderon:** Háganle un cuestionario a todos los drivers de qué te gusta a ti,
-
-**Artur Morais:** ي
-
-**Paloma Calderon:** qué no, no sé qué y pueden dividir a diferentes grupos, los driver groups o pools. Artur, tú conoces
-
-**Daniel Escribano:** Sí, si Si te soy sincero, perdona que te corte otra vez, si te soy sincero, esto lo solucionamos con el código de provincia en la previsualización,
-
-**Paloma Calderon:** esto.
-
-**Daniel Escribano:** porque si tú pones como yo he pedido en la previsualización del viaje el código de provincia, ese fallo te lo quitas porque aunque aunque no vean coches o sea aunque haya dos conductores que quieran ver solo su radio en vez de toda España, pero si en la previsualización ya pueden ver cuáles son de su provincia y cuáles no, solamente es hacer un paso así y en cuanto una previsualización de su provincia se mete Ahí a
-
-**Paloma Calderon:** Okay,
-
-**Daniel Escribano:** corto plazo tendríamos a todo el mundo medio contento.
-
-**Paloma Calderon:** okay, perfecto.
-
-**Armando Flores:** E, o sea, nada más, o sea, creo que entonces sí, por hacerlo por hacer el radio más grande sí estuvimos afectando entonces ahora a los conductores, o sea, hoy hoy no lo va no vamos a tener este enhancment. ¿Qué nos conviene más? regresarlo un radio más reducido y que lo tome el conductor que tengamos en esa ciudad o nos conviene tenerlo abierto y que no lo tomen los o que los conductores digan,"Oye, no, porque me están llegando viajes de Madrid y yo estoy en Sevilla y yo no quiero tomar ninguno de Sevilla." Entonces,
-
-  
-  
-
-### **00:41:04**
-
-  
-
-**Armando Flores:** no sirve esta aplicación. O sea, tenemos que tomar una decisión de ninguno de las dos es buena opción, pero creo que necesitamos saber cuál es menos peor, por así decirlo,
-
-**Daniel Escribano:** Menos menos peor dejar todo abierto porque en España es un país muy desigual, es decir, la gente está en las grandes ciudades.
-
-**Armando Flores:** H
-
-**Daniel Escribano:** Entonces, los conductores están en Madrid, Barcelona, Valencia, Sevilla, Málaga. Ahora, ciudades medianas tipo a Coruña, tipo de ciudades de 100 o 200,000, 300,000 habitantes, no hay tantos conductores. Solamente son los conductores que recogen allí en campas o entregan allí a clientes particulares.
-
-**Artur Morais:** Sí.
-
-**Daniel Escribano:** Entonces aprovechan la ruta de ida para hacérsela de vuelta porque no hay tantos conductores nativos. ¿Me explico?
-
-**Artur Morais:** Y y considerando que muchos de viajes van a ser como 48 horas de programación, vas a tener tiempo para que esos se programen, ya saben con van estar ahí.
-
-**Armando Flores:** Sí. O sea,
-
-**Artur Morais:** Entonces creo que este tiene que estar para todos.
-
-**Armando Flores:** lo lo único que me Lo que lo único que me preocupa es que los estemos
-
-**Daniel Escribano:** Si, si ¿Tú limitas
-
-**Armando Flores:** spameando porque hoy no ven de qué ciudad sale y a qué ciudad regresa.
-
-  
-  
-
-### **00:41:59**
-
-  
-
-**Daniel Escribano:** radios?
-
-**Armando Flores:** Entonces, si tú se lo estás mandando a un radio muy amplio y no saben de qué ciudad es, o sea, yo soy un
-
-**Artur Morais:** No, pero si si él abre el viaje en detalles es
-
-**Armando Flores:** conductor.
-
-**Artur Morais:** posible,
-
-**Armando Flores:** Ah,
-
-**Artur Morais:** ¿vale?
-
-**Daniel Escribano:** Claro,
-
-**Artur Morais:** vas a vas a tener la ubicación y
-
-**Armando Flores:** okay.
-
-**Daniel Escribano:** te pongo te pongo te pongo en contexto el el viaje de a Coruña que se ha cancelado, que era un viaje que a mí me costó mucho asignar, se lo conté a Artur,
-
-**Armando Flores:** Mhm.
-
-**Daniel Escribano:** es un conductor de Madrid, porque en Galicia no tenemos conductores activados prácticamente,
-
-**Armando Flores:** Mhm.
-
-**Daniel Escribano:** ¿vale?
-
-**Armando Flores:** Mhm.
-
-**Daniel Escribano:** era un conductor de Madrid que entregó un coche en una ciudad que se llama Urense y yo conozco el sistema de trenes y le dije,
-
-**Armando Flores:** Mhm.
-
-**Daniel Escribano:** "Oye, mira, de Urense tienes un tren a Coruña que tarda media hora o 45 minutos, vale muy poco dinero y te puedes enlazar un el viaje de vuelta nuestro y así no te vuelves en balde." Y ese conductor de Madrid me cogió ese viaje y fue cuando yo le pedí a Paloma y a Kevin que ampliaran el radio de búsqueda porque ese cliente no podía ver ese transporte porque el radio de búsqueda estaba por geolocalización.
-
-  
-  
-
-### **00:43:03**
-
-  
-
-**Daniel Escribano:** ¿Te acuerdas, Paloma, que tuvimos la conversación sobre ese radio, no? Y fue cuando yo les pedí a ellos abrir el radio de búsqueda. Ahora estamos con un problema parecido. Teníamos otro transporte de a Coruña, que se hacía mañana a las 9:30 y est hemos estado a punto de que no de no conseguir conductor y ahora la ha cogido un conductor que no es de la zona. Es porque ha podido verlo. Entonces sí que hay dos conductores que se quejan porque solo les gusta trabajar en su provincia. Sí, hay de todo, pero es lo que tú dices, Armando, lo vamos a poner en la balanza. ¿Qué es lo que nos es más o menos rentable? Sinceramente, prefiero pecar de tener más opciones a pecar de tener menos opciones.
-
-**Artur Morais:** Sí.
-
-**Daniel Escribano:** Luego eso con el código de provincia en un momento lo medio
-
-**Artur Morais:** Y y y
-
-**Daniel Escribano:** solucionaremos.
-
-**Artur Morais:** Paloma, ¿crees que si al guardar la ubicación colocarmos como el código de provincia en el principio de de la ubicación del texto? Ah, vas a mostrar en la aplicación, ¿no? Entonces, podemos como todas las ubicaciones que guardamos que vamos a a tener en viajes, a colocar como el código de provincia antes en texto.
-
-  
-  
-
-### **00:44:20**
-
-  
-
-**Artur Morais:** ¿Hace sentido?
-
-**Paloma Calderon:** Sí, o sea, de todos modos lo vas a tener que abrir. Lo que vamos a ver con Caro es si en la app les pueden hacer como en en donde ven trip offer, no sé cuánto te vamos a pagar tanto, que también ahí incluya el código de provincia, tal vez solo para España para no confundir a los otros drivers.
-
-**Artur Morais:** Vale.
-
-**Paloma Calderon:** Solo que es es desarrollo que se tiene que planear hacer nada. Entonces, como conozcan los tiempos de acá de el equipo, menos de un mes no va a ser. Entonces para ahorita sí.
-
-**Armando Flores:** Ho. Yeah.
-
-**Daniel Escribano:** Sí, eso, eso es lo que decís, la otra junta. Y chicos,
-
-**Paloma Calderon:** Okay.
-
-**Daniel Escribano:** si podemos tener otra junta parecida para solucionar el problema contrario, es decir, no solo el de los conductores, sino también el de la operativa mía.
-
-**Armando Flores:** Saca,
-
-**Paloma Calderon:** Sí.
-
-**Armando Flores:** saca el mismo resumen, Dani,
-
-**Paloma Calderon:** Okay.
-
-**Armando Flores:** y lo revisamos.
-
-**Daniel Escribano:** Gracias,
-
-**Armando Flores:** Yo la yo la agendo,
-
-**Daniel Escribano:** chicos.
-
-**Armando Flores:** digo, ahorita nos subimos con Paloma, pero saca el mismo resumen y lo agendo.
-
-**Artur Morais:** Amén.
-
-  
-  
-
-### **00:45:22**
-
-  
-
-**Armando Flores:** Lo único que o sea, y si quier ahorita nos subimos a la otra y y para cerrar, Dani, es entonces conviene más un radio amplio. O sea, lo que no quiero es que por un lado tú dijiste que los estábamos como espameando, ¿no? Que les llegaban muchos viajes y no sabían de dónde era, entonces como que ya no les estaban haciendo caso. Hor porque les llegaban muchos y veían y no eran de su ciudad, ¿no? Pero por otro lado si queremos hoy que les lleguen a todos. Entonces nada más es balancear eso porque a lo mejor no es un radio tan grande, a lo mejor lo hacemos más chico, o sea, es es nada más terminado de aclarar eso, pero si quieres lo vemos después, o sea, no sí,
-
-**Daniel Escribano:** Es tan fácil como poner un radio configurable por el por el driver.
-
-**Armando Flores:** eso sería lo ideal. Este, hoy no lo tenemos,
-
-**Daniel Escribano:** mientras también pues
-
-**Armando Flores:** no sé qué tan fácil,
-
-**Artur Morais:** si quieres o no vas a ser más más
-
-**Armando Flores:** no sé qué tan fácil vaya a hacer eso, Dani. O sea,
-
-**Artur Morais:** complejo,
-
-**Armando Flores:** lo que me preocupa es que la solución, la solución que tú propones me parece muy buena.
-
-**Daniel Escribano:** bueno.
-
-**Artur Morais:** Pero
-
-**Armando Flores:** El problema que yo veo es, no sé qué tan fácil sea de configurar eso.
-
-  
-  
-
-### **00:46:23**
-
-  
-
-**Armando Flores:** Te digo en una, por eso me quiero llevar a Kevin a España y que nos sentemos y vea los problemas, incluso ver con dos, tres conductores, hablar con clientes y demás, eh,
-
-**Artur Morais:** y mi
-
-**Armando Flores:** o sea, porque a lo mejor lo puede resolver o puede decir,"Oye,
-
-**Artur Morais:** sugerencia.
-
-**Armando Flores:** esta configuración o o es una encuesta decirle al conductor,
-
-**Daniel Escribano:** Vale.
-
-**Armando Flores:** oye, mira, dame este radio y y se lo personalizamos a cada uno de los conductores nosotros en el inter, ¿no? O sea, es lo que yo quiero entender de ese lado. O sea, a mí me parece muy lógico lo que tú pides, ¿eh? O sea, no no va por ahí. El problema es hoy que creo que beneficia por un lado, pero afecta por el
-
-**Daniel Escribano:** Sí. A ver, también te digo, a lo mejor cuando tengamos todos los conductores activos,
-
-**Armando Flores:** otro.
-
-**Daniel Escribano:** que puedan entrar todos en la plataforma y tengamos un control por eh por provincias o por regiones de que están todas las provincias o regiones cubiertas, ¿vale? Pues a lo mejor ahí si no podemos plantear limitar, pero tampoco hay tantos transportes ahora como para limitar. Si encima de que tenemos solamente 13 transportes y pocos conductores activos nos limitamos,
-
-**Armando Flores:** No.
-
-**Daniel Escribano:** ahora mismo es un error.
-
-  
-  
-
-### **00:47:24**
-
-  
-
-**Daniel Escribano:** De hecho, ya te digo,
-
-**Artur Morais:** Sí,
-
-**Daniel Escribano:** en los transportes lejanos donde no tenemos conductores los hemos sacado gracias a eso,
-
-**Artur Morais:** paro.
-
-**Daniel Escribano:** gracias a que hemos abierto el el radio de acción.
-
-**Artur Morais:** Y que pasa es hoy, por ejemplo, creo que el sistema de tomas ya hay algunas soluciones para eso, eh,
-
-**Armando Flores:** Ya se fue Dani.
-
-**Artur Morais:** pero porque lo que pasa es que el viajes en en Brasil,
-
-**Daniel Escribano:** Per
-
-**Artur Morais:** Estados Unidos, siempre van a tener regreso. Entonces, el sistema de de tomas, yo lo sé que hace como caso después de no sé, algo así no está asignado en la la el radio que el
-
-**Armando Flores:** Hagamos, hagamos una junta con Thomas.
-
-**Artur Morais:** viaja.
-
-**Armando Flores:** Yo creo que él nos él nos puede ayudar. Haz la haz la lista, o sea, revisamos esta misma lista, Dani, y la que tú tienes de problemas de creación y yo estoy seguro que Thomas nos puede dar ideas,
-
-**Artur Morais:** Vale.
-
-**Armando Flores:** ¿va? O sea, juntemos las dos listas.
-
-**Artur Morais:** Y mi sugerencia,
-
-**Armando Flores:** En cuanto tenga la otra, yo le pongo una junta a Tomas
-
-**Artur Morais:** Dani,
-
-**Daniel Escribano:** Bueno,
-
-**Armando Flores:** mañana.
-
-**Artur Morais:** cree cree eses sugerencias y un doc para que todo todos podamos comentar y discutir al respecto hasta offline también no es necesario una junta y podemos como adelantar algunos temas y traer insightes de ahí y no necesitamos tener necesariamente todos juntos en una reunión, ¿vale? Entonces, comparta comparta un archivo de de Doc y que todos podamos leer,
-
-**Daniel Escribano:** Vale,
-
-**Artur Morais:** comentar y sugerir sugerir melorías.
-
-**Daniel Escribano:** no. Ah,
-
-**Armando Flores:** Bueno,
-
-**Daniel Escribano:** han cancelado han cancelado tres viajes,
-
-**Armando Flores:** vamos a la otra.
-
-**Artur Morais:** Vale,
-
-**Armando Flores:** la
-
-**Daniel Escribano:** tío.
-
-**Armando Flores:** reunión.
-
-**Daniel Escribano:** Dos viajes. j\*\*\*\*, macho. Vamos a la otra,
-
-**Artur Morais:** de mañana.
-
-**Daniel Escribano:** ¿no? Sí, dos viajes para mañana lo acaban de cancelar.
-
-**Armando Flores:** Vamos a la otra.
-
-**Daniel Escribano:** Y es que me estoy volviendo loco porque no consigo ver los los históricos ni nada. Pero bueno, vamos a otra junta que nos esperan.
-
-**Artur Morais:** Sí, sí,
-
-**Daniel Escribano:** Tak.
-
-**Armando Flores:** Vale.
-
-**Artur Morais:** vale. Yeah.
-
-  
-  
-
-### **La transcripción finalizó después de 00:49:35**
-
-  
-
-*Esta transcripción editable se generó por computadora y puede contener errores. Los usuarios también pueden cambiar el texto después de que se 
+(Transcripción capturada hasta aquí; la reunión continúa hasta 00:47:24 — ver sección de Detalles arriba para la cobertura completa.)
