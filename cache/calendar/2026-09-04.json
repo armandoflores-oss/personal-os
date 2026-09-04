@@ -1,0 +1,76 @@
+[
+  {
+    "start": "08:30",
+    "summary": "Diaria Spain Launch",
+    "attendees": [
+      "daniel.escribano@draiver.com",
+      "armando.flores@driverdo.com",
+      "artur.morais@draiver.com"
+    ]
+  },
+  {
+    "start": "09:30",
+    "summary": "Daily Huddle - Ops MX",
+    "attendees": [
+      "uriel.vargas@driverdo.com",
+      "cristian.arizmendi@driverdo.com",
+      "julia.diaz@draiver.com",
+      "armando.flores@driverdo.com",
+      "diego.diaz@draiver.com",
+      "camila.flores@draiver.com",
+      "jose.duran@driverdo.com"
+    ]
+  },
+  {
+    "start": "10:00",
+    "summary": "MX Marketplace",
+    "attendees": [
+      "rodrigo.trevino@draiver.com",
+      "armando.flores@driverdo.com",
+      "paulo.ferrato@driverdo.com",
+      "alinefidencio@draiver.com",
+      "camila.flores@driverdo.com",
+      "julia.diaz@draiver.com",
+      "julia.ivonne@live.com.mx"
+    ]
+  },
+  {
+    "start": "10:30",
+    "summary": "catch up Julia",
+    "attendees": [
+      "julia.diaz@draiver.com",
+      "armando.flores@driverdo.com"
+    ]
+  },
+  {
+    "start": "11:30",
+    "summary": "Uber alignment",
+    "attendees": [
+      "armando.flores@driverdo.com",
+      "bruno.silva@draiver.com",
+      "dan.rizzo@draiver.com",
+      "fede.ranero@driverdo.com",
+      "kevin.burke@draiver.com",
+      "paloma.calderon@draiver.com",
+      "paulo.ferrato@draiver.com",
+      "rafael.andrade@draiver.com"
+    ]
+  },
+  {
+    "start": "13:00",
+    "summary": "Update: Drivers activation and Fuel revision",
+    "attendees": [
+      "cristian.arizmendi@driverdo.com",
+      "julia.diaz@draiver.com",
+      "armando.flores@driverdo.com"
+    ]
+  },
+  {
+    "start": "16:00",
+    "summary": "1.1 Fede/Armando (Monthly)",
+    "attendees": [
+      "fede.ranero@driverdo.com",
+      "armando.flores@driverdo.com"
+    ]
+  }
+]

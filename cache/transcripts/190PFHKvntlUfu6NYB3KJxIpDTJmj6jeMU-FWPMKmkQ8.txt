@@ -1,0 +1,428 @@
+# **✍️ Quick notes**
+
+## **Drivers "Fijos"**
+
+
+
+Sep 3, 2026
+
+[Cristian Arizmendi](mailto:cristian.arizmendi@driverdo.com) [Julia Diaz](mailto:julia.diaz@draiver.com) [Armando Flores](mailto:armando.flores@driverdo.com)
+
+
+
+Mobile driver configuration and multiplication parameters and operational logistics integration
+
+
+
+## **System and Platform Operations**
+
+  - Armando Flores referenced the command center and Salesforce Classic.
+  - The participants briefly discussed drivers and operational reduction.
+
+
+
+
+
+**Want to see more?** [View the full notes
+](about:blank)Tip: You can always access your full notes from the left sidebar.
+
+
+
+
+
+*You should review Gemini's notes to make sure they're accurate.* [*Get tips and learn how Gemini takes notes*](https://support.google.com/meet/answer/14754931)
+
+*How is the quality of* ***these specific notes?*** [*Take a short survey*](https://google.qualtrics.com/jfe/form/SV_5bXzKQfylMIhSXc?confid=_U4n8ia3AUEZc1Jpj8EMDxIQOBEBMgUIigIgABgBCA&entryPoint=footerQuickNotes&isGoogler=False) *to let us know your feedback, including how helpful the notes were for your needs.****
+***
+
+# ** Full notes***
+*
+
+ Sep 3, 2026
+
+## **Drivers "Fijos"**
+
+Invited [Cristian Arizmendi](mailto:cristian.arizmendi@driverdo.com) [Julia Diaz](mailto:julia.diaz@draiver.com) [Armando Flores](mailto:armando.flores@driverdo.com)
+
+Attachments [Drivers "Fijos" ](https://calendar.google.com/calendar/event?eid=NW12ZjNhZDVtdDk5azFzOHNhb3E4aGk1MW4ganVsaWEuZGlhekBkcmFpdmVyLmNvbQ)
+
+Meeting records [Transcript](https://docs.google.com/document/d/190PFHKvntlUfu6NYB3KJxIpDTJmj6jeMU-FWPMKmkQ8/edit?usp=drive_web&tab=t.mdz79y5u18ic)
+
+
+
+
+### **Summary**
+
+Mobile driver configuration and multiplication parameters and operational logistics integration
+
+**Mobile Driver System Configuration**
+Discussion on mobile system drivers and user comments established saving specific driver details.
+
+**Driver Checks and Metrics**
+Evaluation of driver checks and multiplication factors reached consensus on current progress.
+
+**Operational Logistics and Integration**
+Review of operational logistics confirmed the integration and use of Salesforce classic.
+
+
+
+
+### **Details**
+
+  - **Mobile Driver Systems and Comments**: Cristian Arizmendi and Julia Diaz discussed mobile system drivers and user comments. Cristian Arizmendi addressed the configuration of mobile drivers, while Julia Diaz reviewed the system setup. They agreed on saving the specific driver details before moving forward ([00:00:07](https://docs.google.com/document/d/190PFHKvntlUfu6NYB3KJxIpDTJmj6jeMU-FWPMKmkQ8/edit?ouid=107114406729300780928#heading=h.jvee38ehle6v)).
+  - **Driver Checks and Multiplication Parameters**: Julia Diaz and Cristian Arizmendi evaluated driver checks and multiplication factors. Julia Diaz noted that the process was easy, while Cristian Arizmendi referenced driver check evaluations and multiplication metrics. They reached a consensus regarding the current progress of the driver checks ([00:07:35](https://docs.google.com/document/d/190PFHKvntlUfu6NYB3KJxIpDTJmj6jeMU-FWPMKmkQ8/edit?ouid=107114406729300780928#heading=h.8kjnwsvaphdh)).
+  - **Operational Logistics, Salesforce, and Command Center Integration**: Julia Diaz, Cristian Arizmendi, and Armando Flores reviewed operational logistics, including trip information practices, shoppers corner, Tango Street operations, and driver reduction. Armando Flores and Cristian Arizmendi discussed the program start, and Armando Flores explicitly confirmed the integration and use of Salesforce classic within the command center. They concluded the session after aligning on these operational updates and software platforms ([00:17:32](https://docs.google.com/document/d/190PFHKvntlUfu6NYB3KJxIpDTJmj6jeMU-FWPMKmkQ8/edit?ouid=107114406729300780928#heading=h.gr0ebj20n90g)).
+
+
+
+
+*You should review Gemini's notes to make sure they're accurate.* [*Get tips and learn how Gemini takes notes*](https://support.google.com/meet/answer/14754931)
+
+*How is the quality of* ***these specific notes?*** [*Take a short survey*](https://google.qualtrics.com/jfe/form/SV_5bXzKQfylMIhSXc?confid=_U4n8ia3AUEZc1Jpj8EMDxIQOBEBMgUIigIgABgBCA&detailLevel=standard&hasImages=False&entryPoint=footerMain&isGoogler=False) *to let us know your feedback, including how helpful the notes were for your needs.****
+***
+
+# ** Transcript***
+*
+
+ Sep 3, 2026
+
+## **Drivers "Fijos"  - Transcript**
+
+### **00:00:07**
+
+
+
+**Cristian Arizmendi:** Wonderful. I don't alone. Yeah, that comes
+
+**Julia Diaz:** See, it's a full country.
+
+**Cristian Arizmendi:** See, see. I see. I see.
+
+**Julia Diaz:** See?
+
+**Cristian Arizmendi:** No. See,
+
+**Julia Diaz:** Yeah.
+
+**Cristian Arizmendi:** see. Yeah.
+
+**Julia Diaz:** Okay. Uhhuh.
+
+**Cristian Arizmendi:** Okay.
+
+**Julia Diaz:** Uhhuh. Mhm.
+
+**Cristian Arizmendi:** system. I'm Exact.
+
+**Julia Diaz:** Hey, see I just
+
+**Cristian Arizmendi:** Uh
+
+**Julia Diaz:** Yay\!
+
+**Cristian Arizmendi:** drivers. Maybe it's
+
+**Julia Diaz:** No,
+
+**Cristian Arizmendi:** I can do next.
+
+**Julia Diaz:** I'm doing
+
+**Cristian Arizmendi:** mobile
+
+**Julia Diaz:** See drivers.
+
+**Cristian Arizmendi:** specific
+
+**Julia Diaz:** Okay.
+
+**Cristian Arizmendi:** save. See,
+
+**Julia Diaz:** Yeah.
+
+**Cristian Arizmendi:** that's Uh same
+
+**Julia Diaz:** No sex.
+
+**Cristian Arizmendi:** comments.
+
+**Julia Diaz:** Uhhuh.
+
+**Cristian Arizmendi:** Alberto
+
+**Julia Diaz:** Mhm. Deal. You got
+
+**Cristian Arizmendi:** Yes. Okay.
+
+**Julia Diaz:** me. What?
+
+**Cristian Arizmendi:** I don't know. for a good
+
+**Julia Diaz:** No, no, no. I know. Uhhuh. No
+
+**Cristian Arizmendi:** It's different.
+
+
+
+
+### **00:07:35**
+
+
+
+**Julia Diaz:** way. So easy.
+
+**Cristian Arizmendi:** See, I will
+
+**Julia Diaz:** Okay,
+
+**Cristian Arizmendi:** see. Okay.
+
+**Julia Diaz:** this uh
+
+**Cristian Arizmendi:** See
+
+**Julia Diaz:** Mhm.
+
+**Cristian Arizmendi:** saychech.
+
+**Julia Diaz:** Yeah. Hope.
+
+**Cristian Arizmendi:** Exact. That's it.
+
+**Julia Diaz:** See, Mhm.
+
+**Cristian Arizmendi:** Thinkchech.
+
+**Julia Diaz:** Mhm.
+
+**Cristian Arizmendi:** driver.
+
+**Julia Diaz:** Mhm. Next to
+
+**Cristian Arizmendi:** Exact.
+
+**Julia Diaz:** Not yet.
+
+**Cristian Arizmendi:** No better.
+
+**Julia Diaz:** to
+
+**Cristian Arizmendi:** Yes.
+
+**Julia Diaz:** better.
+
+**Cristian Arizmendi:** Lo,ch.
+
+**Julia Diaz:** try. Wow.
+
+**Cristian Arizmendi:** It's in the
+
+**Julia Diaz:** Multiplicator.
+
+**Cristian Arizmendi:** multiplication.
+
+**Julia Diaz:** Okay.
+
+**Cristian Arizmendi:** See,
+
+**Julia Diaz:** Drivers.
+
+**Cristian Arizmendi:** See,
+
+**Julia Diaz:** Mhm.
+
+**Cristian Arizmendi:** see exact see I
+
+**Julia Diaz:** Also,
+
+**Cristian Arizmendi:** for this.
+
+**Julia Diaz:** face.
+
+**Cristian Arizmendi:** Mhm.
+
+**Julia Diaz:** Mhm. driver.
+
+**Cristian Arizmendi:** That's it.
+
+**Julia Diaz:** I know the music. Perfecto. Okay. See
+
+**Cristian Arizmendi:** Mhm.
+
+**Julia Diaz:** Mhm. Perfecto. Mhm. Okay.
+
+**Cristian Arizmendi:** All
+
+**Julia Diaz:** Okay. for
+
+**Cristian Arizmendi:** right,
+
+**Julia Diaz:** the last.
+
+
+
+
+### **00:17:32**
+
+
+
+**Julia Diaz:** Okay.
+
+**Cristian Arizmendi:** cool.
+
+**Julia Diaz:** Okay. Okay. information practic. trips. Wow. establishing
+
+**Cristian Arizmendi:** What's
+
+**Julia Diaz:** confir
+
+**Cristian Arizmendi:** that?
+
+**Julia Diaz:** for. Okay. See? Okay. particip. driver. Perfecto. foreign. Um. Oh, what kind of operation? Ah, hello. Hope for a Back. for
+
+**Cristian Arizmendi:** Yes.
+
+**Julia Diaz:** your mother. See
+
+**Cristian Arizmendi:** Shoppers
+
+**Julia Diaz:** Mhm.
+
+**Cristian Arizmendi:** corner.
+
+**Julia Diaz:** Wait. Yeah. Wow.
+
+**Cristian Arizmendi:** No, no, no.
+
+**Julia Diaz:** Okay. Yeah. Where are they? Amos.
+
+**Cristian Arizmendi:** A key
+
+**Julia Diaz:** Uhhuh.
+
+**Cristian Arizmendi:** is
+
+**Julia Diaz:** Okay.
+
+**Cristian Arizmendi:** second.
+
+**Julia Diaz:** foreign. We'll
+
+**Cristian Arizmendi:** No.
+
+**Julia Diaz:** see.
+
+**Cristian Arizmendi:** Come on. for
+
+**Julia Diaz:** Mhm.
+
+**Cristian Arizmendi:** Fore\! Foreign\!
+
+**Julia Diaz:** Mhm.
+
+**Cristian Arizmendi:** Foreign\!
+
+**Julia Diaz:** Ah, Mhm. Mhm.
+
+**Cristian Arizmendi:** Tango Street.
+
+**Julia Diaz:** Uh
+
+**Cristian Arizmendi:** Okay.
+
+**Julia Diaz:** normal.
+
+**Cristian Arizmendi:** You
+
+**Armando Flores:** can.
+
+**Cristian Arizmendi:** know,
+
+**Armando Flores:** Sorry.
+
+**Julia Diaz:** Hola.
+
+**Armando Flores:** Yes.
+
+**Julia Diaz:** See, driver
+
+**Armando Flores:** See driver. Good.
+
+**Julia Diaz:** See the reduction. Julie.
+
+**Armando Flores:** Hey, no. Super super. Oh, program.
+
+**Julia Diaz:** See, I was comment
+
+**Armando Flores:** Yes.
+
+**Cristian Arizmendi:** Hello.
+
+**Armando Flores:** Come on. Start.
+
+**Julia Diaz:** What's
+
+**Armando Flores:** Come on. See,
+
+**Julia Diaz:** Driver's
+
+**Armando Flores:** classical.
+
+**Cristian Arizmendi:** SL. in in the manner.
+
+**Julia Diaz:** Okay.
+
+**Cristian Arizmendi:** Yes.
+
+**Armando Flores:** Bueno
+
+**Julia Diaz:** So,
+
+**Cristian Arizmendi:** Except
+
+**Armando Flores:** again. Yeah.
+
+**Julia Diaz:** drivers.
+
+**Cristian Arizmendi:** minutes. Can
+
+**Armando Flores:** Ben
+
+**Julia Diaz:** It's easy.
+
+**Cristian Arizmendi:** I
+
+**Armando Flores:** Super.
+
+**Julia Diaz:** Perfect.
+
+**Armando Flores:** This is
+
+**Cristian Arizmendi:** He
+
+**Armando Flores:** Chris.
+
+**Cristian Arizmendi:** upstairs.
+
+**Armando Flores:** command center, Salesforce, etc. Salforce classic.
+
+**Cristian Arizmendi:** Okay. Okay.
+
+**Armando Flores:** See?
+
+**Cristian Arizmendi:** Okay.
+
+**Julia Diaz:** Gracias.
+
+**Armando Flores:** All
+
+**Julia Diaz:** Gracias. Bye-bye.
+
+
+
+
+### **Transcription ended after 00:30:14**
+
+
+
+*This editable transcript was computer generated and might contain errors. People can also change the text after it was cre
