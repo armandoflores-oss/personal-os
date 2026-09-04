@@ -28,7 +28,8 @@
       "mcp__3edb6d33-1835-48fa-aa9f-e56f52ea7e4d__list_calendars",
       "mcp__d0d63bc7-ca62-4971-98ab-f59efe86c0c6__list_recent_files",
       "mcp__d0d63bc7-ca62-4971-98ab-f59efe86c0c6__search_files",
-      "mcp__d0d63bc7-ca62-4971-98ab-f59efe86c0c6__read_file_content"
+      "mcp__d0d63bc7-ca62-4971-98ab-f59efe86c0c6__read_file_content",
+      "mcp__0c7acc06-c2f0-41b3-a9fb-499c05b20a59__slack_send_message"
     ],
     "deny": [
       "mcp__18fee21b-4c38-4d1c-b67d-4f0e6c437528__send_message",
@@ -45,7 +46,12 @@
       "mcp__d0d63bc7-ca62-4971-98ab-f59efe86c0c6__create_file",
       "mcp__d0d63bc7-ca62-4971-98ab-f59efe86c0c6__update_file",
       "mcp__d0d63bc7-ca62-4971-98ab-f59efe86c0c6__share_file",
-      "mcp__d0d63bc7-ca62-4971-98ab-f59efe86c0c6__trash_file"
+      "mcp__d0d63bc7-ca62-4971-98ab-f59efe86c0c6__trash_file",
+      "mcp__0c7acc06-c2f0-41b3-a9fb-499c05b20a59__slack_create_conversation",
+      "mcp__0c7acc06-c2f0-41b3-a9fb-499c05b20a59__slack_create_canvas",
+      "mcp__0c7acc06-c2f0-41b3-a9fb-499c05b20a59__slack_create_list",
+      "mcp__0c7acc06-c2f0-41b3-a9fb-499c05b20a59__slack_update_canvas",
+      "mcp__0c7acc06-c2f0-41b3-a9fb-499c05b20a59__slack_schedule_message"
     ]
   }
 }
