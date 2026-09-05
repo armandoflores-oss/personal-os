@@ -134,8 +134,19 @@ def cmd_run(args):
         index.append({"status": "open", "archived": False, "code": code,
                       "action": verdict["action"], "counterparty": verdict["counterparty"]})
 
+    # Una marca de agua NUNCA puede quedar en el futuro. Un solo item con un
+    # ts erróneo (una prueba, un remitente con el reloj mal, un conector que
+    # devuelve basura) la empujaría hacia adelante para siempre, y todo el
+    # correo real anterior a esa fecha se saltaría en silencio: pérdida de
+    # datos sin un solo mensaje de error.
     if newest and newest != watermark:
-        w = load_watermarks(); w[args.source] = newest; save_watermarks(w)
+        if newest > _now():
+            print(f"AVISO: ts futuro {newest} ignorado para la marca de {args.source}",
+                  file=sys.stderr)
+            newest = max((i.get("ts", "") for i in items if i.get("ts", "") <= _now()),
+                         default=watermark)
+        if newest and newest != watermark:
+            w = load_watermarks(); w[args.source] = newest; save_watermarks(w)
 
     subprocess.run([sys.executable, str(Path(__file__).parent / "task.py"), "rebuild"],
                    check=True, capture_output=True)
