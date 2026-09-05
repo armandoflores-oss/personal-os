@@ -6,3 +6,6 @@
 {"casi": [], "cerrados": [], "leg": "outbound", "revisados": 0, "ts": "2026-09-05T00:30:29+00:00"}
 {"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-09-05T00:30:29+00:00"}
 {"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-09-05T00:31:14+00:00"}
+{"creados": [], "leg": "inbound", "source": "gmail", "suprimidos": [], "tope_alcanzado": 0, "ts": "2026-09-05T00:34:41+00:00", "vistos": 0, "watermark": "2026-09-05T00:09:39Z", "ya_vistos": 0}
+{"creados": [], "leg": "inbound", "source": "drive", "suprimidos": [], "tope_alcanzado": 0, "ts": "2026-09-05T00:34:41+00:00", "vistos": 0, "watermark": "2026-09-04T15:36:18Z", "ya_vistos": 0}
+{"casi": [], "cerrados": [], "leg": "outbound", "revisados": 0, "ts": "2026-09-05T00:34:41+00:00"}
