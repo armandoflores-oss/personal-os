@@ -18,3 +18,4 @@
 {"creados": [], "leg": "inbound", "source": "drive", "suprimidos": [], "tope_alcanzado": 0, "ts": "2026-09-05T00:47:46+00:00", "vistos": 1, "watermark": "2026-09-04T15:36:18Z", "ya_vistos": 1}
 {"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-09-05T00:47:46+00:00"}
 {"creados": [], "leg": "inbound", "source": "gmail", "suprimidos": [{"action": "enviar", "counterparty": "kavak", "detail": "ya abierto en T-4", "item_id": "x", "reason": "duplicado", "source": "gmail", "subject": "con fecha futura", "ts": "2026-09-05T00:49:32+00:00"}], "tope_alcanzado": 0, "ts": "2026-09-05T00:49:32+00:00", "vistos": 1, "watermark": "2026-09-05T00:09:39Z", "ya_vistos": 0}
+{"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-09-05T00:49:56+00:00"}
