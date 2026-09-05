@@ -79,6 +79,7 @@
       "Bash(tail *)",
       "Bash(grep *)",
       "Bash(find *)"
-    ]
+    ],
+    "defaultMode": "acceptEdits"
   }
 }

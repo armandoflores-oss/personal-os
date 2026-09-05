@@ -4,3 +4,5 @@
 {"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-09-05T00:13:22+00:00"}
 {"creados": [{"action": "enviar", "code": "T-15", "counterparty": "avasa", "domain": "cotizaciones-operativo", "title": "ESTATUS UNIDADES TRX 04/09/2026"}], "leg": "inbound", "source": "gmail", "suprimidos": [], "tope_alcanzado": 0, "ts": "2026-09-05T00:30:29+00:00", "vistos": 1, "watermark": "2026-09-05T00:09:39Z", "ya_vistos": 0}
 {"casi": [], "cerrados": [], "leg": "outbound", "revisados": 0, "ts": "2026-09-05T00:30:29+00:00"}
+{"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-09-05T00:30:29+00:00"}
+{"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-09-05T00:31:14+00:00"}
