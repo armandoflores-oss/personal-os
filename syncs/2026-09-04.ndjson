@@ -37,3 +37,4 @@
 {"creados": [], "leg": "inbound", "source": "drive", "suprimidos": [], "tope_alcanzado": 0, "ts": "2026-09-04T23:54:55+00:00", "vistos": 0, "watermark": "2026-09-04T15:36:18Z", "ya_vistos": 0}
 {"casi": [], "cerrados": [], "leg": "outbound", "revisados": 0, "ts": "2026-09-04T23:54:55+00:00"}
 {"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-09-04T23:54:55+00:00"}
+{"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-09-04T23:58:31+00:00"}

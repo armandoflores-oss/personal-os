@@ -217,6 +217,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "dfdc684127a1": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-14",
+  "counterparty": "tip",
+  "created": "2026-09-05T00:11:31+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Te comparto una foto del check de recolección donde se aprecia.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a06edbd4a87636b",
+  "status": "open",
+  "task_id": "dfdc684127a1",
+  "title": "Re: MUSTANG | GRIS CARBONO | 1FA6P8CF6T5408892",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "ea3741c6396d": {
   "action": null,
   "applied": false,
