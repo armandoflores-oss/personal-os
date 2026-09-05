@@ -48,6 +48,13 @@ def pull():
 def commit(message):
     run(["git", "-C", str(REPO), "add", "-A"])
     run(["git", "-C", str(REPO), "commit", "-m", message])
+    # Empujar aquí y no dejárselo a Armando: si el respaldo depende de que él
+    # se acuerde, no es un respaldo. Un push que falla (sin red, sin llave) no
+    # es motivo para abortar nada: el commit ya está y el siguiente lo sube.
+    r = run(["git", "-C", str(REPO), "push"])
+    if r.returncode != 0:
+        print(f"push falló (no importa, quedó commiteado): {r.stderr.strip()[:120]}",
+              file=sys.stderr)
 
 
 def cmd_ingest_pre():
