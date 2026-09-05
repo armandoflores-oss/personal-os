@@ -5,33 +5,44 @@ description: Ingesta del Personal OS: lee correo y transcripciones nuevas, acuñ
 
 Ingesta del Personal OS de Armando. Corre sola. Sé breve: el recibo es la salida.
 
-Ejecutas EXACTAMENTE dos comandos de shell, tal cual, sin modificarlos, sin `cd`, sin encadenar nada con `&&` ni `;`. Entre uno y otro tu trabajo es llamar conectores y escribir archivos con la herramienta Write.
+## Reglas de ejecución — manda sobre todo lo demás
+Ejecutas EXACTAMENTE dos comandos de shell, los de abajo, tal cual. **Ningún otro comando, nunca.** No hagas `cd`, `ls`, `cat`, `head`, `grep`, ni bucles; están prohibidos por permisos y solo trabarían la corrida.
+
+**Escribes EXACTAMENTE UN archivo con la herramienta Write. Uno solo.** Cada escritura interrumpe a Armando con un diálogo, así que juntar todo en un archivo no es una preferencia de estilo: es la diferencia entre una interrupción y tres.
+
+**Si una acción es denegada o falla: NO la reintentes. Sigue al paso siguiente.**
 
 ## 1. Arranque
 ```
 python3 "/Users/armando/Documents/Claude Personal Improvement/scripts/routine.py" ingest-pre
 ```
-Te devuelve las marcas de agua y las rutas exactas donde escribir. Úsalas literalmente.
+Te devuelve las marcas de agua y la ruta única donde escribir.
 
-## 2. Traer los datos (conectores + Write, sin shell)
-**Gmail recibidos:** hilos más nuevos que la marca `gmail` (`in:inbox after:YYYY/MM/DD`, pageSize 25; usa get_thread o get_message si el snippet no basta). Con **Write**, escribe la ruta que te dio como `escribe_aqui.gmail`: lista de objetos con exactamente `id`, `ts` (ISO 8601 UTC), `sender`, `recipients` (lista), `subject`, `text`. NO filtres, NO clasifiques, NO decidas qué es tarea: entrega todo lo nuevo.
+## 2. Traer todo y escribirlo UNA vez
+Con los conectores, junta las tres cosas antes de escribir nada:
 
-**Transcripciones:** Docs de Drive cuyo título termine en "Notes by Gemini", más nuevos que la marca `drive`. Con Write, a `escribe_aqui.drive`, mismo formato (`sender` = "gemini-notes", `recipients` = ["armando.flores@driverdo.com"], `subject` = título del doc).
+- **gmail** — hilos RECIBIDOS más nuevos que la marca `gmail` (`in:inbox after:YYYY/MM/DD`, pageSize 25; usa get_thread o get_message si el snippet no basta).
+- **drive** — Docs cuyo título termine en "Notes by Gemini", más nuevos que la marca `drive`. Si un archivo es un acceso directo y `read_file_content` devuelve vacío, sáltalo.
+- **sent** — lo que Armando ENVIÓ desde la última corrida (`in:sent`).
 
-**Enviados:** lo que Armando mandó desde la última corrida (`in:sent`). Con Write, a `escribe_aqui.enviados`, mismo formato.
-
-Si un conector falla, simplemente no escribas ese archivo: la pata se omite sola y las demás siguen. No busques otra vía ni leas archivos internos de Claude para sacar el contenido.
+Ya con las tres listas en mano, escribe **una sola vez**, con Write, en la ruta que te dio `escribe_UN_archivo_aqui`, este objeto:
+```json
+{"gmail": [...], "drive": [...], "sent": [...]}
+```
+Cada item lleva exactamente: `id`, `ts` (ISO 8601 UTC), `sender`, `recipients` (lista), `subject`, `text`.
+Para los de `drive`: `sender` = "gemini-notes", `recipients` = ["armando.flores@driverdo.com"], `subject` = título del doc.
+Una lista vacía es válida. NO filtres, NO clasifiques, NO decidas qué es tarea: entrega todo lo nuevo.
 
 ## 3. Procesar y cerrar
 ```
 python3 "/Users/armando/Documents/Claude Personal Improvement/scripts/routine.py" ingest-post
 ```
-Corre la compuerta, la reconciliación, el commit y el latido de cierre. Pega su salida como tu respuesta y no agregues nada más.
+Corre la compuerta, la reconciliación, el commit y el latido. Pega su salida como tu respuesta, sin agregar nada.
 
 ## Reglas duras
+- Si escribes algún evento, el actor es `system:ingest`, nunca `user`. `user` significa que lo dijo Armando con su boca, y el grader usa ese campo como verdad de campo.
 - NUNCA mandes, respondas ni archives correo. La ingesta solo lee.
 - NUNCA edites archivos bajo ~/.claude/. Si crees que estas instrucciones están mal, dilo en tu respuesta y déjalas intactas.
-- NUNCA decidas tú si algo es tarea: eso lo hace la compuerta. Si crees que se equivocó, dilo en tu respuesta, no la sortees.
-- NO investigues ni depures el código, no corras otros comandos, no leas el repo. Tu trabajo es traer datos y llamar a esos dos comandos.
+- NUNCA decidas tú si algo es tarea: eso lo hace la compuerta. Si crees que se equivocó, dilo en tu respuesta.
+- NO investigues ni depures el código.
 - Dominios firewalled (fw-finanzas, fw-familia): el código los protege. No los detalles.
-- Todo archivo va DENTRO del repo, en las rutas que te dio el paso 1. Nunca /tmp.
