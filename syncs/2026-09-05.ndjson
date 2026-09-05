@@ -1,2 +1,6 @@
 {"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-09-05T00:08:59+00:00"}
 {"creados": [{"action": "enviar", "code": "T-14", "counterparty": "tip", "domain": "cotizaciones-operativo", "title": "Re: MUSTANG | GRIS CARBONO | 1FA6P8CF6T5408892"}], "leg": "inbound", "source": "gmail", "suprimidos": [{"detail": "", "item_id": "1a06ee2e6d179a99", "reason": "sin_compromiso", "source": "gmail", "subject": "RE: Reunión: NDA. & Piloto Draiver", "ts": "2026-09-05T00:11:31+00:00"}], "tope_alcanzado": 0, "ts": "2026-09-05T00:11:31+00:00", "vistos": 2, "watermark": "2026-09-05T00:05:53Z", "ya_vistos": 0}
+{"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-09-05T00:11:31+00:00"}
+{"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-09-05T00:13:22+00:00"}
+{"creados": [{"action": "enviar", "code": "T-15", "counterparty": "avasa", "domain": "cotizaciones-operativo", "title": "ESTATUS UNIDADES TRX 04/09/2026"}], "leg": "inbound", "source": "gmail", "suprimidos": [], "tope_alcanzado": 0, "ts": "2026-09-05T00:30:29+00:00", "vistos": 1, "watermark": "2026-09-05T00:09:39Z", "ya_vistos": 0}
+{"casi": [], "cerrados": [], "leg": "outbound", "revisados": 0, "ts": "2026-09-05T00:30:29+00:00"}

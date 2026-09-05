@@ -217,6 +217,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "db4dd3bd519c": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-15",
+  "counterparty": "avasa",
+  "created": "2026-09-05T00:30:29+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Jesús, te comparto el estatus de las unidades pendientes de traslados interestatales:",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a06ee677faa6c61",
+  "status": "open",
+  "task_id": "db4dd3bd519c",
+  "title": "ESTATUS UNIDADES TRX 04/09/2026",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "dfdc684127a1": {
   "action": "enviar",
   "applied": false,
