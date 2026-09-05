@@ -57,23 +57,45 @@ def cmd_ingest_pre():
     marks = {}
     for src in ("gmail", "drive"):
         marks[src] = py("ingest.py", "watermark", "--source", src).stdout.strip()
+    # UN solo archivo, no tres. Cada Write que hace la rutina es un diálogo de
+    # permiso para Armando (la bandera --permission-mode default del scheduler
+    # gana sobre settings, así que no hay ajuste que lo calle). Tres escrituras
+    # eran tres interrupciones por corrida; una es una.
     print(json.dumps({
         "watermarks": marks,
-        "escribe_aqui": {
-            "gmail": str(TMP / "ingest_gmail.json"),
-            "drive": str(TMP / "ingest_drive.json"),
-            "enviados": str(TMP / "ingest_sent.json"),
-        }}, ensure_ascii=False, indent=1))
+        "escribe_UN_archivo_aqui": str(TMP / "ingest.json"),
+        "formato": {"gmail": "[items recibidos]", "drive": "[items de transcripciones]",
+                    "sent": "[items enviados]"},
+    }, ensure_ascii=False, indent=1))
 
 
 def cmd_ingest_post():
     """Runs whichever legs have a file. A connector that failed simply leaves no
     file, and the other legs still run — one dead leg never cancels the run."""
     out = []
+    combined = TMP / "ingest.json"
+    if not combined.exists():
+        commit("Ingesta automática (sin datos)")
+        heartbeat("end", "ingest-personal-os")
+        print("sin archivo de entrada: nada que ingerir")
+        return
+    try:
+        payload = json.loads(combined.read_text())
+    except json.JSONDecodeError as e:
+        heartbeat("end", "ingest-personal-os")
+        raise SystemExit(f"ingest.json ilegible: {e}")
+    # Se reparte en los tres archivos que ingest.py ya sabe leer. El modelo
+    # escribe una vez; el reparto lo hace el script, que no pide permisos.
+    for key, name in (("gmail", "ingest_gmail.json"), ("drive", "ingest_drive.json"),
+                      ("sent", "ingest_sent.json")):
+        items = payload.get(key) or []
+        if items:
+            (TMP / name).write_text(json.dumps(items, ensure_ascii=False))
+
     for src, name in (("gmail", "ingest_gmail.json"), ("drive", "ingest_drive.json")):
         f = TMP / name
         if not f.exists():
-            out.append(f"{src}: sin archivo, pata omitida")
+            out.append(f"{src}: sin datos, pata omitida")
             continue
         r = py("ingest.py", "run", "--source", src, "--items", str(f), check=True)
         try:
