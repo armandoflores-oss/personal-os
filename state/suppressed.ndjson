@@ -112,3 +112,60 @@
 {"detail": "", "item_id": "1a06ee2e6d179a99", "reason": "sin_compromiso", "source": "gmail", "subject": "RE: Reunión: NDA. & Piloto Draiver", "ts": "2026-09-05T00:11:31+00:00"}
 {"action": "enviar", "counterparty": "kavak", "detail": "ya abierto en T-4", "item_id": "prueba1", "reason": "duplicado", "source": "gmail", "subject": "Prueba archivo unico", "ts": "2026-09-05T00:37:20+00:00"}
 {"action": "enviar", "counterparty": "kavak", "detail": "ya abierto en T-4", "item_id": "x", "reason": "duplicado", "source": "gmail", "subject": "con fecha futura", "ts": "2026-09-05T00:49:32+00:00"}
+{"detail": "", "item_id": "1a07d91ec176ae5c", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Conductor Fijo - GDL - Agosto", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07d8c3e9b979b5", "reason": "sin_compromiso", "source": "gmail", "subject": "[Draiver] Tu viaje Uber del lunes por la tarde", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "^\\s*accepted:", "item_id": "1a07d4e6a375b3d6", "reason": "meta", "source": "gmail", "subject": "Accepted: Weekly Kavak / Draiver Leaders @ Tue Sep 8, 2026 11am - 12pm (CST) (armando.flores@driverdo.com)", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07d013d8fa19be", "reason": "sin_compromiso", "source": "gmail", "subject": "4 estilos nuevos de imagen para probar", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07cd9903d74937", "reason": "sin_compromiso", "source": "gmail", "subject": "Aceptado: Reunión Autosur x Draiver – Piloto", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07cd214a5f05d6", "reason": "sin_compromiso", "source": "gmail", "subject": "Aceptado: Reunión Autosur x Draiver – Piloto", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07ccab5099626e", "reason": "sin_compromiso", "source": "gmail", "subject": "Notes: “PH GTM Harness Training ” Sep 7, 2026", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07cae3c901c8e9", "reason": "sin_compromiso", "source": "gmail", "subject": "Notes: “Daily Huddle - Ops MX” Sep 7, 2026", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07c9dee124aa91", "reason": "sin_compromiso", "source": "gmail", "subject": "EXPLORER | BLANCO OXFORD | 1FM5K8AW6SGC24171", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07c902f1b48a75", "reason": "sin_compromiso", "source": "gmail", "subject": "**FACT SEPTIEMBRE//2026**", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "^\\s*accepted:", "item_id": "1a07c8313cfb31f4", "reason": "meta", "source": "gmail", "subject": "Accepted: Reunión Autosur x Draiver - Piloto @ Wed Sep 9, 2026 9am - 10:30am (CST) (Armando Flores)", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "^\\s*accepted:", "item_id": "1a07c79547a6c309", "reason": "meta", "source": "gmail", "subject": "Accepted: Reunión Autosur x Draiver - Piloto @ Wed Sep 9, 2026 9am - 10:30am (CST) (armando.flores@driverdo.com)", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07c7943a7aa1bf", "reason": "sin_compromiso", "source": "gmail", "subject": "Aceptado: Reunión Autosur x Draiver – Piloto", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07c4dd9848318e", "reason": "sin_compromiso", "source": "gmail", "subject": "Aceptado: Reunión Autosur x Draiver – Piloto", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07c57bbb789b06", "reason": "sin_compromiso", "source": "gmail", "subject": "SV: [EXTERNAL] Re: Kavak/DrAIver x BCA Pan European FTL", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07c1b54f1eb74a", "reason": "sin_compromiso", "source": "gmail", "subject": "TRX UNIDADES KAVAK", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07c10b56a8a5d8", "reason": "sin_compromiso", "source": "gmail", "subject": "Uber Transaction Audit: Last 10 Days Report", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07c10766da168c", "reason": "sin_compromiso", "source": "gmail", "subject": "PEX Transaction Audit: Last 10 Days Report", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07bf9f7ebcbb5f", "reason": "sin_compromiso", "source": "gmail", "subject": "[Data]  [OPS] Performance Comparison - Brasil", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07bf83346b341e", "reason": "sin_compromiso", "source": "gmail", "subject": "[Data]  [OPS] Performance Comparison - Mexico", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "^\\s*updated invitation:", "item_id": "1a07be4dbef11573", "reason": "meta", "source": "gmail", "subject": "Updated invitation: Daily Huddle - Ops MX @ Mon Sep 7, 2026 10am - 10:30am (CST) (Armando Flores)", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07bbd7cad9b49c", "reason": "sin_compromiso", "source": "gmail", "subject": "[Data]  Yesterday Trip Source Creation", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07cda1630813bd", "reason": "sin_compromiso", "source": "gmail", "subject": "[Draiver] Tu viaje del lunes por la mañana con Uber", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07ccfaf1c9c15c", "reason": "sin_compromiso", "source": "gmail", "subject": "[Draiver] Tu viaje del lunes por la mañana con Uber", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07cca9dbb00a8b", "reason": "sin_compromiso", "source": "gmail", "subject": "[Draiver] Tu viaje del lunes por la mañana con Uber", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07caf3c8a482b4", "reason": "sin_compromiso", "source": "gmail", "subject": "[Draiver] Tu viaje del lunes por la mañana con Uber", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07bb77accfbd86", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: UPDATE DRAIVER - Revisión de propuestas de las aseguradoras", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07bb38203999bc", "reason": "sin_compromiso", "source": "gmail", "subject": "[Draiver] Tu viaje del lunes por la mañana con Uber", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07ba92360a03fa", "reason": "sin_compromiso", "source": "gmail", "subject": "UPDATE DRAIVER - Revisión de propuestas de las aseguradoras", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07b14b35afa685", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: [EXTERNAL] Re: Kavak/DrAIver x BCA Pan European FTL", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07933b2f8b9b5b", "reason": "sin_compromiso", "source": "gmail", "subject": "Alguien ha empezado a seguirte en Instagram", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07911f73908d12", "reason": "sin_compromiso", "source": "gmail", "subject": "✈️ Jose Armando tu vuelo se acerca, obtén tu pase de abordar🏃🏾‍♀️‍➡️", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a077c2c78fd48ac", "reason": "sin_compromiso", "source": "gmail", "subject": "Tu enlace seguro a Claude.ai está aquí | 2026-09-06 11:27:28", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07712dde3d51f3", "reason": "sin_compromiso", "source": "gmail", "subject": "✈️¡Viajero prepara tu pase de abordar antes de que sea tarde!✅", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a076971e7d890ff", "reason": "sin_compromiso", "source": "gmail", "subject": "[Data]  Yesterday Trip Source Creation", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07598326e8383d", "reason": "sin_compromiso", "source": "gmail", "subject": "[Reminder] Kavak has requested information", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07510cbb27f1db", "reason": "sin_compromiso", "source": "gmail", "subject": "Descubre lo que han compartido josecastmx y 2 personas más que sigues", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a074938a40f87fa", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Draiver Facturación JULIO 2026 - Zapata Logistics", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a073e126c5a51f5", "reason": "sin_compromiso", "source": "gmail", "subject": "Revenue Forecast ... - @armando.flores@draiver.com can you p...", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a073d87a077fddc", "reason": "sin_compromiso", "source": "gmail", "subject": "[DriverDO LLC] [Airbase] Paulo Ferrato: '@Erin Seebacher needed to add you as approver to move forward.'", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a073d83696984f2", "reason": "sin_compromiso", "source": "gmail", "subject": "[DriverDO LLC] [Airbase] Paulo Ferrato: '@Cristhian Herrera another bill you didn't check, please make sure to fup thi…'", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a073643f6c30a32", "reason": "sin_compromiso", "source": "gmail", "subject": "🇲🇽 México dominó este mes", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a072415bcfac457", "reason": "sin_compromiso", "source": "gmail", "subject": "¡Hola Armando! ¿Ya probaste Keynua?", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a0722dce88cce9f", "reason": "sin_compromiso", "source": "gmail", "subject": "RE: TESLA - TC - LARMEX MTY Dispatch - Q3 2026 Sept", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a071d66d0358d82", "reason": "sin_compromiso", "source": "gmail", "subject": "1° Meeting Apresentação OKIS360/EASYWIN PORTUGAL - DRAIVER.", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a071c0d49bc7a33", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Draiver España · 17 de septiembre: Actualización de horario y Reconfirmación", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a07240c6d03a300", "reason": "sin_compromiso", "source": "gmail", "subject": "“A teacher’s job, he told us, was to arm children with tools against loneliness”", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a071714d8ee294d", "reason": "sin_compromiso", "source": "gmail", "subject": "[Data]  Yesterday Trip Source Creation", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a070ef6ee9b7bb0", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Draiver España · 17 de septiembre: Actualización de horario y Reconfirmación", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a070988745a5d50", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Draiver España · 17 de septiembre: Actualización de horario y Reconfirmación", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a0704d9196c17dc", "reason": "sin_compromiso", "source": "gmail", "subject": "Detalle de pago", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a06f3f814a5a07b", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: TESLA - TC - LARMEX MTY Dispatch - Q3 2026 Sept", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a06f0a708c65da4", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: ESTATUS UNIDADES TRX 04/09/2026", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1a06f082b7192729", "reason": "sin_compromiso", "source": "gmail", "subject": "RANGER | GRIS CARBONO | AFAHR6MB0VP148872", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1pXpDmTC2_3yIOZGUyD4BwEgoRWWtADh3TK8rl_MWVcA", "reason": "sin_compromiso", "source": "drive", "subject": "Daily Huddle - Ops MX - 2026/09/07 09:59 CST - Notes by Gemini", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1qmsHFSZD0j5oycmckKBdEhvsCmA5cn4g295T8zsb9E4", "reason": "sin_compromiso", "source": "drive", "subject": "PH GTM Harness Training  - 2026/09/07 17:30 CEST - Notes by Gemini (Spanish)", "ts": "2026-09-07T21:19:09+00:00"}
+{"detail": "", "item_id": "1HgrPsB3kKaQNYYXV0FrP3Zxx2IySvZO3Mvnp5ptYdy4", "reason": "sin_compromiso", "source": "drive", "subject": "Product Sprint Review and Demo Day - 2026/09/03 10:59 EDT - Notes by Gemini", "ts": "2026-09-07T21:19:09+00:00"}
