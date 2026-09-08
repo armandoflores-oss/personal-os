@@ -227,6 +227,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "8f302410fb94": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-25",
+  "counterparty": "cemex",
+  "created": "2026-09-08T22:09:41+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "De: Ubaldo Jahir Garza Oviedo <ubaldojahir.garza@cemex.com> (28 ago 2026): Te comparto la informacion de la unidad CA2138.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a0830ea2e4f5574",
+  "status": "open",
+  "task_id": "8f302410fb94",
+  "title": "FW: Resguardo CA2138",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "967c3ef2c80e": {
   "action": "confirmar",
   "applied": false,

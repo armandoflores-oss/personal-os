@@ -4,6 +4,7 @@
 
 ## Cotizaciones y pendientes operativos
 - **T-23** Re: [EXT]Re: Element / Draiver: Explorar "Rides" en Variable Fleet y negocio Element
+- **T-25** FW: Resguardo CA2138
 - **T-4** penske case study for EU · esperando a Fede
 - **T-9** CARTA RESPONSIVA · esperando a Julianna
 
