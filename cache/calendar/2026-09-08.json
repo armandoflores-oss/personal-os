@@ -1,0 +1,79 @@
+[
+  {
+    "start": "08:30",
+    "summary": "Diaria Spain Launch",
+    "attendees": [
+      "daniel.escribano@draiver.com",
+      "armando.flores@driverdo.com",
+      "artur.morais@draiver.com"
+    ]
+  },
+  {
+    "start": "09:00",
+    "summary": "Weekly Product & Ops Draiver Spain",
+    "attendees": [
+      "paloma.calderon@draiver.com",
+      "ext.gerardo.cabanas@draiver.com",
+      "artur.morais@draiver.com",
+      "kevin.burke@draiver.com",
+      "armando.flores@driverdo.com",
+      "nicolas.ariza@kavak.com",
+      "rafael.andrade@draiver.com",
+      "daniel.escribano@draiver.com",
+      "fede.ranero@draiver.com",
+      "nicolas.ariza@draiver.com"
+    ]
+  },
+  {
+    "start": "09:30",
+    "summary": "Daily Huddle - Ops MX",
+    "attendees": [
+      "uriel.vargas@driverdo.com",
+      "cristian.arizmendi@driverdo.com",
+      "julia.diaz@draiver.com",
+      "armando.flores@driverdo.com",
+      "diego.diaz@draiver.com",
+      "camila.flores@draiver.com",
+      "jose.duran@driverdo.com",
+      "gerardo.acosta@kavak.com"
+    ]
+  },
+  {
+    "start": "10:30",
+    "summary": "catch up Julia",
+    "attendees": [
+      "julia.diaz@draiver.com",
+      "armando.flores@driverdo.com"
+    ]
+  },
+  {
+    "start": "11:00",
+    "summary": "Weekly Kavak / Draiver Leaders",
+    "attendees": [
+      "fede.ranero@driverdo.com",
+      "julia.diaz@draiver.com",
+      "armando.flores@driverdo.com",
+      "diego.pacheco@kavak.com",
+      "josue.luevano@kavak.com",
+      "gerardo.acosta@kavak.com",
+      "diego.diaz@draiver.com",
+      "aristides.calvani@kavak.com"
+    ]
+  },
+  {
+    "start": "13:00",
+    "summary": "Status Legal",
+    "attendees": [
+      "josemariaherreragarcia@gmailcom",
+      "armando.flores@driverdo.com"
+    ]
+  },
+  {
+    "start": "15:00",
+    "summary": "Dan/ Armando -1-1",
+    "attendees": [
+      "dan.rizzo@draiver.com",
+      "armando.flores@driverdo.com"
+    ]
+  }
+]

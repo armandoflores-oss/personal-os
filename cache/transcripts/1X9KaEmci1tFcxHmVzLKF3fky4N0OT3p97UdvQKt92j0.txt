@@ -1,0 +1,80 @@
+# Diaria Spain Launch - 2026/09/08 08:30 CST - Notes by Gemini
+
+sept 8, 2026
+
+Invitado: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
+
+## Resumen
+
+Revisión operacional con pagos de conductores y actualizaciones de software para España.
+
+**Disponibilidad para sesión inicial**
+Sesión de arranque con Centauro requiere la presencia de Artur a pesar de sus vacaciones.
+
+**Proceso de pagos y viajes**
+Corrida de pagos a conductores programada para el viernes previa revisión de cálculos.
+
+**Actualización de aplicación España**
+Lanzamiento de versión con localización para España incluye configuración de precios y metadatos.
+
+## Próximos pasos
+
+- [Artur] Procesar pagos: Calcular los totales de los viajes de la semana pasada y generar la autofactura. Correr el proceso de pago correspondiente.
+- [Artur, Daniel Escribano] Revisar documentación: Analizar la épica completa y el documento de temas abiertos mencionado en la reunión.
+- [Artur, Daniel Escribano] Actualizar aplicación: Instalar la nueva versión de la aplicación y verificar que los cambios de localización sean correctos.
+- [Daniel Escribano] Notificar disponibilidad: Informar a Armando una vez que llegue a casa para iniciar la reunión.
+- [Artur, Daniel Escribano] Preparar piloto Centauro: Coordinar el soporte técnico necesario para el uso del software de servicio durante la sesión del piloto de Centauro.
+
+## Detalles
+
+- **Arranque con Centauro y Disponibilidad de Artur**: Daniel Escribano señala la necesidad de contar con la presencia de Artur para una sesión de arranque de cuatro horas programada para el día siguiente con Centauro, en un horario de 10:00 de la mañana a 2:00 de la tarde. Daniel Escribano expresa su preocupación por el dominio en el uso del servicio de software como servicio para dicho piloto, mientras que Artur se encuentra de vacaciones hasta el día siguiente regresando a Madrid, con la expectativa de que intente conectarse a pesar de la diferencia horaria (00:01:20) (00:08:30).
+- **Proceso de Pagos a Conductores y Reprogramación de Viajes**: Armando Flores y Daniel Escribano discuten la primera corrida de pagos para los conductores y la ejecución de la autofactura. Daniel Escribano explica que un viaje previsto para el día fue cancelado en el momento de su realización y reprogramado para el día siguiente, el cual será cubierto por un conductor llamado Vicentín como un favor (00:02:30). Armando Flores indica que los viajes realizados de lunes a domingo de la semana pasada se pagarán el viernes, con la posibilidad de adelantar los pagos de la semana en curso como excepción. Ambos acuerdan revisar los cálculos el jueves con el respaldo de Artur, para que Daniel Escribano acuda a Finout el viernes por la mañana a gestionar el pago (00:04:07).
+- **Gestión de Datos de Transporte y Observaciones de Paloma**: Armando Flores comparte los comentarios de Paloma y Deca relacionados con temas bloqueados por el negocio, el seguro gestionado por Rafa, y la confirmación pendiente con Clickars sobre la recepción de la información del expedidor, transportista y el peso de cada vehículo (00:05:23). Al respecto, se plantea que dicha información debería manejarse en la misma hoja de cálculo mediante columnas separadas (00:06:50).
+- **Actualización de la Aplicación y Configuración para España**: Armando Flores informa que la versión de la aplicación con los cambios de localización acordados para España se lanzó el día anterior, por lo que Daniel Escribano y Artur deben actualizar sus aplicaciones y verificar los cambios. Adicionalmente, se detalla que el lanzamiento del día incluye la configuración de precios y metadatos para las cuentas de España, permitiendo que los puntos aparezcan correctamente mediante los campos adicionales de metadatos (00:06:50).
+
+## Transcripción
+
+### 00:01:20
+
+Armando Flores: Nie.
+Daniel Escribano: Hola, buenas. Perdona, Armando, estoy volviendo de la oficina que he estado con Nico y había un poco de tráfico. Creía que iba a llegar a tiempo a casa, pero no.
+Armando Flores: Ah, ya, ya te escucho. Ahí me escuchas.
+Daniel Escribano: Escucha. Yo sí. ¿Tú a mí?
+Armando Flores: Ah, ya, ya, ya, ya te escucho.
+Daniel Escribano: Te decía que es que he estado en la oficina con Nico hasta ahora y he salido justo de tiempo creyendo que iba a llegar a casa a tiempo, pero había un poquito de tráfico, como aquí ya septiembre han empezado los colegios y todavía no he llegado. Artur no se ha conectado, sigue de vacaciones hasta mañana que llegaba de vuelta, creo, a Madrid y no sé si de ahí se va directo a Valladolid. Lo que pasa que me dijo que hoy iba a estar pendiente porque le necesito sí o sí para mañana que tengo el arranque de 4 horas por la mañana con Centauro.
+
+### 00:02:30
+
+Armando Flores: Quería tocar dos temas. Uno era el pago de los conductores de los viajes que hiciste la semana pasada y vi que publicaste otro viaje hoy. Se me llegó la notificación.
+Daniel Escribano: Sí, no es que lo haya publicado, es que me han cancelado uno que tenía que hacer hoy y lo he tenido que pasar para mañana. Me lo han cancelado justo en el momento de hacer el viaje. Y este tío ya me ha cancelado varios y le di de alta con la condición de que hiciera este viaje que no lo quiere hacer nadie porque es un viaje raro. Me dijo que lo hacía. Y llega el momento y no lo hace. Entonces he tenido que volver a publicarlo, pero me lo va a hacer un conductor por hacerme un favor, uno que ya ha hecho algún trayecto y lo va a hacer mañana.
+Armando Flores: ¿Sé de quién es?
+Daniel Escribano: El de mañana, Vicentín, el del nombre raro.
+Armando Flores: Sí. Lo que yo quería entender era, tenemos que hacer la primera corrida de pagos a los conductores y entonces es bajar el cálculo, tenemos que hacer la autofactura y tenemos que correr ese proceso.
+
+### 00:04:07
+
+Armando Flores: Tenemos que hacer esa corrida para el pago de los conductores, bajar los totales. Eso es algo que nos debería de ayudar Artur a hacerlo.
+Daniel Escribano: Claro, por eso como Artur, esperemos que el jueves esté disponible, como dijimos que los pagos los íbamos a hacer el viernes, si nos podemos dedicar un rato o bien mañana por la tarde o el jueves que ya se ha terminado porque mañana se terminará este transporte y en principio no he cargado ninguno más. Entonces, o bien mañana por la tarde, casi mejor el jueves, dejar esto solucionado y así yo paso el viernes por la mañana a Finout para el pago.
+Armando Flores: Lo que te iba a mencionar es, todos los que se hicieron la semana pasada de lunes a domingo se pagarían este viernes. Los de esta semana, si quieres adelantar el pago, podríamos hacerlo también como excepción.
+Daniel Escribano: Vale. ¿Se paga como semana vencida?
+
+### 00:05:23
+
+Armando Flores: Sí, sí. Lo podemos ajustar. [...] Estoy en Starbucks porque todavía estoy viajando en el sureste de México visitando algunos clientes. A lo mejor aquí la conexión no es tan buena.
+Armando Flores: Vi que Paloma puso que no sabe cómo le va a llegar la información del peso y que no le va a llegar la información de otras cosas. Si al final Artur va a estar con ella, a mí me parece muy lógico que vayan bien en la misma sábana, del peso de los transportes y demás. No sé si viste los comentarios ahí de Paloma, de hoy en la mañana.
+Daniel Escribano: No, no he estado reunido.
+
+### 00:06:50
+
+Armando Flores: Ha puesto temas bloqueados por el negocio, el seguro, eso Rafa. Y luego Deca dice: "El MVP puede arrancar, pero falta confirmar con Clickars. ¿Cómo nos van a mandar la información del shipper, carrier y peso de cada vehículo?" Yo supongo que en la misma hoja con la info faltante en columnas separadas, también para la carga de plane. Te puse ahí: Artur y Dani revisen épica completa y el documento de temas abiertos. Y luego dice: buenas noticias, versión de la app salió ayer con todos los cambios de localización acordados, deberían de estar llegando a España. Dani y Artur actualicen su app y verifiquen que los cambios se vean bien. En el release de hoy salen los temas de pricing y metadata para configurar quoting y pricing en las cuentas de España. Todos los tickets deben estar en los campos adicionales de la metadata, entonces a partir de ahí deberían de poder poner ya los puntos, ya deberían aparecerles, ya debería estar el teléfono resuelto y demás, en teoría.
+Daniel Escribano: Vale, mal escucho, pero creo que te he entendido todo.
+
+### 00:08:30
+
+Daniel Escribano: Yo en 5 o 10 minutos llego a casa. Si quieres te aviso y me conecto. Nos conectamos directamente a la de las 5.
+Armando Flores: Nada más quería tener contigo esos puntos que están abiertos: el pago de conductores que lo tendría que computar Artur, alinear bien eso, entender ese transporte y ver lo del piloto de Centauro.
+Daniel Escribano: El piloto de Centauro es lo que más me preocupa a mí, porque yo creo que ya medio domino el marketplace. Pero el SaaS, el servicio y el uso del SaaS. Entonces ahí sí necesito de Artur. Artur sé que no puede venir, pero me dijo que iba a intentar conectarse.
+Armando Flores: ¿A qué hora es esa reunión?
+Daniel Escribano: De 10 de la mañana a 2 del mediodía. Es que es tu madrugada, ¿no? Es como las tres. Entonces, a ver si Artur me echa una mano ahí. Y también te comento porque he hablado también un poco con Nico, lo que comentamos el otro día con el tema de Artur, y varias cosas, igual que lo del tema de Rafa, que yo no sabía.
+
+### La transcripción finalizó después de 00:10:16

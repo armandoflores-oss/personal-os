@@ -4,3 +4,5 @@
 {"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-09-08T15:08:44+00:00"}
 {"creados": [{"action": "revisar", "code": "T-19", "counterparty": "interno", "domain": "reuniones-espana", "title": "Notes: “Diaria Spain Launch” Sep 8, 2026"}], "leg": "inbound", "source": "gmail", "suprimidos": [], "tope_alcanzado": 0, "ts": "2026-09-08T15:10:08+00:00", "vistos": 1, "watermark": "2026-09-08T14:53:04Z", "ya_vistos": 0}
 {"creados": [], "leg": "inbound", "source": "drive", "suprimidos": [{"action": "revisar", "counterparty": "interno", "detail": "ya abierto en T-19", "item_id": "1X9KaEmci1tFcxHmVzLKF3fky4N0OT3p97UdvQKt92j0", "reason": "duplicado", "source": "drive", "subject": "Diaria Spain Launch - 2026/09/08 08:30 CST - Notes by Gemini", "ts": "2026-09-08T15:10:08+00:00"}], "tope_alcanzado": 0, "ts": "2026-09-08T15:10:08+00:00", "vistos": 1, "watermark": "2026-09-08T14:52:06Z", "ya_vistos": 0}
+{"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-09-08T15:10:10+00:00"}
+{"leg": "heartbeat", "stage": "start", "task": "brief-personal-os", "ts": "2026-09-08T16:03:38+00:00"}

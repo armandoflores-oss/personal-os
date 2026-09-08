@@ -1,0 +1,43 @@
+# PH GTM Harness Training - 2026/09/07 17:30 CEST - Notes by Gemini (English)
+
+Sep 7, 2026
+
+Invited: Gerardo Cabanas (gerardo.cabanas@draiver.com), Artur Morais (artur.morais@driverdo.com), Daniel Escribano (daniel.escribano@draiver.com), Fede Ranero (fede.ranero@driverdo.com), Armando Flores (armando.flores@driverdo.com), Nicolas Ariza (nicolas.ariza@kavak.com), Nicolas Ariza (nicolas.ariza@draiver.com)
+
+## Summary
+
+Marketplace coordination and language configuration decisions via Spanish selection
+
+**Marketplace Coordination Task**
+Discussion about marketplace tasks and technical troubleshooting established plans for coordination the following day.
+
+**Meeting Language Decision**
+System notification prompted language check resulting in the decision to conduct the meeting entirely in Spanish.
+
+## Next steps
+
+- [Daniel Escribano] Square project management: Reconcile project details and determine the management strategy tomorrow.
+
+## Details
+
+- **Marketplace Coordination and Technical Troubleshooting**: Daniel Escribano and Artur Morais discuss a marketplace task, with Daniel noting they are unfamiliar with a specific part of the process. They agree to coordinate and manage the details the following day to avoid disrupting the current meeting. Additionally, Nicolas Ariza Bagoud experiences technical difficulties with their headphones failing to load upon joining the call (00:00:41).
+- **Meeting Language Configuration**: Gerardo Cabanas brings up a system notification prompting them to check the meeting language between Spanish and English. Gerardo asks the group whether to leave it in Spanish or change it to English, while Nicolas Ariza Bagoud reacts to the language prompt. Ultimately, Nicolas Ariza Bagoud decides that the meeting will be conducted entirely in Spanish because it was sent from the driver account (00:03:25).
+
+## Transcript
+
+### 00:00:41
+
+Daniel Escribano: Es lo que no domino, ¿sabes? Pero bueno, mañana lo cuadramos, no vamos a entorpecer esta reunión. Mañana lo cuadramos y vemos a ver cómo lo gestionamos, ¿vale?
+Artur Morais: Vale, perfecto.
+Gerardo Cabanas: Vale, buenas tardes, Nicolás.
+Nicolas Ariza Bagoud: Chicos. No sé por qué, pero no me cargan los audífonos. Quería ver si probaba, pero por eso me salí.
+
+### 00:03:25
+
+Nicolas Ariza Bagoud: ¿Cómo van?
+Gerardo Cabanas: Oye, las reuniones en español, que esto me está diciendo de "check your meeting language", ¿español o inglés?
+Nicolas Ariza Bagoud: Es que creo que esta la mandé desde la cuenta de driver.
+Gerardo Cabanas: Pero no pasa nada. ¿La dejo en español o la cambio a inglés?
+Nicolas Ariza Bagoud: Va a ser todo en español, la verdad.
+
+### Transcription ended after 00:03:41
