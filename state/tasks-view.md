@@ -16,6 +16,7 @@
 ## Reuniones España
 - **T-11** Voy a ver qué qué sale de ahí.
 - **T-16** Re: Draiver llega a España. Te esperamos el 17 de septiembre.
+- **T-19** Notes: “Diaria Spain Launch” Sep 8, 2026
 
 ## Pipeline estratégico
 - **T-10** RE: TESLA - TC - LARMEX MTY Dispatch - Q3 2026 Sept

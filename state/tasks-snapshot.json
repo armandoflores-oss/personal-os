@@ -53,6 +53,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "132537e4014a": {
+  "action": "revisar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-19",
+  "counterparty": "interno",
+  "created": "2026-09-08T15:10:08+00:00",
+  "domain": "reuniones-espana",
+  "due_date": null,
+  "evidence": "Proceso de pagos y viajes\nCorrida de pagos a conductores programada para el viernes previa revisión de cálculos.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a08182242ef3d38",
+  "status": "open",
+  "task_id": "132537e4014a",
+  "title": "Notes: “Diaria Spain Launch” Sep 8, 2026",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "6f45e259ab62": {
   "action": "otro",
   "applied": false,
