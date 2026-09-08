@@ -3,6 +3,7 @@
 <!-- Vista generada — NO editar a mano. Regenerar: python3 scripts/task.py rebuild -->
 
 ## Cotizaciones y pendientes operativos
+- **T-23** Re: [EXT]Re: Element / Draiver: Explorar "Rides" en Variable Fleet y negocio Element
 - **T-4** penske case study for EU · esperando a Fede
 - **T-9** CARTA RESPONSIVA · esperando a Julianna
 
@@ -15,4 +16,7 @@
 - **T-11** Voy a ver qué qué sale de ahí.
 - **T-19** Notes: “Diaria Spain Launch” Sep 8, 2026
 - **T-22** Confirmar con Clicars cómo mandarán shipper, carrier y peso por vehículo (bloqueante del MVP levantado por Deca/Paloma); propuesta: misma sábana en columnas separadas
+
+## Pipeline estratégico
+- **T-24** Re: Draiver Facturación JULIO 2026 - Zapata Logistics
 
