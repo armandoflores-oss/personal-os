@@ -325,6 +325,33 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "9825023893fb": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-30",
+  "counterparty": "gruhaber",
+  "created": "2026-09-09T22:32:03+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Y vamos a continuar nuestra conciliación para enviar los demás pagos pendientes.",
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-09-09T20:19:47Z a gruhaber: «Fwd: Facturas pendientes de pago»",
+    "ts": "2026-09-09T22:32:03+00:00"
+   }
+  ],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a08802d6c00730e",
+  "status": "done",
+  "task_id": "9825023893fb",
+  "title": "Re: Facturas pendientes de pago",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "9eae31ab4f4f": {
   "action": "confirmar",
   "applied": false,
@@ -475,6 +502,33 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "c378e90e5a38": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-29",
+  "counterparty": "regiane.araujo",
+  "created": "2026-09-09T22:32:03+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Muchas gracias te agradezco infinitamente, perdón hubo algún problema con nosotros para que no incurramos en el error, por cierto te envío los complementos de pago por este medio, y por último las que",
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-09-09T20:19:47Z a regiane.araujo: «Fwd: Facturas pendientes de pago»",
+    "ts": "2026-09-09T22:32:03+00:00"
+   }
+  ],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a0883ac061d5c2f",
+  "status": "done",
+  "task_id": "c378e90e5a38",
+  "title": "Re: Facturas pendientes de pago",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "cdf0df99ad26": {
   "action": "confirmar",
   "applied": false,
@@ -486,11 +540,17 @@
   "domain": "pipeline-estrategico",
   "due_date": null,
   "evidence": "\"Hi Draiver team\nCould you please confirm if you are moving the loads/shipments or gating out VINs coming from Barragan, 2a, and Cienega de Flores, 3C,?",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-09-09T20:09:19Z a ford: «Re: FORD MX -DRAIVER -MEXICO OPERATION 2A»",
+    "ts": "2026-09-09T22:32:03+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a087a6773ecfbc2",
-  "status": "open",
+  "status": "done",
   "task_id": "cdf0df99ad26",
   "title": "Re: FORD MX -DRAIVER -MEXICO OPERATION 2A",
   "vetoed": false,
