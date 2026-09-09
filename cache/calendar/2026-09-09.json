@@ -1,0 +1,64 @@
+[
+  {
+    "start": "09:00",
+    "summary": "Reunión Autosur x Draiver – Piloto",
+    "attendees": [
+      "coordinador.pyp@autosur.mx",
+      "julia.diaz@draiver.com",
+      "armando.flores@driverdo.com",
+      "compras.corporativo@autosur.mx",
+      "gerente.finanzas@autosur.mx",
+      "uriel.vargas@driverdo.com"
+    ]
+  },
+  {
+    "start": "10:30",
+    "summary": "catch up Julia",
+    "attendees": [
+      "julia.diaz@draiver.com",
+      "armando.flores@driverdo.com"
+    ]
+  },
+  {
+    "start": "11:00",
+    "summary": "Daily Huddle - Ops MX",
+    "attendees": [
+      "uriel.vargas@driverdo.com",
+      "cristian.arizmendi@driverdo.com",
+      "julia.diaz@draiver.com",
+      "armando.flores@driverdo.com",
+      "diego.diaz@draiver.com",
+      "camila.flores@draiver.com",
+      "jose.duran@driverdo.com",
+      "gerardo.acosta@kavak.com"
+    ]
+  },
+  {
+    "start": "12:00",
+    "summary": "Element / Draiver: Traslados Variable Fleet",
+    "attendees": [
+      "armando.flores@driverdo.com",
+      "carolina.osses@driverdo.com",
+      "fgalland@elementcorp.com"
+    ]
+  },
+  {
+    "start": "14:00",
+    "summary": "MX Finance Review",
+    "attendees": [
+      "regiane.araujo@draiver.com",
+      "armando.flores@driverdo.com",
+      "paulo.ferrato@driverdo.com",
+      "julia.diaz@draiver.com",
+      "marcelo.trevino@driverdo.com",
+      "cristhian.herrera@draiver.com"
+    ]
+  },
+  {
+    "start": "16:48",
+    "summary": "Flight to Mexico City (Y4 227)",
+    "attendees": [
+      "armando.flores@driverdo.com"
+    ]
+  }
+]
