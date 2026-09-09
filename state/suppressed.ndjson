@@ -230,3 +230,8 @@
 {"detail": "", "item_id": "1a0853a205f523ef", "reason": "sin_compromiso", "source": "gmail", "subject": "Invitación a presentar en tiempo la informativa de contratos de servicios especializados o ejecución de obras especializ", "ts": "2026-09-09T15:21:17+00:00"}
 {"detail": "", "item_id": "1a083bba2563c247", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: FW: Resguardo CA2138", "ts": "2026-09-09T15:21:17+00:00"}
 {"detail": "^\\s*updated invitation:", "item_id": "1a083b7ce5e1fcf6", "reason": "meta", "source": "gmail", "subject": "Updated invitation: Daily Huddle - Ops MX @ Wed Sep 9, 2026 11am - 11:30am (CST) (Armando Flores)", "ts": "2026-09-09T15:21:17+00:00"}
+{"action": "enviar", "counterparty": "cemex", "detail": "ya abierto en T-25", "item_id": "1a0871107f93681b", "reason": "duplicado", "source": "gmail", "subject": "Re: Solicitud traslado CA2138", "ts": "2026-09-09T17:02:58+00:00"}
+{"detail": "", "item_id": "1a086fd569c72cce", "reason": "sin_compromiso", "source": "gmail", "subject": "Solicitud traslado CA2138", "ts": "2026-09-09T17:02:58+00:00"}
+{"detail": "", "item_id": "1a086ec955565c5b", "reason": "sin_compromiso", "source": "gmail", "subject": "[DriverDO LLC] Action required: 13 receipts missing", "ts": "2026-09-09T17:02:58+00:00"}
+{"detail": "", "item_id": "1a086e771d77bbd0", "reason": "sin_compromiso", "source": "gmail", "subject": "Are You Leaving Clean Truck Funding on the Table?", "ts": "2026-09-09T17:02:58+00:00"}
+{"detail": "", "item_id": "1a086d1be9259f94", "reason": "sin_compromiso", "source": "gmail", "subject": "Check Out NAFA’s Upcoming Programs", "ts": "2026-09-09T17:02:58+00:00"}

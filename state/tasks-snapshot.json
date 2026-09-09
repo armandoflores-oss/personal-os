@@ -334,6 +334,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "a512e6457a68": {
+  "action": "otro",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-27",
+  "counterparty": "tesla",
+  "created": "2026-09-09T17:02:58+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "- Operación: solo traslados rodados, entregas agrupadas en bloques de hasta 4 unidades para que el equipo regrese junto, y salida recomendada antes de las 16:00 para evitar la hora pico de Periférico ",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a08709ca8ca4269",
+  "status": "open",
+  "task_id": "a512e6457a68",
+  "title": "Re: Propuesta Forum Naucalpan → Perisur",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "a8f0c408501c": {
   "action": "enviar",
   "applied": false,
