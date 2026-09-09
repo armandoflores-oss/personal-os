@@ -43,3 +43,14 @@
 {"actor": "system:ingest:gmail", "kind": "create", "payload": {"action": "otro", "code": "T-26", "counterparty": "tesla", "domain": "cotizaciones-operativo", "due_date": null, "evidence": "Solo traslados rodados, entregas agrupadas en bloques de hasta 4 unidades, salida recomendada antes de las 16:00.", "source": "gmail:1a083253c6f31fad", "title": "Re: Propuesta Forum Naucalpan → Perisur"}, "task_id": "3ca495d3259a", "ts": "2026-09-09T00:10:05+00:00"}
 {"actor": "system:ingest:outbound", "kind": "set_status", "payload": {"evidence": "enviado 2026-09-08T22:28:05Z a tesla: «Propuesta Forum Naucalpan → Perisur»", "status": "done"}, "task_id": "3ca495d3259a", "ts": "2026-09-09T00:10:05+00:00"}
 {"actor": "system:ingest:gmail", "kind": "create", "payload": {"action": "otro", "code": "T-27", "counterparty": "tesla", "domain": "cotizaciones-operativo", "due_date": null, "evidence": "- Operación: solo traslados rodados, entregas agrupadas en bloques de hasta 4 unidades para que el equipo regrese junto, y salida recomendada antes de las 16:00 para evitar la hora pico de Periférico ", "source": "gmail:1a08709ca8ca4269", "title": "Re: Propuesta Forum Naucalpan → Perisur"}, "task_id": "a512e6457a68", "ts": "2026-09-09T17:02:58+00:00"}
+{"actor": "user", "kind": "set_waiting_on", "payload": {"who": "Fede"}, "task_id": "bc5e528ccd4c", "ts": "2026-09-09T17:29:09+00:00"}
+{"actor": "user", "kind": "snooze", "payload": {"until": "2026-09-10"}, "task_id": "4d18669f0ff2", "ts": "2026-09-09T17:29:09+00:00"}
+{"actor": "user", "kind": "set_status", "payload": {"evidence": "Armando dijo que está listo", "status": "done"}, "task_id": "43bb97916017", "ts": "2026-09-09T17:29:09+00:00"}
+{"actor": "user", "kind": "set_status", "payload": {"evidence": "Armando dijo que está listo", "status": "done"}, "task_id": "a512e6457a68", "ts": "2026-09-09T17:29:09+00:00"}
+{"actor": "user", "kind": "set_owner", "payload": {"owner": "Marcelo"}, "task_id": "14a781eada69", "ts": "2026-09-09T17:29:09+00:00"}
+{"actor": "user", "kind": "set_owner", "payload": {"owner": "Jose Duran"}, "task_id": "8f302410fb94", "ts": "2026-09-09T17:29:09+00:00"}
+{"actor": "user", "kind": "set_owner", "payload": {"owner": "Artur"}, "task_id": "5ad8571e3c7e", "ts": "2026-09-09T17:29:09+00:00"}
+{"actor": "user", "kind": "archive", "payload": {"reason": "no aplica"}, "task_id": "d8e42c4bace2", "ts": "2026-09-09T17:32:59+00:00"}
+{"actor": "user", "kind": "archive", "payload": {"reason": "no aplica"}, "task_id": "801555fa0c33", "ts": "2026-09-09T17:33:00+00:00"}
+{"actor": "user", "kind": "archive", "payload": {"reason": "duplicada de T-20"}, "task_id": "132537e4014a", "ts": "2026-09-09T17:33:00+00:00"}
+{"actor": "user", "kind": "snooze", "payload": {"until": "2026-09-09"}, "task_id": "40c7101f520c", "ts": "2026-09-09T17:33:33+00:00"}
