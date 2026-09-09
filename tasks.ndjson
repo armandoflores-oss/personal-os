@@ -54,3 +54,4 @@
 {"actor": "user", "kind": "archive", "payload": {"reason": "no aplica"}, "task_id": "801555fa0c33", "ts": "2026-09-09T17:33:00+00:00"}
 {"actor": "user", "kind": "archive", "payload": {"reason": "duplicada de T-20"}, "task_id": "132537e4014a", "ts": "2026-09-09T17:33:00+00:00"}
 {"actor": "user", "kind": "snooze", "payload": {"until": "2026-09-09"}, "task_id": "40c7101f520c", "ts": "2026-09-09T17:33:33+00:00"}
+{"actor": "system:ingest:gmail", "kind": "create", "payload": {"action": "confirmar", "code": "T-28", "counterparty": "ford", "domain": "pipeline-estrategico", "due_date": null, "evidence": "\"Hi Draiver team\nCould you please confirm if you are moving the loads/shipments or gating out VINs coming from Barragan, 2a, and Cienega de Flores, 3C,?", "source": "gmail:1a087a6773ecfbc2", "title": "Re: FORD MX -DRAIVER -MEXICO OPERATION 2A"}, "task_id": "cdf0df99ad26", "ts": "2026-09-09T20:05:17+00:00"}

@@ -475,6 +475,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "cdf0df99ad26": {
+  "action": "confirmar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-28",
+  "counterparty": "ford",
+  "created": "2026-09-09T20:05:17+00:00",
+  "domain": "pipeline-estrategico",
+  "due_date": null,
+  "evidence": "\"Hi Draiver team\nCould you please confirm if you are moving the loads/shipments or gating out VINs coming from Barragan, 2a, and Cienega de Flores, 3C,?",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a087a6773ecfbc2",
+  "status": "open",
+  "task_id": "cdf0df99ad26",
+  "title": "Re: FORD MX -DRAIVER -MEXICO OPERATION 2A",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "d8e42c4bace2": {
   "action": "otro",
   "applied": false,
