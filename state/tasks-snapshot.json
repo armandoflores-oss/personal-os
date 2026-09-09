@@ -95,6 +95,33 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "3ca495d3259a": {
+  "action": "otro",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-26",
+  "counterparty": "tesla",
+  "created": "2026-09-09T00:10:05+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Solo traslados rodados, entregas agrupadas en bloques de hasta 4 unidades, salida recomendada antes de las 16:00.",
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-09-08T22:28:05Z a tesla: «Propuesta Forum Naucalpan → Perisur»",
+    "ts": "2026-09-09T00:10:05+00:00"
+   }
+  ],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a083253c6f31fad",
+  "status": "done",
+  "task_id": "3ca495d3259a",
+  "title": "Re: Propuesta Forum Naucalpan → Perisur",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "40c7101f520c": {
   "action": "enviar",
   "applied": false,
