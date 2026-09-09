@@ -1,35 +1,29 @@
-Daily Huddle - Ops MX - 2026/09/08 09:31 CST - Notes by Gemini
-
-# Quick notes
-Sep 8, 2026
-
+# Notes by Gemini — Sep 8, 2026
 ## Daily Huddle - Ops MX
 
 Invited: Uriel Vargas (uriel.vargas@driverdo.com), Cristian Arizmendi (cristian.arizmendi@driverdo.com), Julia Diaz (julia.diaz@draiver.com), Armando Flores (armando.flores@draiver.com), Diego Diaz (diego.diaz@draiver.com), Camila Flores (camila.flores@draiver.com), Jose Duran (jose.duran@driverdo.com), Gerardo Acosta (gerardo.acosta@kavak.com)
 
+### Quick notes
 Salesforce discussion and system drivers with electric vehicle references and video priorities.
 
 ## System Calibration and Testing
 - The session consisted of voice recognition and system calibration testing.
 - No substantive strategic discussions or business decisions were identified in the transcript.
 
-# Full notes
-Sep 8, 2026
-
 ### Summary
 Salesforce discussion and system drivers with electric vehicle references and video priorities.
 
-Salesforce and Speech Systems
+**Salesforce and Speech Systems**
 Discussion on Salesforce and speech elements without formal consensus.
 
-Drivers and References
+**Drivers and References**
 Introduction of 360 drivers and speech sentences with no formal resolutions.
 
-Video and Logistics
+**Video and Logistics**
 Review of video priorities and logistical references concluding the session.
 
 ### Details
-- Salesforce and Speech Systems Discussion: Camila Flores, Cristian Arizmendi, Julia Diaz, Uriel Vargas, and Diego Diaz convened to discuss Salesforce and various speech-related elements, exchanging fragmented remarks regarding system functions. No specific consensus or final decisions were reached during this exchange.
-- System Drivers and Regional References: Diego Diaz and Julia Diaz introduced topics involving 360 drivers and St. Louis, while Cristian Arizmendi commented on speech sentences. The participants did not document any formal problems or resolutions for these items.
-- Electric Vehicle References and Communication Software: Cristian Arizmendi highlighted a Mustang electric reference and a telephone connection, while Jose Duran and Julia Diaz talked about drivers, heat service, and Skype. No formal consensus or definitive actions were established by the group.
-- Video Priorities, Logistics, and Meeting Conclusion: Jose Duran, Julia Diaz, Camila Flores, Diego Diaz, and Uriel Vargas discussed video priorities, logistical references to Mexico, motorway conditions, and a quarantine status introduced by Uriel Vargas. The session concluded as the participants exchanged farewells.
+- **Salesforce and Speech Systems Discussion**: Camila Flores, Cristian Arizmendi, Julia Diaz, Uriel Vargas, and Diego Diaz convened to discuss Salesforce and various speech-related elements, exchanging fragmented remarks regarding system functions. No specific consensus or final decisions were reached during this exchange.
+- **System Drivers and Regional References**: Diego Diaz and Julia Diaz introduced topics involving 360 drivers and St. Louis, while Cristian Arizmendi commented on speech sentences. The participants did not document any formal problems or resolutions for these items.
+- **Electric Vehicle References and Communication Software**: Cristian Arizmendi highlighted a Mustang electric reference and a telephone connection, while Jose Duran and Julia Diaz talked about drivers, heat service, and Skype. No formal consensus or definitive actions were established by the group.
+- **Video Priorities, Logistics, and Meeting Conclusion**: Jose Duran, Julia Diaz, Camila Flores, Diego Diaz, and Uriel Vargas discussed video priorities, logistical references to Mexico, motorway conditions, and a quarantine status introduced by Uriel Vargas. The session concluded as the participants exchanged farewells.
