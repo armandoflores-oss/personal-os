@@ -293,6 +293,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "84da2aa4b831": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-32",
+  "counterparty": "avasa",
+  "created": "2026-09-10T20:10:29+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Enseguida te envío el resumen de agosto para tu revisión.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a08c5d22f02c9e0",
+  "status": "open",
+  "task_id": "84da2aa4b831",
+  "title": "Re: Comprobante de pago - PAGOS AVA 09SEPT2026",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "8f302410fb94": {
   "action": "enviar",
   "applied": false,
