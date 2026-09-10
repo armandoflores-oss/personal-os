@@ -14,4 +14,5 @@
 
 ## Pipeline estratégico
 - **T-24** Re: Draiver Facturación JULIO 2026 - Zapata Logistics
+- **T-31** Re: FORD MX -DRAIVER -MEXICO OPERATION 2A
 

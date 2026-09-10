@@ -101,6 +101,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "3414689d651a": {
+  "action": "confirmar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-31",
+  "counterparty": "ford",
+  "created": "2026-09-10T15:11:59+00:00",
+  "domain": "pipeline-estrategico",
+  "due_date": null,
+  "evidence": "Elidee Arias (Over-haul): Could you please confirm if you are moving the loads/shipments or gating out VINs coming from Barragan, 2A, and Cienega de Flores, 3C?",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a08962d352c14f7",
+  "status": "open",
+  "task_id": "3414689d651a",
+  "title": "Re: FORD MX -DRAIVER -MEXICO OPERATION 2A",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "3ca495d3259a": {
   "action": "otro",
   "applied": false,
