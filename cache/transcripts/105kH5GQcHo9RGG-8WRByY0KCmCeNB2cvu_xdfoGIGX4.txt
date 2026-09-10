@@ -1,9 +1,13 @@
-# Las notas — sept 8, 2026
+# Las notas
+
+sept 8, 2026
+
 ## Weekly Kavak / Draiver Leaders
 
 Invitados: Fede Ranero (fede.ranero@driverdo.com), Julia Diaz (julia.diaz@draiver.com), Armando Flores (armando.flores@driverdo.com), josue.luevano@kavak.com, Gerardo Acosta (gerardo.acosta@kavak.com), Diego Diaz (diego.diaz@draiver.com), aristides.calvani@kavak.com, diego.pacheco@kavak.com
 
 ### Resumen
+
 Revisión operativa analizó multas y backlog con métricas de productividad dominical.
 
 **Incidencias operativas y multas**
@@ -18,15 +22,18 @@ Acordaron contratar 10 conductores internos. Evaluaron traslados masivos desde M
 ### Decisiones
 
 ## Requiere más debate
-- **Contratación de conductores internos adicionales en Kavak**: Se propuso y discutió la contratación de 10 conductores internos adicionales en Kavak para mitigar los problemas de rutas y tiempos de traslado, quedando pendiente definir la propuesta final con legal y el equipo.
-- **Revisión y negociación de pagos pendientes con Pepe**: Se acordó agendar una reunión para el día siguiente para validar, revisar y negociar los montos pendientes de pagos de meses anteriores reportados por Pepe.
+
+- **Contratación de conductores internos adicionales en Kavak** Se propuso y discutió la contratación de 10 conductores internos adicionales en Kavak para mitigar los problemas de rutas y tiempos de traslado, quedando pendiente definir la propuesta final con legal y el equipo.
+- **Revisión y negociación de pagos pendientes con Pepe** Se acordó agendar una reunión para el día siguiente para validar, revisar y negociar los montos pendientes de pagos de meses anteriores reportados por Pepe.
 
 ## Acordada
-- **Manejo y conciliación de multas en placas demo locales**: Se acordó que en caso de haber multas en las placas demo locales, se evaluará meterlas en un tema conciliatorio o cargar el costo directamente al conductor responsable si se identifica el driver.
-- **Programación de descansos de LOPS exclusivamente entre semana**: Se acordó mapear y programar los descansos de los conductores de LOPS de lunes a viernes, asegurando que no tengan descansos programados en sábado y domingo.
-- **Implementación de cortes semanales para pagos**: Se acordó comenzar a realizar los cortes semanales a partir de la semana actual para evitar revisiones y retrasos prolongados de pagos a futuro.
+
+- **Manejo y conciliación de multas en placas demo locales** Se acordó que en caso de haber multas en las placas demo locales, se evaluará meterlas en un tema conciliatorio o cargar el costo directamente al conductor responsable si se identifica el driver.
+- **Programación de descansos de LOPS exclusivamente entre semana** Se acordó mapear y programar los descansos de los conductores de LOPS de lunes a viernes, asegurando que no tengan descansos programados en sábado y domingo.
+- **Implementación de cortes semanales para pagos** Se acordó comenzar a realizar los cortes semanales a partir de la semana actual para evitar revisiones y retrasos prolongados de pagos a futuro.
 
 ### Próximos pasos
+
 - [Julia Diaz] Compartir registro placas: Compartir el documento maestro con todas las placas en uso para realizar un chequeo de multas y tenencias.
 - [Armando Flores] Revisar detalle multas: Obtener el detalle de las multas acumuladas y determinar si es posible cargar el costo a los conductores responsables.
 - [Josue Vader Luevano Medina, Julia Diaz] Analizar productividad dominical: Investigar las causas de la caída en productividad de los conductores durante los domingos y proponer acciones para mejorar el rendimiento.
@@ -42,17 +49,18 @@ Acordaron contratar 10 conductores internos. Evaluaron traslados masivos desde M
 - [Arístides Calvani] Planificar movimiento Monterrey: Analizar el volumen de autos que deben moverse desde Monterrey para liberar espacio y definir si se realizará por madrina o traslado rodado.
 
 ### Detalles
+
 - **Estado de las placas demo locales y multas**: Josue Vader Luevano Medina informó que en las últimas dos semanas se detectaron detenciones de placas demo locales debido a la falta de pago de tenencias y multas por exceso de velocidad que aumentaron de 180 a 2,000 pesos con el paso del tiempo. Armando Flores sugirió identificar las multas y verificar si pueden ser cargadas a algún conductor responsable, mientras que Josue Vader Luevano Medina ofreció gestionar los pagos de manera centralizada y equiparar las horas de las multas con los traslados para que el socio logístico (OP) cubra cerca del 90% de las multas generadas por sus usuarios.
 - **Descansos y suspensiones del socio logístico OP**: Josue Vader Luevano Medina señaló que la plantilla del socio logístico no tiene descansos programados en sábado y domingo, y cuestionó el incremento de ausencias por enfermedad exclusivamente en dichos días. Como medida correctiva, se aplicó una suspensión a Marcelino Fonseca por retirarse anticipadamente a las 14:00 horas, dejándole sin viajes programados.
 - **Análisis de la plantilla y comportamiento de conductores**: Julia Diaz presentó un análisis de la distribución de conductores, indicando que la plantilla fija del socio logístico se mantiene entre 23 y 27 personas activas con nueve vacantes pendientes, mientras que la bolsa de trabajo ("pool") ha incrementado constantemente desde julio para soportar el volumen operativo.
 - **Tendencia del backlog de HQ y almacenamiento**: Josue Vader Luevano Medina reportó que el backlog general ha disminuido desde su punto más alto en la primera y segunda semana de agosto con 445 unidades, amaneciendo con 228 unidades. Los movimientos hacia corporativo (HQ) pasaron de 207 unidades en su pico a 148, y los de almacenamiento bajaron de 243 a 80 unidades.
 - **Caída de productividad dominical y seguimiento del backoffice**: Josue Vader Luevano Medina y Arístides Calvani expresaron preocupación por la caída de la productividad en domingo (4.83 unidades por conductor en el socio logístico y 4.33 en la bolsa de trabajo, frente a 7.83 de semanas anteriores) y la falta de seguimiento del equipo de soporte ante retiros tempranos de los conductores. Julia Diaz propuso motivar al equipo del backoffice mediante esquemas de trabajo flexible, incentivos y combinación de personalidades para mejorar el rendimiento dominical.
-- **Afectaciones operativas en los centros de servicio (hubs)**: Julia Diaz explicó que hubs como Rosario y Florencia han afectado la productividad debido a tiempos de espera prolongados, restricciones de acceso dominical y falta de habilitadores disponibles en domingo. Arístides Calvani solicitó ejemplos específicos de Rosario y Florencia para revisarlos directamente con los gerentes de tiendas minoristas.
+- **Afectaciones operativas en los centros de servicio (hubs)**: Julia Diaz explicó que hubs como Rosario y Florencia han afectado la productividad debido a tiempos de espera prolongados, restricciones de acceso dominical y falta de habilitadores disponibles en domingo. Arístides Calvani solicitó ejemplos específicos de Rosario y Florencia para revisarlos directamente con les gerentes de tiendas minoristas.
 - **Nivel de servicio en movimientos de HQ y almacenamiento**: Josue Vader Luevano Medina detalló que el nivel de servicio para cumplir con los traslados de HQ en un día se encuentra en el 68% (por debajo del objetivo del 70%), viéndose afectado por la acumulación de fines de semana, mientras que el almacenamiento muestra un comportamiento más favorable con un 80% de cumplimiento en 24 horas. Gerardo Acosta Romero añadió que la lejanía y falta de capacidad de almacenamiento en centros como Tlalnepantla y Cosmopol generan cuellos de botella.
 - **Plan de contratación de conductores internos**: Arístides Calvani propuso y acordó con el equipo la contratación de 10 conductores internos a nivel nacional para mitigar restricciones de rutas y placas, revisando las propuestas específicas presentadas por Josue Vader Luevano Medina.
 - **Evolución del backlog y operación de TAS**: Josue Vader Luevano Medina informó que el backlog de traslados entre agencias (TAS) disminuyó de un pico de 110 unidades en julio a 43 esta semana (16 foráneas y 27 locales), logrando un cumplimiento del 88% en servicios foráneos. No obstante, se identificó un impacto principal en TAS local proveniente de Monterrey, donde Gerardo Acosta Romero solicitó la creación de servicios logísticos y asignación de personal específico.
 - **Disponibilidad de espacios en hubs y ritmo de compras**: Julia Diaz consultó sobre la continuidad del ritmo de compras, confirmando Arístides Calvani que no existe intención de frenarlo. Adicionalmente, Josue Vader Luevano Medina indicó que la disponibilidad de espacios ha mejorado en Santa Fe, Rosario, Fortuna y Arts Pedregal, resolviendo las limitaciones previas de almacenamiento.
-- **Validaciones de pagos pendientes con Pepe**: Arístides Calvani consultó sobre los pagos pendientes de validación con Pepe correspondientes a los meses de marzo, abril, mayo, junio y julio. Julia Diaz explicó que existen discrepancias técnicas en viajes registrados como completados que en realidad fueron pruebas de manejo (dry runs) o cambios de unidad, acordando agendar una reunión para negociar estos montos e implementar cortes semanales a futuro.
-- **Actualización de operaciones en Mérida y Cuernavaca**: Armando Flores y Fede Ranero compartieron los aprendizajes de la visita a Mérida, destacando que operan con un volumen menor y concentrado (6 autos diarios), para lo cual se asignaron cuatro juegos de placas locales y de conductor. Respecto a Cuernavaca, Josue Vader Luevano Medina confirmó que la operación se atiende sin retrasos con un solo conductor del socio logístico, y Fede Ranero solicitó definir con precisión la demanda sin restricciones (unconstrained demand) reportada por el cliente interno.
+- **Validaciones de pagos pendientes con Pepe**: Arístides Calvani consultó sobre los pagos pendientes de validación con Pepe correspondientes a los meses de marzo, abril, mayo, junio y julio. Julia Diaz explicó que existen discrepancias técnicas en viajes registrados como completados que en realidad fueron pruebas de manejo (*dry runs*) o cambios de unidad, acordando agendar una reunión para negociar estos montos e implementar cortes semanales a futuro.
+- **Actualización de operaciones en Mérida y Cuernavaca**: Armando Flores y Fede Ranero compartieron los aprendizajes de la visita a Mérida, destacando que operan con un volumen menor y concentrado (6 autos diarios), para lo cual se asignaron cuatro juegos de placas locales y de conductor. Respecto a Cuernavaca, Josue Vader Luevano Medina confirmó que la operación se atiende sin retrasos con un solo conductor del socio logístico, y Fede Ranero solicitó definir con precisión la demanda sin restricciones (*unconstrained demand*) reportada por el cliente interno.
 - **Discrepancias de volumen y finalización de códigos QR**: Josue Vader Luevano Medina y Fede Ranero discutieron las discrepancias entre los vehículos trasladados y los contabilizados en el sistema debido a la falta de finalización manual de códigos QR por parte de los conductores o equipos, principalmente en la zona norte del país.
 - **Plan logístico para el traslado masivo desde Monterrey**: Arístides Calvani y Armando Flores evaluaron el traslado excepcional de aproximadamente 70 unidades desde Monterrey para liberar espacio. Se debatió la conveniencia de realizar los traslados rodando frente al uso de madrinas (con un costo estimado de 14,000 pesos por unidad), considerando la disponibilidad de placas de traslado y el impacto operativo en la Ciudad de México al desviar conductores.

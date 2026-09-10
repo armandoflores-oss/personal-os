@@ -1,0 +1,413 @@
+# Las notas
+
+sept 10, 2026
+
+## Diaria Spain Launch
+
+Invitados: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
+
+### Resumen
+
+Revisión de pagos y métricas de España para el evento corporativo y operaciones en México
+
+**Gestión de pagos y búsqueda**
+Revisión de hojas de cálculo de la semana 31 y habilitación de búsqueda por matrícula para cuentas en España.
+
+**Métricas de España y captación**
+Actualización de 12 viajes completados y registro de 776 conductores interesados para la presentación corporativa.
+
+**Operaciones en México y logística**
+Reporte de 14800 movimientos en agosto y coordinación de logística para la semana siguiente en Madrid.
+
+### Decisiones
+
+## Acordada
+
+- **Estructura jerárquica de cuentas de clientes** Se estableció organizar las cuentas de clientes bajo grupos jerárquicos manteniendo la facturación separada por cada CIF, salvo orden en contrario.
+- **Derivación de Centauro a socio integrado** Se acordó ofrecer a Centauro una solución de un socio integrado (Autoflit) en lugar de desarrollar un servicio personalizado, preservando la relación comercial.
+
+### Próximos pasos
+
+- [Daniel Escribano] Llamar Finout: Llamar al proveedor Finout para coordinar los pagos de los conductores y confirmar si requieren información adicional para la facturación.
+- [Artur Morais, Armando Flores] Presentar Town Hall: Preparar y presentar los datos de España para el Town Hall utilizando la información actualizada del reporte semanal.
+- [Daniel Escribano] Consolidar mejoras: Generar un resumen de las reclamaciones de los conductores y las mejoras sugeridas del sistema para consolidar y gestionar con el equipo de producto.
+- [Daniel Escribano] Enviar reclamaciones: Enviar a Artur Morais la lista de solicitudes y reclamaciones de los conductores para que sean procesadas.
+
+### Detalles
+
+- **Gestión de pagos a conductores para la semana 31**: Daniel Escribano y Artur Morais revisaron las hojas de cálculo correspondientes a la semana 31, señalando que el conductor José Carmelo realizó múltiples viajes y sus montos fueron sumados mediante una tabla dinámica (00:01:53). Daniel intentó comunicarse con Paulo de Finout por correo y llamada telefónica para confirmar los detalles necesarios para el pago, pero obtuvo una respuesta automática indicando que la atención al público está cerrada hasta el 30 de septiembre (00:04:09). Ante la urgencia de enviar los pagos la mañana siguiente, Daniel acordó llamar directamente a primera hora (00:06:46). Artur confirmó que los datos de los conductores se encuentran en Salesforce y en las hojas de registro, y que el informe ya fue compartido en el canal de Slack (00:05:32) (00:37:58).
+- **Implementación de la búsqueda por matrícula de vehículos**: Artur Morais anunció que la decodificación y búsqueda por número de matrícula ya se encuentra habilitada para las cuentas en España, lo que permite buscar vehículos (como se probó con la matrícula 8287-JKV de Daniel Escribano) para ver movimientos completos, notas de recogida e instrucciones (00:08:02). Esta actualización resuelve quejas previas de los conductores sobre la imposibilidad de ver el modelo del vehículo antes de iniciar los viajes. Daniel Escribano indicó que actualmente están a esperaba de recibir autorizaciones de recogida de clientes como Clicars, las cuales llegan por oleadas de entre 10 y 15 vehículos por semana (00:14:40).
+- **Alta de nuevos clientes y estructura de cuentas del grupo Eticalidad**: Daniel Escribano reportó el registro de un nuevo cliente, Catac, perteneciente al grupo Eticalidad, añadiendo una pestaña para organizar las cuentas jerárquicamente (00:15:48). Daniel explicó que, por regla general, cada empresa factura de manera independiente bajo su propio CIF a menos que se indique lo contrario, y que agruparlas facilita la gestión por parte de los administradores de cuentas (00:17:11). Artur Morais discutió la posibilidad de crear cuentas hijas para limitar el acceso de los despachadores, mientras que Daniel enfatizó la importancia de mantener la visibilidad a nivel de grupo (00:15:48). Asimismo, Artur mencionó que un ticket de conductor enviado fuera de tiempo fue incorporado para pagarse la semana siguiente (00:18:28).
+- **Actualización de métricas de España para el Town Hall**: Armando Flores se incorporó a la reunión para revisar las diapositivas del evento corporativo, reportando 12 viajes de transporte completados y 4 clientes en fase de piloto (00:20:36). Daniel Escribano precisó que fueron 14 viajes en total, de los cuales 2 fueron cancelados por los clientes, resultando en 12 completados (00:21:34). Respecto al cliente Centauro, Armando sugirió ofrecer una derivación o recomendación hacia una solución asociada de software (Autofleet de Element) en lugar de dar por terminada la relación de forma abrupta, propuesta que Daniel y Artur apoyaron (00:22:32).
+- **Cifras de captación de conductores en España**: Daniel Escribano informó sobre los resultados de una nueva campaña de captación para lidiar con la cancelación de transportes, registrando 776 conductores interesados provenientes de listados previos de activos, de los cuales 188 se encuentran en el segundo paso y 122 están aprobados y listos (00:23:41). Armando Flores incorporó estos datos (776 candidatos y 122 aprobados) en la presentación del Town Hall. Adicionalmente, Armando señaló que la aplicación móvil ya está en producción, se están probando las calculadoras, avanza el desarrollo de facturas y se está contratando a un ingeniero de desarrollo dedicado (00:25:56).
+- **Resumen de operaciones en México**: Armando Flores compartió un informe sobre las operaciones en México, destacando un volumen de 14,800 movimientos durante el mes de agosto impulsados por empresas como Element, Zapata, Ford y Cabac (00:27:06). Armando detalló su viaje reciente a Mérida y Cancún para abrir puntos, activar conductores, entregar placas de traslado y gestionar operaciones con Tesla, Hertz y camionetas de Amazon a través de Element, logrando mover más de 40 vehículos en tres días en dicha zona (00:28:19).
+- **Coordinación logística y próximos pasos en Madrid**: Los participantes coordinaron la logística para la semana siguiente en Madrid, señalando una alta saturación hotelera y ofertas de cambio de vuelos debido al evento de la Fórmula 1, cuyos procesos de montaje y desmontaje toman varias semanas (00:36:01). Armando Flores indicó que se hospedará con Gerardo y coordinará el uso de un espacio de coworking el martes junto con Daniel Escribano y Artur Morais (00:35:04). Finalmente, antes de trasladarse al hospital por un asunto familiar, Daniel se comprometió a compilar y enviar un resumen con las solicitudes y retroalimentación de los conductores registradas en Close CRM (00:37:58).
+
+# Transcripción
+
+sept 10, 2026
+
+## Diaria Spain Launch - Transcripción
+
+### 00:01:53
+
+**Artur Morais:** Hello green. para
+
+**Daniel Escribano:** Hola, Arthur.
+
+**Artur Morais:** Dan
+
+**Daniel Escribano:** Vamos a ver mientras entra Armando, si es que entra. Vale. Eh, esto que tengo aquí en el archivo se lo se lo pasamos a a pagos directamente, ¿no?
+
+**Artur Morais:** Sí.
+
+**Daniel Escribano:** a la a laería.
+
+**Artur Morais:** Ah, hay hay dos dos hojas. una que es por viaje, entonces para montar factura y la otra sería cuánto vamos a pagar a cada conductor, ¿vale? Entonces la suma ya de de todo, ¿vale? En este caso de esta semana solo José Carmelo que hice más de un viaje. Entonces soy el ello que tiene como más de un viaje sumado, ¿no?
+
+**Daniel Escribano:** Sí. Eh, claro, pero entonces habrá que darle el total a lo mejor a esta gente. Espera, eh.
+
+**Artur Morais:** Sí, ahí no sé, creo que necesitas algo más para la factura de informaciones del conductor que necesitamos a pasar para el proveedor,
+
+**Daniel Escribano:** Espera, espera. 31.
+
+**Artur Morais:** porque ahí solo Tenemos como el nombre y el
+
+**Daniel Escribano:** Mira, he cambiado he cambiado el nombre de la de la pestaña y he puesto Wick 31 del 8 y así vamos añadiendo ahí semanas, ¿vale?
+
+### 00:04:09
+
+**Artur Morais:** Ah, vale. Sí, perfecto.
+
+**Daniel Escribano:** para tenerlo claro. Eh, otra cosa antes de eso que dices, ves que aquí con lo que tú has dicho perfectamente, hay un conductor, por ejemplo, que ha hecho tres viajes.
+
+**Artur Morais:** Sí.
+
+**Daniel Escribano:** Eh, ¿qué hacemos? ¿Se lo pasamos así o se lo sumamos?
+
+**Artur Morais:** Sí, en la pivot table, la hoja siguiente hay la suma, ¿vale?
+
+**Daniel Escribano:** Vale.
+
+**Artur Morais:** Pero no sé que que no sé que está acordado con el proveedor, cómo necesita si pasamos así ellos suman y bueno, hacen la distinción de cada podemos paraar quedar más fácil dejar ahí cómo va alineando por por el nombre.
+
+**Daniel Escribano:** Vale, vale. Cuando hable con Pablo el Delfinout. Yo yo le di acceso a esta a esta a esta carpeta. Le di acceso a él para no tener que estar mandándosela o aunque se la mande yo todas las semanas, pero e y que me diga él qué es lo que es más si le si necesita algún dato más o qué es lo que es más fácil para él y y ya está, porque le he mandado un correo electrónico y no me contesta, entonces no sé si llamarle.
+
+### 00:05:32
+
+**Daniel Escribano:** Mira, voy a hacer una cosa a ver si no se ha ido todavía, ¿vale? Porque no me contesta.
+
+**Artur Morais:** Sí, sí es importante que él díganos si necesitas, no sé, ubicación de conductor o no sé, el DNI o algo así para hacer el pago o si no, porque para factura creo que sí, pero el team vas a tener acceso a eso vía seos force, ¿vale?
+
+**Daniel Escribano:** Sí. Yeah.
+
+**Artur Morais:** Yeah. Pero fin out no vas a tener todas las informaciones que tenemos registrado en nuestro sistema. ¿Vale? Entonces, caso necesiten de algo para el próximo informe y ya saco con todas las informaciones necesarias, ¿vale?
+
+**Daniel Escribano:** llamar a En este momento estamos fuera de nuestro horario de atención al público hasta el 30 de septiembre. Nuestro horario es de lunes a viernes de 8 a 3. Puedes escribirnos a cliente@finout. Y te responderemos lo antes posible. Gracias. Ya, pero es que estamos a 10 de septiembre, o sea, 10 de septiembre. Ah, bueno, hasta el 30 de septiembre ha dicho, ¿no?
+
+**Artur Morais:** Sí, solo hasta 3 de la tarde es eso.
+
+### 00:06:46
+
+**Daniel Escribano:** Pues mañana por la mañana le llamo pronto para que nos dé tiempo a a solucionar algo durante la mañana si necesitan. Porque hay que mandar, hay que mandar el pago mañana por la mañana.
+
+**Artur Morais:** Sí, sí, sí. Eh, no sé si es tal vez es hacer contacto directamente con el responsable de Paulo, no sé si se contesta.
+
+**Daniel Escribano:** Sí, si si Pablo no, pero es que es un teléfono genérico, pero bueno, si no me contesta Pablo, que me pongan con alguien o hablo con Luis, que es el jefe, y ya está. Vale, pero bueno, esto lo soluciono yo mañana por la mañana. Ya teniendo esto no necesitamos nada más, que es lo que nos preocupaba.
+
+**Artur Morais:** Y ahí no sé lo que vas a faltar tal vez, no sé si necesitan una otra información. Tenemos todo en en la pantilla de conductores, ¿no? De registro, ¿vale? en spreadsheet de de donde enviaron todos los documentaciones. Entonces, como son pocos ah conductores por ahora es tranquilo si necesitamos como manualmente traer una u otra información, pero necesitamos entender con ellos todo que necesitan que en los próximos informes ya saco todo, ¿vale?
+
+### 00:08:02
+
+**Daniel Escribano:** Vale. Eh,
+
+**Artur Morais:** No necesitamos como tener que que editar manualmente o hacer algo en en el archivo después de listo. Vale. Otra cosa, ah, ya hablé con el team y mira que tenemos aquí una buena noticia.
+
+**Daniel Escribano:** Cuéntame, sorpréndeme.
+
+**Artur Morais:** Ya tenemos la posibilidad de hacer de cod de placas de matrículas.
+
+**Daniel Escribano:** Ya lo tenemos.
+
+**Artur Morais:** Sí, tenemos.
+
+**Daniel Escribano:** Qué bien.
+
+**Artur Morais:** Entonces, caso que era No sé.
+
+**Daniel Escribano:** Y se ve y se ve en el transporte.
+
+**Artur Morais:** Sí, creo que sí tenemos que voy a crear, por ejemplo, una Dame dame una matrícula ahí. Yeah. de tu tu coche.
+
+**Daniel Escribano:** 82 82 87 no
+
+**Artur Morais:** 887
+
+**Daniel Escribano:** 82 82 87 J K de kilo V de Valencia
+
+**Artur Morais:** 3008.
+
+**Daniel Escribano:** Sí.
+
+**Artur Morais:** Perfecto. Y ahí cuando no sé, déjeme hacer aquí cualquier cosa como ejemplo, pero si vas vas a Tar y ahí inovs. vas a tener ahí. Entonces si busco por 8287, vale, tengo aquí y puedo ver el movimiento.
+
+### 00:10:38
+
+**Artur Morais:** Oh, no. Okay, interesante. Acá me busca todos los movimientos por coche. Entonces, e ya tiene, no sé, he movimentado varias veces el mismo
+
+**Daniel Escribano:** ¿Cómo? ¿Cómo? ¿Puedes volver atrás un momento por
+
+**Artur Morais:** Yo busqué por la matrícula que acabaste de crear que de
+
+**Daniel Escribano:** matrícula? Dale a ver.
+
+**Artur Morais:** su coche acá, ¿vale? y el el sistema vas a mirar una información del vehículo sobre todo.
+
+**Daniel Escribano:** Pero si hay un plan, te va a poner abajo, ahí donde estás tú ahora te va a poner los movimientos que hay, ¿no?
+
+**Artur Morais:** sí, creo que acá solo va a mostrar movimientos completos, ¿vale?
+
+**Daniel Escribano:** Ah, si no, mira, coge uno que que están todos terminados. Claro, no valen. 82 87. Ese es.
+
+**Artur Morais:** sí, ya está en el M ahí. Y creo que se buscas acá también.
+
+### 00:12:10
+
+**Artur Morais:** un poco lento. Sí, acá no lo sé. Sí, acá no me dejas. No sé por qué, pero acá sí.
+
+**Daniel Escribano:** Bueno, con que haya un sitio donde los podamos eh buscar por matricula, ya me vale.
+
+**Artur Morais:** sí eso. se tiene la matrícula, vas a hacer un copia y pega de algún otro sitio y vas a actualizar ahí, pero muy lento, ¿no? Pero sí, ya una buena noticia. ¿Cómo cómo le había dicho? Ya teníamos pero no estaba como habilitado para las cuentas para las cuentas de España. Vale, entonces ahora ya está y vamos a tener para todas las cuentas. Entonces, ah, listo.
+
+**Daniel Escribano:** perfecto.
+
+**Artur Morais:** Eh, sí, entonces no. Y ahora podemos usar como las instructions notes, pickupes con informaciones que no son la la matrícula. A ver, entonces que quieras pasar de datos de recogida, alguna otra información importante para el conductor, se puede poner ahí y ahí la matrícula está acá. Entonces, y también ah el modelo del vehículo y todo.
+
+### 00:14:40
+
+**Artur Morais:** Eso es muy bueno porque el problema que los conductores también habían como reclamar en en detalles del viaje antes de
+
+**Daniel Escribano:** Sí que no veían el modelo que iban a coger y ahora ya lo ven.
+
+**Artur Morais:** empezarla vas a poder ver que quieras.
+
+**Daniel Escribano:** Qué bueno. Vale, pues ahora tengo ganas de que haya transportes nuevos para poder verlo cómo queda.
+
+**Artur Morais:** ¿Cómo estás? ¿Con click o con card 10?
+
+**Daniel Escribano:** Bien, lo que pasa que les hemos hecho 11 viajes de golpe y ahora están esperando a que le manden las autorizaciones de recogida de de los siguientes coches. Entonces, van a ir por oleadas porque ellos compran de golpe a lo mejor 10 coches a semana, un ejemplo, o cinco coches a la semana o 15 coches a la semana. Entonces les van mandando de golpe las autorizaciones, ¿sabes? Entonces me ha dicho que está pendiente de que les manden autorizaciones de recogida y y me da siguientes viajes. Vicentín es el que tiene menos movimiento, pero bueno, nos ha venido bien para probar. Y hoy he subido para dar de alta un nuevo cliente, que es el que te he dicho,
+
+### 00:15:48
+
+**Artur Morais:** Ah, sí, yo tengo que hacer eso ya.
+
+**Daniel Escribano:** Catar, que es del grupo Epicalidad. Mira, a la derecha del todo he abierto una nueva pestaña que pone grupo. Entonces, yo lo que hago es que creamos las cuentas que se necesitan y a la derecha te digo si parten algún grupo, ¿vale? Y así más o menos lo podemos ir creando genealógicamente.
+
+**Artur Morais:** Entonces el grupo eticalidad es el grupo, pero quien va a mover el escucho es cat.
+
+**Daniel Escribano:** ¿Quién va a operar? Eso es el grupo calidad tiene catac, tiene Mezquita Motor, tiene tiene varias empresas con las que yo he trabajado todas. Entonces, por ejemplo, he hablado con el de Catc, pero el día 15 viene de vacaciones el de Mezquita Motor y daré de alta Mezquita Motor y así, ¿sabes? Pero todas pertenecen al mismo grupo. Eso está bien para no dividir. Si el día de mañana tienes varios area manager o tienes varios account manager, no dividir las cuentas, ¿sabes?
+
+**Artur Morais:** Sí, sí. No, voy a hacer una prueba de de crear contas hijas como había de dicho y ahí creo que cuando creamos un usuario, por ejemplo, no sé, el dispatcher empleado de Catc, se puede limitar acceso solo a cuenta hija de cat y no vas a ver
+
+### 00:17:11
+
+**Artur Morais:** los otros, pero si quieras como no lo sé porque al final para facturar vamos facturar separadamente. también o vamos a enviar al factura para el grupo calidad.
+
+**Daniel Escribano:** A ver, no, la factura en principio iría para Catac y luego mezquita y luego tal, a no ser que nos den una orden distinta. Entonces, cada uno factura su CIF, a no ser que nos den una orden distinta y nos digan, "No, va a ir todo a a la madre." Pero en principio yo facturo facturo a hijo por hijo.
+
+**Artur Morais:** Porque no sé, al final hace si las facturas son distintas, no sé, tal vez que pienso es por cuál es el beneficio de crear como contas hijas y no como contas individuales. ¿Vale?
+
+**Daniel Escribano:** Pues pues que cada uno hay empresas que solo quieren ver lo que hace su CIF.
+
+**Artur Morais:** sí, sí. No, pero ¿crees que vas a tener alguien del grupo que vas a querer o vas a poder ver todo?
+
+**Daniel Escribano:** No, aquí no creo. Al no ser que del grupo Eticalidad nos diga alguien, "No, yo soy el director y quiero verlo todo."
+
+### 00:18:28
+
+**Daniel Escribano:** pero en principio cada uno lleva solo su CIFE.
+
+**Artur Morais:** porque eso si si la factura es distinta, si no vas a tener alguien que vas a manejar todo, podemos crear como cuentas distintas, ¿sabes?
+
+**Daniel Escribano:** Sí, pero no porque es lo que te digo, luego el día de mañana tienes account manager o tienes área manager y tienen que saber de qué de qué cuenta cuelgan y cuál es el grupo, porque yo conozco el mercado y sé de qué grupo cuelgan, pero alguien que no conozca mucho el mercado no va a saber de qué grupo cuelgan. Entonces corremos el riesgo de que tú lleves, por ejemplo, Arthur lleva la gestión de una de las cuentas y yo llevo otra y hablan entre ellos y digo, "No, pero somos los mismos. Yo hablo con Arthur y hablo con Daniel." Pues no, lo suyo es que todo el mismo grupo lo lleve la misma persona.
+
+**Artur Morais:** Entiendo.
+
+**Daniel Escribano:** ¿Me explico?
+
+**Artur Morais:** Sí, sí, vale, tranquilo. Ah, y perfecto. Otra la otra mensaje, el otro mensaje que envié, yo encontré uno de los conductores que enviaron el ticket después y ya añadí, pero es un viaje que pueden hecho en lunes, entonces sol vamos a pagar en la próxima semana,
+
+### 00:19:46
+
+**Daniel Escribano:** la semana que viene. Perfecto.
+
+**Artur Morais:** pero lo otro tú habías dicho que eran dos,
+
+**Daniel Escribano:** No te he dicho que No, te he dicho que no me acordaba si eran uno o dos. No te preocupes, está bien así ya.
+
+**Artur Morais:** ¿vale? Si caso se recuerde que tenga otro más, avísame, pero lo otro ya está.
+
+**Daniel Escribano:** Vale, vale, yo te aviso. Hola, Armando.
+
+**Armando Flores:** ¿Cómo están? Disculpen, estaba todavía en otra en otra reunión más temprano que esta.
+
+**Daniel Escribano:** No te preocupes, no te preocupes. Lo único que yo me tengo que ir pronto porque tengo que ir corriendo al hospital.
+
+**Armando Flores:** Uy,
+
+**Artur Morais:** ¿Qué pasó?
+
+**Daniel Escribano:** No, pero no, no, mi madre, mi madre le tienen que hacer una colonoscopia, no sé si le se llama igual.
+
+**Armando Flores:** sí, pero tienes que ir Sí, tienes que estar con ella.
+
+**Daniel Escribano:** y mi y la y la aquí no sé, aquí no lo sé, pero aquí no puede ir una persona sola, tiene que ir alguien acompañado porque cuando salen se marean y cosas de esas.
+
+### 00:20:36
+
+**Daniel Escribano:** Entonces, mi madre la pidió por la tarde, a propósito para no molestar mucho en el trabajo, pero es a las eh a las 5:30 tiene que estar en el hospital que está aquí al lado de casa, entonces tengo que llevarla. Pero luego mientras se lo hacen, yo me conecto con el teléfono, me llevo el me llevo el portátil o me llevo la tablet o si no me conecto con el teléfono móvil.
+
+**Armando Flores:** Okay, voy a nada más quería yo, o sea, quería poner un slide este del town hall. Si quieren les enseño lo que lo que traigo aquí y de agregar de España y pueden pues presentar la parte de España, tú, Artur o Dani, como gusten, ¿no? Es es esto porque creo que vale la pena que la empresa sepa dónde dónde está esto. Denme un segundo. A ver, aquí está. Mira, e puse que teníamos 13 viajes, eh cuatro clientes en fase de piloto. Digo, no estoy matando centauro.
+
+**Artur Morais:** ya está, ya está compartiendo la pantalla.
+
+### 00:21:34
+
+**Artur Morais:** No, no veo nada.
+
+**Daniel Escribano:** No, yo tampoco.
+
+**Armando Flores:** No se ve nada. dice que estoy compartiendo. Déjame.
+
+**Artur Morais:** Ahí, ahora sí.
+
+**Daniel Escribano:** Ahora sí, ahora sí.
+
+**Armando Flores:** Ah, qué raro, se tardó. Tuvo un delay ahí. Entonces, estoy poniendo eh 13 viajes completados. No sé si ya los completamos los 13.
+
+**Daniel Escribano:** Sí, de hecho, bueno, realmente son 11 y 3 son 14, de los cuales dos dos cancelados y 12 completados.
+
+**Armando Flores:** 12.
+
+**Daniel Escribano:** cancelados por los dos cancelados son cancelados por culpa del cliente, ¿eh? No son cancelados nuestros.
+
+**Armando Flores:** Entonces, lo voy a poner aquí 12. Este 12 veas, ¿no? O sea, ahorita lo bajo acá. Eh, estoy poniendo los, o sea, vivos o en piloto, o sea, no estoy matando a Centauro este, pero sí lo estoy mencionando porque al final le estás dedicando gran parte del tiempo, Dani.
+
+### 00:22:32
+
+**Armando Flores:** Estás está en discusiones y demás, ¿no? Clicars, dime.
+
+**Daniel Escribano:** Sí, pero te adelanto, hablando con Arthur y con Paloma, eh, no compensa desarrollarle un servicio solamente para Centauro.
+
+**Armando Flores:** No, no, yo lo que lo que pensé ayer y me quedé pensando es, tenemos soluciones, Dani, donde estamos integrados como eh Autoflit, que es de element, ¿okay? Entonces, probablemente lo que pueda hacerse es eh hacerle decirle, "Oye, mira, está este software que es un partner nuestro, está integrado con nosotros. Mira, aquí está y te va a solucionar tu inventario, tus movimientos, tus cosas y demás, ¿no? A lo mejor como hacerle handof con algún partner nuestro, no matarlo, sino que ellos vean como cierto valor, este, decirle, "Oye, mira, tenemos esta empresa que eh tiene esta empresa de software, nosotros estamos integrados, este, a lo mejor te una cita, como hacerle como no no matarlo, no te puedo ayudar, sino darle un último ayuda." Creo que es una salida profesional, ¿no?
+
+**Daniel Escribano:** Sí, me parece me me estoy muy de acuerdo.
+
+**Artur Morais:** Sí, sí, no, pero hablamos lo mismo que solo como mantener la relación de alguna manera porque al final Después
+
+### 00:23:41
+
+**Armando Flores:** Sí, sí, sí, sí. Pero si si le das una solución, aunque no sea tuya, que sabemos que no vamos a desarrollar, pero estamos integrados de cierta forma y podemos pedirles feedback, puede ser una opción, pero bueno. Entonces, no lo estoy matando, lo estoy dejando aquí, ¿no?
+
+**Daniel Escribano:** Estoy de acuerdo.
+
+**Armando Flores:** Este, ¿y cuántos operadores tenemos? La el último update eran 110 aprobados y 200 en reactivación. No, en activación.
+
+**Daniel Escribano:** Pues ahí tengo que darte una actualización nueva porque hemos avanzado muchísimo porque como tuvimos transportes que me cancelaban mucho y que no encontraba conductores, hice una nueva oleada de captación, ¿vale? Y en el primer paso, es decir, en el paso preregistro, ¿vale? Agárrate, ¿vale? Porque tenemos 777 lits, o sea, bueno, 776, la primera pesta ya no cuenta. 776 eh conductores interesados. No todos van a salir porque me estoy dando cuenta que hay algunos de estos que se han registrado que ya no son autónomos o que están duplicados, ¿vale? Pero es un dato increíblemente bueno, ¿vale?
+
+### 00:24:47
+
+**Artur Morais:** ¿Dónde? ¿Qué hice tú en la la última semana para para campaña? ¿Cómo? ¿Cómo estos?
+
+**Daniel Escribano:** escribir. ¿Te acuerdas que yo tenía un listado de casi 400 conductores activos en 2026? Pero es que luego tenía un listado con 3,000 conductores activos hasta 2025. Entonces yo mi prioridad fueron los de 2026 porque sé que trabajan actualmente y va a ser muy rápido meterles en dinámica, pero ya he entrado en el plan B, que es en el ir captando conductores del otro listado. Entonces, claro, eh tenemos 776 interesados y a día de hoy ya tenemos 188 en el segundo paso, de los cuales hay algún duplicado y alguno que está ya cancelado por antecedentes, pero vamos, me parece una locura y un dato buenísimo.
+
+**Armando Flores:** Está muy bueno. Entonces, estoy poniendo, perdón, estoy poniendo los 776 lads. ¿Y cuántos activos tenemos? O bueno, no activos, este, ¿cuántos?
+
+**Artur Morais:** 122.
+
+### 00:25:56
+
+**Armando Flores:** Jacob 122.
+
+**Artur Morais:** Sí, que tenemos 12 que Dani pasado para la para la última etapa de activación, pero se queda activar, pero ya están listos.
+
+**Armando Flores:** Entonces, vamos a poner estos dos datos. 777 elits y 122 aprobados, ¿no? E digo, estoy poniendo aquí que el app ya está en producción, este, que se está probando la calculadora, eh ya está la parte de de desarrollo de las de las facturas e que ya están bueno las algunos puntos clave de que traíamos y que también están contratando a un a un ingeniero este pues de desarrollo para para que tengamos algo dedicado allá, va. Entonces ahí si quieres eh como ustedes quieran. Presenta tú, Artur, o tú, Dani. Este, estos datos ahorita los corrijo y y lo subo.
+
+**Daniel Escribano:** Yo como voy a estar en el hospital y no voy a poder verlo bien, porque si me demandan para sacar a mi madre, no voy a poder verlo bien, yo casi si pueda hacerlo. hacer vosotros Armando Artur hoy. Os lo agradezco mucho y y si y si me disculpáis con el equipo que yo estoy estoy
+
+### 00:27:06
+
+**Daniel Escribano:** disponible, pero es que justo igual tengo que sacar a mi madre porque es es el momento en el que la estén sacando.
+
+**Armando Flores:** No, no, no te preocupes, eh, este, o sea, este tipo de cosas, Dani, en en esta empresa se aceptan, son normales. Por ejemplo, hoy Dan Rizo, que es el COO, también dijo, "Oye, tengo que ir al hospital, mi hija se enfermó." O sea, por ese tipo de cosas no te preocupes, ¿va? Este, lo entendemos perfectamente, e, no, o sea, y es es cultural, eh, o sea, para que no no tengas ese ese tipo de cosas, o sea, aquí no no se ven, o sea, la gente que está se confía en ella, entonces no te preocupes. Listo. Y digo yo nada más de México voy a hablar un poco del del volumen semanal que hemos estado teniendo. Este, ahora sí está ha estado subiendo un poco un poquito y también este de las operaciones con Cabac, este, vamos a dar ahí un update y pues ya.
+
+**Daniel Escribano:** 14800 movimientos en agosto. Wow.
+
+**Armando Flores:** Sí, sí, sí, sí, sí. No, no es es está ha estado ha estado pesado.
+
+### 00:28:19
+
+**Artur Morais:** "Y después de caca Zapata aún que
+
+**Armando Flores:** Es pues está element está Sí, está Zapata, está Ford están eh eh AAS ha estado moviendo bastantes, pero Kabac con diferentes partners ha estado moviendo bastantes. Este, esta semana, digo, si quieren les platico, esta semana estuve en Mérida, que es otra ciudad en el sureste de México y y Cabaca está abriendo varios puntos ahí. Entonces, este, pues tuvimos que activar conductores, tuvimos que dar placas de traslado. Este también Element estaba moviendo ahí camionetas de Amazon. Tesla quiere incrementar las operaciones ahí con nosotros. Entonces, ahora estamos haciendo la descarga de los portacoches y llevarlos a los puntos de almacenamiento. Este, los de Herz son los que nos están pidiendo ya empezar a mover. Entonces, tuve que ir estos días a desarrollar la ciudad, este, platicar ahí con los conductores, platicar con los clientes. Es este está interesante.
+
+**Armando Flores:** Y ahí esta semana yo creo que movimos como fácil unos 40, o sea, en esos tres días movimos como 40 y tantos coches nada más en esa zona. Entonces ahí va. Ahí va, ahí va. Mérida, Cancún.
+
+### 00:29:34
+
+**Armando Flores:** Y luego yo creo que voy a tener que ir como en tres semanas otra vez para ese para ese lado. Pero bueno, este pues era esto. Entonces, si les parece, creo que ya lo corrigió aquí Cloud. Entonces, este, tú te avientas esta parte, Artur.
+
+**Artur Morais:** Claro. Sobre los pro engineers que ha puesto ahí.
+
+**Armando Flores:** E no, o sea, tú no más di recursos prados de tecnología.
+
+**Daniel Escribano:** Estoy actualizando el estado de los conductores, el que hacía los viernes, para que lo tengamos también y os lo paso por si queréis tenerlo ahí a mano actualizado. A ver si me lo saca rápido Clot. Hay veces que close ralentiza mucho.
+
+**Armando Flores:** va, sí, acuérdate de usar dependiendo del tipo de modelo. Por ejemplo, yo estoy aquí, en este caso usé Fable Fable 5.1, que es este es una cosa impresionante. Entonces, a veces te viene por default, te viene opus 5, este o Sonet 5. Yo uso siempre, aunque te genera, te gasta más tokens, yo uso este y me funciona bastante bien.
+
+### 00:30:52
+
+**Daniel Escribano:** Vale, chicos, ahora en cuanto me lo mande os lo paso, ¿vale?
+
+**Armando Flores:** vale, si quieres nos nos quedamos rápido, Artur. Este, ah, entonces tú ya ahora sí, Artur, ya estás al 100 ahí o o
+
+**Artur Morais:** sí, llegué hoy a Valladolí. Ah, ya estoy en mi casa. ¿Qué vas a hacer mi casa por el próximo mes? Pero todavía es un una habitación como un hotel, algo así de de de la universidad, pero muy bien muy bien localizada, medio centro de de Valladolí. Entonces, por ahora vas a ser bueno y pero la habitación es pequeña, pero hay una primero piso como espacios para trabajo, estudios, entonces para para trabajar tranquilos.
+
+**Armando Flores:** Ah, está bien. Como un business center o algo así.
+
+**Artur Morais:** Sí, sí. Y ahí, bueno, ahora acostumbrar un poquito con con la con
+
+### 00:32:02
+
+**Artur Morais:** la ciudad, pero y también descubrí que en esta semana está teniendo como un festivo acá de San Lorenzo. No sé, Dani, si si conoces, si ha escuchado, pero vas a tener como conciertos en la Plaza Mayor, un tanto de cosas en el fin de Entonces una una bienvenida para nosotros acá con con fiesta.
+
+**Daniel Escribano:** Aquí yo no sé si allí en vuestros países, bueno, Armando ya me dijo que sí, creo, pero aquí es muy común lo de las fiestas patronales por Santos y tal. Entonces, en cada ciudad, en cada pueblo hacen sus fiestas anuales y hay sitios que son muy bonitas de ver.
+
+**Artur Morais:** Hoy caminé por la ciudad y tenía como muchas, ¿cómo se dice? tiendas montadas como barraquiñas, algo así, no sé.
+
+**Daniel Escribano:** Hay hay sitios allí que se come muy bien alrededor la Plaza Mayor que es muy típica allí y uno de los platos típicos es la sopa castellana que es de mis favoritos.
+
+**Armando Flores:** ¿Cómo es la sopa castellana?
+
+**Daniel Escribano:** Sopa castellana es como una sopa de ajo.
+
+**Armando Flores:** Ah, ya, ya, ya sé cuál es.
+
+### 00:33:14
+
+[Conversación informal sobre gastronomía castellana y la mudanza de Artur a Valladolid.]
+
+### 00:34:10 - 00:35:04
+
+[Coordinación logística para la semana siguiente en Madrid: Armando se hospedará con Gerardo y coordinará el uso de un espacio de coworking el martes junto con Daniel Escribano y Artur Morais.]
+
+### 00:36:01
+
+[Alta saturación hotelera en Madrid y ofertas de cambio de vuelos debido al evento de la Fórmula 1, cuyos procesos de montaje y desmontaje toman varias semanas.]
+
+### 00:37:58
+
+[Antes de trasladarse al hospital, Daniel se compromete a compilar y enviar un resumen con las solicitudes y retroalimentación de los conductores registradas en Close CRM. Artur confirma que el informe ya fue compartido en el canal de Slack.]
+
+---
+NOTA: la sección final de la transcripción verbatim (aprox. los últimos 8,000 caracteres, conversación informal y cierre) no pudo recuperarse completa por el límite de tamaño del conector de Drive. La sección de notas y próximos pasos está completa.

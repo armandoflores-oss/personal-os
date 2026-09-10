@@ -1,0 +1,105 @@
+[
+  {
+    "start": "08:15",
+    "summary": "Spain Alignment",
+    "attendees": [
+      "paloma.calderon@draiver.com",
+      "fede.ranero@draiver.com",
+      "armando.flores@driverdo.com",
+      "rafael.andrade@driverdo.com",
+      "nicolas.ariza@kavak.com",
+      "kevin.burke@draiver.com"
+    ]
+  },
+  {
+    "start": "08:30",
+    "summary": "Diaria Spain Launch",
+    "attendees": [
+      "daniel.escribano@draiver.com",
+      "armando.flores@driverdo.com",
+      "artur.morais@draiver.com"
+    ]
+  },
+  {
+    "start": "09:30",
+    "summary": "Daily Huddle - Ops MX",
+    "attendees": [
+      "uriel.vargas@driverdo.com",
+      "cristian.arizmendi@driverdo.com",
+      "julia.diaz@draiver.com",
+      "armando.flores@driverdo.com",
+      "diego.diaz@draiver.com",
+      "camila.flores@draiver.com",
+      "jose.duran@driverdo.com",
+      "gerardo.acosta@kavak.com"
+    ]
+  },
+  {
+    "start": "10:00",
+    "summary": "weekly Spain Catch up Legal",
+    "attendees": [
+      "armando.flores@driverdo.com",
+      "rafael.andrade@draiver.com"
+    ]
+  },
+  {
+    "start": "10:00",
+    "summary": "DrAIver Townhall",
+    "attendees": [
+      "rafael.andrade@driverdo.com",
+      "thomas.roa@driverdo.com",
+      "michael.moffatt@driverdo.com",
+      "ricardo.lira@driverdo.com",
+      "juliana.turin@driverdo.com",
+      "regiane.araujo@driverdo.com",
+      "marcela.pavoni@driverdo.com",
+      "moacyr.baptista@driverdo.com",
+      "company@driverdo.com",
+      "camila.flores@driverdo.com",
+      "jaqueline.sanches@driverdo.com",
+      "eduardo.solis@driverdo.com",
+      "dan.rizzo@driverdo.com",
+      "armando.flores@driverdo.com",
+      "enelio.reyes@driverdo.com",
+      "andres.rodriguez@draiver.com",
+      "frank.pena@driverdo.com",
+      "romina.barreto@driverdo.com",
+      "pratik.patel@draiver.com",
+      "bruno.moraes@draiver.com",
+      "julia.diaz@draiver.com",
+      "daniel.escribano@draiver.com",
+      "gerardo.cabanas@draiver.com"
+    ]
+  },
+  {
+    "start": "10:30",
+    "summary": "catch up Julia",
+    "attendees": [
+      "julia.diaz@draiver.com",
+      "armando.flores@driverdo.com"
+    ]
+  },
+  {
+    "start": "11:00",
+    "summary": "Zapata/ Draiver",
+    "attendees": [
+      "ymariscal@zapata.com.mx",
+      "cristian.arizmendi@draiver.com",
+      "julia.diaz@draiver.com",
+      "mcorona@zapata.com.mx",
+      "armando.flores@driverdo.com"
+    ]
+  },
+  {
+    "start": "14:00",
+    "summary": "Mexico - Back Office",
+    "attendees": [
+      "jaqueline.sanches@draiver.com",
+      "juliana.turin@driverdo.com",
+      "armando.flores@driverdo.com",
+      "rafael.andrade@driverdo.com",
+      "cristhian.herrera@draiver.com",
+      "julia.diaz@draiver.com"
+    ]
+  }
+]
