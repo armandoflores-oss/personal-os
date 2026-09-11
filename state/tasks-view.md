@@ -13,11 +13,9 @@
 - **T-9** CARTA RESPONSIVA · esperando a Julianna
 
 ## Reuniones España
-- **T-20** Revisar con Artur y Dani el cálculo de pagos a conductores España (viajes lun-dom semana pasada) para que Dani pase a Finout el viernes 11 · vence 2026-09-10
 - **T-22** Confirmar con Clicars cómo mandarán shipper, carrier y peso por vehículo (bloqueante del MVP levantado por Deca/Paloma); propuesta: misma sábana en columnas separadas
 - **T-35** Se decidió desarrollar un producto mínimo viable utilizando scripts automatizados antes del 5 de octubre.
 
 ## Pipeline estratégico
-- **T-24** Re: Draiver Facturación JULIO 2026 - Zapata Logistics
-- **T-31** Re: FORD MX -DRAIVER -MEXICO OPERATION 2A
+- **T-31** Re: FORD MX -DRAIVER -MEXICO OPERATION 2A · esperando a Uriel
 

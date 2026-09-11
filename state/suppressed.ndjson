@@ -343,3 +343,7 @@
 {"detail": "", "item_id": "1a09257883a65d24", "reason": "sin_compromiso", "source": "gmail", "subject": "COTIZACIÓN NESTLÉ CASO EL 5066", "ts": "2026-09-11T21:55:57+00:00"}
 {"detail": "", "item_id": "1a0920f9f6529443", "reason": "sin_compromiso", "source": "gmail", "subject": "RE: PROPUESTA COMERCIAL_ Servicio de traslados interestatales y verificaciones_ DRIVERDO", "ts": "2026-09-11T21:55:57+00:00"}
 {"detail": "\\by si\\b", "item_id": "1a0922c5c0f1a103", "reason": "exploratorio", "source": "gmail", "subject": "RE: Envío de cierres de mes – Mayo a Agosto", "ts": "2026-09-11T21:55:57+00:00"}
+{"detail": "", "item_id": "1a092781cbdbe000", "reason": "sin_compromiso", "source": "gmail", "subject": "Alert: Suspicious activity for Mauricio Avelar Palafox", "ts": "2026-09-11T23:56:17+00:00"}
+{"detail": "", "item_id": "1a09283763527478", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Alert: Suspicious activity for Mauricio Avelar Palafox", "ts": "2026-09-11T23:56:17+00:00"}
+{"detail": "", "item_id": "1a0928a7c72977bf", "reason": "sin_compromiso", "source": "gmail", "subject": "RE: PROPUESTA COMERCIAL_ Servicio de traslados interestatales y verificaciones_ DRIVERDO", "ts": "2026-09-11T23:56:17+00:00"}
+{"detail": "^\\s*invitation:", "item_id": "1a092c031d8a8039", "reason": "meta", "source": "gmail", "subject": "Invitation: Fixed / Warranty - Drivers @ Mon Sep 14, 2026 11am - 12pm (CST) (Armando Flores)", "ts": "2026-09-11T23:56:17+00:00"}

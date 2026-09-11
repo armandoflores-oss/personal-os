@@ -83,7 +83,7 @@
  "14a781eada69": {
   "action": "enviar",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-24",
   "counterparty": "ford",
@@ -91,7 +91,13 @@
   "domain": "pipeline-estrategico",
   "due_date": null,
   "evidence": "Re: Draiver Facturación JULIO 2026 - Zapata Logistics\nBuenas tardes Marcelo, a continuación te comparto observaciones.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "archivado: no aplica",
+    "ts": "2026-09-11T22:08:52+00:00"
+   }
+  ],
   "owner": "Marcelo",
   "snoozed_until": null,
   "source": "gmail:1a0825177316e127",
@@ -141,7 +147,7 @@
   "task_id": "3414689d651a",
   "title": "Re: FORD MX -DRAIVER -MEXICO OPERATION 2A",
   "vetoed": false,
-  "waiting_on": null
+  "waiting_on": "Uriel"
  },
  "3ca495d3259a": {
   "action": "otro",
@@ -229,11 +235,17 @@
   "domain": "reuniones-espana",
   "due_date": "2026-09-10",
   "evidence": null,
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "evidencia: se ejecutó y se pagó hoy 11 sep",
+    "ts": "2026-09-11T22:08:51+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": "2026-09-10",
   "source": null,
-  "status": "open",
+  "status": "done",
   "task_id": "4d18669f0ff2",
   "title": "Revisar con Artur y Dani el cálculo de pagos a conductores España (viajes lun-dom semana pasada) para que Dani pase a Finout el viernes 11",
   "vetoed": false,
@@ -251,7 +263,7 @@
   "due_date": null,
   "evidence": "Les comparto el resumen de la actividad del mes de agosto, para su revisión.",
   "notes": [],
-  "owner": null,
+  "owner": "Finanzas",
   "snoozed_until": null,
   "source": "gmail:1a08d0286475b365",
   "status": "open",
@@ -320,7 +332,7 @@
   "due_date": null,
   "evidence": "Se decidió desarrollar un producto mínimo viable utilizando scripts automatizados antes del 5 de octubre.",
   "notes": [],
-  "owner": null,
+  "owner": "Artur",
   "snoozed_until": null,
   "source": "drive:1LqJm2v5DgnKdqsIB5EmoHvY1lLD4whSElSXMClZDzps",
   "status": "open",
@@ -389,7 +401,7 @@
   "due_date": null,
   "evidence": "De: Ubaldo Jahir Garza Oviedo <ubaldojahir.garza@cemex.com> (28 ago 2026): Te comparto la informacion de la unidad CA2138.",
   "notes": [],
-  "owner": "Jose Duran",
+  "owner": "José Durán",
   "snoozed_until": null,
   "source": "gmail:1a0830ea2e4f5574",
   "status": "open",
