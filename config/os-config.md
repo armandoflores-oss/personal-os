@@ -32,7 +32,7 @@ Enforcement (must live in script code as a constant, `FIREWALLED_DOMAINS`, never
 
 ## 3. The one surface
 
-- **Daily brief at 07:00, America/Mexico_City** (cloud cron in UTC: verify DST handling at Phase 3).
+- **Daily brief at 09:00, America/Mexico_City** (moved from 07:00 on 2026-09-11 at Armando's request: the routines are local and the laptop is rarely on at 7). No DST since 2022; the scheduler takes local-time cron.
 - **Brief language: Spanish** — tuteo, direct, English business terms acceptable (pipeline, deal, RFP).
 - **System/technical content: English** (scripts, comments, system docs, this file).
 - **Memory tree default language: English**, single-language per anti-drift rule; client-native terms stay in Spanish (tarifas, madrinas, etc.). Proposed by Claude, not explicitly ratified — see open question OQ-2.

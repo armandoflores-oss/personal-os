@@ -1,6 +1,6 @@
 ---
 name: brief-personal-os
-description: Brief matutino del Personal OS a las 07:00 CDMX: deposita calendario en cache y renderiza con scripts/brief.py.
+description: Brief matutino del Personal OS a las 09:00 CDMX: deposita calendario en cache, renderiza con routine.py y lo entrega por Slack.
 ---
 
 Brief matutino de Armando. Corre solo. Tú NO redactas el brief: lo redacta un script.
