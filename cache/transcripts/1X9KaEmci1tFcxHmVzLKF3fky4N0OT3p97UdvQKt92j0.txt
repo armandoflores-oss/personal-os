@@ -1,12 +1,19 @@
-# Las notas
+# **ð Las notas**
 
-sept 8, 2026
+ sept 8, 2026
 
-## Diaria Spain Launch
+## **Diaria Spain Launch**
 
-Invitados: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
+Invitado [Daniel Escribano](mailto:daniel.escribano@draiver.com) [Armando Flores](mailto:armando.flores@driverdo.com) [Artur Morais](mailto:artur.morais@draiver.com)
 
-### Resumen
+Archivos adjuntos [Diaria Spain Launch](https://calendar.google.com/calendar/event?eid=MzY3dWlhYW9qYXQxOG5qdjRkcDh2MGEwdjRfMjAyNjA5MDhUMTQzMDAwWiBhcm1hbmRvLmZsb3Jlc0Bkcml2ZXJkby5jb20) [Notes - Diaria Dani/ Armando](https://docs.google.com/document/d/1j5t5mWLyC4RxCiFJqWGKgFX75xHRLXBB2cbRmXrQGI8/edit)
+
+Registros de la reunión [Transcripción](https://docs.google.com/document/d/1X9KaEmci1tFcxHmVzLKF3fky4N0OT3p97UdvQKt92j0/edit?usp=drive_web&tab=t.ne8865grfcu8)
+
+
+
+
+### **Resumen**
 
 Revisión operacional con pagos de conductores y actualizaciones de software para España.
 
@@ -19,28 +26,45 @@ Corrida de pagos a conductores programada para el viernes previa revisión de c�
 **Actualización de aplicación España**
 Lanzamiento de versión con localización para España incluye configuración de precios y metadatos.
 
-### Próximos pasos
 
-- [Artur] Procesar pagos: Calcular los totales de los viajes de la semana pasada y generar la autofactura. Correr el proceso de pago correspondiente.
-- [Artur, Daniel Escribano] Revisar documentación: Analizar la épica completa y el documento de temas abiertos mencionado en la reunión.
-- [Artur, Daniel Escribano] Actualizar aplicación: Instalar la nueva versión de la aplicación y verificar que los cambios de localización sean correctos.
-- [Daniel Escribano] Notificar disponibilidad: Informar a Armando una vez que llegue a casa para iniciar la reunión.
-- [Artur, Daniel Escribano] Preparar piloto Centauro: Coordinar el soporte técnico necesario para el uso del software de servicio durante la sesión del piloto de Centauro.
 
-### Detalles
 
-- **Arranque con Centauro y Disponibilidad de Artur**: Daniel Escribano señala la necesidad de contar con la presencia de Artur para una sesión de arranque de cuatro horas programada para el día siguiente con Centauro, en un horario de 10:00 de la mañana a 2:00 de la tarde. Daniel Escribano expresa su preocupación por el dominio en el uso del servicio de software como servicio para dicho piloto, mientras que Artur se encuentra de vacaciones hasta el día siguiente regresando a Madrid, con la expectativa de que intente conectarse a pesar de la diferencia horaria (00:01:20) (00:08:30).
-- **Proceso de Pagos a Conductores y Reprogramación de Viajes**: Armando Flores y Daniel Escribano discuten la primera corrida de pagos para los conductores y la ejecución de la autofactura. Daniel Escribano explica que un viaje previsto para el día fue cancelado en el momento de su realización y reprogramado para el día siguiente, el cual será cubierto por un conductor llamado Vicentín como un favor (00:02:30). Armando Flores indica que los viajes realizados de lunes a domingo de la semana pasada se pagarán el viernes, con la posibilidad de adelantar los pagos de la semana en curso como excepción. Ambos acuerdan revisar los cálculos el jueves con el respaldo de Artur, para que Daniel Escribano acuda a Finout el viernes por la mañana a gestionar el pago (00:04:07).
-- **Gestión de Datos de Transporte y Observaciones de Paloma**: Armando Flores comparte los comentarios de Paloma y Deca relacionados con temas bloqueados por el negocio, el seguro gestionado por Rafa, y la confirmación pendiente con Clickars sobre la recepción de la información del expedidor, transportista y el peso de cada vehículo (00:05:23). Al respecto, se plantea que dicha información debería manejarse en la misma hoja de cálculo mediante columnas separadas (00:06:50).
-- **Actualización de la Aplicación y Configuración para España**: Armando Flores informa que la versión de la aplicación con los cambios de localización acordados para España se lanzó el día anterior, por lo que Daniel Escribano y Artur deben actualizar sus aplicaciones y verificar los cambios. Adicionalmente, se detalla que el lanzamiento del día incluye la configuración de precios y metadatos para las cuentas de España, permitiendo que los puntos aparezcan correctamente mediante los campos adicionales de metadatos (00:06:50).
+### **Próximos pasos**
 
-# Transcripción
+  - \[Artur\] Procesar pagos: Calcular los totales de los viajes de la semana pasada y generar la autofactura. Correr el proceso de pago correspondiente.
+  - \[Artur, Daniel Escribano\] Revisar documentación: Analizar la épica completa y el documento de temas abiertos mencionado en la reunión.
+  - \[Artur, Daniel Escribano\] Actualizar aplicación: Instalar la nueva versión de la aplicación y verificar que los cambios de localización sean correctos.
+  - \[Daniel Escribano\] Notificar disponibilidad: Informar a Armando una vez que llegue a casa para iniciar la reunión.
+  - \[Artur, Daniel Escribano\] Preparar piloto Centauro: Coordinar el soporte técnico necesario para el uso del software de servicio durante la sesión del piloto de Centauro.
 
-sept 8, 2026
 
-## Diaria Spain Launch - Transcripción
 
-### 00:01:20
+
+### **Detalles**
+
+  - **Arranque con Centauro y Disponibilidad de Artur**: Daniel Escribano señala la necesidad de contar con la presencia de Artur para una sesión de arranque de cuatro horas programada para el día siguiente con Centauro, en un horario de 10:00 de la mañana a 2:00 de la tarde. Daniel Escribano expresa su preocupación por el dominio en el uso del servicio de software como servicio para dicho piloto, mientras que Artur se encuentra de vacaciones hasta el día siguiente regresando a Madrid, con la expectativa de que intente conectarse a pesar de la diferencia horaria ([00:01:20](https://docs.google.com/document/d/1X9KaEmci1tFcxHmVzLKF3fky4N0OT3p97UdvQKt92j0/edit?ouid=107114406729300780928#heading=h.1bcparati0t)) ([00:08:30](https://docs.google.com/document/d/1X9KaEmci1tFcxHmVzLKF3fky4N0OT3p97UdvQKt92j0/edit?ouid=107114406729300780928#heading=h.erzwjgbm5t93)).
+  - **Proceso de Pagos a Conductores y Reprogramación de Viajes**: Armando Flores y Daniel Escribano discuten la primera corrida de pagos para los conductores y la ejecución de la autofactura. Daniel Escribano explica que un viaje previsto para el día fue cancelado en el momento de su realización y reprogramado para el día siguiente, el cual será cubierto por un conductor llamado Vicentín como un favor ([00:02:30](https://docs.google.com/document/d/1X9KaEmci1tFcxHmVzLKF3fky4N0OT3p97UdvQKt92j0/edit?ouid=107114406729300780928#heading=h.wg0jf4v9p82n)). Armando Flores indica que los viajes realizados de lunes a domingo de la semana pasada se pagarán el viernes, con la posibilidad de adelantar los pagos de la semana en curso como excepción. Ambos acuerdan revisar los cálculos el jueves con el respaldo de Artur, para que Daniel Escribano acuda a Finout el viernes por la mañana a gestionar el pago ([00:04:07](https://docs.google.com/document/d/1X9KaEmci1tFcxHmVzLKF3fky4N0OT3p97UdvQKt92j0/edit?ouid=107114406729300780928#heading=h.66px72rleths)).
+  - **Gestión de Datos de Transporte y Observaciones de Paloma**: Armando Flores comparte los comentarios de Paloma y Deca relacionados con temas bloqueados por el negocio, el seguro gestionado por Rafa, y la confirmación pendiente con Clickars sobre la recepción de la información del expedidor, transportista y el peso de cada vehículo ([00:05:23](https://docs.google.com/document/d/1X9KaEmci1tFcxHmVzLKF3fky4N0OT3p97UdvQKt92j0/edit?ouid=107114406729300780928#heading=h.4b26np17xbb5)). Al respecto, se plantea que dicha información debería manejarse en la misma hoja de cálculo mediante columnas separadas ([00:06:50](https://docs.google.com/document/d/1X9KaEmci1tFcxHmVzLKF3fky4N0OT3p97UdvQKt92j0/edit?ouid=107114406729300780928#heading=h.rhec2ulv1z34)).
+  - **Actualización de la Aplicación y Configuración para España**: Armando Flores informa que la versión de la aplicación con los cambios de localización acordados para España se lanzó el día anterior, por lo que Daniel Escribano y Artur deben actualizar sus aplicaciones y verificar los cambios. Adicionalmente, se detalla que el lanzamiento del día incluye la configuración de precios y metadatos para las cuentas de España, permitiendo que los puntos aparezcan correctamente mediante los campos adicionales de metadatos ([00:06:50](https://docs.google.com/document/d/1X9KaEmci1tFcxHmVzLKF3fky4N0OT3p97UdvQKt92j0/edit?ouid=107114406729300780928#heading=h.rhec2ulv1z34)).
+
+
+
+
+*Revisa las notas de Gemini para asegurarte de que sean precisas.* [*Obtén sugerencias y descubre cómo Gemini toma notas*](https://support.google.com/meet/answer/14754931)
+
+*Cómo es la calidad de* ***estas notas específicas?*** [*Responde una breve encuesta*](https://google.qualtrics.com/jfe/form/SV_5bXzKQfylMIhSXc?confid=NvFOuBoH9-adzJ2eFJBqDxIUOBEBMgUIigIgABgBCA&detailLevel=standard&hasImages=False&entryPoint=footerMain&isGoogler=False) *para darnos tu opinión; por ejemplo, cuán útiles te resultaron las notas.****
+***
+
+# **ð Transcripción***
+*
+
+ sept 8, 2026
+
+## **Diaria Spain Launch - Transcripción**
+
+### **00:01:20**
+
+
 
 **Armando Flores:** Nie.
 
@@ -78,7 +102,12 @@ sept 8, 2026
 
 **Daniel Escribano:** Lo que lo que pasa que me dijo que hoy iba a estar pendiente porque le necesito sí o sí para mañana que tengo el arranque de 4 horas por la mañana con Centauro porque
 
-### 00:02:30
+
+
+
+### **00:02:30**
+
+
 
 **Armando Flores:** e quería tocar dos dos temas. Uno era em el pago de los conductores de los viajes que hiciste la semana pasada y em Bueno, ese y vi que publicaste otro viaje hoy. Se me llegó la notificación.
 
@@ -102,7 +131,12 @@ sept 8, 2026
 
 **Armando Flores:** Sí. Entonces, digo nada más lo que yo quería entender era o sea, tenemos que hacer la primera corrida de pagos a los conductores y entonces es bajar el cálculo, bajar este tema, tenemos que hacer la autofactura y tenemos que correr ese proceso,
 
-### 00:04:07
+
+
+
+### **00:04:07**
+
+
 
 **Daniel Escribano:** Armando,
 
@@ -130,7 +164,12 @@ sept 8, 2026
 
 **Daniel Escribano:** Ah, vale. Tú que se se paga como semana vencida,
 
-### 00:05:23
+
+
+
+### **00:05:23**
+
+
 
 **Armando Flores:** Sí, sí,
 
@@ -142,7 +181,7 @@ sept 8, 2026
 
 **Armando Flores:** ideales o finanzas eh este todas formas ayer ni siquiera finanzas porque lo estaríamos haciendo este sin el área de finanzas realmente no es que también también yo
 
-**Daniel Escribano:** Probablemente sea mi cobertura por ir en carretera.
+**Daniel Escribano:** Probablemente sea mi cobertura por ir en carretera. này.
 
 **Armando Flores:** Estoy estoy en Starbucks porque estoy todavía estoy viajando en el sureste de México haciendo algunos este estoy visitando algunos clientes. También a lo mejor aquí la conexión no es tan buena, es una combinación probablemente.
 
@@ -156,13 +195,18 @@ sept 8, 2026
 
 **Daniel Escribano:** no he estado reunido,
 
-### 00:06:50
+
+
+
+### **00:06:50**
+
+
 
 **Armando Flores:** te los te los voy a decir porque
 
 **Daniel Escribano:** estado con Nico reunido todo el rato y no he podido hacer eh hay alguna cosa que se me ha pasado.
 
-**Armando Flores:** dame un segundo. ha puesto temas bloqueados por el negocio, el seguro, o sea, eso Rafa. Y luego Deca dice, "El MVP puede arrancar, pero falta confirmar con Clickars. ¿Cómo nos van a mandar la información del shipper carrier y peso cada vehículo?" Pues yo supongo que en la misma hoja hips con la info faltante
+**Armando Flores:** dame un segundo. ha puesto temas bloqueados por el negocio, el seguro, o sea, eso Rafa. Y luego Deca dice,"El MVP puede arrancar, pero falta confirmar con Clickars. ¿Cómo nos van a mandar la información del shipper carrier y peso cada vehículo?" Pues yo supongo que en la misma hoja hips con la info faltante
 
 **Daniel Escribano:** Ev. deía ser.
 
@@ -170,7 +214,12 @@ sept 8, 2026
 
 **Daniel Escribano:** Vale, mal escucho, pero bueno, sí creo que te entendido todo.
 
-### 00:08:30
+
+
+
+### **00:08:30**
+
+
 
 **Armando Flores:** No sé, no estendo, pero bueno, este, pues si quieres nos conectamos o nos otra reunión. No sé si es algo más de este lado.
 
@@ -212,4 +261,11 @@ sept 8, 2026
 
 **Daniel Escribano:** lo suyo es que a ver si Artur no me echa una mano ahí y demás. Y también te comento contigo porque, bueno, he hablado también un poco con Nico, lo que comentamos el otro día con el tema Arthur y tal. y un poquito varias cosas, igual que lo del tema de Rafa, que yo no sabía y
 
-### La transcripción finalizó después de 00:10:16
+
+
+
+### **La transcripción finalizó después de 00:10:16**
+
+
+
+*Esta transcripción editable se generó por computadora y puede contener errores. Los usuarios también pueden cambiar el texto después de que se

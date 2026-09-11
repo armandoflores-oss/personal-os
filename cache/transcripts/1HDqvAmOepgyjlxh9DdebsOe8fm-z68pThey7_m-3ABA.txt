@@ -1,16 +1,57 @@
-# Notes by Gemini — Sep 8, 2026
-## Daily Huddle - Ops MX
+# **✍️ Quick notes**
 
-Invited: Uriel Vargas (uriel.vargas@driverdo.com), Cristian Arizmendi (cristian.arizmendi@driverdo.com), Julia Diaz (julia.diaz@draiver.com), Armando Flores (armando.flores@draiver.com), Diego Diaz (diego.diaz@draiver.com), Camila Flores (camila.flores@draiver.com), Jose Duran (jose.duran@driverdo.com), Gerardo Acosta (gerardo.acosta@kavak.com)
+## **Daily Huddle - Ops MX**
 
-### Quick notes
+
+
+Sep 8, 2026
+
+[Uriel Vargas](mailto:uriel.vargas@driverdo.com) [Cristian Arizmendi](mailto:cristian.arizmendi@driverdo.com) [Julia Diaz](mailto:julia.diaz@draiver.com) [Armando Flores](mailto:armando.flores@draiver.com) [Diego Diaz](mailto:diego.diaz@draiver.com) [Camila Flores](mailto:camila.flores@draiver.com) [Jose Duran](mailto:jose.duran@driverdo.com) [Gerardo Acosta](mailto:gerardo.acosta@kavak.com)
+
+
+
 Salesforce discussion and system drivers with electric vehicle references and video priorities.
 
-## System Calibration and Testing
-- The session consisted of voice recognition and system calibration testing.
-- No substantive strategic discussions or business decisions were identified in the transcript.
 
-### Summary
+
+## **System Calibration and Testing**
+
+  - The session consisted of voice recognition and system calibration testing.
+  - No substantive strategic discussions or business decisions were identified in the transcript.
+
+
+
+
+
+**Want to see more?** [View the full notes
+](about:blank)Tip: You can always access your full notes from the left sidebar.
+
+
+
+
+
+
+*You should review Gemini's notes to make sure they're accurate.* [*Get tips and learn how Gemini takes notes*](https://support.google.com/meet/answer/14754931)
+
+*How is the quality of* ***these specific notes?*** [*Take a short survey*](https://google.qualtrics.com/jfe/form/SV_5bXzKQfylMIhSXc?confid=8XfcNzhtHB-TREj8PRz2DxIOOBEBMgUIigIgABgBCA&entryPoint=footerQuickNotes&isGoogler=False) *to let us know your feedback, including how helpful the notes were for your needs.****
+***
+
+# **ð Full notes***
+*
+
+ Sep 8, 2026
+
+## **Daily Huddle - Ops MX**
+
+Invited [Uriel Vargas](mailto:uriel.vargas@driverdo.com) [Cristian Arizmendi](mailto:cristian.arizmendi@driverdo.com) [Julia Diaz](mailto:julia.diaz@draiver.com) [Armando Flores](mailto:armando.flores@draiver.com) [Diego Diaz](mailto:diego.diaz@draiver.com) [Camila Flores](mailto:camila.flores@draiver.com) [Jose Duran](mailto:jose.duran@driverdo.com) [Gerardo Acosta](mailto:gerardo.acosta@kavak.com)
+
+Attachments [Daily Huddle - Ops MX](https://calendar.google.com/calendar/event?eid=dm8wYWYwdjNqcDVva3FuM2c2N2lpMmhrbjVfMjAyNjA5MDhUMTUxNTAwWiBqdWxpYS5kaWF6QGRyYWl2ZXIuY29t) [Notes by Gemini](https://docs.google.com/document/d/19QZLS3Jc11L8DmOXEy6e7W4470DLZplNcfzD4FQtmc0/edit?usp=meet_tnfm_calendar)
+
+
+
+
+### **Summary**
+
 Salesforce discussion and system drivers with electric vehicle references and video priorities.
 
 **Salesforce and Speech Systems**
@@ -22,8 +63,19 @@ Introduction of 360 drivers and speech sentences with no formal resolutions.
 **Video and Logistics**
 Review of video priorities and logistical references concluding the session.
 
-### Details
-- **Salesforce and Speech Systems Discussion**: Camila Flores, Cristian Arizmendi, Julia Diaz, Uriel Vargas, and Diego Diaz convened to discuss Salesforce and various speech-related elements, exchanging fragmented remarks regarding system functions. No specific consensus or final decisions were reached during this exchange.
-- **System Drivers and Regional References**: Diego Diaz and Julia Diaz introduced topics involving 360 drivers and St. Louis, while Cristian Arizmendi commented on speech sentences. The participants did not document any formal problems or resolutions for these items.
-- **Electric Vehicle References and Communication Software**: Cristian Arizmendi highlighted a Mustang electric reference and a telephone connection, while Jose Duran and Julia Diaz talked about drivers, heat service, and Skype. No formal consensus or definitive actions were established by the group.
-- **Video Priorities, Logistics, and Meeting Conclusion**: Jose Duran, Julia Diaz, Camila Flores, Diego Diaz, and Uriel Vargas discussed video priorities, logistical references to Mexico, motorway conditions, and a quarantine status introduced by Uriel Vargas. The session concluded as the participants exchanged farewells.
+
+
+
+### **Details**
+
+  - **Salesforce and Speech Systems Discussion**: Camila Flores, Cristian Arizmendi, Julia Diaz, Uriel Vargas, and Diego Diaz convened to discuss Salesforce and various speech-related elements, exchanging fragmented remarks regarding system functions. No specific consensus or final decisions were reached during this exchange.
+  - **System Drivers and Regional References**: Diego Diaz and Julia Diaz introduced topics involving 360 drivers and St. Louis, while Cristian Arizmendi commented on speech sentences. The participants did not document any formal problems or resolutions for these items.
+  - **Electric Vehicle References and Communication Software**: Cristian Arizmendi highlighted a Mustang electric reference and a telephone connection, while Jose Duran and Julia Diaz talked about drivers, heat service, and Skype. No formal consensus or definitive actions were established by the group.
+  - **Video Priorities, Logistics, and Meeting Conclusion**: Jose Duran, Julia Diaz, Camila Flores, Diego Diaz, and Uriel Vargas discussed video priorities, logistical references to Mexico, motorway conditions, and a quarantine status introduced by Uriel Vargas. The session concluded as the participants exchanged farewells.
+
+
+
+
+*You should review Gemini's notes to make sure they're accurate.* [*Get tips and learn how Gemini takes notes*](https://support.google.com/meet/answer/14754931)
+
+*How is the quality of* ***these specific notes?*** [*Take a short survey*](https://google.qualtrics.com/jfe/form/SV_5bXzKQfylMIhSXc?confid=8XfcNzhtHB-TREj8PRz2DxIOOBEBMgUIigIgABgBCA&detailLevel=standard&hasImages=False&entryPoint=footerMain&isGoogler=False) *to let us know your feedback, including how helpful the notes were for your need

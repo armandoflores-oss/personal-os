@@ -1,0 +1,1096 @@
+# **ð Las notas**
+
+ ago 26, 2026
+
+## **DECA TRansporte**
+
+Invitado [Artur Morais](mailto:artur.morais@draiver.com) [Paloma Calderon](mailto:paloma.calderon@draiver.com) [Armando Flores](mailto:armando.flores@driverdo.com) [Daniel Escribano](mailto:daniel.escribano@draiver.com)
+
+Archivos adjuntos [DECA TRansporte](https://calendar.google.com/calendar/event?eid=Mm05YWsxNWI5czgxajkzZDJwOWNsY3NhcTggYXJtYW5kby5mbG9yZXNAZHJpdmVyZG8uY29t)
+
+Registros de la reunión [Transcripción](https://docs.google.com/document/d/1LqJm2v5DgnKdqsIB5EmoHvY1lLD4whSElSXMClZDzps/edit?usp=drive_web&tab=t.3f4lntmc059m)
+
+
+
+
+### **Resumen**
+
+Revisión técnica de la implementación obligatoria del documento DECA y planificación de su desarrollo urgente.
+
+**Implementación del documento DECA**
+Se discutió la obligatoriedad del documento DECA para transportes superiores a 3500 kilogramos. El cumplimiento normativo requiere integrar un código QR vinculado a un archivo PDF legal.
+
+**Complejidad operativa y logística**
+La generación de documentos debe ajustarse a cada trayecto realizado. Cualquier modificación en la composición de la carga exige emitir un nuevo documento actualizado para asegurar validez legal.
+
+**Planificación del producto mínimo**
+Se definió la estrategia para integrar datos de Salesforce y hojas de cálculo. Se decidió desarrollar un producto mínimo viable utilizando scripts automatizados antes del 5 de octubre.
+
+
+
+
+### **Decisiones**
+
+## **Acordada**
+
+  - **Formato y lógica del documento DECA** Se establece que el documento de transporte (DECA) debe ser accesible mediante un código QR que enlaza a un PDF y se generará según la carga o trayecto (del punto A al punto B), no por vehículo individual.
+  - **Estrategia de implementación del MVP** Se acuerda desarrollar un MVP funcional para antes del 5 de octubre utilizando Cloud para la generación del documento y almacenando los enlaces en los metadatos o notas de viaje para el acceso del conductor.
+
+
+
+**Actualizamos la sección Decisiones** con tus comentarios.
+
+Danos tu opinión: [Útil](https://google.qualtrics.com/jfe/form/SV_5bXzKQfylMIhSXc?isHelpful=True&entryPoint=decisions&confid=-wY8Pe4aHNTuuSv7rWtYDxIXOAIIigIgABgDCA&isGoogler=False) o [Poco útil](https://google.qualtrics.com/jfe/form/SV_5bXzKQfylMIhSXc?isHelpful=False&entryPoint=decisions&confid=-wY8Pe4aHNTuuSv7rWtYDxIXOAIIigIgABgDCA&isGoogler=False)
+
+
+
+
+### **Próximos pasos**
+
+  - \[Daniel Escribano\] Confirmar campos: Confirmar con Click Cars la adición de las columnas de peso, cargador contractual y transportista efectivo en la hoja de cálculo.
+  - \[Daniel Escribano\] Informar plazo: Informar a Pablo antes de que termine la semana sobre la capacidad de implementar la solución de generación de documentos antes del 5 de octubre.
+  - \[Artur Morais\] Crear documentación: Crear una página en Confluence que detalle el proceso y los requerimientos para el sistema de documentos, incluyendo el ticket de trabajo correspondiente.
+  - \[Artur Morais\] Reportar error: Reportar a Caro el problema identificado en la aplicación relacionado con la carga de nuevos datos.
+
+
+
+
+### **Detalles**
+
+  - **Actualización de la aplicación WTI y planes para España**: Artur Morais planteó hablar con Moa para retomar el plan del set para España, el cual estaba pendiente debido a la falta de datos iniciales. Asimismo, Artur reportó a Caro un problema en la aplicación WTI relacionado con la carga de nuevos datos ([00:00:00](https://docs.google.com/document/d/1LqJm2v5DgnKdqsIB5EmoHvY1lLD4whSElSXMClZDzps/edit?ouid=107114406729300780928#heading=h.vifr2ob17rk6)), mientras que Daniel Escribano y Artur comentaron sobre las diferencias al cerrar mensajes en dicha plataforma antes de que Paloma Calderon se uniera a la sesión ([00:04:56](https://docs.google.com/document/d/1LqJm2v5DgnKdqsIB5EmoHvY1lLD4whSElSXMClZDzps/edit?ouid=107114406729300780928#heading=h.aqdrlyas2rw1)).
+  - **Introducción de la necesidad del documento DECA o carta porte**: Armando Flores introdujo el tema sobre la implementación obligatoria de una "carta porte" o documento DECA para las operaciones de Click Cars y potencialmente para todos los clientes que utilicen transportistas ("hallers"). Daniel Escribano aclaró que este requisito aplica exclusivamente para transportes con un peso superior a 3500 kg y no para vehículos individuales ligeros ([00:07:14](https://docs.google.com/document/d/1LqJm2v5DgnKdqsIB5EmoHvY1lLD4whSElSXMClZDzps/edit?ouid=107114406729300780928#heading=h.f68jvrltzxbn)). Armando explicó que la información inicial provendría de una hoja de cálculo facilitada por Click Cars con datos del transportista, vehículo, peso, número de serie y ruta ([00:08:34](https://docs.google.com/document/d/1LqJm2v5DgnKdqsIB5EmoHvY1lLD4whSElSXMClZDzps/edit?ouid=107114406729300780928#heading=h.u9fd2vbtrvjy)).
+  - **Obligatoriedad del código QR y formato del documento**: Ante la consulta de Paloma Calderon sobre la necesidad de usar un código QR, Armando Flores confirmó que la legislación de la Guardia Civil exige obligatoriamente un código QR que enlace a una URL con un archivo PDF ([00:09:54](https://docs.google.com/document/d/1LqJm2v5DgnKdqsIB5EmoHvY1lLD4whSElSXMClZDzps/edit?ouid=107114406729300780928#heading=h.ksmb2rc2pv95)). Posteriormente, Paloma indicó que la interfaz web observada cuenta con un botón en la esquina superior derecha que permite descargar directamente el PDF original sin contraseñas ([00:30:43](https://docs.google.com/document/d/1LqJm2v5DgnKdqsIB5EmoHvY1lLD4whSElSXMClZDzps/edit?ouid=107114406729300780928#heading=h.acrzdah285a1)).
+  - **Reglas para la generación de DECA en operaciones de carga múltiple**: Armando Flores y Paloma Calderon analizaron la complejidad operativa cuando los transportistas descargan y cargan vehículos en múltiples paradas a lo largo de una ruta ([00:10:50](https://docs.google.com/document/d/1LqJm2v5DgnKdqsIB5EmoHvY1lLD4whSElSXMClZDzps/edit?ouid=107114406729300780928#heading=h.h5jhg2gk9dz9)). Daniel Escribano explicó que el documento DECA se emite por cada carga y trayecto (de punto A a punto B), de modo que cualquier modificación en la composición de la carga obliga a generar un nuevo DECA que refleje el estado global actual ([00:11:38](https://docs.google.com/document/d/1LqJm2v5DgnKdqsIB5EmoHvY1lLD4whSElSXMClZDzps/edit?ouid=107114406729300780928#heading=h.tvpihs7lchqw)) ([00:25:28](https://docs.google.com/document/d/1LqJm2v5DgnKdqsIB5EmoHvY1lLD4whSElSXMClZDzps/edit?ouid=107114406729300780928#heading=h.72p4b44uh4wi)). Paloma planteó dudas sobre recogidas sucesivas, y Daniel reiteró que cada cambio en la carga constituye un nuevo trayecto que requiere su propio documento ([00:13:51](https://docs.google.com/document/d/1LqJm2v5DgnKdqsIB5EmoHvY1lLD4whSElSXMClZDzps/edit?ouid=107114406729300780928#heading=h.ni3ft6cwtoir)) ([00:24:28](https://docs.google.com/document/d/1LqJm2v5DgnKdqsIB5EmoHvY1lLD4whSElSXMClZDzps/edit?ouid=107114406729300780928#heading=h.29paf7p01rmv)).
+  - **Umbral de peso legal y disponibilidad previa de datos en Salesforce**: Daniel Escribano detalló que el límite legal de 3500 kg contempla el peso conjunto del vehículo de transporte y la mercancía, por lo que todas las operaciones de "hallers" requerirán el documento DECA debido a que un automóvil pesa entre una y dos toneladas más el camión ([00:14:46](https://docs.google.com/document/d/1LqJm2v5DgnKdqsIB5EmoHvY1lLD4whSElSXMClZDzps/edit?ouid=107114406729300780928#heading=h.ntzr3fnyz88)). Artur Morais señaló que la mayoría de los datos exigidos, como matrículas, horarios, ubicaciones, marcas y modelos, ya están registrados en Salesforce, quedando pendiente principalmente el peso ([00:21:00](https://docs.google.com/document/d/1LqJm2v5DgnKdqsIB5EmoHvY1lLD4whSElSXMClZDzps/edit?ouid=107114406729300780928#heading=h.10d2mzvbgqvo)).
+  - **Verificación de campos indispensables y actualización de datos por Click Cars**: Paloma Calderon enumeró los puntos críticos para el DECA según la información compartida en Slack, destacando la cabecera, control técnico, identificador único, fecha y hora de creación, código QR, sujetos intervinientes (cargador contractual y transportista efectivo), origen, destino, fecha de transporte, matrícula, descripción de la mercancía y peso ([00:28:00](https://docs.google.com/document/d/1LqJm2v5DgnKdqsIB5EmoHvY1lLD4whSElSXMClZDzps/edit?ouid=107114406729300780928#heading=h.dmx8n0js1ye0)). Daniel Escribano confirmó que Click Cars añadirá los datos faltantes, como el peso y los sujetos intervinientes, en la hoja de cálculo que envían habitualmente ([00:32:26](https://docs.google.com/document/d/1LqJm2v5DgnKdqsIB5EmoHvY1lLD4whSElSXMClZDzps/edit?ouid=107114406729300780928#heading=h.vhqus8jswe69)).
+  - **Definición de plazos, desarrollo del producto mínimo viable y acceso para conductores**: Daniel Escribano advirtió que debían confirmar a Pablo antes de terminar la semana la capacidad de entregar la solución antes del 5 de octubre, fecha límite antes de contratar a otro proveedor. Paloma Calderon propuso desarrollar un primer producto mínimo viable en Cloud utilizando los datos de la hoja de cálculo y Salesforce, generando los documentos PDF mediante scripts automatizados ([00:34:28](https://docs.google.com/document/d/1LqJm2v5DgnKdqsIB5EmoHvY1lLD4whSElSXMClZDzps/edit?ouid=107114406729300780928#heading=h.oprhzbvc2sz0)). Artur Morais se comprometió a crear una página en Confluence y un ticket para la revisión de Tiago y Kevin ([00:35:45](https://docs.google.com/document/d/1LqJm2v5DgnKdqsIB5EmoHvY1lLD4whSElSXMClZDzps/edit?ouid=107114406729300780928#heading=h.x4pr21sxkhx)), mientras que Paloma sugirió incluir los enlaces URL en las notas de los trayectos ("trip notes") para facilitar el acceso de los conductores ([00:37:09](https://docs.google.com/document/d/1LqJm2v5DgnKdqsIB5EmoHvY1lLD4whSElSXMClZDzps/edit?ouid=107114406729300780928#heading=h.s7fe0255zf8x)).
+
+
+
+
+*Revisa las notas de Gemini para asegurarte de que sean precisas.* [*Obtén sugerencias y descubre cómo Gemini toma notas*](https://support.google.com/meet/answer/14754931)
+
+*Cómo es la calidad de* ***estas notas específicas?*** [*Responde una breve encuesta*](https://google.qualtrics.com/jfe/form/SV_5bXzKQfylMIhSXc?confid=-wY8Pe4aHNTuuSv7rWtYDxIXOAIIigIgABgDCA&detailLevel=standard&hasImages=False&entryPoint=footerMain&isGoogler=False) *para darnos tu opinión; por ejemplo, cuán útiles te resultaron las notas.****
+***
+
+# **ð Transcripción***
+*
+
+ ago 26, 2026
+
+## **DECA TRansporte - Transcripción**
+
+### **00:00:00**
+
+
+
+**Armando Flores:** Bueno, ¿Qué?
+
+**Daniel Escribano:** M.
+
+**Armando Flores:** Pues no, no nos ha confirmado. ¿Te ha contestado algo, Paloma, Artur?
+
+**Artur Morais:** No, solo solo vi su mensaje, pero no he enviado nada.
+
+**Armando Flores:** Ah, sí, dice,"Voy como tres tarde.
+
+**Daniel Escribano:** esto de poner la cámara Perdonad, chicos, que voy conduciendo y justo me van entrando llamadas y no podía colocarlo.
+
+**Armando Flores:** No te preocupes, todavía faltan unos minutitos para que suba paloma. Artur, e de las cosas que habíamos visto, que se iba a tomar un poco más de tiempo tener su set para España,
+
+**Artur Morais:** Eh,
+
+**Armando Flores:** que no sé si digo hoy no lo necesitamos porque no tenemos data, pero creo que ya pronto.
+
+**Artur Morais:** Sí, podemos puedo hablar con Moa para entender mi recuerdo que había ya un plan para eso, pero creo que no no avanzamos también por por eso no no tenemos
+
+**Armando Flores:** Mhm.
+
+**Artur Morais:** data todavía ni nada, pero creo que ya puedo Bueno, al menos empezar la conversación para para que tengan todo ya listo para cuando arrancamos,
+
+**Armando Flores:** Sí.
+
+**Artur Morais:** No. Dani, ya estoy contestando a todos en WTI, ¿vale? Entonces, ya estoy mirando. Creo que la parte de cargar nuevos dados es algún problema de la aplicación.
+
+
+
+
+### **00:04:56**
+
+
+
+**Artur Morais:** Ah, mismo voy a reportar para Caro para que vean y entiendan qué está pasando. Pero, pero el restante me parece muy sencillo. No es cosas muy tranquilas de de explicarlos,
+
+**Daniel Escribano:** Vale, perfecto. Yeah.
+
+**Artur Morais:** Yes.
+
+**Daniel Escribano:** Arthur, por lo que estoy viendo que me están llegando las notificaciones, creo que hay cosas que no hago bien en WTI, porque estoy viendo que tú cierras los mensajes después de contestar y yo no los cierro porque siento que
+
+**Artur Morais:** Sí, sí, no se preocupe, no se preocupe.
+
+**Paloma Calderon:** No estoy pregun estoy
+
+**Artur Morais:** Estoy contestando a todos. Probablemente cuando responden me contestas. Me está llegando la notificación para ti,
+
+**Paloma Calderon:** contestando.
+
+**Artur Morais:** pero estoy ah pronto ahí para responderlos, contestarlos.
+
+**Daniel Escribano:** Vale, venga,
+
+**Artur Morais:** Vale.
+
+**Daniel Escribano:** ya ya veremos, ya miraremos eso. Ya ha venido Paloma. Hola, Paloma. Buenas tardes.
+
+**Paloma Calderon:** Hola,
+
+**Artur Morais:** Hola,
+
+**Paloma Calderon:** ¿qué tal?
+
+**Artur Morais:** Palomas.
+
+**Daniel Escribano:** Bueno, buenos días para ti. Perdona.
+
+**Paloma Calderon:** Todavía está
+
+
+
+
+### **00:07:14**
+
+
+
+**Artur Morais:** Junta sorpresa para ti. ¿Dónde estás?
+
+**Armando Flores:** Sí,
+
+**Paloma Calderon:** bien.
+
+**Armando Flores:** sorry por el shortis, Paloma, pero es que traemos este tema, o sea, es como sumarle a Click Cars, pero también eh eh potencialmente paralelo va a ser algo que todos los clients van a necesitar que usen holers.
+
+**Paloma Calderon:** Sí.
+
+**Armando Flores:** Okay. Eh, por lo que entendí, no se necesita para transporte individual por lo que pusiste, ¿no, Dani?
+
+**Daniel Escribano:** en la carretera y se entre corta.
+
+**Armando Flores:** que no se necesita para transportes individuales rodados,
+
+**Daniel Escribano:** No,
+
+**Armando Flores:** no solamente
+
+**Daniel Escribano:** no, para solamente para Jones, que eso es no se necesita para transporte rodado. Eh, Paloma, no sé si lo has visto, pero he creado un un grupo de chat de Nlack de la reunión,
+
+**Armando Flores:** Sí.
+
+**Daniel Escribano:** todas las leyes un poco un resumen de todo. Vale, si hay alguna duda con respecto a eso, pues me vas diciendo. Y y ahora lo que te quería decir, Armando
+
+**Armando Flores:** Sí. O sea, te te explico un poquito, Paloma, lo que es como una carta aporte.
+
+**Daniel Escribano:** No.
+
+**Armando Flores:** Bueno, en realidad es una carta aporte,
+
+**Paloma Calderon:** Sí.
+
+**Armando Flores:** si lo quieres ver así.
+
+
+
+
+### **00:08:34**
+
+
+
+**Armando Flores:** E cuáles son los temas que, o sea, principalmente tratando de hacer el boil down de todo es tenemos un set de información que Clickers nos va a dar en un spreadshe, ¿no? Que que involucra eh además del transporte de que es el haller, este, el coche, viene información como el peso y la el número de serie, la ruta y cosas por el estilo, ¿no?, que ya ya tenemos.
+
+**Paloma Calderon:** No.
+
+**Armando Flores:** ¿Qué qué se necesita hacer con esta información?
+
+**Paloma Calderon:** Ok.
+
+**Armando Flores:** Eh, se necesita hacer un documento que pueda ser consultado por si llega a la Guardia Civil y detiene el conductor y le diga,"Oye, ¿dónde tienes tu tu deca o cómo? Creo que así le llamaremos, ¿no?
+
+**Daniel Escribano:** Deca.
+
+**Paloma Calderon:** Mhm.
+
+**Armando Flores:** Ah,
+
+**Daniel Escribano:** Sí.
+
+**Armando Flores:** le enseña le enseña un QR. Este QR lo lleva a esta información que dice,"Ah, mira, este es el transportista que soy yo. Este es la orden de transporte." Es ese ejemplo que trae ahí. y viene este es el coche un tal de la carga que traigo es esta y ya no. Entonces, eh en resumen es una información, se consolida y se genera un documento. Este documento eh se genera un QR que sea que te lleve a este documento, que lo pueda leer cualquiera y este documento, bueno, y este QR que pueda ser proporcionado al conductor, ¿no?
+
+
+
+
+### **00:09:54**
+
+
+
+**Armando Flores:** Haciendo boil down.
+
+**Paloma Calderon:** Sí, sí,
+
+**Armando Flores:** Estoy tratando de hacerlo lo más más sencillo posible,
+
+**Paloma Calderon:** sí, sí, sí, sí. Pregunta,
+
+**Artur Morais:** H
+
+**Paloma Calderon:** ¿el QR es como la manera en la que se usa ahorita o necesita ser un QR?
+
+**Armando Flores:** ¿no?
+
+**Paloma Calderon:** O siempre se voy a estoy pensando Outloud, pero si es una URL, pero el driver lo puede abrir, ¿eh?
+
+**Armando Flores:** Porque lo tiene que abrir la Guardia Civil. Entonces tiene que ser un QR por legislación.
+
+**Paloma Calderon:** Okay,
+
+**Armando Flores:** Tiene que ser un QR, ¿no?
+
+**Paloma Calderon:** okay.
+
+**Daniel Escribano:** Y y y que lo y que lo pueda abrir
+
+**Armando Flores:** Entonces URL tiene que ser un QR.
+
+**Paloma Calderon:** Sí, sí,
+
+**Daniel Escribano:** cualquiera a un link
+
+**Paloma Calderon:** sí. Es un QR que te abre un archivo, o sea, un link.
+
+**Daniel Escribano:** que tiene que ser una URL con un PDF. Esas son las condiciones.
+
+**Paloma Calderon:** Ok.
+
+**Armando Flores:** Entonces, hoy hoy está esa es la necesidad, ¿no? E cuál cuál es la complejidad que creo que yo ya lo traes ahí este en mente es bueno pues eh en qué momento se genera, cómo se lo hacemos llegar al conductor, etcétera, ¿no?
+
+
+
+
+### **00:10:50**
+
+
+
+**Armando Flores:** O sea, y estamos dispuestos a ver alternativas. Arthur trae algunas ideas como de un MVP, o sea, algo más sencillo. Yo por ahí también digo,"Oye, pues mira, información adicional, pues hagamos campos adicionales en Saleforce, ¿no? Por decirte una idea. Oye,
+
+**Paloma Calderon:** M.
+
+**Armando Flores:** esta información que la consultemos y corramos algo por fuera que genere estos documentos y genere los URLs y se las mandamos al conductor, le hacemos un attachment de alguna manera o lo que sea, ¿no? O sea,
+
+**Paloma Calderon:** Mm.
+
+**Armando Flores:** porque al conductor le podemos poner una liga y esa liga te lleva al QR y el QR pues ya te lleva el archivo,
+
+**Paloma Calderon:** Exacto.
+
+**Armando Flores:** ¿no? O sea,
+
+**Paloma Calderon:** Sí, sí,
+
+**Armando Flores:** se me están ocurriendo cosas que que puedan hacer.
+
+**Paloma Calderon:** sí.
+
+**Armando Flores:** ¿Cuáles son los temas donde puede haber complejidad, Paloma, que que era lo que discutíamos? O sea, porque hasta ahorita todo es muy sencillo, es un coche punto A punto B, eso, ¿no? Oye, ¿qué pasa que cuando el transportista tenía que bajar cuatro coches y luego subir a uno, pues tiene que cambiar el documento, ¿no? Porque ahora traes un coche más y a lo mejor el coche que traías originalmente no era ese,
+
+
+
+
+### **00:11:38**
+
+
+
+**Paloma Calderon:** Ôi
+
+**Armando Flores:** ¿no? Entonces, hay que modificar o generar un nuevo documento. El QR puede ser el mismo, pero el documento tiene que ser nuevo.
+
+**Paloma Calderon:** tapo. Pero una pregunta ahí, ¿necesitas a fuerzas tener como un de?
+
+**Artur Morais:** M.
+
+**Paloma Calderon:** Vamos a decir que estás moviendo tres vehículos, es un documento por los tres o pudiéramos tener un documento único por cada
+
+**Daniel Escribano:** No,
+
+**Paloma Calderon:** vehículo?
+
+**Daniel Escribano:** un documento único por cada carga.
+
+**Paloma Calderon:** Ah, okay, okay.
+
+**Armando Flores:** O sea, por los tres
+
+**Daniel Escribano:** Lo que pasa lo que lo que pasa que si la carga se modifica,
+
+**Paloma Calderon:** Entonces,
+
+**Daniel Escribano:** se modifica el documento o se genera un nuevo documento.
+
+**Paloma Calderon:** ah, no. Entonces,
+
+**Daniel Escribano:** ¿Me explico? Es decir, lo que lo que te está diciendo Armando es que si, perdona eh, Armando, lo que está diciendo es que si es multicarga, es decir, si en un sitio descargas y vuelves a cargar, ya tienes que cambiar el deca o generar un nuevo deca.
+
+**Artur Morais:** El ejemplo que Dani dice es como un drive run o algo así que vas a a cambiar el coche que está programando, ¿vale?
+
+
+
+
+### **00:12:48**
+
+
+
+**Artur Morais:** Entonces ahí se incluye un nuevo coche. Vas a necesitar tener el documento para ese nuevo reemplazado, ¿sabes?
+
+**Paloma Calderon:** Sí, pero pero tapo ahí cambiaste de vehículo.
+
+**Daniel Escribano:** No, no,
+
+**Paloma Calderon:** Creo que lo que Dani dice es como
+
+**Daniel Escribano:** la carga, a ver, el documento es para la carga,
+
+**Paloma Calderon:** Okay,
+
+**Daniel Escribano:** no para los vehículos. Olvidaros de los vehículos. Es decir, si el si el el holer lleva eh seis
+
+**Paloma Calderon:** tres vehículos.
+
+**Daniel Escribano:** coches, seis seis coches,
+
+**Paloma Calderon:** Ajá.
+
+**Daniel Escribano:** pero es multicarga, es decir, va a parar en un sitio, deja dos y en ese sitio coge uno, ya tienes que volver a generar un nuevo DECA con la carga actual, no con el vehículo que has cargado, sino con la carga global actual.
+
+**Armando Flores:** Sí, o sea, con los dos que ya traía más el nuevo.
+
+**Paloma Calderon:** Sí. O sea,
+
+**Daniel Escribano:** Eso es.
+
+**Paloma Calderon:** si yo hago pickup de dos, a ver, y te hago otra pregunta. Vamos a decir que hago pickup de dos y tal vez esto es como se vale decir tenemos que revisar con legal o como quién lo hace en la vida real y cómo se interpreta la ley, ¿no?
+
+
+
+
+### **00:13:51**
+
+
+
+**Paloma Calderon:** Porque puedes tener, vamos a decir que yo voy a hacer, voy a recoger tres vehículos, ¿okay? Voy primero recoger dos, luego voy a pasar a otro lugar y recoger al tercero y luego para simplificar la operación voy a entregar los tres en el mismo lugar. Entonces, al principio yo necesito un deca que diga que voy a tomar dos vehículos y eso es lo que tengo en mi carga,
+
+**Daniel Escribano:** del punto A punto
+
+**Paloma Calderon:** ¿no? Claro, pero ¿qué es el punto B?
+
+**Daniel Escribano:** B.
+
+**Paloma Calderon:** Porque ahí no vas a descargar. El punto B es donde recogerías el tercero. Entonces es por
+
+**Daniel Escribano:** Eso es. Eso es porque es una carga distinta. Tú ya modificas la carga.
+
+**Paloma Calderon:** cada
+
+**Daniel Escribano:** O sea, tú cambias el deca cada vez que modificas la carga. El deca lo que necesita saber es la carga que llevas de un del punto A al punto B. Cuando tú llegas al punto B,
+
+**Paloma Calderon:** Sí.
+
+**Daniel Escribano:** si modificas la carga, ya empiezas otro punto A a otro punto B con otra carga nueva,
+
+**Paloma Calderon:** Mhm. Sí.
+
+**Daniel Escribano:** aunque sea aunque aunque más de la mitad sean los mismos coches que en el punto inicial,
+
+
+
+
+### **00:14:46**
+
+
+
+**Paloma Calderon:** Okay. Sí.
+
+**Daniel Escribano:** pero mi carga es distinta porque mi transporte es distinto y el peso de mi el peso de mi carga es
+
+**Armando Flores:** Oye,
+
+**Paloma Calderon:** Sí.
+
+**Armando Flores:** aquí yo me me pregunto,
+
+**Daniel Escribano:** distinto. No.
+
+**Armando Flores:** por ejemplo, No. Y es, o sea, me voy a ir para nuestro caso suena un poco lógico, si lo quieres ver así. ¿Qué pasa con una empresa de paquetería que trae 120 paquetes que va a entregar en todo el día y va a visitar 40, 50, 60 domicilios? Genera un deca por cada parada.
+
+**Daniel Escribano:** Vale,
+
+**Paloma Calderon:** Так.
+
+**Daniel Escribano:** estos la empresa de paquetería nunca va a ser un coche de más de 3500 kg. Esta ley está hecha para los camiones y coches de más de 3500 kg.
+
+**Paloma Calderon:** Ok.
+
+**Daniel Escribano:** La empresa de paquetería que hace paquetería, mensajería a pequeña escala,
+
+**Armando Flores:** Okay.
+
+**Daniel Escribano:** no va a ser un coche mayor de 3500 kg, ¿vale? Y si lo es, lo que tiene que hacer es cargar de punto A, punto B, efectivamente, y es más, tiene que decir hasta el tipo de mercancía que lleva, aunque sean cajas cerradas.
+
+
+
+
+### **00:15:54**
+
+
+
+**Daniel Escribano:** Porque esa esta pregunta que ha hecho Armando ha sido la primera pregunta que han hecho en en la reunión que he tenido yo esta mañana. Esa duda tuya, Armando, ha sido la primera pregunta que han hecho. De hecho, si quieres, Armando, te puedo pasar el transcript o la grabación de la reunión que la he
+
+**Paloma Calderon:** Okay.
+
+**Daniel Escribano:** hecho.
+
+**Armando Flores:** Okay. Entonces, digo, aplica para transportes que cargan más de 3500 kg, ¿no? Se aplica
+
+**Daniel Escribano:** Todo lo que sea para nosotros, todo lo que sea un porque todos los jores van a ser de más de 3500
+
+**Armando Flores:** incluido al vehículo, al transporte, al vehículo de transporte,
+
+**Daniel Escribano:** incluir. Sí, claro,
+
+**Armando Flores:** pues.
+
+**Daniel Escribano:** los que estén autorizados para transportar mercancías de más de que con el coche y la mercancía que sea de más de 3500 kilos.
+
+**Armando Flores:** Okay.
+
+**Daniel Escribano:** En nuestro caso, no os preocupéis por eso, porque en nuestro caso va a ser todos, porque sol porque solamente un coche te puede pesar entre una y dos toneladas,
+
+**Armando Flores:** Okay.
+
+**Daniel Escribano:** depende del tipo de coche.
+
+**Armando Flores:** Sí, sí,
+
+**Daniel Escribano:** Una tonelada,
+
+**Armando Flores:** sí, sí. más más el que ya traes el camión siempre va a ser eso,
+
+
+
+
+### **00:16:54**
+
+
+
+**Daniel Escribano:** quiero decir, eso es eso es más la gruilla que lleve o lo que sea.
+
+**Armando Flores:** ¿no?
+
+**Daniel Escribano:** Quiere decir que en nuestro caso cualquier transporte que hagamos va a ser necesario.
+
+**Armando Flores:** Okay. Bueno, regresando a ese a ese punto,
+
+**Paloma Calderon:** Sí,
+
+**Armando Flores:** este
+
+**Paloma Calderon:** nosotros vamos a necesitar uno por cada tramo que va a ser interesante como dónde se lo pones al driver.
+
+**Armando Flores:** es que sabes qué,
+
+**Paloma Calderon:** E pero
+
+**Armando Flores:** Paloma, puede ser el mismo QR y
+
+**Paloma Calderon:** luego lo tienes que estar actualizando, ¿no? O pudieras decir como 1 2 3 cu cco
+
+**Armando Flores:** tienes que estar
+
+**Paloma Calderon:** documentos.
+
+**Armando Flores:** Sí, ¿no? O sea, más bien un QR por documento.
+
+**Daniel Escribano:** A ver, para que entendáis la lógica,
+
+**Armando Flores:** Entonces,
+
+**Daniel Escribano:** tiene que ser el QR de la carga que lleve el cuando le pare la policía.
+
+**Paloma Calderon:** Sí, pero yo le puedo dar los cinco documentos a la vez, los cinco QRs y ya nada más es como escoge Ok.
+
+**Daniel Escribano:** Claro, le pu le le puede le puedes dar los cinco QRs o lo que estabais diciendo,
+
+**Artur Morais:** M.
+
+**Daniel Escribano:** que es generar un QR y que ese QR modifique la carga por cada tramo.
+
+
+
+
+### **00:17:57**
+
+
+
+**Paloma Calderon:** Ok.
+
+**Daniel Escribano:** El mismo QR es lo que yo deduzco porque lo único que se necesita es que en el momento que el camión le pare la policía, la el conductor diga,"Mira, este es mi QR, señor policía." El policía lee el QR y mira y ve que tiene un camión con seis coches XX y que pesa tanto. El policía hace así, ve que cuadra los coches que son, no se va a poner a pesar el camión porque no lo hacen nunca, puede continuar. El problema el problema va a venir cuando no coincida la carga con el
+
+**Paloma Calderon:** He,
+
+**Daniel Escribano:** QR.
+
+**Paloma Calderon:** Okay, igual creo que lo podemos sacar como medio MVP porque creo que es más fácil como hasta con clotere, o sea, honestamente como para empezar. Pero lo que sí podemos hacer es,
+
+**Artur Morais:** Ok.
+
+**Paloma Calderon:** o sea, me gustaría uno yo sí llevarme esto, eh, como en Estados Unidos tenemos el MCP Server que lee la información directamente sales entonces tu cloud puede leer esos datos y de ahí generar como un documento o el agente, lo que sea. ¿Por qué? Porque creo que esto, Arthur, sí nos puede ayudar, o sea, que tienes más contexto. Para la para el primer tramo, lo que te tienes que fijar es dónde es tu pickup, dónde es tu dropof y qué vehículos vas a hacer pickup y qué vehículos vas a hacer dropof.
+
+
+
+
+### **00:19:39**
+
+
+
+**Paloma Calderon:** En este caso ninguno, pero entonces tu mate es, okay, solo es un solo tengo un vehículo y voy de A a B.
+
+**Artur Morais:** Ups.
+
+**Paloma Calderon:** Aquí tendrías que decir cuántos todavía estoy moviendo, o sea, todavía tienes este pendiente que no has hecho pick dropof más estos tres nuevos. Entonces, para tramo BAC ya vas a tener cuatro vehículos. Eh, para el siguiente lo mismo, tienes que ver, okay, aquí tengo que drop off dos vehículos. Entonces, en este tramo, o sea, si me explico, como estar haciendo la mate de cuántos vehículos vas a tener que hacer, no lo vas a tener que hacer tú, o sea, puede ser algo que luego automatizamos a código, pero a cloud siempre y cuando le expliquemos el proceso puede meterse a ver todo esto lo guardamos en action sheets, puede revisar como todos los actions sheets y decir,"Okay, tramo eh destination 1 a dos, estos los vehículos que voy a traer e y luego después lo podemos pasar a código que entre más como hardcodeado, pero creo que para empezar puede ser una buena manera de deducir la información de ese documento que ya me está cayendo gordo. M.
+
+**Artur Morais:** Sí, lo que pensé es que básicamente toda la información que es necesaria en el
+
+
+
+
+### **00:21:00**
+
+
+
+**Armando Flores:** Yeah.
+
+**Artur Morais:** deca, aparte de de peso del coche, todo restante tenemos en sal, ¿vale? Tenemos la matrícula, las las los horarios, la ubicaciones de todo marca model.
+
+**Daniel Escribano:** marca modelo en matrícula marca marca modelo
+
+**Artur Morais:** Bueno,
+
+**Daniel Escribano:** el lugar de recogida lugar de entrega hora de recogida hora de entrega
+
+**Artur Morais:** hora de entrega. Ah, después se se tiene que manter como disponible hasta 12 horas después. ¿Cómo es? Un mes. ¿Con cuánto
+
+**Paloma Calderon:** Pero solo piden fecha de transporte,
+
+**Artur Morais:** tiempo?
+
+**Daniel Escribano:** No,
+
+**Paloma Calderon:** ¿no? Entonces ahí no
+
+**Daniel Escribano:** e el no y y ahora también eh en los datos que os he
+
+**Paloma Calderon:** importa.
+
+**Daniel Escribano:** puesto en el grupo tenéis toda la info de los datos que se necesita y hay un ejemplo de los datos que se necesitan, ¿vale? Para que lo veáis. Es que ahora no me lo sé de memoria, pero vamos, me lo estotejando todo esta manera con la en la opinión que hemos hecho y he estado verificando la ley, ¿vale? Entonces, está todo claro en el texto que os he puesto. Ahora, eh, lo más importante es que Artur
+
+
+
+
+### **00:22:14**
+
+
+
+**Artur Morais:** Lo que estoy compartiendo es el ejemplo de del documento que necesitamos crear,
+
+**Daniel Escribano:** es ese es el ejemplo del documento, ¿vale? Pero luego en el resto del slack tenéis puesto lo que necesita llevar el deca
+
+**Artur Morais:** No.
+
+**Daniel Escribano:** imprescindible punto por
+
+**Paloma Calderon:** Sí, porque yo tengo una duda. Por ejemplo, en este documento dice lugar de carga y lugar de descarga,
+
+**Daniel Escribano:** punto.
+
+**Paloma Calderon:** pero arriba en en si le das clic fuera de la foto, Arthur, en lo que mandó Dani de texto, por ejemplo, dice eh datos de origen y destino
+
+**Daniel Escribano:** Claro, es que es que ese no ese no es el documento. El documento se genera cuando coges el QR de ahí.
+
+**Paloma Calderon:** y
+
+**Daniel Escribano:** Ese es un ejemplo, un ejemplo de lo que sería la presentación del QR, ¿vale? Ahora, los datos que tienen que venir dentro de CQR es lo que os he puesto yo. En en otra foto tenéis los datos que tienen que venir y por escrito también os lo he puesto punto por
+
+**Artur Morais:** Vale,
+
+**Paloma Calderon:** entonces la foto no.
+
+**Daniel Escribano:** punto.
+
+**Artur Morais:** entonces Todas estas informaciones ahí son dispensables, se ya tienen dentro del K,
+
+**Daniel Escribano:** Claro. O sea, ese esa foto que tú estás mostrando, ¿vale?,
+
+
+
+
+### **00:23:24**
+
+
+
+**Artur Morais:** No.
+
+**Daniel Escribano:** Es como el ejemplo de presentación del QR, que es los datos de un albarán básico y el QR donde tiene que hacerle la foto a la policía y ahí entra a ver los datos que solicitamos que pongo en el texto y que
+
+**Paloma Calderon:** Por eso sí,
+
+**Daniel Escribano:** pongo en otra foto. De ejemplo, pon la otra foto, Artur,
+
+**Paloma Calderon:** porque esta foto no es lo que necesitamos copiar.
+
+**Daniel Escribano:** porfa.
+
+**Artur Morais:** Sí. No.
+
+**Paloma Calderon:** Es lo por eso digo el de la hora de llegada.
+
+**Daniel Escribano:** Arriba, arriba, Artur. esa, esa es ahí viene, ¿no?
+
+**Paloma Calderon:** No, o sea, ahí nada más viene un
+
+**Armando Flores:** Mira, Paloma,
+
+**Paloma Calderon:** QR.
+
+**Daniel Escribano:** Vale,
+
+**Armando Flores:** ahí en en
+
+**Daniel Escribano:** hay dos requisitos técnicos. Bueno, pero en el texto viene
+
+**Armando Flores:** el
+
+**Paloma Calderon:** Por eso, pero por ejemplo en el texto no dice hora de entrega,
+
+**Daniel Escribano:** todo.
+
+**Armando Flores:** Mira,
+
+**Paloma Calderon:** solo dice fecha y hora de creación,
+
+**Armando Flores:** Paloma,
+
+**Paloma Calderon:** fecha de transporte,
+
+**Armando Flores:** te voy a enseñar una cosa en
+
+**Paloma Calderon:** noada de hora.
+
+**Daniel Escribano:** Ah, vale. Pues entonces es hora de creación y me he confundido yo con la hora de entrega.
+
+
+
+
+### **00:24:28**
+
+
+
+**Daniel Escribano:** Perdón, es que como voy conduciendo no lo puedo ver y no me lo sé de
+
+**Paloma Calderon:** Sí,
+
+**Daniel Escribano:** memoria.
+
+**Paloma Calderon:** no está bien, pero solo justo lo que importa son esos que dice estructura documentos de oa eso es lo que tenemos que incluir, no lo que está en en la otra foto. Y porque también hay duda,
+
+**Armando Flores:** Es que tómale tómale foto a ese QR.
+
+**Paloma Calderon:** sí, perdón, Armando,
+
+**Armando Flores:** O sea, ese es el QR. Ese es un documento donde viene un QR, pero no es el documento per sé.
+
+**Paloma Calderon:** es lo que importa. Sí.
+
+**Armando Flores:** Ajá.
+
+**Artur Morais:** Sí, sí. Eso que
+
+**Armando Flores:** Entonces foto y ahí ya viene el albarán de transporte,
+
+**Daniel Escribano:** Eso es.
+
+**Armando Flores:** viene tubos reunidos,
+
+**Paloma Calderon:** Sí,
+
+**Armando Flores:** viene vehículo, lugar de carga,
+
+**Artur Morais:** estaba
+
+**Armando Flores:** lugar de descarga, hora de salida, este, hora de llegada.
+
+**Paloma Calderon:** perfecto.
+
+**Armando Flores:** Okay.
+
+**Paloma Calderon:** Pero entonces regreso a la duda.
+
+**Armando Flores:** Entonces viene productos, etcétera.
+
+**Paloma Calderon:** Es que esto es más tema legal, entonces tal vez lo estoy, o sea, estoy poniéndonos problemas innecesarios, pero por ejemplo hora de de dice lugar de carga y lugar de descarga.
+
+
+
+
+### **00:25:28**
+
+
+
+**Paloma Calderon:** Si yo hago la recolección, si yo llevo un carro cargado y ahorita voy en camino al segundo lugar para cargar otro carro, ahí no voy a descargar nada. Pero el documento iba a decir que ahí es mi lugar de descarga.
+
+**Daniel Escribano:** Y que que no que no que que no que es lo que se dicho antes, Paloma, que aunque tú no descargues,
+
+**Paloma Calderon:** Ok.
+
+**Daniel Escribano:** pero es es un transporte con otra carga, es punto A, punto B. Y cuando tú haces haces una carga o o una carga nueva, ya es otro punto A, otro punto B, porque es el coche lleva una carga distinta. Hay que entender la lógica del DE deca. La lógica del DECA no es nuestra lógica. La lógica del DECA es que el que el policía sepa la carga que lleva en el momento el coche, dónde lo dónde ha salido el camión y dónde tiene que llegar el camión.
+
+**Paloma Calderon:** Okay.
+
+**Daniel Escribano:** Aunque sean exactamente, fíjate lo que te digo, aunque sea exactamente la misma carga que el movimiento anterior, pero imagínate que es un movimiento de ITV de los de clicar. Es la misma carga. Punto A, punto BV punto B A clicas otra vez, pero sin embargo son dos tecas porque son dos movimientos distintos porque el inicio es otro y el final es otro, aunque sea la misma carga.
+
+
+
+
+### **00:26:48**
+
+
+
+**Paloma Calderon:** Siento que tal vez es algo que hasta pudiéramos todo es como hard coded un poquito. Lo único que sería dinámico es la hora de salida y hora de llegada.
+
+**Artur Morais:** Ok.
+
+**Paloma Calderon:** Sí, si necesita estar como real, en tiempo real. Eh, vamos a decir que el transporte se atrasa,
+
+**Daniel Escribano:** Mhm.
+
+**Paloma Calderon:** como que si necesita tener eso que se populate como una vez que entregas ya llenas hora de llegada, pero si no al final del día es como es una página que muestra campos que ya tenemos y el único que veo hardcodeado es e o que tal vez no vamos a tener el cargador contractual y el transportista efectivo. Eso, por ejemplo, en el caso de Clicks cambia, ¿no? Porque es la empresa de transporte, eran como esas columnas que no sabíamos qué hacerles, ¿no,
+
+**Daniel Escribano:** Eso es el tal David,
+
+**Paloma Calderon:** Artur?
+
+**Daniel Escribano:** el tal otro que pertenecen a la empresa X.
+
+**Paloma Calderon:** Entonces, siempre y ¿qué nos incluyan en ese documento como esa información? O sea,
+
+**Armando Flores:** Ah.
+
+**Paloma Calderon:** si en el mismo documento de las cargas nos incluyen como el peso, ¿qué necesitamos? peso, el peso,
+
+**Artur Morais:** Solo, solo peso.
+
+
+
+
+### **00:28:00**
+
+
+
+**Paloma Calderon:** ¿no?
+
+**Artur Morais:** Sí, además lo que ya tenemos
+
+**Paloma Calderon:** Okay.
+
+**Artur Morais:** normalmente.
+
+**Paloma Calderon:** Y todo lo demás es una vista que nada más tenemos que generar.
+
+**Daniel Escribano:** Lo único que porfa,
+
+**Artur Morais:** Sí.
+
+**Daniel Escribano:** verificarlo con el texto que he puesto en el slack a ver si va a ser algo más o algo que nos falle que
+
+**Paloma Calderon:** Ok.
+
+**Daniel Escribano:** y que no me yo de memoria que yo no puedo leerlo ahora sobre la conduciendo. Luego luego cuando tengáis un momento, ¿no? Ahora
+
+**Paloma Calderon:** Okay.
+
+**Daniel Escribano:** hay un punto en el que pone los cuatro o cinco puntos indispensables para el
+
+**Paloma Calderon:** Sí.
+
+**Daniel Escribano:** deca.
+
+**Paloma Calderon:** Cabecera y control técnico, ID único, fecha y hora de creación, el código QR, sujetos intervinientes, que es cargador contractual y y transportista efectivo, que esos son los que hagamos con el ejemplo que mismo lo que nos mandó Click Cars, tenemos esa información, o sea, ¿qué campos, qué columna es la que va mapeada a eso, datos del transporte y vehículo, origen es punto A del trayecto, destino es punto B, fecha de transporte es la fecha del trip, matrícula del vehículo, esa también creo que no nos la dan, nos dan como es la gruba de Pepe, pero si necesitamos la matrícula, uno,
+
+
+
+
+### **00:29:25**
+
+
+
+**Daniel Escribano:** Eso
+
+**Paloma Calderon:** si ellos nos la van a dar o dos,
+
+**Daniel Escribano:** es.
+
+**Paloma Calderon:** si eh la hacemos mandatoria y la jalamos directamente del trip, o sea, de cuando el driver registra como que qué vehículo se va a llevar. arma de doble filo porque tal vez al driver le dé flojera o diga como, ¿por qué tengo que hacer esto cada vez? Y es más fácil como que sea hardcoreado sabiendo que la grúa de Pepe siempre va a ser esta. Eh, datos. ¿Qué más? Sí, porque dice matrícula vehículo. E descripción de la mercancía va a ser cada placa, o sea, vehículo, el número de placa de lo que tengamos cargado en ese momento y el peso de cada vehículo. No sé si
+
+**Daniel Escribano:** Sí, hoy mucha gente incluso añadir la marca del modelo creo que también estaría bien porque la especificación de la
+
+**Paloma Calderon:** el
+
+**Daniel Escribano:** carga piden la marca del modelo.
+
+**Paloma Calderon:** Okay, sí la tenemos y
+
+**Armando Flores:** Oye, lo único que yo vi es que el ejemplo que dieron Aquí los
+
+**Paloma Calderon:** Eh,
+
+**Armando Flores:** de bueno de la empresa a la hora que, o sea, no no te lleva un PDF, puedes descargar creo que un PDF o algo similar, pero no sé si sea nada más
+
+
+
+
+### **00:30:43**
+
+
+
+**Artur Morais:** Sí.
+
+**Armando Flores:** planeado.
+
+**Daniel Escribano:** mando.
+
+**Paloma Calderon:** ¿Cómo?
+
+**Daniel Escribano:** Seó.
+
+**Armando Flores:** R. que aparece, perdón, regresándome un poco al ejemplo que no que que te dieron,
+
+**Daniel Escribano:** Ah,
+
+**Artur Morais:** H
+
+**Armando Flores:** Dani,
+
+**Daniel Escribano:** por favor.
+
+**Armando Flores:** eh, no te lleva a un PDF, te lleva nada más como a un documento web, a un HTML. No me escuchan,
+
+**Paloma Calderon:** No, sí,
+
+**Armando Flores:** ¿verdad?
+
+**Paloma Calderon:** pero sabes qué, Armando, arriba del lado derecho tienen como la opción de descargarlo y creo que con
+
+**Daniel Escribano:** mal
+
+**Paloma Calderon:** eso es porque dice código QR enlace http es directo para descargar el PDF original sin contraseñas. Entonces, si te fijas del lado arriba de derecho, hay un botoncito de descargar y con eso ya puedes descargar el el PDF. Ya lo perdimos, perdón.
+
+**Armando Flores:** No, no, sí, sí estoy.
+
+**Paloma Calderon:** Ah.
+
+**Armando Flores:** Lo que pasa es que como que hoy mi conexión, me tuve que conectar otra red y está está del nabo, pero bueno,
+
+**Artur Morais:** Es
+
+**Armando Flores:** pues digo, si funciona, funciona.
+
+**Paloma Calderon:** Entonces, hay que ver si nos pueden mandar lo los datos que faltan, cómo nos lo van a mandar, si va a ser en
+
+
+
+
+### **00:32:26**
+
+
+
+**Daniel Escribano:** En el mismo SPR de de que nos mandan toda la info,
+
+**Paloma Calderon:** e
+
+**Daniel Escribano:** van a añadir una columna con los datos que nos faltan.
+
+**Paloma Calderon:** una de peso, una de que confirmen la de cargador contractual, la de transportista efectivo y la de aquí, a ver, a confirmar con clickars la de peso y luego el peso me imagino Okay. Mandé.
+
+**Artur Morais:** no que tiene que añadir al al spreadset,
+
+**Paloma Calderon:** Sí. Eh,
+
+**Artur Morais:** No.
+
+**Paloma Calderon:** y aquí los campos que tenemos. El primero eh, genera Dver. fecha y hora de creación. También lo mismo aquí yo no veo que que tengamos que poner ninguna fecha estimada de cuándo va a ser el transporte, solo fecha y hora de creación o no sé si se tiene que crear como en el momento en el que sale, eh, pero sería bueno confirmar. Ok. Listo. ¿Algo más?
+
+**Armando Flores:** No, yo creo que con eso este, o sea, lo que queríamos Paloma era que entendieras un poco, o sea, dos cosas. Uno la, o sea, el concepto, ¿no?, que por un lado parece ser sencillo, pero sí trae sus complejidades y por el otro es es la la
+
+
+
+
+### **00:34:28**
+
+
+
+**Paloma Calderon:** Sí.
+
+**Armando Flores:** necesidad hacia clicars y y tratar de amarrarlo junto con lo que ya traemos de hallers, porque si necesitas lo de hallers, necesitas esto a la fuerza, ¿no? O sea, es como ahora va junto con pegado el producto, ¿no? Y si podemos iniciar con un MVP, creo que sería lo ideal. O sea, si se te ocurre algo que podamos trabajar con Cloud en un inicio, pues lo hacemos. Este y nada más en tener la complejidad de integrarlo y en cuanto tiempo,
+
+**Daniel Escribano:** Lo que eso es lo que yo necesito es confirmarle a Pablo antes de que acabe la semana que somos capaces de tenerlo para antes del 5 de octubre,
+
+**Armando Flores:** No.
+
+**Daniel Escribano:** que si no él tiene que contratar otro proveedor.
+
+**Paloma Calderon:** No, siento que el 5 de octubre está bien que nos confirme que nos va a pasar esa información e y podemos hacer el primer MVP en cloud, pero luego en verdad creo que si son estos datos o es algo es un documento que hasta puede generar e como que ya una vez que lo tengamos bien lo puede generar Kevin script como está haciendo los invo O sea, al final del día estás generando un PDF, eh, y luego ya disponibilizándoselos a los a los drivers.
+
+**Daniel Escribano:** Perfecto.
+
+**Paloma Calderon:** Okay.
+
+
+
+
+### **00:35:45**
+
+
+
+**Daniel Escribano:** Lo
+
+**Artur Morais:** estaba ahí para crear en confluence
+
+**Daniel Escribano:** comunico.
+
+**Paloma Calderon:** Sí,
+
+**Artur Morais:** quieras.
+
+**Paloma Calderon:** porfa.
+
+**Artur Morais:** Y ahí bueno, creamos el ticket. Solo estoy esperando porque mi cloud está como total usage. tengo que cargar más, pero ahí creo todo lo que necesitamos y bueno, partimos de ahí si quieras. Ah,
+
+**Paloma Calderon:** Okay.
+
+**Artur Morais:** si ya puede crear el ticket y ahí después agrego ahí.
+
+**Paloma Calderon:** E sí, pongámonos como confluence page. Y de ahí sacamos el ticket y para que lo revisen Tiago y Kevin, que probablemente sean quien los acabeciendo, pero primero, o sea, el primero de como que literalmente podemos tomar la data del spreadshe, la data de sales force y que cloud nos genere el documento y como, okay, está bien, este es el ejemplo de cómo lo queremos o como teníamos hasta el Excelito de los invoices. Y creo que con eso como que honestamente no por ahora no veo ningún campo que sea superclicado siempre y cuando lo podamos cargar al
+
+**Artur Morais:** Sí.
+
+**Paloma Calderon:** sistema.
+
+**Artur Morais:** ¿Y qué piensas de cómo disponibilizarlos para el conductor? ¿Dónde crees que podemos hacerlo?
+
+
+
+
+### **00:37:09**
+
+
+
+**Paloma Calderon:** Ve, lo podemos poner en
+
+**Artur Morais:** Para mí más me preocupa de desarrollo para crear un campo nuevo en una aplicación o algo
+
+**Paloma Calderon:** las
+
+**Artur Morais:** así como
+
+**Paloma Calderon:** campos nuevos, ¿no?
+
+**Artur Morais:** sabes
+
+**Paloma Calderon:** Porque ahora tenemos los campos de metadata, entonces acuérdate que los podemos cargar ahí.
+
+**Artur Morais:** digo más no campo deenar al solicitud pero para
+
+**Paloma Calderon:** Eh,
+
+**Artur Morais:** que el conductor tenga acceso al enlace para el link para elf
+
+**Daniel Escribano:** Ok.
+
+**Artur Morais:** y todo más. Solo eso que que me
+
+**Paloma Calderon:** se los podemos poner como un URL en los pickup notes de cada trayecto o
+
+**Artur Morais:** preocupa.
+
+**Paloma Calderon:** los cinco URLs en las tripnotes.
+
+**Armando Flores:** M.
+
+**Paloma Calderon:** También ahorita tenemos nada más attachments,
+
+**Daniel Escribano:** Ok.
+
+**Paloma Calderon:** pero si se generan, por ejemplo, un PDF que incluye el QR, le podemos cargar el attachment también al driver, solo que eso ahorita está por command center, no por integración. Entonces,
+
+**Artur Morais:** Sí.
+
+**Paloma Calderon:** como estaría fifty50y, eh, pero siento que en el peor de los casos como trip notes, aquí están los cinco documentos. Listo. Si me explico, o sea, como que en un campo de metadata podemos llamarlo e deca o como se llama este documento, sí, decas y literal como 1 2 3 cu 5 y los cinco links
+
+**Artur Morais:** Sí.
+
+**Paloma Calderon:** y como la experiencia tal vez pueda ser más bonita en el futuro, pero darles al y que el driver marque y dónde está aquí. y pícale al link de Okay,
+
+**Artur Morais:** Perfecto.
+
+**Paloma Calderon:** ya lo que me preocupa más es como qué si cambia un
+
+**Artur Morais:** Es
+
+**Paloma Calderon:** viaje, qué si hay, sabes, como que tiene, o sea, es esos cases siento que porque entonces, ¿a qué horas vuelves a hacer todos los documentos y los tienes que rehacer todos? Cre. Creo que con Holler son menos los cambios que tenes en la operación, pero vamos a
+
+**Artur Morais:** Sí, ¿verdad?
+
+**Paloma Calderon:** ver.
+
+**Artur Morais:** Bueno, creo que es eso, ¿no?
+
+**Paloma Calderon:** Bueno,
+
+**Armando Flores:** Listos.
+
+**Paloma Calderon:** gracias.
+
+**Armando Flores:** Gracias,
+
+**Daniel Escribano:** Perdonad,
+
+**Armando Flores:** Paloma.
+
+**Daniel Escribano:** chicos, estaba aparcando.
+
+**Paloma Calderon:** M.
+
+**Daniel Escribano:** Muchas gracias.
+
+**Artur Morais:** Uh.
+
+**Daniel Escribano:** Hasta luego, chicos.
+
+**Armando Flores:** Nos vemos.
+
+**Daniel Escribano:** Gracias.
+
+
+
+
+### **La transcripción finalizó después de 00:39:41**
+
+
+
+*Esta transcripción editable se generó por computadora y puede contener errores. Los usuarios también pueden cambiar el texto después de que se
