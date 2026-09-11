@@ -8,6 +8,7 @@
 - **T-32** Re: Comprobante de pago - PAGOS AVA 09SEPT2026
 - **T-33** Facturación Draiver Agosto 2026 - Zapata Logistics
 - **T-34** Re: REPSE and digital platforms
+- **T-36** Re: COTIZACIÓN PEPSICO | SUC SAN PEDRO
 - **T-4** penske case study for EU · esperando a Fede
 - **T-9** CARTA RESPONSIVA · esperando a Julianna
 

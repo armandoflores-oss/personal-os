@@ -338,3 +338,8 @@
 {"detail": "", "item_id": "1a0919eb8a6e3345", "reason": "sin_compromiso", "source": "gmail", "subject": "Meet your new best friend from Podium", "ts": "2026-09-11T19:53:26+00:00"}
 {"detail": "", "item_id": "1a09188a494f7723", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Solicitud traslado CA2138", "ts": "2026-09-11T19:53:26+00:00"}
 {"detail": "", "item_id": "1a091740085be632", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: TESLA - TC - LARMEX MTY Dispatch - Q3 2026 Sept", "ts": "2026-09-11T19:53:26+00:00"}
+{"action": "enviar", "counterparty": "ford", "detail": "ya abierto en T-24", "item_id": "1a0926741188bdcc", "reason": "duplicado", "source": "gmail", "subject": "Re: COTIZACIÓN PEPSICO | SUC TENANCINGO", "ts": "2026-09-11T21:55:57+00:00"}
+{"action": "enviar", "counterparty": "tip", "detail": "ya abierto en T-36", "item_id": "1a09265dc15193dd", "reason": "duplicado", "source": "gmail", "subject": "Re: COTIZACIÓN PEPSICO | SUC CUAUTITLAN", "ts": "2026-09-11T21:55:57+00:00"}
+{"detail": "", "item_id": "1a09257883a65d24", "reason": "sin_compromiso", "source": "gmail", "subject": "COTIZACIÓN NESTLÉ CASO EL 5066", "ts": "2026-09-11T21:55:57+00:00"}
+{"detail": "", "item_id": "1a0920f9f6529443", "reason": "sin_compromiso", "source": "gmail", "subject": "RE: PROPUESTA COMERCIAL_ Servicio de traslados interestatales y verificaciones_ DRIVERDO", "ts": "2026-09-11T21:55:57+00:00"}
+{"detail": "\\by si\\b", "item_id": "1a0922c5c0f1a103", "reason": "exploratorio", "source": "gmail", "subject": "RE: Envío de cierres de mes – Mayo a Agosto", "ts": "2026-09-11T21:55:57+00:00"}
