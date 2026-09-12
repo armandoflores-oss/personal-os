@@ -7,10 +7,10 @@
 - **T-25** FW: Resguardo CA2138
 - **T-32** Re: Comprobante de pago - PAGOS AVA 09SEPT2026
 - **T-33** Facturación Draiver Agosto 2026 - Zapata Logistics
-- **T-34** Re: REPSE and digital platforms
+- **T-34** Re: REPSE and digital platforms · esperando a Juliana / Garrigues
 - **T-36** Re: COTIZACIÓN PEPSICO | SUC SAN PEDRO
 - **T-4** penske case study for EU · esperando a Fede
-- **T-9** CARTA RESPONSIVA · esperando a Julianna
+- **T-9** CARTA RESPONSIVA
 
 ## Reuniones España
 - **T-22** Confirmar con Clicars cómo mandarán shipper, carrier y peso por vehículo (bloqueante del MVP levantado por Deca/Paloma); propuesta: misma sábana en columnas separadas

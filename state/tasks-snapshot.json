@@ -118,7 +118,13 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Could you please confirm whether this document has been submitted?",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "Hilo de Juliana (legal) con Garrigues; Armando solo va en copia. Registro patronal ante el CFCRL: contrato ya registrado con sellos (8 sep). Garrigues pidió el comprobante de domicilio, que Juliana mandó el 10 sep. Hasta que cierre el registro patronal no se pueden dar de alta los drivers que rebasan el umbral de salario mínimo: ese alta es lo único que después toca operación.",
+    "ts": "2026-09-12T18:22:56+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a08ce7c3c666998",
@@ -126,7 +132,7 @@
   "task_id": "207c6a5f5690",
   "title": "Re: REPSE and digital platforms",
   "vetoed": false,
-  "waiting_on": null
+  "waiting_on": "Juliana / Garrigues"
  },
  "3414689d651a": {
   "action": "confirmar",
@@ -187,7 +193,13 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Les comparto el invite en un momento.\"",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "Antes de ejecutar hay que entender el scope que quiere Carolina; la ejecución en sí debería ser muy sencilla.",
+    "ts": "2026-09-12T18:21:52+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": "2026-09-09",
   "source": "gmail:1a0825e8628794bf",
@@ -262,7 +274,13 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Les comparto el resumen de la actividad del mes de agosto, para su revisión.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "Lo hace el área de finanzas. No hay ejecutable para Armando salvo que venga mencionado o le pidan escalar.",
+    "ts": "2026-09-12T18:21:52+00:00"
+   }
+  ],
   "owner": "Finanzas",
   "snoozed_until": null,
   "source": "gmail:1a08d0286475b365",
@@ -379,7 +397,13 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Enseguida te envío el resumen de agosto para tu revisión.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "AVASA (Alquiladora de Vehiculos Automotores) pagó el 9 sep 2026 a DRIVERDO LLC: facturas 160726B ($11,280.09) y 072026A ($4,256.41), total $15,536.50 USD. Jesús Martín Tzacun (AVASA) lo reenvió a Armando y a Marcelo Treviño. AVASA pide el complemento de pago. Marcelo (AR Manager) ya acusó recibo y va a mandar el resumen de agosto.",
+    "ts": "2026-09-12T18:22:56+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a08c5d22f02c9e0",
@@ -400,7 +424,13 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "De: Ubaldo Jahir Garza Oviedo <ubaldojahir.garza@cemex.com> (28 ago 2026): Te comparto la informacion de la unidad CA2138.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "Lo opera José Durán. Lo único de Armando es validar que se entregue o no se entregue.",
+    "ts": "2026-09-12T18:21:52+00:00"
+   }
+  ],
   "owner": "José Durán",
   "snoozed_until": null,
   "source": "gmail:1a0830ea2e4f5574",
@@ -555,7 +585,13 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Por este medio les comparto el formato de Carta Responsiva que utilizamos actualmente para todos los traslados de unidades vehiculares dentro de ...",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "Juliana confirmó que sí podemos usar esa carta responsiva. Deja de estar bloqueada por ella: el siguiente paso es de Armando, dar seguimiento con Turbofin.",
+    "ts": "2026-09-12T18:21:52+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a06db8fe41b373e",
@@ -563,7 +599,7 @@
   "task_id": "a8f0c408501c",
   "title": "CARTA RESPONSIVA",
   "vetoed": false,
-  "waiting_on": "Julianna"
+  "waiting_on": null
  },
  "bc5e528ccd4c": {
   "action": "enviar",
@@ -576,7 +612,13 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "penske case study for EU\nTeam les paso este reciente case study que hice para Penske de savings de chaining, llevaría esto a los meets de ES junto con el demo.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "11 sep: Armando ya revisó a detalle las características. Falta ejecutarlo y hacer una live demo con BSA la semana del 14 sep.",
+    "ts": "2026-09-12T18:21:52+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a064f3d9916bdba",
