@@ -1,0 +1,46 @@
+Diaria Spain Launch - 2026/09/14 08:30 CST - Notes by Gemini
+
+Invitados: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
+
+## Resumen
+Revisión de control digital para pruebas y acuerdos logísticos y optimización de movimientos.
+
+Control digital y pruebas
+Revisión del documento de control digital con un Producto Mínimo Viable preparado para las pruebas. Preparación de cuentas para los conductores.
+
+Acuerdos logísticos y volumen
+Negociación de volumen mínimo para trayectos cortos a precio de coste a cambio de asegurar transportes largos y eliminar proveedores previos.
+
+Optimización y eventos
+Propuesta de utilizar transporte público o vehículos de apoyo para conectar itinerarios de conductores y coordinación logística para el evento.
+
+## Decisiones
+
+### Requiere más debate
+- Lanzamiento de campañas de bonus: Se discutió la programación y lanzamiento de campañas de bonus de engagement para mediados o finales de la próxima semana, quedando pendiente de la disponibilidad de Moa.
+
+### Acordada
+- Aceptación de transportes cortos de Car 10: Se acordó aceptar los movimientos de transporte corto de Car 10 a coste o coste más un pequeño margen, exigiendo que el conductor tome una foto del cuadro del coche antes de los 250 km para las reclamaciones.
+- Preparación del modelo para la prueba de Clicars: Se acordó responder a Pablo que el modelo para la prueba del miércoles estará listo con información ficticia y solicitarle los datos y rutas de los dos conductores para configurarlo todo previamente.
+
+## Próximos pasos
+- [Daniel Escribano] Responder a Pablo: Responder a Pablo confirmando que el modelo de control digital estará listo para el miércoles y solicitarle el nombre de los conductores, sus correos electrónicos y sus rutas.
+- [Artur Morais] Revisar temas con Paloma: Revisar los temas pendientes con Paloma y actualizar el estado de las fechas y notificaciones en Slack para el miércoles.
+- [Artur Morais] Tratar temas con Kevin: Discutir con Kevin la herramienta de generación de facturas y la automatización del cambio de estatus de pago en Salesforce.
+- [Artur Morais] Actualizar estatus de pago: Cambiar el estatus de los pagos de los conductores a pagado dentro de la plataforma.
+- [Artur Morais] Actualizar equipo en Slack: Publicar en el canal de Slack una actualización completa tras la reunión con Paloma para asegurar la visibilidad del equipo.
+- [Artur Morais] Gestionar check in hotel: Confirmar con el hotel si la pareja puede realizar el check in independientemente.
+
+## Detalles
+
+- Documento de control digital y pruebas con Clicars: Daniel Escribano planteó la consulta recibida por WhatsApp de Pablo (de Clicars / Car 10) sobre si se podría ver algo del documento de control digital de cara a la prueba del miércoles (00:00:15). Artur Morais explicó que ya disponen de un Producto Mínimo Viable (MVP) como modelo para revisión y aprobación, aunque contendrá campos con información ficticia dado que el flujo completo y los datos correctos aún se encuentran en desarrollo. Artur Morais indicó que revisaría temas adicionales con Paloma y en la reunión general de producto, y que Thomas (responsable de automatizaciones) está trabajando en las notificaciones de Slack (00:01:51). Asimismo, Artur Morais señaló que detectó dudas sobre cómo mostrar la matrícula de la grúa en el primer viaje del conductor para diferenciarla de un coche, tema que Artur Morais prometió revisar (00:03:40). Artur Morais se comprometió a responder a Pablo en Slack indicando que el modelo estará listo y solicitando para el día siguiente los nombres, correos y rutas de los dos conductores para crear sus cuentas y dejar todo preparado para el miércoles (00:15:46).
+
+- Acuerdos logísticos y de volumen con Car 10: Daniel Escribano comentó sobre una reunión mantenida con el equipo de Car 10, quienes acordaron desviar transportes en camión hacia la modalidad de transporte rodado con la empresa para incrementar el volumen, abarcando traslados entre tiendas y talleres (para reparaciones y pintura). Daniel Escribano detalló que negoció un volumen mínimo para estos trayectos cortos a precio de coste (o coste más un pequeño margen) a cambio de asegurar los transportes largos que generan mayores ingresos, eliminando a proveedores previos (00:06:55). Debido a que dichos proveedores aplicaban una política de reclamaciones de 250 kilómetros, Daniel Escribano estableció que el conductor debe fotografiar el cuadro de mandos antes de superar los 250 kilómetros para verificar la ausencia de luces de avería, permitiendo realizar reclamaciones en caso de ser necesario (00:10:49).
+
+- Optimización de movimientos y transporte público: Artur Morais sugirió que, al acumular volumen de movimientos cortos dentro de Madrid, se podría conectar un solo viaje con dos o tres trayectos por conductor repartiendo costes, o utilizar un "coche escoba" como propuso Daniel Escribano para trasladar conductores entre tiendas cerradas y abiertas (por ejemplo, en Móstoles) (00:12:14). Como alternativa sin coche escoba, Artur Morais propuso utilizar la opción de transporte público (como metro) para conectar itinerarios entre conductores, cubriendo incluso el coste de los billetes de metro debido a su bajo precio (00:14:01). Asimismo, Daniel Escribano recordó a Artur Morais la necesidad de acceder al Command Center desde una cuenta propia sin requerir el modo incógnito, solicitud que Artur Morais acordó revisar (00:12:14).
+
+- Command Center, Salesforce y gestión de pagos a conductores: Artur Morais explicó que en Salesforce, para que los conductores visualicen los viajes como cerrados en la aplicación, se debe cambiar el estatus a "pago" de modo que no se sumen montos pendientes y se distinga lo pagado de lo que se abonará en próximas semanas. Artur Morais mencionó que revisaría al día siguiente con Kevin la existencia de una herramienta para generar facturas oficiales automáticamente en Salesforce y programar la automatización del cambio de estatus de pago (00:17:33). Adicionalmente, Artur Morais confirmó que actualizaría los estatus de los pagos realizados el viernes para mayor claridad de los conductores (00:19:19).
+
+- Volumen operativo, contrataciones y campañas de bonos en Salesforce: Daniel Escribano expresó cierta preocupación por el bajo volumen operativo actual a la espera del evento de la semana y la incorporación de 18 vehículos recién adquiridos por Car 10, aunque Artur Morais consideró que es un ritmo normal al inicio de pruebas piloto con clientes para evitar saturar a los conductores. En cuanto al proceso de selección, Daniel Escribano informó que tras realizar entre 8 y 10 entrevistas y derivar perfiles a Nico para una segunda valoración, ya se cuenta con dos candidatos viables, estimando incorporar al equipo la semana siguiente (00:19:19). Por otro lado, Artur Morais indicó que Moa ya cuenta con cuenta en Salesforce, lo que permitirá programar y lanzar la semana próxima campañas de bonos de engagement para estimular a los conductores a realizar más viajes, proyectando tener la campaña activa a más tardar a principios de octubre (00:20:42). Daniel Escribano añadió que validaría al resto de los conductores con calma debido a la falta actual de volumen (00:22:08).
+
+- Logística del evento semanal y coordinación de traslados: Daniel Escribano y Artur Morais coordinaron los detalles logísticos para el evento de la semana en San Sebastián de los Reyes, fijado a las 13:30 horas. Daniel Escribano indicó que recogería a Nico en la estación de Chamartín sobre las 12:00 o 12:15 horas, debiendo recoger al resto del personal a más tardar a las 13:00 horas para salir puntualmente hacia el evento desde la oficina situada en la calle Doctor Fleming. Artur Morais indicó que evaluaría la opción de que su pareja realizara el check-in en el hotel de manera independiente por si surgía algún inconveniente, mientras Artur Morais se encontraba con Daniel Escribano y Nico en Chamartín, comprometiéndose a confirmar los detalles definitivos al día siguiente (00:23:43).
