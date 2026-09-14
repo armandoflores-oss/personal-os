@@ -10,6 +10,7 @@
 - **T-33** Facturación Draiver Agosto 2026 - Zapata Logistics
 - **T-34** Re: REPSE and digital platforms · esperando a Juliana / Garrigues
 - **T-36** Re: COTIZACIÓN PEPSICO | SUC SAN PEDRO
+- **T-37** Reserva confirmada para el domingo, 13 de septiembre
 - **T-9** CARTA RESPONSIVA
 
 ## Reuniones España
