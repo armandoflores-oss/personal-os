@@ -73,6 +73,12 @@ CARD_FOLDER = {
     "commitment": "projects",
 }
 
-# Firewalled signals never get a card in the normal tree and never appear in a
-# receipt beyond a count. Their cards, if any, live here and nothing reads them.
-FIREWALLED_CARD_FOLDER = "privado"
+# Firewalled cards live OUTSIDE this repository, on this machine only — not in
+# the tree, not in git, not in iCloud (hence ~/Privado and not ~/Documents).
+# Changed 2026-09-13: the Phase 0 interview had chosen sealed-in-tree; Armando
+# reversed it. Nothing had been written under the old scheme, so no history
+# carries private content.
+PRIVATE_VAULTS = {
+    "fw-finanzas": Path.home() / "Privado" / "finanzas",
+    "fw-familia": Path.home() / "Privado" / "familia",
+}

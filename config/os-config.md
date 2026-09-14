@@ -21,14 +21,14 @@ Tracked domains, in brief display order (operational first, per Armando's choice
 
 | Domain | Slug | Isolation |
 |--------|------|-----------|
-| Personal finance & compensation | `fw-finanzas` | Sealed inside main tree |
-| Family / personal life | `fw-familia` | Sealed inside main tree |
+| Personal finance & compensation | `fw-finanzas` | Separate local vault, outside the repo |
+| Family / personal life | `fw-familia` | Separate local vault, outside the repo |
 
 Enforcement (must live in script code as a constant, `FIREWALLED_DOMAINS`, never only in prompts):
 - Never auto-closed, never auto-processed, never cross-referenced by any routine.
 - Appear in receipts only as count-only lines ("N items withheld").
 - Content never leaves its folder; the reconcile loop demotes any action on them to propose-only, forever.
-- No physically separate vault was chosen. NOTE: sealed-in-tree content still syncs to the private GitHub repo. See open question OQ-1.
+- **Reversed 2026-09-13:** OQ-1 had chosen sealed-in-tree; Armando moved firewalled content to separate local vaults at `~/Privado/finanzas` and `~/Privado/familia` (mode 700). Not in `~/Documents`, because iCloud Desktop & Documents sync covers that path and "local only" has to exclude Apple too. Nothing had been written under the old scheme — `memory/privado/` was empty and the feedback log held zero firewalled events — so no git history carries private content.
 
 ## 3. The one surface
 

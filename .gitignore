@@ -4,3 +4,7 @@ __pycache__/
 .obsidian/workspace*
 cache/tmp/
 docs/settings-local-permisos.json
+
+# Bóvedas firewalled: viven en ~/Privado, jamás aquí
+Privado/
+**/Privado/

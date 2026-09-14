@@ -7,6 +7,8 @@ Two invariants this module exists to enforce, in code rather than in a prompt:
      in a receipt beyond a count (rule 6).
 """
 import json
+import os
+import pathlib
 import re
 import uuid
 from datetime import datetime, timezone
@@ -36,17 +38,22 @@ def append_feedback(kind: str, text: str, *, actor: str = "user", lesson: str = 
         raise ValueError("feedback requires the user's own words in --text (verbatim, for audit)")
     if domain is not None and domain not in constants.DOMAIN_SLUGS:
         raise ValueError(f"unknown domain {domain!r}")
+    firewalled = domain in constants.FIREWALLED_DOMAINS if domain else False
     event = {
         "id": uuid.uuid4().hex[:12],
         "ts": _now(),
         "actor": actor,
         "kind": kind,
-        "text": text.strip(),
-        "lesson": (lesson or "").strip() or None,
-        "card": card,
+        # This log IS committed and pushed. A firewalled signal must leave a
+        # trace that it happened — the grader and the receipts need the count —
+        # but never its content: no verbatim words, no lesson, not even the
+        # card's filename, since a slug is derived from the words themselves.
+        "text": "[retenido: dominio firewalled]" if firewalled else text.strip(),
+        "lesson": None if firewalled else ((lesson or "").strip() or None),
+        "card": None if firewalled else card,
         "domain": domain,
-        "code": code,
-        "firewalled": domain in constants.FIREWALLED_DOMAINS if domain else False,
+        "code": None if firewalled else code,
+        "firewalled": firewalled,
     }
     path = log_path or constants.FEEDBACK_LOG
     with open(path, "a", encoding="utf-8") as f:
@@ -57,11 +64,12 @@ def append_feedback(kind: str, text: str, *, actor: str = "user", lesson: str = 
 def card_path(kind: str, title: str, domain: str = None) -> str:
     """Decide where a card lives. Firewalled domains are forced into privado/."""
     if domain and domain in constants.FIREWALLED_DOMAINS:
-        folder = constants.FIREWALLED_CARD_FOLDER
-    else:
-        folder = constants.CARD_FOLDER.get(kind)
-        if folder is None:
-            raise ValueError(f"kind {kind!r} does not get a card")
+        # Absolute path into the private vault: never a repo-relative one, so
+        # a firewalled card cannot land inside the tree by accident.
+        return str(constants.PRIVATE_VAULTS[domain] / f"{slugify(title)}.md")
+    folder = constants.CARD_FOLDER.get(kind)
+    if folder is None:
+        raise ValueError(f"kind {kind!r} does not get a card")
     return f"memory/{folder}/{slugify(title)}.md"
 
 
@@ -70,7 +78,8 @@ def write_card(rel_path: str, title: str, line: str, *, source: str) -> tuple[st
 
     Cards accumulate; they are never rewritten. Returns (rel_path, created).
     """
-    path = constants.REPO_ROOT / rel_path
+    # An absolute path means a private vault; anything else is repo-relative.
+    path = pathlib.Path(rel_path) if os.path.isabs(rel_path) else constants.REPO_ROOT / rel_path
     path.parent.mkdir(parents=True, exist_ok=True)
     created = not path.exists()
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
