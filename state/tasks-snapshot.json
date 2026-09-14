@@ -938,7 +938,13 @@
   "domain": "reuniones-espana",
   "due_date": "2026-09-16",
   "evidence": null,
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "Armando corrio el prompt en Claude Design el 13-sep. Falta revisar la salida: anonimizacion efectiva, que las 39 cadenas que facturaron mas caro sigan visibles, y el gate de firma (P-5).",
+    "ts": "2026-09-14T01:42:59+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": null,
