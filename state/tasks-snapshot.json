@@ -404,7 +404,7 @@
     "ts": "2026-09-12T18:22:56+00:00"
    }
   ],
-  "owner": null,
+  "owner": "Marcelo",
   "snoozed_until": null,
   "source": "gmail:1a08c5d22f02c9e0",
   "status": "open",
@@ -610,13 +610,18 @@
   "counterparty": "kavak",
   "created": "2026-09-03T21:36:20+00:00",
   "domain": "cotizaciones-operativo",
-  "due_date": null,
+  "due_date": "2026-09-17",
   "evidence": "penske case study for EU\nTeam les paso este reciente case study que hice para Penske de savings de chaining, llevaría esto a los meets de ES junto con el demo.",
   "notes": [
    {
     "actor": "user",
     "note": "11 sep: Armando ya revisó a detalle las características. Falta ejecutarlo y hacer una live demo con BSA la semana del 14 sep.",
     "ts": "2026-09-12T18:21:52+00:00"
+   },
+   {
+    "actor": "user",
+    "note": "La live demo ya está agendada: junta BCA FTL / DrAIver del jueves 17 sep 2026, 10:00-12:00 Madrid (02:00-04:00 CDMX). Van Anders Groenkjaer y mo@bca.dk por BCA, y Fede Ranero, Nicolas Ariza, Gerardo Cabanas y Carlos (Kavak). Presencial (Piso 4 Izquierda) + meet.google.com/wvo-qrzh-zbg.",
+    "ts": "2026-09-13T22:43:05+00:00"
    }
   ],
   "owner": null,
