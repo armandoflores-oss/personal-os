@@ -97,8 +97,13 @@ Cloud ingest routine (several times/day, watermarked, single-writer on `cache/`)
 Local deterministic courier (catch-up-on-wake — this laptop is intermittent): digest the day's session transcripts, scrub secret-shaped strings, exclude firewalled-folder sessions, push to `cache/sessions/<host>/`. Nightly cloud distiller: extract corrections/facts/status/contacts/commitments, dedupe, write through Phase 2 rails, delete processed digests, receipt + heartbeat, per-run cap above daily volume.
 - **Acceptance:** a mid-session correction from yesterday, never explicitly saved, is applied in today's behavior and shown in the distiller receipt.
 
-### Phase 5 — The second brain → `PENDING`
+### Phase 5 — The second brain → `IN PROGRESS (a: vault + MOC done)`
 (a) Obsidian vault pointed at `memory/`, `home.md` map of content, git plugin only. (b) Density: deterministic weaver backfills `[[wikilinks]]`, topic hubs (client & deal history, people, competitive intel, pricing/tarifas per config §8), no orphans, capped links. (c) Capture lanes: paste-in-session, self-mailed links with keyword, watched folder → immutable `sources/` + distilled `context/` pages. (d) Payoff: producers consult the wiki before drafting (rule 14); `changelog.md` appended nightly. No weekly learning report ever (rule 2).
+- **5(a) done 2026-09-13.** Obsidian installed on macOS 26.5 (Apple Silicon, no Homebrew — official .dmg); vault opened on `memory/` only, so Obsidian never sees scripts, state or logs. Community plugin **Git by Vinzent** installed alone, with *Pull on startup* on and auto-commit OFF: the routines already `add -A && commit && push` five times a day, and a second writer on the same repo would fight them. Whatever Armando edits in Obsidian gets swept up by the next ingest.
+- **`memory/home.md` rewritten as a real map of content**, verified programmatically: all 49 cards reachable in ≤2 clicks, zero broken links. Sections: the 6 domains (as new hub notes in `topics/`), what is live now grouped by task code, people, the rules grouped by what they govern, operating context, and the system's own docs.
+- **`people/` filled (11 cards)** by extracting what existing cards already assert about each person, each line quoting and linking its source card — nothing invented.
+- **System docs live OUTSIDE the vault** (the vault is `memory/`, the docs are in the repo root), so Obsidian cannot follow a `[[wikilink]]` to them; the map uses `file://` links, which open externally.
+- **Known gap:** `interactions/`, `sources/` and `privado/` are still empty, and the Centauro pilot card has no domain — Claude declined to guess rather than misfile it.
 - **Acceptance:** three-hop graph navigation project→counterparty→competitor; a link self-mailed yesterday is a linked wiki page this morning; a routine draft visibly cites something never said in that session.
 
 ### Phase 6 — The loop: reconcile, grade, self-retire → `PENDING`
