@@ -14,6 +14,8 @@
 
 ## Reuniones España
 - **P-1** Escoger los live cases que muestran cada uno de los 6 anchors del demo BCA FTL (N02/N04 intake+dispatch, N14 control tower, N07/X04 POD, X03/X05 waiting time, N06 driver app, N03 pricing por fórmula) · vence 2026-09-15
+- **P-7** Sembrar datos en Mascot Spain antes del ensayo: lote de ordenes para el plan multi-movimiento, un proveedor aprobado dado de alta como operador, y un viaje de camion con VINs cargados · vence 2026-09-15
+- **P-8** Cerrar con Fede y Nico cuantos minutos dura el demo: Nico lo pregunto en Slack el 11-sep y nadie contesto · vence 2026-09-15
 - **P-3** Grabar el minuto de video del flujo del demo y mandarlo a Fede y Nico para feedback · vence 2026-09-16
 - **P-4** Cerrar con Kevin el módulo N18 (WMS y PDI), el que quedó sin read y toca el hub de exportación de España · vence 2026-09-16
 - **P-5** Confirmar con Fede que Dan o Ryan firmaron el corrections history de Penske antes de mostrarlo a BCA · vence 2026-09-16

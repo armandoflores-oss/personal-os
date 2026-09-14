@@ -42,6 +42,11 @@
     "actor": "user",
     "note": "Grid desbloqueada (Armando ya tiene permisos). Anchors demostrables hoy (HAVE/VERIFIED): N02.1, N04.1, N04.2, N04.3, N06.1, N07.2, N14.1, X03.1, X04.7. N03 sin ninguna fila HAVE: sacar del demo en vivo. Entorno: Mascot Autos (tenant de demo), no Element ni Penske.",
     "ts": "2026-09-14T01:47:45+00:00"
+   },
+   {
+    "actor": "system:sesion-bca-17sep",
+    "note": "Guion entregado: 8 bloques sobre un solo hilo (intake N02.1 > plan N04.1 > viaje camion N04.3 > asignacion N04.2 > panel cerrado > driver app N06.1 > prueba N07.2+X04.7 > control tower N14.1+X03.1+X05.1). Limites que se dicen en voz alta: hauler capacity no existe (corregir lo dicho el 19-ago), N06.7 offline, X04.8 audit trail, N07.5 eFTI, visibilidad de terceros. N03 no se abre en pantalla.",
+    "ts": "2026-09-14T02:08:13+00:00"
    }
   ],
   "owner": null,
@@ -104,6 +109,27 @@
   "status": "open",
   "task_id": "132537e4014a",
   "title": "Notes: “Diaria Spain Launch” Sep 8, 2026",
+  "vetoed": false,
+  "waiting_on": null
+ },
+ "145f14605cfb": {
+  "action": null,
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "P-8",
+  "counterparty": null,
+  "created": "2026-09-14T02:08:13+00:00",
+  "domain": "reuniones-espana",
+  "due_date": "2026-09-15",
+  "evidence": null,
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": null,
+  "status": "open",
+  "task_id": "145f14605cfb",
+  "title": "Cerrar con Fede y Nico cuantos minutos dura el demo: Nico lo pregunto en Slack el 11-sep y nadie contesto",
   "vetoed": false,
   "waiting_on": null
  },
@@ -903,6 +929,27 @@
   "status": "open",
   "task_id": "db4dd3bd519c",
   "title": "ESTATUS UNIDADES TRX 04/09/2026",
+  "vetoed": false,
+  "waiting_on": null
+ },
+ "db621e54c2c5": {
+  "action": null,
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "P-7",
+  "counterparty": null,
+  "created": "2026-09-14T02:08:13+00:00",
+  "domain": "reuniones-espana",
+  "due_date": "2026-09-15",
+  "evidence": null,
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": null,
+  "status": "open",
+  "task_id": "db621e54c2c5",
+  "title": "Sembrar datos en Mascot Spain antes del ensayo: lote de ordenes para el plan multi-movimiento, un proveedor aprobado dado de alta como operador, y un viaje de camion con VINs cargados",
   "vetoed": false,
   "waiting_on": null
  },
