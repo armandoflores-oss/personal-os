@@ -37,7 +37,13 @@
   "domain": "reuniones-espana",
   "due_date": "2026-09-15",
   "evidence": null,
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "Grid desbloqueada (Armando ya tiene permisos). Anchors demostrables hoy (HAVE/VERIFIED): N02.1, N04.1, N04.2, N04.3, N06.1, N07.2, N14.1, X03.1, X04.7. N03 sin ninguna fila HAVE: sacar del demo en vivo. Entorno: Mascot Autos (tenant de demo), no Element ni Penske.",
+    "ts": "2026-09-14T01:47:45+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": null,
