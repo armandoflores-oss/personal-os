@@ -21,6 +21,8 @@
 - **P-4** Cerrar con Kevin el módulo N18 (WMS y PDI), el que quedó sin read y toca el hub de exportación de España · vence 2026-09-16
 - **P-5** Confirmar con Fede que Dan o Ryan firmaron el corrections history de Penske antes de mostrarlo a BCA · vence 2026-09-16
 - **P-6** Confirmar con Fede y Paloma si hauler capacity se pone con fecha el 17 o se deja como build sin fecha · vence 2026-09-16
+- **A-1** Confirmar razón social de la matriz UK de DRAIVERDO España para la declaración a COGESA
+- **A-2** Definir con la asesoría fiscal en España si se añade CNAE secundario de transporte al de plataforma/informática
 - **T-22** Confirmar con Clicars cómo mandarán shipper, carrier y peso por vehículo (bloqueante del MVP levantado por Deca/Paloma); propuesta: misma sábana en columnas separadas
 - **T-35** Se decidió desarrollar un producto mínimo viable utilizando scripts automatizados antes del 5 de octubre.
 
