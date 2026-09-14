@@ -47,6 +47,11 @@
     "actor": "system:sesion-bca-17sep",
     "note": "Guion entregado: 8 bloques sobre un solo hilo (intake N02.1 > plan N04.1 > viaje camion N04.3 > asignacion N04.2 > panel cerrado > driver app N06.1 > prueba N07.2+X04.7 > control tower N14.1+X03.1+X05.1). Limites que se dicen en voz alta: hauler capacity no existe (corregir lo dicho el 19-ago), N06.7 offline, X04.8 audit trail, N07.5 eFTI, visibilidad de terceros. N03 no se abre en pantalla.",
     "ts": "2026-09-14T02:08:13+00:00"
+   },
+   {
+    "actor": "user",
+    "note": "Entorno corregido: Mascot Autos US (prod, el que Kevin valida) como espina del demo, no Mascot Spain (org de DEV creada para probar la formula de pricing). Mascot Spain solo como pantalla suelta de campos en español si resulta estable. Nunca el tenant real de Penske.",
+    "ts": "2026-09-14T02:22:27+00:00"
    }
   ],
   "owner": null,
