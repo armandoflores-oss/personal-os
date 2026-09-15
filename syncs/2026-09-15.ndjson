@@ -8,3 +8,7 @@
 {"creados": [], "leg": "inbound", "source": "gmail", "suprimidos": [{"detail": "", "item_id": "1a0a42868b282e57", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Datos", "ts": "2026-09-15T09:41:30+00:00"}], "tope_alcanzado": 0, "ts": "2026-09-15T09:41:30+00:00", "vistos": 1, "watermark": "2026-09-15T08:21:33Z", "ya_vistos": 0}
 {"casi": [], "cerrados": [], "leg": "outbound", "revisados": 2, "ts": "2026-09-15T09:41:30+00:00"}
 {"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-09-15T09:41:33+00:00"}
+{"leg": "heartbeat", "stage": "end", "task": "brief-personal-os", "ts": "2026-09-15T09:44:55+00:00"}
+{"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-09-15T11:59:13+00:00"}
+{"creados": [], "leg": "inbound", "source": "gmail", "suprimidos": [{"detail": "", "item_id": "1a0a4d60a11f7425", "reason": "sin_compromiso", "source": "gmail", "subject": "[Draiver] Tu viaje Uber del martes por la tarde", "ts": "2026-09-15T11:59:53+00:00"}], "tope_alcanzado": 0, "ts": "2026-09-15T11:59:53+00:00", "vistos": 1, "watermark": "2026-09-15T11:31:25Z", "ya_vistos": 0}
+{"casi": [], "cerrados": [], "leg": "outbound", "revisados": 3, "ts": "2026-09-15T11:59:54+00:00"}
