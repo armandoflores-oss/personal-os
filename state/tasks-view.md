@@ -3,7 +3,6 @@
 <!-- Vista generada — NO editar a mano. Regenerar: python3 scripts/task.py rebuild -->
 
 ## Cotizaciones y pendientes operativos
-- **T-4** penske case study for EU · vence 2026-09-17 · esperando a Fede
 - **T-23** Re: [EXT]Re: Element / Draiver: Explorar "Rides" en Variable Fleet y negocio Element
 - **T-25** FW: Resguardo CA2138
 - **T-32** Re: Comprobante de pago - PAGOS AVA 09SEPT2026

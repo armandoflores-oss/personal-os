@@ -340,6 +340,11 @@
     "actor": "user",
     "note": "Antes de ejecutar hay que entender el scope que quiere Carolina; la ejecución en sí debería ser muy sencilla.",
     "ts": "2026-09-12T18:21:52+00:00"
+   },
+   {
+    "actor": "user",
+    "note": "Armando: validar con Fernando Galland si la cuenta solo aplica con Variable Fleet. Ya tuvo junta con Julia al respecto (2026-09-15).",
+    "ts": "2026-09-15T17:07:09+00:00"
    }
   ],
   "owner": null,
@@ -869,12 +874,17 @@
     "actor": "user",
     "note": "La live demo ya está agendada: junta BCA FTL / DrAIver del jueves 17 sep 2026, 10:00-12:00 Madrid (02:00-04:00 CDMX). Van Anders Groenkjaer y mo@bca.dk por BCA, y Fede Ranero, Nicolas Ariza, Gerardo Cabanas y Carlos (Kavak). Presencial (Piso 4 Izquierda) + meet.google.com/wvo-qrzh-zbg.",
     "ts": "2026-09-13T22:43:05+00:00"
+   },
+   {
+    "actor": "user",
+    "note": "evidencia: Armando dijo que está listo",
+    "ts": "2026-09-15T17:06:42+00:00"
    }
   ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a064f3d9916bdba",
-  "status": "open",
+  "status": "done",
   "task_id": "bc5e528ccd4c",
   "title": "penske case study for EU",
   "vetoed": false,
