@@ -11,6 +11,8 @@
 - **T-34** Re: REPSE and digital platforms · esperando a Juliana / Garrigues
 - **T-36** Re: COTIZACIÓN PEPSICO | SUC SAN PEDRO
 - **T-37** Reserva confirmada para el domingo, 13 de septiembre
+- **T-38** Re: Retiro de unidades TAM
+- **T-39** COTIZACIÓN Schneider Electric Acuamanala CASO EL 5071
 - **T-9** CARTA RESPONSIVA
 
 ## Reuniones España
