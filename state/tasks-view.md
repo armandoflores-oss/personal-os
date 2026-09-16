@@ -14,6 +14,10 @@
 - **T-39** COTIZACIÓN Schneider Electric Acuamanala CASO EL 5071
 - **T-9** CARTA RESPONSIVA
 
+## Operación Kavak
+- **T-40** TRX UNIDADES DE VENTA CAR SHOP - KAVAK MERIDA
+- **T-41** Re: Assessment Ciberseguridad - Draiver - status
+
 ## Reuniones España
 - **P-1** Escoger los live cases que muestran cada uno de los 6 anchors del demo BCA FTL (N02/N04 intake+dispatch, N14 control tower, N07/X04 POD, X03/X05 waiting time, N06 driver app, N03 pricing por fórmula) · vence 2026-09-15
 - **P-7** Sembrar datos en Mascot Spain antes del ensayo: lote de ordenes para el plan multi-movimiento, un proveedor aprobado dado de alta como operador, y un viaje de camion con VINs cargados · vence 2026-09-15
@@ -29,4 +33,5 @@
 
 ## Pipeline estratégico
 - **T-31** Re: FORD MX -DRAIVER -MEXICO OPERATION 2A · esperando a Uriel
+- **T-42** Re: Conductor Fijo - GDL - Agosto
 
