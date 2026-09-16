@@ -12,6 +12,7 @@
 - **T-37** Reserva confirmada para el domingo, 13 de septiembre
 - **T-38** Re: Retiro de unidades TAM
 - **T-39** COTIZACIÓN Schneider Electric Acuamanala CASO EL 5071
+- **T-43** Re: [EXTERNAL] Lanzamiento Draiver | ¡Nos vemos mañana!
 - **T-9** CARTA RESPONSIVA
 
 ## Operación Kavak

@@ -186,6 +186,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "1c6ffdb4b860": {
+  "action": "otro",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-43",
+  "counterparty": "vemo",
+  "created": "2026-09-16T11:57:49+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Me surgió un tema personal y creo que no voy a poder asistir.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a0a9629d7b97154",
+  "status": "open",
+  "task_id": "1c6ffdb4b860",
+  "title": "Re: [EXTERNAL] Lanzamiento Draiver | ¡Nos vemos mañana!",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "207c6a5f5690": {
   "action": "confirmar",
   "applied": false,
