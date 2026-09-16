@@ -1,0 +1,66 @@
+# Las notas
+
+sept 15, 2026
+
+## Weekly Kavak / Draiver Leaders
+
+Invitado: Fede Ranero (fede.ranero@driverdo.com), Julia Diaz (julia.diaz@draiver.com), Armando Flores (armando.flores@driverdo.com), josue.luevano@kavak.com, Gerardo Acosta (gerardo.acosta@kavak.com), Diego Diaz (diego.diaz@draiver.com), aristides.calvani@kavak.com, diego.pacheco@kavak.com
+
+### Resumen
+
+Revisión operativa y financiera con ajustes logísticos y controles de riesgo.
+
+**Rendimiento y operaciones semanales**
+Presentación de resultados con 1936 viajes completados y reducción en la tasa de dry run. Análisis de incidencias en Monterrey y Cuernavaca.
+
+**Gestión de costos y logística**
+Evaluación de la capacidad en Cuernavaca y optimización de tiempos en talleres y agencias. Implementación de variables de costos en comandos.
+
+**Controles financieros y pagos**
+Detección de irregularidades en combustible y establecimiento de cortes semanales para control financiero. Revisión de pagos pendientes.
+
+### Decisiones
+
+## Acordada
+
+- **Suspensión de servicios de almacenamiento en Fortuna** Se acordó dejar de crear servicios de almacenamiento con origen en Fortuna debido a anomalías detectadas en los servicios logísticos.
+- **Ejecución de cortes semanales de combustible** Se estableció implementar cortes semanales de combustible y aplicar un modelo de conciliación basado en la diferencia detectada más un 10% de recargo.
+- **Implementación de controles para uso de Uber** Se acordó establecer controles proactivos y retroactivos basados en el caso de Estados Unidos para detectar y prevenir abusos en el uso de Uber.
+- **Creación de canal para ciclos de cobranza** Se acordó crear un canal específico de comunicación y establecer ciclos semanales para gestionar las cobranzas y ponerse al día con la facturación pendiente.
+- **Suspensión de rutas de autos en Monterrey** Se determinó suspender la planificación de rutas para trasladar autos desde Monterrey por la apertura de una nueva localidad, exceptuando únicamente los vehículos devueltos por Hertz.
+- **Operación logística normal durante día festivo** Se acordó mantener la operación logística y de los centros al 100% el día siguiente, cerrando únicamente las ubicaciones de Portal Centro y Florencia por el desfile.
+
+### Próximos pasos
+
+- [Julia Diaz] Analizar productividad: Comparar la productividad local frente a la interestatal y entre centros de distribución históricos para identificar tendencias claras.
+- [Julia Diaz] Analizar Dry Run: Identificar las causas raíz del Dry Run por zona y tipo de servicio para replicar las buenas prácticas en toda la operación.
+- [Josue Vader Luevano Medina] Compartir detalle Cuernavaca: Enviar al grupo compartido la lista de las unidades disponibles para traslado hacia el hub de Cuernavaca.
+- [Josue Vader Luevano Medina] Analizar logística: Incorporar variables de tiempo y costo de traslado al análisis de la inteligencia artificial para optimizar la selección de vehículos.
+- [Armando Flores] Crear canal comunicación: Establecer un canal dedicado para la gestión de cobros con el equipo de finanzas e incluir a los responsables pertinentes.
+- [Armando Flores] Contactar finanzas: Escribir a Cristian para agilizar la revisión de los pagos pendientes de junio, julio y agosto.
+- [Julia Diaz] Ejecutar corte pagos: Realizar el primer corte semanal de servicios de Uber y Tag para cerrar los pagos con el área de finanzas.
+- [Julia Diaz] Detectar abuso Uber: Implementar un control proactivo y retroactivo para identificar comportamientos inusuales de los conductores durante los servicios.
+- [Josue Vader Luevano Medina] Compartir listado personal: Enviar el listado del personal que laborará mañana para proporcionar visibilidad a todo el equipo.
+- [El grupo] Ejecutar proactividad: Realizar la proactividad de 5 puntos para reducir el backlog total de operaciones.
+
+### Detalles
+
+- **Rendimiento operativo semanal y solicitudes**: Julia Diaz presentó los resultados de la semana pasada con 1,936 viajes completados (una disminución del 1% frente al promedio de cuatro semanas) y 2,065 solicitudes recibidas, destacando una reducción significativa en la tasa de dry run de 64 puntos porcentuales en comparación con la semana anterior, alcanzando el nivel más bajo en seis semanas.
+- **Tendencias de productividad a largo plazo**: Fede Ranero planteó la necesidad de comparar peras con peras en cuanto a la productividad a largo plazo al incorporar rutas interestatales, sugiriendo evaluar geocercas locales comparables frente a los niveles base de 2.1 conductores por día registrados en Ciudad de México en 2021. Julia Diaz se comprometió a generar visibilidad sobre la mezcla de rutas locales e interestatales para la siguiente sesión.
+- **Factores de éxito y bajo rendimiento operativo**: Julia Diaz atribuyó la baja en la tasa de dry run a una mejor planeación logística y al liderazgo del equipo de soporte encabezado por Gerardo Acosta Romero, mientras que los puntos negativos incluyeron una menor productividad del proveedor Love y un aumento del 7.4 por ciento en las cancelaciones debido a una contingencia dominical.
+- **Contingencia dominical y tiempos de espera en hubs**: Julia Diaz y Gerardo Acosta Romero explicaron que el domingo 13 se debió realizar una cancelación masiva de viajes ya creados debido a la notificación tardía de una contingencia para evitar saturar el soporte técnico, a lo que se sumó un incremento en los tiempos de espera en los hubs de 34 a 45 minutos provocado por unidades sin asignar, sin placas o con verificación vencida, siendo El Rosario el principal punto problemático.
+- **Desempeño por zona y problemas en Monterrey**: Se revisaron los resultados regionales donde Valle de México (con 65% de la operación), Guadalajara y Toluca mantuvieron dry runs bajos, mientras que Monterrey y Querétaro presentaron focos rojos; Arístides Calvani y Josue Vader Luevano Medina informaron sobre intervenciones en Monterrey para centralizar la operación y corregir la duplicación de servicios creados por el equipo local.
+- **Indicador de dry run y alternativas operativas**: Josue Vader Luevano Medina señaló que la implementación del indicador de dry run como clave de desempeño obligó al equipo a agotar todas las alternativas posibles —como cambio de unidades o presión a los hubs— antes de emitir un dry run para proteger tanto a los conductores como a la empresa.
+- **Capacidad y selección de vehículos para Cuernavaca**: Josue Vader Luevano Medina informó que el centro de almacenamiento en Cuernavaca cuenta con una capacidad total de 900 espacios, de los cuales 280 están ocupados y 620 están libres, planeando trasladar 29 vehículos seleccionados mediante inteligencia artificial durante jueves, viernes y sábado tras descartar 11 unidades provenientes de Fortuna.
+- **Optimización de costos logísticos y restricciones de inteligencia artificial**: Fede Ranero y Josue Vader Luevano Medina discutieron la incorporación de variables de costos y tiempos en los comandos de inteligencia artificial para Cuernavaca con el fin de evitar que los gastos de traslado logístico consuman el margen de ganancia, confirmando Josue Vader Luevano Medina que solo se consideraron vehículos ubicados en Ciudad de México.
+- **Backlog de movimientos en Ciudad de México**: Josue Vader Luevano Medina detalló que el backlog inicial de la semana fue de 314 unidades, con compras de cuartel general (HQ) pasando de 108 a 146 unidades, y el almacenamiento incrementándose de 116 hasta un pico de 206 para cerrar en 187, descontando 84 unidades de Fortuna cuyos movimientos de almacenamiento fueron suspendidos tras hablar con Silva.
+- **Tiempos de atención y productividad del fin de semana**: Josue Vader Luevano Medina destacó que más del 80% de los movimientos de compras y más del 87% de los almacenamientos se trasladan en menos de 24 horas, logrando mover 129 automóviles el sábado a pesar de la contingencia gracias a la intervención nocturna de Gerardo Acosta Romero.
+- **Incremento en el volumen de talleres y agencias**: Josue Vader Luevano Medina y Arístides Calvani analizaron un incremento en el backlog de compras en talleres y agencias (TAS) de 35 a 69 unidades, indicando que el cierre de agencias por días festivos afectará el nivel de servicio acumulado.
+- **Alineación de tiempos logísticos de TAS**: Fede Ranero, Arístides Calvani y Josue Vader Luevano Medina aclararon percepciones de tiempos excesivos externadas por Nelson, detallando que el TAS foráneo cumple con mover el 91% de las unidades en un rango de 3 a 4 días durante septiembre frente al 74% de agosto, mientras que el TAS local en Monterrey y Querétaro presenta retrasos de 4 a 5 días con solo un 67% atendido a tiempo.
+- **Productividad por tipo de conductor y transición a pagos**: Josue Vader Luevano Medina expuso las productividades del día anterior, registrando 5.46 vehículos por conductor en Love, 5.36 en conductores fijos y 4.14 en la mezcla pública, dando pie a que Arístides Calvani introdujera el tema de la regularización de pagos pendientes.
+- **Detección de irregularidades y conciliación de combustible**: Armando Flores y Julia Diaz explicaron que algunos conductores inflaron gastos de combustible a pesar de presentar comprobantes, lo que llevó a suspender a los infractores principales, implementar el uso de Efectivale y realizar conciliaciones financieras para marzo y abril basadas en el análisis de Cristian más un 10 por ciento de margen.
+- **Cortes semanales de control financiero**: Julia Diaz anunció que a partir de hoy se ejecutarán cortes semanales para peajes (tags) y Uber con el fin de evitar retrasos acumulados y mantener una conciliación directa con el equipo de finanzas.
+- **Control de riesgos en viajes de Uber**: Fede Ranero y Julia Diaz comentaron la detección de un conductor en el canal de riesgo que solicitaba viajes de Uber para personas conocidas, por lo que Fede Ranero solicitó implementar controles automatizados retroactivos y proactivos tanto en México como en Estados Unidos.
+- **Revisiones de pagos pendientes de junio, agosto y julio**: Arístides Calvani, Jose Luis Reyes Reyes y Armando Flores revisaron el estatus de los pagos pendientes, confirmando Jose Luis Reyes Reyes que ya envió los comentarios de junio y julio a Marcelo y está a la espera del archivo de agosto por parte de Cristian, mientras Fede Ranero sugirió crear un canal de Slack dedicado a las cobranzas de conductores.
+- **Ajustes en la ubicación de Monterrey y contratación de conductores**: Arístides Calvani informó que Monterrey abrirá su propia ubicación, por lo que no se planificarán rutas de traslado desde esa zona salvo por aproximadamente 40 unidades de arrendamiento devueltas por Hertz, y anunció la búsqueda de 10 conductores internos para atender rutas críticas y picos de demanda.
+- **Operación durante días festivos y apertura de hubs**: Josue Vader Luevano Medina indicó que la operación de mañana funcionará con el 50 por ciento de la plantilla bajo la supervisión de Gerardo Acosta Romero y su persona, manteniendo abiertos todos los hubs con excepción de Portal Centro y Florencia debido al desfile y cierres viales, con logística operando al 100 por ciento de 9:00 a 18:00 horas.
