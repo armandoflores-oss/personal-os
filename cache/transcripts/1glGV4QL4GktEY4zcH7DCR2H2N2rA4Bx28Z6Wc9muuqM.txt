@@ -1,187 +1,35 @@
 Fixed / Warranty - Drivers - 2026/09/14 11:00 CST - Notes by Gemini
 
-# Quick notes
-
-## Fixed / Warranty - Drivers
-
 Sep 14, 2026
+Fixed / Warranty - Drivers
+Invited: Cristian Arizmendi (cristian.arizmendi@driverdo.com), Julia Diaz (julia.diaz@draiver.com), Juliana Turin (juliana.turin@driverdo.com), Armando Flores (armando.flores@driverdo.com), Rafael Pagliuso De Andrade (rafael.andrade@draiver.com)
 
-Cristian Arizmendi (cristian.arizmendi@driverdo.com), Julia Diaz (julia.diaz@draiver.com), Juliana Turin (juliana.turin@driverdo.com), Armando Flores (armando.flores@driverdo.com), Rafael Pagliuso De Andrade (rafael.andrade@draiver.com)
-
+Summary
 Warranty program review with compliance risks and algorithmic alternatives.
 
-## Fixed driver program and regulatory compliance
-
-- The program pays drivers 800 pesos daily across 5 or 6 weekly days.
-- Juliana Turin flagged that guaranteeing wages within 12 days risks reclassifying drivers as employees.
-- Experienced drivers handle complex Kavak operations and generate 5 to 7 daily movements.
-
-## Algorithmic incentive models and platform compliance
-
-- Rafael Pagliuso De Andrade noted that mandating presence at client facilities violates platform requirements.
-- Rafael Pagliuso De Andrade proposed using historical data to pre-allocate trip volumes.
-- Discussed implementing Uber-style tier categories or algorithmic criteria instead of direct client assignments.
-
-## Next steps
-
-- [Julia Diaz, Cristian Arizmendi] Develop Driver Model: Create an incentive system that adheres to digital platform regulations by using algorithmic criteria instead of fixed workplace requirements. Utilize the concept of pre-allocated tasks to achieve productivity goals.
-- [Julia Diaz, Cristian Arizmendi] Pitch Technical Implementation: Share the finalized logic with the product and engineering teams to evaluate feasibility and implementation.
-
-# Full notes — Sep 14, 2026
-
-## Fixed / Warranty - Drivers
-
-### Summary
-
-Warranty program review with compliance risks and algorithmic alternatives.
-
-**Warranty program compliance risks**
+Warranty program compliance risks
 Discussion on fixed daily driver payments revealed potential employee reclassification risks under digital platform labor laws.
 
-**Operational rationale and risks**
+Operational rationale and risks
 Experienced drivers ensure high productivity but mandating fixed schedules threatens platform status.
 
-**Algorithmic incentives and integration**
+Algorithmic incentives and integration
 Proposal to build algorithm-based logic for open platform drivers to ensure regulatory compliance.
 
-### Decisions
+Decisions
+Needs Further Discussion
+- Algorithmic restructuring of driver warranty program: The team deliberated transitioning the driver warranty program to an algorithmic, criteria-based model open to all drivers to comply with digital platform regulations, with final proposals pending further development and consultation with product and tech teams.
 
-## Needs Further Discussion
-
-- **Algorithmic restructuring of driver warranty program** The team deliberated transitioning the driver warranty program to an algorithmic, criteria-based model open to all drivers to comply with digital platform regulations, with final proposals pending further development and consultation with product and tech teams.
-
-### Next steps
-
+Next steps
 - [Julia Diaz, Cristian Arizmendi] Develop Driver Model: Create an incentive system that adheres to digital platform regulations by using algorithmic criteria instead of fixed workplace requirements. Utilize the concept of pre-allocated tasks to achieve productivity goals.
 - [Julia Diaz, Cristian Arizmendi] Pitch Technical Implementation: Share the finalized logic with the product and engineering teams to evaluate feasibility and implementation.
 
-### Details
+Details
+- Overview of the Fixed Warranty Driver Program in Mexico: Julia Diaz introduces a warranty program operating in Mexico with specific drivers, where participants receive a base of 800 pesos per day, working five to six days a week for a total of 4,000 pesos weekly. Julia Diaz explains that because this arrangement resembles a fixed salary, they want to rename the program from "fixed drivers" to avoid compliance risks, treating it instead as a standard program where drivers earn money based on daily work.
+- Legal and Compliance Risks of the Driver Program: Juliana Turin states that they were previously unaware of this daily driver arrangement. Juliana Turin points out that under digital platform labor laws updated the previous year, drivers reaching minimum monthly wage thresholds within a limited timeframe (such as 12 days) must be registered as employees rather than independent contractors. Furthermore, Juliana Turin notes that requiring drivers to stay from 9:00 a.m. until all trips are finished lacks the autonomy and discontinuity required for independent contractor status.
+- Operational Rationale for Using Experienced Kavak Drivers: Julia Diaz explains that Kavak relies on these specific, trusted drivers because they are highly familiar with Kavak's complex operational processes. Unlike new drivers who might become frustrated, these experienced individuals consistently achieve five to seven movements per day and have worked with Kavak for years. Rafael Pagliuso De Andrade questions why these drivers need to be assigned to specific days, prompting Julia Diaz to emphasize that this familiarity and reliability are essential for maintaining high productivity.
+- Platform Status Risks and Alternative Demand Modeling Proposals: Rafael Pagliuso De Andrade warns that mandating drivers to work for a specific client on fixed days threatens Kavak's status as a digital platform, cautioning that it risks turning the service into a traditional transportation company. To address this, Rafael Pagliuso De Andrade suggests training more drivers or implementing a demand-based "fake trips" model using historical data—similar to a restaurant anticipating ingredient needs—where predictable trips are created without car details initially and populated closer to the time of execution. Julia Diaz notes that while this mirrors the approach of other outsourcing companies working with Kavak, they wanted to find a balanced model that maintains high vehicle movement productivity while respecting digital platform requirements.
+- Algorithm-Based Incentives and Open Platform Requirements: Cristian Arizmendi proposes adopting an Uber-style model where drivers receive earnings guarantees if they meet specific trip objectives. Rafael Pagliuso De Andrade distinguishes Uber's approach by noting it applies platform-wide through the algorithm, whereas hand-picking ten specific drivers for a closed program violates algorithmic platform requirements. Rafael Pagliuso De Andrade recommends collaborating with product and tech teams to build logic into the algorithm—such as category levels like gold and platinum—so opportunities are open to all drivers. Julia Diaz highlights a potential downside, noting that open-platform drivers may lack familiarity with Kavak's specific processes or interest in working exclusively for them.
+- Compliance Guardrails and Next Steps for Tech Integration: Rafael Pagliuso De Andrade clarifies that while weekend work is permitted, the critical rule is that the algorithm cannot mandate presence at a specific client's facility, as this establishes a fixed workplace. Rafael Pagliuso De Andrade reiterates the value of the demand-based trip generation approach to manage volume safely. Julia Diaz concludes by agreeing to account for these compliance constraints, consult with the technology team, and propose a workable solution for Kavak operations.
 
-- **Overview of the Fixed Warranty Driver Program in Mexico**: Julia Diaz (00:00:00) introduces a warranty program operating in Mexico with specific drivers (00:01:34), where participants receive a base of 800 pesos per day, working five to six days a week for a total of 4,000 pesos weekly (00:04:40). Julia Diaz explains that because this arrangement resembles a fixed salary, they want to rename the program from "fixed drivers" to avoid compliance risks, treating it instead as a standard program where drivers earn money based on daily work (00:03:00).
-- **Legal and Compliance Risks of the Driver Program**: Juliana Turin states that they were previously unaware of this daily driver arrangement. Juliana Turin (00:03:00) points out that under digital platform labor laws updated the previous year, drivers reaching minimum monthly wage thresholds within a limited timeframe (such as 12 days) must be registered as employees rather than independent contractors. Furthermore, Juliana Turin (00:04:40) notes that requiring drivers to stay from 9:00 a.m. until all trips are finished lacks the autonomy and discontinuity required for independent contractor status.
-- **Operational Rationale for Using Experienced Kavak Drivers**: Julia Diaz (00:07:49) explains that Kavak relies on these specific, trusted drivers because they are highly familiar with Kavak's complex operational processes. Unlike new drivers who might become frustrated, these experienced individuals consistently achieve five to seven movements per day and have worked with Kavak for years (00:09:12). Rafael Pagliuso De Andrade (00:07:49) questions why these drivers need to be assigned to specific days, prompting Julia Diaz to emphasize that this familiarity and reliability are essential for maintaining high productivity (00:09:12).
-- **Platform Status Risks and Alternative Demand Modeling Proposals**: Rafael Pagliuso De Andrade warns that mandating drivers to work for a specific client on fixed days threatens the status as a digital platform, cautioning that it risks turning the service into a traditional transportation company. To address this, Rafael Pagliuso De Andrade suggests training more drivers or implementing a demand-based "fake trips" model using historical data — similar to a restaurant anticipating ingredient needs — where predictable trips are created without car details initially and populated closer to the time of execution (00:10:27). Julia Diaz (00:12:49) notes that while this mirrors the approach of other outsourcing companies working with Kavak, they wanted to find a balanced model that maintains high vehicle movement productivity while respecting digital platform requirements.
-- **Algorithm-Based Incentives and Open Platform Requirements**: Cristian Arizmendi proposes adopting an Uber-style model where drivers receive earnings guarantees if they meet specific trip objectives. Rafael Pagliuso De Andrade (00:15:23) distinguishes Uber's approach by noting it applies platform-wide through the algorithm, whereas hand-picking ten specific drivers for a closed program violates algorithmic platform requirements. Rafael Pagliuso De Andrade recommends collaborating with product and tech teams to build logic into the algorithm — such as category levels like gold and platinum — so opportunities are open to all drivers (00:17:13). Julia Diaz (00:18:21) highlights a potential downside, noting that open-platform drivers may lack familiarity with Kavak's specific processes or interest in working exclusively for them.
-- **Compliance Guardrails and Next Steps for Tech Integration**: Rafael Pagliuso De Andrade (00:19:48) clarifies that while weekend work is permitted, the critical rule is that the algorithm cannot mandate presence at a specific client's facility, as this establishes a fixed workplace. Rafael Pagliuso De Andrade reiterates the value of the demand-based trip generation approach to manage volume safely. Julia Diaz (00:20:51) concludes by agreeing to account for these compliance constraints, consult with the technology team, and propose a workable solution for Kavak operations.
-
-# Transcript — Sep 14, 2026
-
-## Fixed / Warranty - Drivers - Transcript
-
-### 00:00:00
-
-Julia Diaz: and then settings meeting language. Oh no. How do I turn him?
-Cristian Arizmendi: Um, it's okay. It's not possible to set up the translator. I try my best. And I activated the subtitles, so I hope you know to be slow in the talk.
-Julia Diaz: No worries. Okay. So, I don't know how. Maybe I have to look for it in chat or something because I don't know how to turn it on. I don't know if Julie you know how to do it but anyways
-Juliana Turin: I never used this. I don't know how to use
-Julia Diaz: so yes I only see those like this little icon at the beginning of some meetings but not in all of them so I don't know. Okay. So, anyways, thanks a lot for joining, Julie. We wanted to discuss with you the fixed warranty that we have right now with some of our drivers.
-
-### 00:01:34
-
-Julia Diaz: So, first of all, this program already exists here in Mexico. It's something that we are doing with some drivers that are working with us and with Kavak specifically.
-Juliana Turin: Since when they are
-Julia Diaz: They work since I don't know I think that since one year maybe and yes and we have a letter, a carta responsiva, like I don't know like four months maybe ago. What we used to have here is that we have these fixed drivers that are complying some schedule with Kavak and in return of that we give them like 800 pesos. So it is like a warranty salary base. But we know that that is something that is like in a black line or something that is not safe for us to do.
-
-### 00:03:00
-
-Julia Diaz: That's why we wanted to change the name because we used to call them fixed drivers and right now we want to call them in a different way because it is just a program where the drivers can get in and they are going to earn the money based on the work that they do every day. So, I don't know, Julie, if you were aware of this or this is the first time that you heard about this.
-Juliana Turin: So this is the first time with this document. I think I'm not aware that they are doing these jobs every day or every week. I don't know how often they are doing these trips for Kavak only. But with this policy that you sent me last week,
-Julia Diaz: Mhm.
-Juliana Turin: I can see some issues. A driver can reach the minimum monthly wage in only 12 days of work.
-Julia Diaz: Yes.
-Juliana Turin: and the law of digital platforms changed last year. And when the drivers and when the employees from digital platforms reach this wage, they need to be registered as employee, not an independent contract.
-
-### 00:04:40
-
-Juliana Turin: And in addition, when we ask them to stay during that period, to stay every day since 9:00 a.m. until they finish all trips, they don't have flexibility and discontinuity that the autonomous and indefinite needs to be in this case.
-Julia Diaz: Mhm.
-Juliana Turin: I think some of our drivers will be registered as employee because of the salary and I think it's better we register all those drivers earning more than minimum wage, more than 9,000
-Julia Diaz: Not really because we pay them like 800 per five to six days.
-Juliana Turin: per day.
-Julia Diaz: 800 per day.
-Juliana Turin: And how many days they work?
-Julia Diaz: Yeah. So, let's say they are working right now. Some of them they work five days and some others six days. So 4,000 pesos it is like $200. It's what they are earning each week.
-Juliana Turin: Yeah, they don't reach the minimum wage,
-
-### 00:06:17
-
-Julia Diaz: Mhm. No.
-Juliana Turin: but I think we can ask them to remain connected because of the flexibility. I don't know what we can do here. I think it's better to register. But if we register these drivers, we need to ask them to work more days to reach the minimum wage.
-Julia Diaz: Yeah. That's why they are working in this model right now because we need them to work like five or six days per week but some of them, if they choose not to work like two days or three days they are allowed to do that.
-Juliana Turin: Are they allowed?
-Julia Diaz: Um yes but the minimum days that they have to work is five days. So there are some cases that maybe they say hey I cannot work today maybe on Wednesday they are allowed to do that and they work maybe on
-
-### 00:07:49
-
-Juliana Turin: Okay.
-Julia Diaz: Sundays or maybe on Saturdays. So they have this flexibility, but the thing is that they have to accomplish at least five days per week in order to be part of this program.
-Juliana Turin: And we can control this. Please go on Christian.
-Rafael Pagliuso De Andrade: One thing I'm concerned with is if we are telling them, you know, work five days on a specific client and so on, that's not a — because part of the is the algorithm. So why do we need to have them work on those days? I missed the first five minutes.
-Julia Diaz: They allowed us to have a better productivity with Kavak specifically and because they already know the whole operation inside Kavak. Kavak has a complexity that maybe some new drivers are not totally familiarized with, or maybe they are going to get desperate because the processes that we have in Kavak are kind of complex.
-
-### 00:09:12
-
-Julia Diaz: So these drivers already know the people in Kavak, already know how it works and they have this flexibility to work with Kavak and they do a lot of trips during the day. So with them we can accomplish like five to six or seven movements per day because they are totally working with Kavak and they have this familiarity and they have been working with Kavak from many years before even Draiver was with Kavak. So they are this type of drivers that you trust everything because they work very well with Kavak and they know all the processes. That's why they are part of this type of model and we are trying to get more of these types of drivers but it is not easy to get them because they are totally trustable persons and they do this as if it was like a job nine to six and they love it because they are totally familiarized with the operation.
-
-### 00:10:27
-
-Rafael Pagliuso De Andrade: Yeah. No, I understand their familiarization, but we need to keep in mind that what we are is a digital platform, right? So if we say this is not a digital platform, this is a transportation company.
-Julia Diaz: Yeah. Kind of. That's why we wanted to check this with
-Rafael Pagliuso De Andrade: It's — yeah, there's no way around it. So one thing I think we could do is maybe we train more drivers on Kavak's complexities. And if we want to — Apollo has an idea that maybe for Mexico Kavak we can implement, which is the quote unquote "fake trips", right, where we know — think of this as a restaurant that first day you don't know how many people are going to come in; after you're there for a year, you kind of know how much rice you need to make, how much beans you need to make, how much meat you need to make.
-
-### 00:11:41
-
-Rafael Pagliuso De Andrade: So, it's kind of the same thing. By now we should have enough data to know on average how many drivers we're going to need a day to fulfill a trip. So we can create trips that are without the car to begin with, but we know they're going to happen. And then we need to assess whether we're making too many trips. We're going to pay some dry runs in the beginning as we learn. But I think from a digital platform perspective, I'd rather not lose the status of a digital platform and not create something where I'm going to have a group of fixed drivers sitting there waiting to be called, you know.
-Julia Diaz: Yeah, that's the way that it is working right now and that's why we were proposing something else, like a different model. I mean we changed the name of this because we saw that it is a little bit dangerous for the digital platform that we are part of.
-
-### 00:12:49
-
-Julia Diaz: So that's why we created this program instead of being fixed driver. And that's why we wanted to change the modality but basically what they are going to do is kind of similar to what I said before: they have to work for Kavak and they are going to comply like five to six days per week and they have to make a specific productivity. But I understand what you're saying, Rafa, that maybe this is not the best way to address something like this. This is something that the other company that works with Kavak is doing as well with them. They have a specific number of drivers that are working only for Kavak and they work in some schedules and in some specific days and that's why they wanted to have something similar with us because you can get a higher productivity and also higher number of vehicle moves done during the day.
-
-### 00:14:00
-
-Julia Diaz: So that's why we wanted to have something similar to what we are working with right now but with a different name so we are respectful with the digital platform. I don't know if we can have something in the middle or what do you think?
-Rafael Pagliuso De Andrade: Yeah. So I don't know who the other company that works for Kavak is. They're probably an outsourcing company that they have probably employees that sit there, right?
-Julia Diaz: Yeah, some of them. I mean, they work similar as us, but they don't have this platform. They only hire people that are available to do these trips.
-Cristian Arizmendi: Um what we think in this case is that the drivers could have an opportunity like Uber. Uber offers opportunities where the people who deliver have to reach an objective.
-
-### 00:15:23
-
-Cristian Arizmendi: For example, to deliver a number of trips to a specific store. And when they reach these conditions they earn a specific earning. So what we want to offer is a warranty that if they reach these conditions we can complete the earnings. If they earn less than 800 pesos, we can complete the amount.
-Rafael Pagliuso De Andrade: Yeah, but here's the main difference. Uber does this for every driver in their platform. What we're saying here is we have a group of let's say 10 drivers and we want those 10 drivers to adhere to this program. If we open this to the whole platform and we bake the logic into the algorithm, potentially it's fine. But if we know the people that we want to be there and we just give them the ability to join the program, that's where the issue is, because then we're not complying with the algorithmic requirement.
-
-### 00:17:13
-
-Cristian Arizmendi: I mean that all drivers
-Rafael Pagliuso De Andrade: So I think what we need to do is maybe sit down with product and potentially tech and see how we can build the logic because they have a better binary mind where they can say, well, if we put these conditions in the algorithm we're going to get this result. But then it's open for everybody, right? That makes sense to you.
-Cristian Arizmendi: Okay. You mean that all drivers have to have the same opportunity?
-Rafael Pagliuso De Andrade: Yeah. Because Christian, that's exactly the Uber model that you brought up, that's exactly what they do. They just say hey if you meet this criteria the algorithm is going to make sure that you make this much money.
-
-### 00:18:21
-
-Rafael Pagliuso De Andrade: Right? So, let's think about criteria that those drivers have that we could build into a tool that would automatically select them.
-Julia Diaz: Okay. Yeah, maybe we can work in something. I'm trying to think in something.
-Cristian Arizmendi: like levels in like diamond, platinum, gold
-Rafael Pagliuso De Andrade: Yeah. categories. Yeah.
-Julia Diaz: Yeah, the thing here I think that what we have against us is we have already identified these drivers because they have specific availabilities that we can work with and also this familiarization that I've told you before, because we have good drivers maybe working in another account but they are not interested in working in Kavak specifically. So I think that that's one of the downsides that I could see if we open this to everybody. But yeah I agree with you that maybe we can find something with the technology that we already have.
-
-### 00:19:48
-
-Rafael Pagliuso De Andrade: Yeah. And Julia, let me ask a question. So, is Saturday and Sunday also work days for Kavak?
-Julia Diaz: Yes.
-Rafael Pagliuso De Andrade: Okay. So if one decides to say, "Hey, okay, I can be there five days a week, but two of those are Saturday and Sunday," that's fine too. Great.
-Julia Diaz: Yeah. Exactly. They can do it.
-Rafael Pagliuso De Andrade: Yeah, the one thing that we need to avoid though is, as part of the algorithm, saying that being at one specific client's facilities is part of the condition. That's the big no no. They cannot be told that they need to be at a specific client's facility. Otherwise then it becomes fixed workplace basically.
-
-### 00:20:51
-
-Rafael Pagliuso De Andrade: That's why the restaurant example and the fake trips example. Maybe that's a better approach where we know they're going to be at least 10 trips. So we can set up the trips and then sparse them, and as it gets closer to time that's when we populate the trip with the vehicle info.
-Julia Diaz: Mhm. Okay. So yeah, we will be careful with that and let us think in something that maybe we can propose to the tech and also to you guys so we can have something really quick and something that we can work with in Kavak. Looking forward to accomplish the productivity that they are looking for from us.
-Rafael Pagliuso De Andrade: Awesome.
-Julia Diaz: Okay. Perfect. Well, so we'll keep in touch. Thanks for your time, for your comments. Bye-bye.
-Rafael Pagliuso De Andrade: Thank you.
-Cristian Arizmendi: Thank you.
-Juliana Turin: Thank you. Bye.
-Julia Diaz: Bye.
-
-### Transcription ended after 00:22:13
+[Verbatim transcript dialogue (~22 min) omitted from this deposit; available in the Drive Doc.]

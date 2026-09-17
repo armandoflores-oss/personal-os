@@ -1,47 +1,25 @@
 Daily Huddle - Ops MX - 2026/09/14 09:15 CST - Notes by Gemini
 
-# Quick notes
-
-## Daily Huddle - Ops MX
-
 Sep 14, 2026
+Daily Huddle - Ops MX
+Invited: Uriel Vargas (uriel.vargas@driverdo.com), Cristian Arizmendi (cristian.arizmendi@driverdo.com), Julia Diaz (julia.diaz@draiver.com), Armando Flores (armando.flores@draiver.com), Diego Diaz (diego.diaz@draiver.com), Camila Flores (camila.flores@draiver.com), Jose Duran (jose.duran@driverdo.com), Gerardo Acosta (gerardo.acosta@kavak.com)
 
-Uriel Vargas (uriel.vargas@driverdo.com), Cristian Arizmendi (cristian.arizmendi@driverdo.com), Julia Diaz (julia.diaz@draiver.com), Armando Flores (armando.flores@draiver.com), Diego Diaz (diego.diaz@draiver.com), Camila Flores (camila.flores@draiver.com), Jose Duran (jose.duran@driverdo.com), Gerardo Acosta (gerardo.acosta@kavak.com)
-
+Summary
 Salesforce metrics review and driver management discussion with data backup planning.
 
-## Salesforce and success dashboard
-
-- Discussed Salesforce and Face ID integration alongside trip profitability per client metrics for September.
-
-## Driver operations and support
-
-- Discussed driver metrics and performance tracking.
-- Discussed tickets and information backups.
-
-## Next steps
-
-No suggested next steps were found for this meeting.
-
-# Full notes — Sep 14, 2026
-
-## Daily Huddle - Ops MX
-
-### Summary
-
-Salesforce metrics review and driver management discussion with data backup planning.
-
-**Salesforce and Dashboard Metrics**
+Salesforce and Dashboard Metrics
 Discussion covered Salesforce integration, Face ID security, and trip profitability targets set for September.
 
-**Driver Management Discussion**
+Driver Management Discussion
 Review of personnel details and driver-related information across the team.
 
-**Tickets and Information Backup**
+Tickets and Information Backup
 Management of support tickets and securing critical information backups.
 
-### Details
+Next steps
+No suggested next steps were found for this meeting.
 
-- **Salesforce, Face ID, and Dashboard Metrics**: Cristian Arizmendi and Julia Diaz discuss Salesforce, Face ID, machine learning and password units, and trip profitability per client. They reference a success dashboard with a timeline pointing to September, while Diego Diaz introduces a discussion regarding drivers, specifically mentioning "Pokemon drivers".
-- **Driver Management and Personnel Discussion**: Diego Diaz, Julia Diaz, Cristian Arizmendi, and Jose Duran discuss various individuals and driver-related information, referencing Alfredo, Munchon, aging, and neighbors, along with specific names such as Aland, Orlando, and Domingo. Jose Duran and Cristian Arizmendi continue the discussion regarding personal driver details, mentioning Roberto, driver tips, an upstairs location, Alberto driver, Clinton, and a conductor.
-- **Tickets and Information Backup**: Cristian Arizmendi and Jose Duran discuss tickets and Jose Arman. Towards the end of the meeting, Jose Duran mentions information and a backup, while Diego Diaz asks about everyone's whereabouts before the meeting concludes.
+Details
+- Salesforce, Face ID, and Dashboard Metrics: Cristian Arizmendi and Julia Diaz discuss Salesforce, Face ID, machine learning and password units, and trip profitability per client. They reference a success dashboard with a timeline pointing to September, while Diego Diaz introduces a discussion regarding drivers, specifically mentioning "Pokemon drivers".
+- Driver Management and Personnel Discussion: Diego Diaz, Julia Diaz, Cristian Arizmendi, and Jose Duran discuss various individuals and driver-related information, referencing Alfredo, Munchon, aging, and neighbors, along with specific names such as Aland, Orlando, and Domingo. Jose Duran and Cristian Arizmendi continue the discussion regarding personal driver details, mentioning Roberto, driver tips, an upstairs location, Alberto driver, Clinton, and a conductor.
+- Tickets and Information Backup: Cristian Arizmendi and Jose Duran discuss tickets and Jose Arman. Towards the end of the meeting, Jose Duran mentions information and a backup, while Diego Diaz asks about everyone's whereabouts before the meeting concludes.
