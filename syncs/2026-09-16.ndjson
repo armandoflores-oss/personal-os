@@ -16,3 +16,4 @@
 {"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-09-16T14:40:11+00:00"}
 {"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-09-16T15:53:43+00:00"}
 {"creados": [], "leg": "inbound", "source": "gmail", "suprimidos": [{"detail": "", "item_id": "1a0aad563f4752dc", "reason": "sin_compromiso", "source": "gmail", "subject": "2026-09-17-BCA-FTL-DRAIVER", "ts": "2026-09-16T15:54:09+00:00"}, {"detail": "", "item_id": "1a0aab2eb17698a3", "reason": "sin_compromiso", "source": "gmail", "subject": "2026-09-17-BCA-FT... - For this, use Elvis Autos or Mascot A...", "ts": "2026-09-16T15:54:09+00:00"}], "tope_alcanzado": 0, "ts": "2026-09-16T15:54:10+00:00", "vistos": 2, "watermark": "2026-09-16T15:13:29Z", "ya_vistos": 0}
+{"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-09-16T15:54:12+00:00"}
