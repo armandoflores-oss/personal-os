@@ -13,7 +13,6 @@
 - **T-38** Re: Retiro de unidades TAM
 - **T-39** COTIZACIÓN Schneider Electric Acuamanala CASO EL 5071
 - **T-43** Re: [EXTERNAL] Lanzamiento Draiver | ¡Nos vemos mañana!
-- **T-9** CARTA RESPONSIVA
 
 ## Operación Kavak
 - **T-40** TRX UNIDADES DE VENTA CAR SHOP - KAVAK MERIDA

@@ -926,12 +926,17 @@
     "actor": "user",
     "note": "Juliana confirmó que sí podemos usar esa carta responsiva. Deja de estar bloqueada por ella: el siguiente paso es de Armando, dar seguimiento con Turbofin.",
     "ts": "2026-09-12T18:21:52+00:00"
+   },
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-09-17T13:48:18Z a turbofin: «Re: Re: Draiver / Grupo Turbofin — Presentación comercial y siguientes pasos»",
+    "ts": "2026-09-17T13:55:06+00:00"
    }
   ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a06db8fe41b373e",
-  "status": "open",
+  "status": "done",
   "task_id": "a8f0c408501c",
   "title": "CARTA RESPONSIVA",
   "vetoed": false,
