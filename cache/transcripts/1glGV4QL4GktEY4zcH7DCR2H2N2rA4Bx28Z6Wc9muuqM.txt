@@ -2,7 +2,7 @@ Fixed / Warranty - Drivers - 2026/09/14 11:00 CST - Notes by Gemini
 
 Sep 14, 2026
 Fixed / Warranty - Drivers
-Invited: Cristian Arizmendi (cristian.arizmendi@driverdo.com), Julia Diaz (julia.diaz@draiver.com), Juliana Turin (juliana.turin@driverdo.com), Armando Flores (armando.flores@driverdo.com), Rafael Pagliuso De Andrade (rafael.andrade@draiver.com)
+Invited: Cristian Arizmendi, Julia Diaz, Juliana Turin, Armando Flores, Rafael Pagliuso De Andrade
 
 Summary
 Warranty program review with compliance risks and algorithmic alternatives.
@@ -32,4 +32,4 @@ Details
 - Algorithm-Based Incentives and Open Platform Requirements: Cristian Arizmendi proposes adopting an Uber-style model where drivers receive earnings guarantees if they meet specific trip objectives. Rafael Pagliuso De Andrade distinguishes Uber's approach by noting it applies platform-wide through the algorithm, whereas hand-picking ten specific drivers for a closed program violates algorithmic platform requirements. Rafael Pagliuso De Andrade recommends collaborating with product and tech teams to build logic into the algorithm—such as category levels like gold and platinum—so opportunities are open to all drivers. Julia Diaz highlights a potential downside, noting that open-platform drivers may lack familiarity with Kavak's specific processes or interest in working exclusively for them.
 - Compliance Guardrails and Next Steps for Tech Integration: Rafael Pagliuso De Andrade clarifies that while weekend work is permitted, the critical rule is that the algorithm cannot mandate presence at a specific client's facility, as this establishes a fixed workplace. Rafael Pagliuso De Andrade reiterates the value of the demand-based trip generation approach to manage volume safely. Julia Diaz concludes by agreeing to account for these compliance constraints, consult with the technology team, and propose a workable solution for Kavak operations.
 
-[Verbatim transcript dialogue (~22 min) omitted from this deposit; available in the Drive Doc.]
+(Transcript: 22:13 min meeting; full transcript in source doc. Key quotes: Juliana Turin — a driver can reach the minimum monthly wage in only 12 days of work; the digital platforms law changed last year. Rafael — "the one thing that we need to avoid though is as part of the algorithm say that being at one specific client's facilities is part of the condition. That's the big no no." Julia — "let us think in something that maybe we can propose to the tech and also to you guys".)

@@ -2,7 +2,7 @@ Diaria Spain Launch - 2026/09/14 08:30 CST - Notes by Gemini
 
 sept 14, 2026
 Diaria Spain Launch
-Invitado: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
+Invitado: Daniel Escribano, Armando Flores, Artur Morais
 
 Resumen
 Revisión de control digital para pruebas y acuerdos logísticos y optimización de movimientos.
@@ -40,4 +40,4 @@ Detalles
 - Volumen operativo, contrataciones y campañas de bonos en Salesforce: Daniel Escribano expresó cierta preocupación por el bajo volumen operativo actual a la espera del evento de la semana y la incorporación de 18 vehículos recién adquiridos por Car 10, aunque Artur Morais consideró que es un ritmo normal al inicio de pruebas piloto con clientes para evitar saturar a les conductores. En cuanto al proceso de selección, Daniel Escribano informó que tras realizar entre 8 y 10 entrevistas y derivar perfiles a Nico para una segunda valoración, ya se cuenta con dos candidates viables, estimando incorporar al equipo la semana siguiente. Por otro lado, Artur Morais indicó que Moa ya cuenta con cuenta en Salesforce, lo que permitirá programar y lanzar la semana próxima campañas de bonos de engagement para estimular a les conductores a realizar más viajes, proyectando tener la campaña activa a más tardar a principios de octubre. Daniel Escribano añadió que validaría al resto de les conductores con calma debido a la falta actual de volumen.
 - Logística del evento semanal y coordinación de traslados: Daniel Escribano y Artur Morais coordinaron los detalles logísticos para el evento de la semana en San Sebastián de los Reyes, fijado a las 13:30 horas. Daniel Escribano indicó que recogería a Nico en la estación de Chamartín sobre las 12:00 o 12:15 horas, debiendo recoger al resto del personal a más tardar a las 13:00 horas para salir puntualmente hacia el evento desde la oficina situada en la calle Doctor Fleming. Artur Morais indicó que evaluaría la opción de que su pareja realizara el check-in en el hotel de manera independiente por si surgía algún inconveniente, mientras Artur Morais se encontraba con Daniel Escribano y Nico en Chamartín, comprometiéndose a confirmar los detalles definitivos al día siguiente.
 
-[Transcripción literal (diálogo, ~27 min) omitida en este depósito; disponible en el Doc de Drive.]
+(Transcripción completa de 27:32 min disponible en el doc fuente; el contenido sustantivo está recogido arriba.)
