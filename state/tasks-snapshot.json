@@ -227,7 +227,7 @@
  "1c6ffdb4b860": {
   "action": "otro",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-43",
   "counterparty": "vemo",
@@ -235,7 +235,13 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Me surgió un tema personal y creo que no voy a poder asistir.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "archivado: no aplica",
+    "ts": "2026-09-21T20:11:18+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0a9629d7b97154",
