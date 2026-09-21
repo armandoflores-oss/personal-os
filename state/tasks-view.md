@@ -3,8 +3,7 @@
 <!-- Vista generada — NO editar a mano. Regenerar: python3 scripts/task.py rebuild -->
 
 ## Cotizaciones y pendientes operativos
-- **T-23** Re: [EXT]Re: Element / Draiver: Explorar "Rides" en Variable Fleet y negocio Element
-- **T-25** FW: Resguardo CA2138
+- **T-23** Re: [EXT]Re: Element / Draiver: Explorar "Rides" en Variable Fleet y negocio Element · esperando a Fernando Galán
 - **T-32** Re: Comprobante de pago - PAGOS AVA 09SEPT2026
 - **T-33** Facturación Draiver Agosto 2026 - Zapata Logistics
 - **T-34** Re: REPSE and digital platforms · esperando a Juliana / Garrigues

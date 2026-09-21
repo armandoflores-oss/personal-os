@@ -404,6 +404,11 @@
     "actor": "user",
     "note": "Armando: validar con Fernando Galland si la cuenta solo aplica con Variable Fleet. Ya tuvo junta con Julia al respecto (2026-09-15).",
     "ts": "2026-09-15T17:07:09+00:00"
+   },
+   {
+    "actor": "user",
+    "note": "evidencia: Armando dice que no está hecha",
+    "ts": "2026-09-21T19:59:54+00:00"
    }
   ],
   "owner": null,
@@ -413,7 +418,7 @@
   "task_id": "40c7101f520c",
   "title": "Re: [EXT]Re: Element / Draiver: Explorar \"Rides\" en Variable Fleet y negocio Element",
   "vetoed": false,
-  "waiting_on": null
+  "waiting_on": "Fernando Galán"
  },
  "43bb97916017": {
   "action": null,
@@ -850,7 +855,7 @@
  "8f302410fb94": {
   "action": "enviar",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-25",
   "counterparty": "cemex",
@@ -863,6 +868,11 @@
     "actor": "user",
     "note": "Lo opera José Durán. Lo único de Armando es validar que se entregue o no se entregue.",
     "ts": "2026-09-12T18:21:52+00:00"
+   },
+   {
+    "actor": "user",
+    "note": "archivado: no aplica",
+    "ts": "2026-09-21T20:00:59+00:00"
    }
   ],
   "owner": "José Durán",

@@ -14,3 +14,4 @@
 {"casi": [], "cerrados": [], "leg": "outbound", "revisados": 3, "ts": "2026-09-21T15:56:06+00:00"}
 {"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-09-21T15:56:09+00:00"}
 {"leg": "heartbeat", "stage": "start", "task": "brief-personal-os", "ts": "2026-09-21T16:52:32+00:00"}
+{"leg": "heartbeat", "stage": "end", "task": "brief-personal-os", "ts": "2026-09-21T16:54:11+00:00"}
