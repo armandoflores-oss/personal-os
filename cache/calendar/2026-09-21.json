@@ -24,14 +24,6 @@
   },
   {
     "start": "10:30",
-    "summary": "1-1 Sam",
-    "attendees": [
-      "armando.flores@driverdo.com",
-      "sam.kloppenburg@draiver.com"
-    ]
-  },
-  {
-    "start": "10:30",
     "summary": "catch up Julia",
     "attendees": [
       "julia.diaz@draiver.com",
@@ -61,7 +53,7 @@
       "gerardo.acosta@kavak.com",
       "luis.mapelvelazco@kavak.com",
       "camila.flores@draiver.com",
-      "cristian.arizmendi@draiver.com",
+      "cristian.arizmendi@driverdo.com",
       "diego.diaz@draiver.com",
       "maron.hurtado@draiver.com",
       "julia.diaz@draiver.com",

@@ -1,0 +1,63 @@
+# Diaria Spain Launch — 2026/09/21 08:31 CST — Notes by Gemini
+
+sept 21, 2026
+
+Invitados: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
+
+## Resumen
+
+Revisión operativa de conductores y optimización comercial con contratación y automatizaciones pendientes.
+
+**Gestión y accesos de conductores**
+Registro de conductores nuevos completado y fallos de acceso investigados en Salesforce.
+
+**Soporte y contratación comercial**
+Procedimientos de soporte técnico avanzados y contratación de Pablo aprobada con periodo de prueba.
+
+**Logística y automatización**
+Preparativos de oficina avanzados y automatización de pólizas de seguro coordinada.
+
+## Decisiones
+
+### Requiere más debate
+
+- **Futuro sistema de evaluación de conductores**: Se acordó diseñar un sistema de evaluación y rangos para los conductores una vez que las operaciones estén más asentadas.
+- **Piloto de pruebas con Eurotransport Car**: Se aplazó el inicio de las pruebas del piloto con Eurotransport Car hasta verificar las actualizaciones de producto y la reunión de confirmación.
+
+### Acordada
+
+- **Asignación de fallos de conductores a Artur**: Artur asumirá la gestión directa de los fallos de acceso de los conductores junto con Paloma para agilizar la resolución.
+- **Restricción selectiva de cuentas para conductores problemáticos**: Se establecerá el bloqueo selectivo de conductores en cuentas específicas de Salesforce en lugar de la baja total para mitigar riesgos legales.
+- **Priorización de la migración de soporte**: Se estableció como prioridad para la semana acelerar la migración y la configuración del soporte técnico con Tiago.
+- **Contratación del candidato Pablo bajo periodo de prueba**: Se acordó contratar a Pablo bajo un periodo de prueba de dos meses a pesar de su preferencia inicial por un rol de ventas puro.
+- **Implementación de herramientas de seguimiento comercial**: Se acordó implementar Icol para el control de llamadas y HubSpot para la gestión de prospectos de las nuevas incorporaciones desde su primer día.
+
+## Próximos pasos
+
+- [Artur Morais] Resolver errores conectividad: Investigar configuraciones en Salesforce para solucionar los fallos de acceso de los conductores y preparar la información para el equipo de producto.
+- [Artur Morais] Documentar casos conductores: Compilar el historial detallado de los conductores que presentan errores para la reunión de mañana.
+- [Daniel Escribano] Gestionar conductores conflictivos: Informar a Artur sobre los conductores poco confiables para proceder con su suspensión o baja del sistema.
+- [Artur Morais] Revisar piloto Eurotransportcar: Verificar el estado del ticket de producto y las APIs para validar el inicio de las pruebas con el cliente de Sevilla.
+- [Daniel Escribano] Iniciar onboarding: Crear un canal de comunicación o correo electrónico con el equipo de recursos humanos para coordinar las cuentas y el onboarding del nuevo personal.
+- [Daniel Escribano] Contactar a Nico: Hablar con Nico sobre la contratación del candidato propuesto para el puesto de Hunter.
+- [Artur Morais] Configurar cuentas Aircall: Crear las cuentas de telefonía necesarias para los nuevos empleados para asegurar el seguimiento de llamadas.
+- [Daniel Escribano] Capacitar empleados: Capacitar al personal nuevo en técnicas de búsqueda en internet para ampliar el registro comercial durante periodos de baja carga laboral.
+- [Daniel Escribano] Segmentar registros: Organizar la información recolectada por zonas geográficas norte y sur para distribuir equitativamente entre los responsables del equipo.
+- [Daniel Escribano] Compartir base: Verificar el estado del acceso compartido de la cartera de clientes y enviar el documento correspondiente si no ha sido recibido.
+- [Artur Morais] Gestionar integración: Coordinar con Kevin los pasos necesarios para habilitar la carga automática de la información de transporte en el sistema.
+- [Daniel Escribano, Artur Morais] Coordinar entrenamiento: Acordar una franja horaria durante el martes o miércoles para realizar un ensayo práctico sobre el funcionamiento del software de los Holers.
+
+## Detalles
+
+- **Registro de nuevos conductores en Salesforce**: Artur Morais confirmó que los conductores nuevos ya se encuentran registrados en Salesforce, lo cual simplifica su activación. Sin embargo, la activación técnica dependía de una respuesta de Kevin para aplicar configuraciones adicionales (00:04:21).
+- **Problemas de acceso de conductores a la aplicación**: Daniel Escribano reportó que varios conductores continúan experimentando fallos persistentes para acceder a la plataforma, ya sea mediante red wifi o datos móviles, con casos que acumulan uno o dos meses sin resolución (00:06:17, 00:08:35). Aunque se evaluó la teoría de configuraciones de ubicación internacional como Marruecos o Venezuela, el problema también se presenta en conductores en España. Artur Morais acordó investigar las configuraciones en Salesforce y preparar los casos documentados para la reunión con Paloma (00:07:31, 00:09:32).
+- **Gestión de conductores no confiables y bloqueos**: Daniel Escribano expuso un caso con un conductor que canceló y falló en un transporte, a quien bloqueó directamente en el sistema (00:11:00). Artur Morais y Armando Flores explicaron que existen dos opciones en Salesforce: bloquear cuentas específicas para limitar la recepción de viajes o desactivar por completo los datos del perfil (00:12:57). Se determinó que la baja definitiva se reserva para situaciones graves como faltas de respeto o acoso a clientes, precedentes que ya ocurrieron anteriormente en Drimi (00:15:30).
+- **Sistema de evaluación y categorización de conductores**: Daniel Escribano propuso establecer un sistema futuro para evaluar el rendimiento de los conductores según su historial de cancelaciones, retrasos y calidad en entregas a clientes finales, replicando el modelo de Drimi donde los perfiles mejor valorados realizan estas entregas con un sobresueldo de 5 euros (00:16:34). Artur Morais indicó que los datos registrados en Salesforce permiten generar informes y paneles de control en Superset para definir criterios de gestión (00:19:00).
+- **Piloto de pruebas con Eurotransport Car**: Daniel Escribano consultó el estado para iniciar las pruebas con Eurotransport Car y contactar a un cliente receptivo en Sevilla antes de que la oportunidad pierda vigencia (00:19:00). Artur Morais señaló que revisarían el estado del ticket con producto y con Paloma, encontrándose prácticamente listos para validar las interfaces de programación de aplicaciones (APIs) (00:20:33).
+- **Migración y optimización del soporte técnico**: Armando Flores y Daniel Escribano destacaron la urgencia de acelerar la migración y consolidación del soporte técnico junto a Tiago y el equipo para disminuir la carga operativa (00:23:08). Artur Morais indicó que está finalizando los procedimientos operativos estándar (SOPs) y planeaba coordinar con Tiago y HubSpot para priorizar estas acciones durante la semana (00:24:10).
+- **Evaluación de perfil comercial y contratación de Pablo**: Daniel Escribano compartió la respuesta de Pablo, quien declinó un puesto de funciones mixtas al preferir un rol puramente comercial de ventas como Hunter. Armando Flores y Daniel Escribano analizaron los riesgos de la ambigüedad en puestos comerciales puros frente a la ambición del candidato, acordando finalmente proceder con su contratación respaldados por el periodo de prueba de dos meses y la necesidad de contar con perfiles competitivos (00:26:33).
+- **Gestión de incorporación y accesos de recursos humanos**: Daniel Escribano expresó preocupación por la falta de respuesta de Rafa en relación con los correos electrónicos y el proceso de incorporación de las dos nuevas personas previsto para el miércoles (00:33:48). Armando Flores sugirió crear un canal de comunicación directo que incluya a Rafa, Jaqueline y a Armando para dar seguimiento a través de recursos humanos (00:34:47).
+- **Logística de oficina e incidencias de proveedor de internet**: Daniel Escribano detalló los preparativos en la oficina para recibir a las nuevas empleadas el miércoles, incluyendo la habilitación de mobiliario, equipos y teléfonos móviles (00:38:34). Asimismo, reportó retrasos por parte de la compañía telefónica en la instalación del servicio de internet, cuya gestión se demoró debido a que el apoderado legal de la empresa en España es Nico (00:39:42).
+- **Configuración de telefonía y carga de bases de datos en HubSpot**: Armando Flores y Daniel Escribano revisaron la entrega de teléfonos móviles a las nuevas incorporaciones y la necesidad de configurar la herramienta Aircall para el seguimiento y emisión de llamadas comerciales (00:40:59). Adicionalmente, se abordó la carga de bases de datos de prospección en HubSpot, estimando un volumen de entre 8,000 y 10,000 profesionales de compraventa y alquiler de vehículos (rent-a-car) en España, las cuales se asignarán de manera equilibrada por zonas geográficas (norte y sur) (00:42:08).
+- **Automatización de seguros de transporte**: Daniel Escribano comentó el esfuerzo operativo que demanda generar de forma manual las pólizas de seguro para cada transporte. Artur Morais y Armando Flores informaron sobre los avances en la integración compartida por Paloma en el canal de Slack con el propósito de automatizar el envío de datos de transporte a la empresa aseguradora (00:45:31).
+- **Preparación de demostración para Harman**: Artur Morais y Daniel Escribano coordinaron la revisión y el entrenamiento sobre el centro de comandos (command center) y los holers de cara a la demostración planificada con Harman y el cliente Nico, asegurando una ejecución fluida durante la reunión (00:48:21).
