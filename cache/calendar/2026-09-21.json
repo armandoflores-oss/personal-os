@@ -1,0 +1,71 @@
+[
+  {
+    "start": "08:30",
+    "summary": "Diaria Spain Launch",
+    "attendees": [
+      "daniel.escribano@draiver.com",
+      "armando.flores@driverdo.com",
+      "artur.morais@draiver.com"
+    ]
+  },
+  {
+    "start": "09:15",
+    "summary": "Daily Huddle - Ops MX",
+    "attendees": [
+      "uriel.vargas@driverdo.com",
+      "cristian.arizmendi@driverdo.com",
+      "julia.diaz@draiver.com",
+      "armando.flores@driverdo.com",
+      "diego.diaz@draiver.com",
+      "camila.flores@draiver.com",
+      "jose.duran@driverdo.com",
+      "gerardo.acosta@kavak.com"
+    ]
+  },
+  {
+    "start": "10:30",
+    "summary": "1-1 Sam",
+    "attendees": [
+      "armando.flores@driverdo.com",
+      "sam.kloppenburg@draiver.com"
+    ]
+  },
+  {
+    "start": "10:30",
+    "summary": "catch up Julia",
+    "attendees": [
+      "julia.diaz@draiver.com",
+      "armando.flores@driverdo.com"
+    ]
+  },
+  {
+    "start": "13:00",
+    "summary": "Auren - Fiscal Regime",
+    "attendees": [
+      "regiane.araujo@driverdo.com",
+      "julia.diaz@draiver.com",
+      "erin.seebacher@draiver.com",
+      "marcelo.trevino@draiver.com",
+      "armando.flores@driverdo.com",
+      "camila.flores@draiver.com",
+      "cristhian.herrera@draiver.com"
+    ]
+  },
+  {
+    "start": "16:30",
+    "summary": "Draiver - Kavak CDMX",
+    "attendees": [
+      "alan.tovar@kavak.com",
+      "armando.flores@driverdo.com",
+      "josue.luevano@kavak.com",
+      "gerardo.acosta@kavak.com",
+      "luis.mapelvelazco@kavak.com",
+      "camila.flores@draiver.com",
+      "cristian.arizmendi@draiver.com",
+      "diego.diaz@draiver.com",
+      "maron.hurtado@draiver.com",
+      "julia.diaz@draiver.com",
+      "julia.ivonne@live.com.mx"
+    ]
+  }
+]
