@@ -577,11 +577,17 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Juan, David, could you please share the insurance policy's declarations page?",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "evidencia: Armando dijo que está listo",
+    "ts": "2026-09-21T20:11:44+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0b10ebd36b6a7c",
-  "status": "open",
+  "status": "done",
   "task_id": "54eb6a46a840",
   "title": "Re: Póliza cancelada",
   "vetoed": false,

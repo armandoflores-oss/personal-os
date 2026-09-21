@@ -5,7 +5,6 @@
 ## Cotizaciones y pendientes operativos
 - **T-23** Re: [EXT]Re: Element / Draiver: Explorar "Rides" en Variable Fleet y negocio Element · esperando a Fernando Galán
 - **T-34** Re: REPSE and digital platforms · esperando a Juliana / Garrigues
-- **T-45** Re: Póliza cancelada
 - **T-46** RE: REPSE and digital platforms
 - **T-47** Re: Fw: RESTABLECIMIENTOS
 
