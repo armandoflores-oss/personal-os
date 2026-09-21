@@ -281,7 +281,7 @@
  "2d6409e23006": {
   "action": null,
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "P-4",
   "counterparty": null,
@@ -289,7 +289,13 @@
   "domain": "reuniones-espana",
   "due_date": "2026-09-16",
   "evidence": null,
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "archivado: no aplica",
+    "ts": "2026-09-21T20:33:04+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": null,
@@ -310,11 +316,17 @@
   "domain": "reuniones-espana",
   "due_date": "2026-09-16",
   "evidence": null,
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "evidencia: Armando dijo que está listo",
+    "ts": "2026-09-21T20:33:04+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": null,
-  "status": "open",
+  "status": "done",
   "task_id": "2e2ee1c925fa",
   "title": "Grabar el minuto de video del flujo del demo y mandarlo a Fede y Nico para feedback",
   "vetoed": false,
@@ -332,7 +344,7 @@
   "due_date": null,
   "evidence": "Elidee Arias (Over-haul): Could you please confirm if you are moving the loads/shipments or gating out VINs coming from Barragan, 2A, and Cienega de Flores, 3C?",
   "notes": [],
-  "owner": null,
+  "owner": "Kevin",
   "snoozed_until": null,
   "source": "gmail:1a08962d352c14f7",
   "status": "open",
@@ -344,7 +356,7 @@
  "37c1143dffe0": {
   "action": null,
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "A-1",
   "counterparty": null,
@@ -357,6 +369,11 @@
     "actor": "user",
     "note": "evidencia: Armando dice que no está hecha",
     "ts": "2026-09-17T15:10:38+00:00"
+   },
+   {
+    "actor": "user",
+    "note": "archivado: no aplica",
+    "ts": "2026-09-21T20:33:04+00:00"
    }
   ],
   "owner": null,
@@ -524,11 +541,17 @@
   "domain": "pipeline-estrategico",
   "due_date": null,
   "evidence": "Re: Tesla - Dravier - Forum to Montes Urales Q3 2026 Sept\n@Jose Duran buena tarde, tu apoyo para programar estos dos movimientos para el lunes a las 9 am gracias.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "evidencia: Armando dijo que está listo",
+    "ts": "2026-09-21T20:33:11+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0bad42ecf4c70e",
-  "status": "open",
+  "status": "done",
   "task_id": "4d7c10cd6e17",
   "title": "Re: Tesla - Dravier - Forum to Montes Urales Q3 2026 Sept",
   "vetoed": false,
@@ -631,11 +654,17 @@
   "domain": "reuniones-espana",
   "due_date": "2026-09-16",
   "evidence": null,
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "evidencia: Armando dijo que está listo",
+    "ts": "2026-09-21T20:33:04+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": null,
-  "status": "open",
+  "status": "done",
   "task_id": "59d3e5240359",
   "title": "Confirmar con Fede que Dan o Ryan firmaron el corrections history de Penske antes de mostrarlo a BCA",
   "vetoed": false,
@@ -679,11 +708,17 @@
   "domain": "reuniones-espana",
   "due_date": "2026-09-16",
   "evidence": null,
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "evidencia: Armando dijo que está listo",
+    "ts": "2026-09-21T20:33:04+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": null,
-  "status": "open",
+  "status": "done",
   "task_id": "66b07ad876c9",
   "title": "Confirmar con Fede y Paloma si hauler capacity se pone con fecha el 17 o se deja como build sin fecha",
   "vetoed": false,
@@ -753,12 +788,17 @@
     "actor": "user",
     "note": "evidencia: Armando dice que no está hecha",
     "ts": "2026-09-17T15:10:39+00:00"
+   },
+   {
+    "actor": "user",
+    "note": "evidencia: Armando dijo que está listo",
+    "ts": "2026-09-21T20:33:11+00:00"
    }
   ],
   "owner": "Artur",
   "snoozed_until": null,
   "source": "drive:1LqJm2v5DgnKdqsIB5EmoHvY1lLD4whSElSXMClZDzps",
-  "status": "open",
+  "status": "done",
   "task_id": "729fda38966e",
   "title": "Se decidió desarrollar un producto mínimo viable utilizando scripts automatizados antes del 5 de octubre.",
   "vetoed": false,
@@ -767,7 +807,7 @@
  "76b568038898": {
   "action": null,
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "A-2",
   "counterparty": null,
@@ -775,7 +815,13 @@
   "domain": "reuniones-espana",
   "due_date": null,
   "evidence": null,
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "archivado: no aplica",
+    "ts": "2026-09-21T20:33:04+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": null,
@@ -788,7 +834,7 @@
  "7923801176a2": {
   "action": "enviar",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-42",
   "counterparty": "tesla",
@@ -796,7 +842,13 @@
   "domain": "pipeline-estrategico",
   "due_date": null,
   "evidence": "Ya ando terminando el file y te lo mando para revisión.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "archivado: no aplica",
+    "ts": "2026-09-21T20:33:11+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0a62267912cc08",
