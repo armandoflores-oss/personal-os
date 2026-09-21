@@ -2,7 +2,7 @@
  "00200464e751": {
   "action": "confirmar",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-37",
   "counterparty": "uber",
@@ -10,7 +10,13 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Reserva confirmada para el domingo, 13 de septiembre\nEl inicio del viaje es a las 2:45pm desde Cerrada de Castilla 8.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "archivado: no aplica",
+    "ts": "2026-09-21T20:09:55+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a09c57e3f225912",
