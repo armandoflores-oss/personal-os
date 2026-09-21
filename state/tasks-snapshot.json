@@ -584,7 +584,7 @@
  "58188b4f3d5d": {
   "action": "otro",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-39",
   "counterparty": "subastasegura",
@@ -592,7 +592,13 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Solicito su apoyo con disponibilidad para el viernes 18 de septiembre, a las 12:00 horas, así como costo de recolección de la siguiente unidad:",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "archivado: no aplica",
+    "ts": "2026-09-21T20:10:47+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0a096fb9e26478",
