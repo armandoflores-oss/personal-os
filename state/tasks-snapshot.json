@@ -1379,7 +1379,7 @@
  "e84432aede23": {
   "action": "enviar",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-46",
   "counterparty": "garrigues",
@@ -1387,7 +1387,13 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Could you please send it to me again?",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "archivado: no aplica",
+    "ts": "2026-09-21T20:13:44+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0b0f150d233ca2",
