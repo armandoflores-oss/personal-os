@@ -456,7 +456,7 @@
  "4a32890ac91e": {
   "action": "enviar",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-38",
   "counterparty": "ford",
@@ -464,7 +464,13 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Les comparto el listado de autos a trasladar el día martes 15 de Septiembre, de Barragán a CDF.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "archivado: no aplica",
+    "ts": "2026-09-21T20:10:04+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0a246c1594488f",
