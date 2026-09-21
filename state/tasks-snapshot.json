@@ -532,12 +532,17 @@
     "actor": "user",
     "note": "Lo hace el área de finanzas. No hay ejecutable para Armando salvo que venga mencionado o le pidan escalar.",
     "ts": "2026-09-12T18:21:52+00:00"
+   },
+   {
+    "actor": "user",
+    "note": "evidencia: Armando dijo que está listo",
+    "ts": "2026-09-21T20:02:45+00:00"
    }
   ],
   "owner": "Finanzas",
   "snoozed_until": null,
   "source": "gmail:1a08d0286475b365",
-  "status": "open",
+  "status": "done",
   "task_id": "4f6c6d956645",
   "title": "Facturación Draiver Agosto 2026 - Zapata Logistics",
   "vetoed": false,
@@ -814,12 +819,17 @@
     "actor": "user",
     "note": "AVASA (Alquiladora de Vehiculos Automotores) pagó el 9 sep 2026 a DRIVERDO LLC: facturas 160726B ($11,280.09) y 072026A ($4,256.41), total $15,536.50 USD. Jesús Martín Tzacun (AVASA) lo reenvió a Armando y a Marcelo Treviño. AVASA pide el complemento de pago. Marcelo (AR Manager) ya acusó recibo y va a mandar el resumen de agosto.",
     "ts": "2026-09-12T18:22:56+00:00"
+   },
+   {
+    "actor": "user",
+    "note": "evidencia: Armando dijo que está listo",
+    "ts": "2026-09-21T20:02:34+00:00"
    }
   ],
   "owner": "Marcelo",
   "snoozed_until": null,
   "source": "gmail:1a08c5d22f02c9e0",
-  "status": "open",
+  "status": "done",
   "task_id": "84da2aa4b831",
   "title": "Re: Comprobante de pago - PAGOS AVA 09SEPT2026",
   "vetoed": false,

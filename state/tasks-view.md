@@ -4,8 +4,6 @@
 
 ## Cotizaciones y pendientes operativos
 - **T-23** Re: [EXT]Re: Element / Draiver: Explorar "Rides" en Variable Fleet y negocio Element · esperando a Fernando Galán
-- **T-32** Re: Comprobante de pago - PAGOS AVA 09SEPT2026
-- **T-33** Facturación Draiver Agosto 2026 - Zapata Logistics
 - **T-34** Re: REPSE and digital platforms · esperando a Juliana / Garrigues
 - **T-36** Re: COTIZACIÓN PEPSICO | SUC SAN PEDRO
 - **T-37** Reserva confirmada para el domingo, 13 de septiembre
