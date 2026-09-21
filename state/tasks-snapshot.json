@@ -983,7 +983,7 @@
  "a074673174f5": {
   "action": "enviar",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-36",
   "counterparty": "tip",
@@ -991,7 +991,13 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Re: COTIZACIÓN PEPSICO | SUC SAN PEDRO\nLes comparto con gusto la cotización por estos servicios (SIN IVA):",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "archivado: no aplica",
+    "ts": "2026-09-21T20:09:21+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a092669cb6cd347",
