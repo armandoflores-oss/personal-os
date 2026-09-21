@@ -73,12 +73,17 @@
     "actor": "user",
     "note": "Entorno corregido: Mascot Autos US (prod, el que Kevin valida) como espina del demo, no Mascot Spain (org de DEV creada para probar la formula de pricing). Mascot Spain solo como pantalla suelta de campos en español si resulta estable. Nunca el tenant real de Penske.",
     "ts": "2026-09-14T02:22:27+00:00"
+   },
+   {
+    "actor": "user",
+    "note": "evidencia: P7 listo. P8 listo. P3 también ya se cierra. P5 también se cierra. P6 se cierra. A1 no es necesario dar seguimiento por el momento. T22 ya se cierra. T35 sigue abierto.",
+    "ts": "2026-09-17T15:10:29+00:00"
    }
   ],
   "owner": null,
   "snoozed_until": null,
   "source": null,
-  "status": "open",
+  "status": "done",
   "task_id": "10ad6156616f",
   "title": "Escoger los live cases que muestran cada uno de los 6 anchors del demo BCA FTL (N02/N04 intake+dispatch, N14 control tower, N07/X04 POD, X03/X05 waiting time, N06 driver app, N03 pricing por fórmula)",
   "vetoed": false,
@@ -149,11 +154,17 @@
   "domain": "reuniones-espana",
   "due_date": "2026-09-15",
   "evidence": null,
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "evidencia: Armando dijo que está listo",
+    "ts": "2026-09-17T15:10:38+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": null,
-  "status": "open",
+  "status": "done",
   "task_id": "145f14605cfb",
   "title": "Cerrar con Fede y Nico cuantos minutos dura el demo: Nico lo pregunto en Slack el 11-sep y nadie contesto",
   "vetoed": false,
@@ -183,6 +194,27 @@
   "status": "open",
   "task_id": "14a781eada69",
   "title": "Re: Draiver Facturación JULIO 2026 - Zapata Logistics",
+  "vetoed": false,
+  "waiting_on": null
+ },
+ "1a09bb3d3506": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-47",
+  "counterparty": "auren",
+  "created": "2026-09-21T14:39:59+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "If so, could you please send it to me?",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a0b0e0b6947f724",
+  "status": "open",
+  "task_id": "1a09bb3d3506",
+  "title": "Re: Fw: RESTABLECIMIENTOS",
   "vetoed": false,
   "waiting_on": null
  },
@@ -308,7 +340,13 @@
   "domain": "reuniones-espana",
   "due_date": null,
   "evidence": null,
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "evidencia: Armando dice que no está hecha",
+    "ts": "2026-09-17T15:10:38+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": null,
@@ -452,6 +490,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "4d7c10cd6e17": {
+  "action": "otro",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-44",
+  "counterparty": "tesla",
+  "created": "2026-09-21T14:39:59+00:00",
+  "domain": "pipeline-estrategico",
+  "due_date": null,
+  "evidence": "Re: Tesla - Dravier - Forum to Montes Urales Q3 2026 Sept\n@Jose Duran buena tarde, tu apoyo para programar estos dos movimientos para el lunes a las 9 am gracias.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a0bad42ecf4c70e",
+  "status": "open",
+  "task_id": "4d7c10cd6e17",
+  "title": "Re: Tesla - Dravier - Forum to Montes Urales Q3 2026 Sept",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "4f6c6d956645": {
   "action": "enviar",
   "applied": false,
@@ -476,6 +535,27 @@
   "status": "open",
   "task_id": "4f6c6d956645",
   "title": "Facturación Draiver Agosto 2026 - Zapata Logistics",
+  "vetoed": false,
+  "waiting_on": null
+ },
+ "54eb6a46a840": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-45",
+  "counterparty": "julia.diaz",
+  "created": "2026-09-21T14:39:59+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Juan, David, could you please share the insurance policy's declarations page?",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a0b10ebd36b6a7c",
+  "status": "open",
+  "task_id": "54eb6a46a840",
+  "title": "Re: Póliza cancelada",
   "vetoed": false,
   "waiting_on": null
  },
@@ -532,11 +612,17 @@
   "domain": "reuniones-espana",
   "due_date": null,
   "evidence": null,
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "evidencia: se cierra",
+    "ts": "2026-09-17T15:10:38+00:00"
+   }
+  ],
   "owner": "Artur",
   "snoozed_until": null,
   "source": null,
-  "status": "open",
+  "status": "done",
   "task_id": "5ad8571e3c7e",
   "title": "Confirmar con Clicars cómo mandarán shipper, carrier y peso por vehículo (bloqueante del MVP levantado por Deca/Paloma); propuesta: misma sábana en columnas separadas",
   "vetoed": false,
@@ -622,7 +708,13 @@
   "domain": "reuniones-espana",
   "due_date": null,
   "evidence": "Se decidió desarrollar un producto mínimo viable utilizando scripts automatizados antes del 5 de octubre.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "evidencia: Armando dice que no está hecha",
+    "ts": "2026-09-17T15:10:39+00:00"
+   }
+  ],
   "owner": "Artur",
   "snoozed_until": null,
   "source": "drive:1LqJm2v5DgnKdqsIB5EmoHvY1lLD4whSElSXMClZDzps",
@@ -739,11 +831,17 @@
   "domain": "operacion-kavak",
   "due_date": null,
   "evidence": "Agradeceremos mucho si pueden compartirnos sus comentarios y, de ser posible, las fechas estimadas de remediación para los puntos anteriores antes del 18 de septiembre de 2026, con el fin de concluir ",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-09-18T14:21:29Z a kavak: «Re: Re: Assessment Ciberseguridad - Draiver - status»",
+    "ts": "2026-09-21T14:39:59+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0a679dc4f3bf22",
-  "status": "open",
+  "status": "done",
   "task_id": "8b3dbac09b54",
   "title": "Re: Assessment Ciberseguridad - Draiver - status",
   "vetoed": false,
@@ -1152,11 +1250,17 @@
   "domain": "reuniones-espana",
   "due_date": "2026-09-15",
   "evidence": null,
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "evidencia: Armando dijo que está listo",
+    "ts": "2026-09-17T15:10:38+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": null,
-  "status": "open",
+  "status": "done",
   "task_id": "db621e54c2c5",
   "title": "Sembrar datos en Mascot Spain antes del ensayo: lote de ordenes para el plan multi-movimiento, un proveedor aprobado dado de alta como operador, y un viaje de camion con VINs cargados",
   "vetoed": false,
@@ -1213,6 +1317,27 @@
   "status": "done",
   "task_id": "e3c7f768a722",
   "title": "Cortar y anonimizar Draiver_Penske_Chaining_ROI_v3.pptx a 1-2 slides para el 17-sep (savings en % no en dólares, 'commercial truck rental company')",
+  "vetoed": false,
+  "waiting_on": null
+ },
+ "e84432aede23": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-46",
+  "counterparty": "garrigues",
+  "created": "2026-09-21T14:39:59+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Could you please send it to me again?",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a0b0f150d233ca2",
+  "status": "open",
+  "task_id": "e84432aede23",
+  "title": "RE: REPSE and digital platforms",
   "vetoed": false,
   "waiting_on": null
  },
