@@ -143,3 +143,4 @@
 {"actor": "user", "kind": "set_owner", "payload": {"owner": "Kevin"}, "task_id": "3414689d651a", "ts": "2026-09-21T20:33:11+00:00"}
 {"actor": "user", "kind": "archive", "payload": {"reason": "no aplica"}, "task_id": "7923801176a2", "ts": "2026-09-21T20:33:11+00:00"}
 {"actor": "user", "kind": "set_status", "payload": {"evidence": "Armando dijo que está listo", "status": "done"}, "task_id": "4d7c10cd6e17", "ts": "2026-09-21T20:33:11+00:00"}
+{"actor": "system:ingest:gmail", "kind": "create", "payload": {"action": "enviar", "code": "T-48", "counterparty": "kavak", "domain": "cotizaciones-operativo", "due_date": null, "evidence": "Si te parece bien, te envio la convocatoria para el miercoles 30 a las 09:30", "source": "gmail:1a0c8bc2947b2676", "title": "Re: Gracias por acompanarnos en el lanzamiento de Draiver"}, "task_id": "828da750e63e", "ts": "2026-09-22T11:47:15+00:00"}

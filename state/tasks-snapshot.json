@@ -885,6 +885,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "828da750e63e": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-48",
+  "counterparty": "kavak",
+  "created": "2026-09-22T11:47:15+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Si te parece bien, te envio la convocatoria para el miercoles 30 a las 09:30",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a0c8bc2947b2676",
+  "status": "open",
+  "task_id": "828da750e63e",
+  "title": "Re: Gracias por acompanarnos en el lanzamiento de Draiver",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "84da2aa4b831": {
   "action": "enviar",
   "applied": false,
