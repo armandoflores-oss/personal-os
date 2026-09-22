@@ -1,0 +1,95 @@
+[
+  {
+    "start": "08:30",
+    "summary": "Diaria Spain Launch",
+    "attendees": [
+      "daniel.escribano@draiver.com",
+      "armando.flores@driverdo.com",
+      "artur.morais@draiver.com"
+    ]
+  },
+  {
+    "start": "09:00",
+    "summary": "Weekly Product & Ops Draiver Spain",
+    "attendees": [
+      "paloma.calderon@draiver.com",
+      "ext.gerardo.cabanas@draiver.com",
+      "artur.morais@draiver.com",
+      "kevin.burke@draiver.com",
+      "armando.flores@driverdo.com",
+      "nicolas.ariza@kavak.com",
+      "rafael.andrade@draiver.com",
+      "daniel.escribano@draiver.com",
+      "fede.ranero@draiver.com",
+      "nicolas.ariza@draiver.com"
+    ]
+  },
+  {
+    "start": "09:00",
+    "summary": "Daily Huddle - Ops MX",
+    "attendees": [
+      "uriel.vargas@driverdo.com",
+      "cristian.arizmendi@driverdo.com",
+      "julia.diaz@draiver.com",
+      "armando.flores@driverdo.com",
+      "diego.diaz@draiver.com",
+      "camila.flores@draiver.com",
+      "jose.duran@driverdo.com",
+      "gerardo.acosta@kavak.com"
+    ]
+  },
+  {
+    "start": "10:30",
+    "summary": "catch up Julia",
+    "attendees": [
+      "julia.diaz@draiver.com",
+      "armando.flores@driverdo.com"
+    ]
+  },
+  {
+    "start": "11:00",
+    "summary": "Weekly Kavak / Draiver Leaders",
+    "attendees": [
+      "fede.ranero@driverdo.com",
+      "julia.diaz@draiver.com",
+      "armando.flores@driverdo.com",
+      "diego.pacheco@kavak.com",
+      "josue.luevano@kavak.com",
+      "gerardo.acosta@kavak.com",
+      "diego.diaz@draiver.com",
+      "aristides.calvani@kavak.com"
+    ]
+  },
+  {
+    "start": "13:00",
+    "summary": "1-1 Sam",
+    "attendees": [
+      "armando.flores@driverdo.com",
+      "sam.kloppenburg@draiver.com"
+    ]
+  },
+  {
+    "start": "14:00",
+    "summary": "DRIVERDO- GRUPO TURBOFIN",
+    "attendees": [
+      "armando.flores@driverdo.com",
+      "juliana.turin@driverdo.com",
+      "david.chelius@turbofin.com.mx",
+      "constanza.enriquez@turbofin.com.mx",
+      "emiliano.amaya@turbofin.com.mx",
+      "jorge.corona@turbofin.com.mx",
+      "salajuntas@turbofin.com.mx"
+    ]
+  },
+  {
+    "start": "17:00",
+    "summary": "Draiver-Vemo follow up",
+    "attendees": [
+      "julia.diaz@draiver.com",
+      "armando.flores@driverdo.com",
+      "camila.flores@driverdo.com",
+      "alan.tovar@vemo.com.mx",
+      "damian.vargas@vemo.com.mx"
+    ]
+  }
+]

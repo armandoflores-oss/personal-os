@@ -1,0 +1,30 @@
+# Las notas
+
+sept 21, 2026
+
+## Draiver - Kavak CDMX
+
+Invitado alan.tovar@kavak.com, Armando Flores (armando.flores@driverdo.com), josue.luevano@kavak.com, Gerardo Acosta (gerardo.acosta@kavak.com), luis.mapelvelazco@kavak.com, Camila Flores (camila.flores@draiver.com), Diego Diaz (diego.diaz@draiver.com), maron.hurtado@draiver.com, Julia Diaz (julia.diaz@draiver.com), Jose Duran (jose.duran@draiver.com), Cristian Arizmendi (cristian.arizmendi@draiver.com)
+
+### Resumen
+
+Creación de viajes con Command Center y optimización de servicios logísticos.
+
+**Uso de plataformas logísticas**
+Demostración de Command Center para crear viajes y comparar velocidad con Legacy.
+
+**Gestión de servicios y ruteo**
+Discusión sobre agregar servicios logísticos y resolver discrepancias de nombres en ubicaciones.
+
+**Pruebas de ruteo sin servicios**
+Evaluación de locaciones nuevas y actualización de información de agencias en el sistema.
+
+### Próximos pasos
+
+- [Jose Duran] Probar enrutamiento: Probar el enrutamiento de viajes sin servicios logísticos previos para intentar sumar o cambiar movimientos.
+
+### Detalles
+
+- **Creación de viajes y uso de plataformas**: Se discute la creación de un viaje para León sin servicios logísticos iniciales para agregarlos posteriormente. Diego Diaz demuestra el proceso en Command Center, plataforma utilizada por Diego Diaz y Jose Duran, mientras que Gerardo Acosta Romero y Julia Diaz comentan sobre Legacy. Julia Diaz señala que Legacy puede ser más rápido, pero Diego Diaz y Jose Duran prefieren Command Center, aunque Diego Diaz lo encuentra un poco lento y solo utiliza Legacy para descargar reportes anteriores de continental.
+- **Adición de servicios logísticos y discrepancias de nombres**: Se aborda el problema de agregar servicios logísticos y la dificultad de rutear de manera proactiva antes de contar con el servicio logístico (SL) debido a diferencias entre las direcciones reales, Google Maps y los nombres registrados en el sistema. Diego Diaz muestra que en Command Center se puede usar la opción de reemplazar para asociar la agencia (como aliado moda en León), lo cual agrega automáticamente el código QR y la información del stock. Jose Duran explica que realiza cambios de movimientos (como con el identificador de la Nissan Frontier 2018), pero se topa con que las locaciones no siempre coinciden exactamente con Google Maps. Ante esto, Diego Diaz indica que los nombres en el sistema pueden variar (por ejemplo, "Kavak aliado moda" contra "aliado moda"), por lo que recomienda buscar por partes del nombre o copiar movimientos previos de esas agencias.
+- **Pruebas de ruteo sin servicios logísticos y actualización de ubicaciones**: Se examina el manejo de locaciones nuevas o no registradas, como algunas sucursales de Hertz, y la actualización de información en el sistema. Jose Duran menciona que las locaciones nuevas generan problemas, pero decide probar el ruteo previo sin el servicio logístico siguiendo el método compartido. Diego Diaz aclara que al ingresar una dirección, aunque no aparezca inicialmente como un aliado reconocido, el sistema arroja la información correctamente al crear el servicio logístico, y que modificar el aliado en un plan actualiza la información de la agencia en aproximadamente dos minutos. Julia Diaz corrobora que esto funciona porque el servicio logístico se crea en función de dicha configuración. Finalmente, el equipo concluye la sesión y detiene la grabación.
