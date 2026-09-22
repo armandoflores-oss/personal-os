@@ -278,6 +278,33 @@
   "vetoed": false,
   "waiting_on": "Juliana / Garrigues"
  },
+ "298dd95c5797": {
+  "action": null,
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-49",
+  "counterparty": null,
+  "created": "2026-09-22T19:18:57+00:00",
+  "domain": "grandes-deals",
+  "due_date": null,
+  "evidence": null,
+  "notes": [
+   {
+    "actor": "system:brief-personal-os",
+    "note": "Origen: corrección de Armando al brief del 22-sep-2026. El hilo Borusan/Draiver fue suprimido como sin_compromiso 3 veces (item_ids 1a0b97b09817afbc, 1a0c3018e21ed274, 1a0c77f83cb999c2; el último el 22-sep 11:47 UTC). Dominio grandes-deals asignado por inferencia: corregir si va en otro.",
+    "ts": "2026-09-22T19:19:10+00:00"
+   }
+  ],
+  "owner": null,
+  "snoozed_until": null,
+  "source": null,
+  "status": "open",
+  "task_id": "298dd95c5797",
+  "title": "Dar seguimiento a Borusan (hilo Borusan/Draiver)",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "2d6409e23006": {
   "action": null,
   "applied": false,

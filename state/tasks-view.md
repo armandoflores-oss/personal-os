@@ -11,6 +11,9 @@
 ## Operación Kavak
 - **T-40** TRX UNIDADES DE VENTA CAR SHOP - KAVAK MERIDA
 
+## Grandes deals / RFPs
+- **T-49** Dar seguimiento a Borusan (hilo Borusan/Draiver)
+
 ## Pipeline estratégico
 - **T-31** Re: FORD MX -DRAIVER -MEXICO OPERATION 2A · esperando a Uriel
 
