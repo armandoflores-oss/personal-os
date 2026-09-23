@@ -754,3 +754,8 @@
 {"detail": "", "item_id": "1a0ce7603208ed47", "reason": "sin_compromiso", "source": "gmail", "subject": "[DriverDO LLC] Action required: Payment request from Transfer Haber SA De CV #H-1011", "ts": "2026-09-23T13:47:16+00:00"}
 {"detail": "", "item_id": "1a0ce73e452cec7c", "reason": "sin_compromiso", "source": "gmail", "subject": "[DriverDO LLC] Action required: Payment request from Transfer Haber SA De CV #H-781", "ts": "2026-09-23T13:47:16+00:00"}
 {"detail": "", "item_id": "1a0ce72e61a58d22", "reason": "sin_compromiso", "source": "gmail", "subject": "[DriverDO LLC] Action required: Payment request from Transfer Haber SA De CV #H-723", "ts": "2026-09-23T13:47:16+00:00"}
+{"detail": "", "item_id": "1a0ceced5a8131c6", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Draiver Turkey", "ts": "2026-09-23T15:47:24+00:00"}
+{"detail": "", "item_id": "1a0cec55f5a0fd30", "reason": "sin_compromiso", "source": "gmail", "subject": "Notes: “Diaria Spain Launch” Sep 23, 2026", "ts": "2026-09-23T15:47:24+00:00"}
+{"detail": "", "item_id": "1a0cebe9379b9497", "reason": "sin_compromiso", "source": "gmail", "subject": "Draiver Turkey", "ts": "2026-09-23T15:47:24+00:00"}
+{"detail": "", "item_id": "1a0ceaa19066f483", "reason": "sin_compromiso", "source": "gmail", "subject": "INVENTARIO DE UNIDADES FORD EN PATIO BARRAGÁN 23-09-2026", "ts": "2026-09-23T15:47:24+00:00"}
+{"detail": "^\\s*canceled event\\b", "item_id": "1a0ce8f214b475d0", "reason": "meta", "source": "gmail", "subject": "Canceled event: Daily Huddle - Ops MX @ Fri Sep 25, 2026 9:30am - 10am (CST) (Armando Flores)", "ts": "2026-09-23T15:47:24+00:00"}

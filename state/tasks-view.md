@@ -14,10 +14,14 @@
 ## Operación Kavak
 - **T-40** TRX UNIDADES DE VENTA CAR SHOP - KAVAK MERIDA
 
+## Reuniones España
+- **T-57** Felipe y Tiago crean la base de conocimiento e integran Hubspot para tener todo listo antes del día 5.
+
 ## Grandes deals / RFPs
 - **T-49** Dar seguimiento a Borusan (hilo Borusan/Draiver)
 
 ## Pipeline estratégico
 - **T-31** Re: FORD MX -DRAIVER -MEXICO OPERATION 2A · esperando a Uriel
 - **T-52** Re: EXPLORER | BLANCO OXFORD | 1FM5K8AWXSGC24416
+- **T-56** Fwd: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128
 
