@@ -14,10 +14,6 @@
 ## Operación Kavak
 - **T-40** TRX UNIDADES DE VENTA CAR SHOP - KAVAK MERIDA
 
-## Reuniones España
-- **T-54** Nueva notificación electrónica
-- **T-55** Nueva NOTIFICACIÓN
-
 ## Grandes deals / RFPs
 - **T-49** Dar seguimiento a Borusan (hilo Borusan/Draiver)
 

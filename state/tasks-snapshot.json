@@ -37,11 +37,17 @@
   "domain": "reuniones-espana",
   "due_date": null,
   "evidence": "En caso de que no accediera a su contenido antes de las 23:59:59 del día 03/10/26 en horario peninsular, se considerará que el acto de notificación ha sido efectuado, aunque con resultado de rechazo, ",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-09-23T12:23:24Z a correo: «Fwd: Nueva notificación electrónica»",
+    "ts": "2026-09-23T13:47:16+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0cd5f52f076d99",
-  "status": "open",
+  "status": "done",
   "task_id": "03d1d2313b80",
   "title": "Nueva notificación electrónica",
   "vetoed": false,
@@ -873,11 +879,17 @@
   "domain": "reuniones-espana",
   "due_date": null,
   "evidence": "En el caso de que no accediera a su contenido antes de las 03/10/2026 23:59 en horario peninsular, se considerará que el acto de notificación ha sido efectuado, aunque con resultado de rechazo.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-09-23T12:23:24Z a contacto.es: «Fwd: Nueva notificación electrónica»",
+    "ts": "2026-09-23T13:47:16+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0cd5edcebeddd0",
-  "status": "open",
+  "status": "done",
   "task_id": "71be9a163a47",
   "title": "Nueva NOTIFICACIÓN",
   "vetoed": false,
