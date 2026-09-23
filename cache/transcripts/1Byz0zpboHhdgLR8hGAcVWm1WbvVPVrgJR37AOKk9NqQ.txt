@@ -1,10 +1,10 @@
-# Daily Huddle - Ops MX — Notes by Gemini
+# Full notes — Sep 21, 2026
 
-Sep 21, 2026
+## Daily Huddle - Ops MX
 
-Invited: Uriel Vargas (uriel.vargas@driverdo.com), Cristian Arizmendi (cristian.arizmendi@driverdo.com), Julia Diaz (julia.diaz@draiver.com), Armando Flores (armando.flores@draiver.com), Diego Diaz (diego.diaz@draiver.com), Camila Flores (camila.flores@draiver.com), Jose Duran (jose.duran@driverdo.com), Gerardo Acosta (gerardo.acosta@kavak.com)
+Invited: Uriel Vargas, Cristian Arizmendi, Julia Diaz, Armando Flores, Diego Diaz, Camila Flores, Jose Duran, Gerardo Acosta
 
-## Summary
+### Summary
 
 Terminal review and financial evaluation with business driver standardization and roster verification.
 
@@ -17,11 +17,11 @@ Tracking of ride requests continued within Salesforce. Collaborative efforts suc
 **Driver Updates and Conclusion**
 Evaluation of system windows addressed recent driver changes. Meeting concluded following final record saves.
 
-## Next steps
+### Next steps
 
 - [Diego Diaz] Record Video: Record the requested video content.
 
-## Details
+### Details
 
 - **Terminal and Marketplace Account Review**: Diego Diaz, Camila Flores, Uriel Vargas, and Julia Diaz examined account elements and checked the terminal and marketplace. The underlying discussion involved verifying account details and marketplace settings within the terminal interface. Uriel Vargas and Julia Diaz evaluated the account components, concluding with a review of the terminal setup.
 - **Business Driver Finances and Evaluation**: Camila Flores, Julia Diaz, and Jose Duran reviewed driver financial information and established the definition of a business driver. Camila Flores and Jose Duran discussed driver finances, while Julia Diaz confirmed the correctness of the financial data and driver classifications. The participants reached a consensus on standardizing the concept of a business driver.

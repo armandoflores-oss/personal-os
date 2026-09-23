@@ -1,0 +1,35 @@
+# Full notes — Sep 22, 2026
+
+## Daily Huddle - Ops MX
+
+Invited: Uriel Vargas, Cristian Arizmendi, Julia Diaz, Armando Flores, Diego Diaz, Camila Flores, Jose Duran, Gerardo Acosta
+
+### Summary
+
+Driver comparisons reviewed with selection timelines and system configuration steps.
+
+**Driver Comparisons And Dry Runs**
+Dry runs discussed with driver comparisons and evaluation updates.
+
+**Driver Selection Background Checks**
+Driver listings reviewed for October targets requiring background checks.
+
+**System Configuration Account Management**
+Configuration settings addressed for operational setup and account integration.
+
+### Quick notes
+
+- Diego discussed driver configurations and scheduled dry runs.
+- Cristian noted an October timeframe for driver updates.
+- Camila reviewed the master and child account configuration.
+- Julia outlined connector and junior driver components.
+
+### Next steps
+
+No suggested next steps were found for this meeting.
+
+### Details
+
+- **Driver Comparisons and Dry Runs**: Uriel Vargas and Diego Diaz discussed dry runs and the comparison of various drivers, referencing Bian CC as part of the evaluation process. Julia Diaz acknowledged the updates and confirmed their agreement with the dry run schedule.
+- **Driver Selection and Background Checks**: Diego Diaz and Cristian Arizmendi reviewed specific driver listings, including Mauricio Christian Lima and Alfred driver, setting a target timeline for October. Camila Flores noted the necessity of background checks, and Jose Duran brought up a Wi-Fi standby status during their review.
+- **System Configuration and Account Management**: Jose Duran and Camila Flores addressed configuration and connection settings, specifically mentioning child accounts, master accounts, and Alumi integrations. Additional discussion involving Pablo Christiano, leaders, and Uriel Vargas covered control measures, connectors, junior drivers, and turbochet components to finalize their operational setup.
