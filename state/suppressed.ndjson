@@ -743,3 +743,6 @@
 {"action": "otro", "counterparty": "correo", "detail": "ya abierto en T-54", "item_id": "1a0cd5f57a1f94d8", "reason": "duplicado", "source": "gmail", "subject": "Nueva notificación electrónica", "ts": "2026-09-23T09:03:52+00:00"}
 {"detail": "", "item_id": "1a0cd4ae49d64b94", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: UPDATE DRAIVER - Revisión de propuestas de las aseguradoras", "ts": "2026-09-23T09:03:52+00:00"}
 {"detail": "", "item_id": "1a0cd327327bfbb1", "reason": "sin_compromiso", "source": "gmail", "subject": "nueva oficina Draiver", "ts": "2026-09-23T09:03:52+00:00"}
+{"detail": "", "item_id": "1a0ce233092c9239", "reason": "sin_compromiso", "source": "gmail", "subject": "[Data]  Yesterday Trip Source Creation", "ts": "2026-09-23T12:03:18+00:00"}
+{"action": "enviar", "counterparty": "kavak", "detail": "ya abierto en T-48", "item_id": "1a0cde291243eae3", "reason": "duplicado", "source": "gmail", "subject": "Re: Follow-up", "ts": "2026-09-23T12:03:18+00:00"}
+{"detail": "^\\s*invitation:", "item_id": "1a0cd785cdc53c65", "reason": "meta", "source": "gmail", "subject": "Invitation: Visita ETC Córdoba @ Tue Nov 3 - Wed Nov 4, 2026 (armando.flores@driverdo.com)", "ts": "2026-09-23T12:03:18+00:00"}
