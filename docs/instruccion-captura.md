@@ -95,6 +95,29 @@ El brief lo renderiza `scripts/brief.py` leyendo solo el repo, y lo dispara su r
 y pega la salida — pero no improvises un brief a mano. Uno redactado por ti se ve igual de bien,
 se salta los tres cruces de supresión, y desde ese momento hay dos versiones de la verdad.
 
+## Aparcar una alarma del watchdog
+
+Si Armando dice algo como "aparca el loop hasta el lunes", "no me alarmes con el
+destilador por ahora", "silencia eso un mes" — es un parqueo. Hazlo en el
+momento, sin pedirle más datos de los necesarios:
+
+```
+python3 "/Users/armando/Documents/Claude Personal Improvement/scripts/watchdog.py" park <etapa> \
+  --razon "<lo que él dijo, en sus términos>" --revisar <YYYY-MM-DD>
+```
+
+- El `id` de la etapa sale de `watchdog.py check`. Si no está claro cuál es,
+  muéstrale las que hay y que elija; no adivines.
+- **La fecha de revisión es obligatoria.** Si no la dio, elige una razonable a
+  partir de lo que dijo ("hasta el lunes", "un mes") y **dile cuál pusiste**.
+  Un parqueo sin fecha es olvidar algo con estilo.
+- Para quitarlo: `park <etapa> --quitar`.
+
+Aparcar **suspende** el check, no lo borra. Cuando llega la fecha, el parqueo
+vence solo y la etapa vuelve a alarmar para que él lo reconsidere — aunque el
+componente ya esté sano. Eso es a propósito: la decisión de aparcar también
+caduca.
+
 ## Si el loop se retiró, bórralo
 
 Al empezar cualquier sesión, si existe `state/loop/retiro.json` con la llave

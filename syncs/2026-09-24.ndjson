@@ -43,3 +43,5 @@
 {"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-09-24T23:46:54+00:00"}
 {"cambiadas": 0, "cards": 112, "huerfanas": 0, "leg": "tejido", "ts": "2026-09-24T23:48:47+00:00"}
 {"cambiadas": 0, "cards": 113, "huerfanas": 0, "leg": "tejido", "ts": "2026-09-24T23:51:41+00:00"}
+{"leg": "heartbeat", "stage": "start", "task": "brief-personal-os", "ts": "2026-09-24T23:54:29+00:00"}
+{"cambiadas": 0, "cards": 113, "huerfanas": 0, "leg": "tejido", "ts": "2026-09-24T23:55:40+00:00"}

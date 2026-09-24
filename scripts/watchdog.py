@@ -197,6 +197,28 @@ CHECKS = {"recibo": chk_recibo, "watermark": chk_watermark, "brief_del_dia": chk
           "credenciales": chk_credenciales, "parked": chk_parked}
 
 
+
+def _parqueo(ap, et, ctx):
+    """Devuelve (estado, detalle) si el parqueo manda, o (None, None) si venció.
+
+    Un parqueo sin fecha de revisión es olvidar algo con estilo, así que la
+    fecha es obligatoria: sin ella, el parqueo no vale y la etapa se revisa
+    normal. Cuando la fecha llega, el parqueo NO se renueva solo — la etapa
+    vuelve a alarmar para que Armando decida otra vez.
+    """
+    rev = ap.get("revisar")
+    if not rev:
+        return AMBAR, f"aparcada sin fecha de revisión: {ap.get('razon','sin razón')}"
+    try:
+        vence = datetime.date.fromisoformat(rev)
+    except ValueError:
+        return AMBAR, f"fecha de revisión ilegible: {rev!r}"
+    if vence > ahora().date():
+        dias = (vence - ahora().date()).days
+        return PARKED, f"{ap.get('razon','sin razón')} · desde {ap.get('desde','?')} · revisar en {dias} días"
+    return None, None      # venció: que corra el check real y que se note
+
+
 def evaluar():
     try:
         man = json.loads(MANIFIESTO.read_text())
@@ -213,6 +235,13 @@ def evaluar():
                 filas.append({"id": et["id"], "productor": prod["nombre"], "nombre": et["nombre"],
                               "estado": VERDE, "detalle": "fin de semana: no se exige"})
                 continue
+            ap = et.get("aparcada")
+            if ap:
+                estado, detalle = _parqueo(ap, et, ctx)
+                if estado is not None:
+                    filas.append({"id": et["id"], "productor": prod["nombre"],
+                                  "nombre": et["nombre"], "estado": estado, "detalle": detalle})
+                    continue
             fn = CHECKS.get(et.get("tipo"))
             if fn is None:
                 filas.append({"id": et["id"], "productor": prod["nombre"], "nombre": et["nombre"],
@@ -222,17 +251,56 @@ def evaluar():
                 estado, detalle = fn(et, ctx)
             except Exception as e:      # un check roto NUNCA desaparece
                 estado, detalle = AMBAR, f"el check tronó: {type(e).__name__}: {e}"
+            if ap:
+                # El parqueo venció. Aunque el check pase, hay que decidir de
+                # nuevo: extenderlo, quitarlo, o aceptar que el componente vive.
+                estado = AMBAR
+                detalle = (f"venció su parqueo ({ap.get('revisar')}) · "
+                           f"era: {ap.get('razon','')} · ahora: {detalle} · "
+                           f"decide: apárcala de nuevo o quítale el parqueo")
             filas.append({"id": et["id"], "productor": prod["nombre"], "nombre": et["nombre"],
                           "estado": estado, "detalle": detalle})
     global_ = AMBAR if any(f["estado"] == AMBAR for f in filas) else VERDE
     return {"estado": global_, "fin_de_semana": fin_de_semana, "etapas": filas}
 
 
+
+def cmd_park(a):
+    man = json.loads(MANIFIESTO.read_text())
+    for prod in man["productores"]:
+        for et in prod["etapas"]:
+            if et["id"] == a.etapa:
+                if a.quitar:
+                    et.pop("aparcada", None)
+                    msg = f"{a.etapa}: parqueo retirado, vuelve a vigilarse normal"
+                else:
+                    et["aparcada"] = {"razon": a.razon or "sin razón dada",
+                                      "desde": datetime.date.today().isoformat(),
+                                      "revisar": a.revisar}
+                    msg = f"{a.etapa}: aparcada hasta {a.revisar} · {a.razon}"
+                MANIFIESTO.write_text(json.dumps(man, indent=1, ensure_ascii=False) + "\n")
+                print(msg)
+                return
+    print(f"no existe la etapa {a.etapa!r}. Las que hay:", file=sys.stderr)
+    for prod in man["productores"]:
+        for et in prod["etapas"]:
+            print(f"  {et['id']}", file=sys.stderr)
+
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("cmd", nargs="?", default="check")
-    ap.add_argument("--json", action="store_true")
-    a = ap.parse_args()
+    sub = ap.add_subparsers(dest="cmd")
+    c = sub.add_parser("check"); c.add_argument("--json", action="store_true")
+    pk = sub.add_parser("park")
+    pk.add_argument("etapa"); pk.add_argument("--razon"); pk.add_argument("--revisar")
+    pk.add_argument("--quitar", action="store_true")
+    a = ap.parse_args(["check"] if len(sys.argv) == 1 else None)
+    if a.cmd == "park":
+        if not a.quitar and not a.revisar:
+            print("falta --revisar: un parqueo sin fecha es olvidar con estilo", file=sys.stderr)
+            sys.exit(0)
+        cmd_park(a); sys.exit(0)
+    a.json = getattr(a, "json", False)
     try:
         r = evaluar()
     except Exception as e:

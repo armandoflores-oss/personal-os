@@ -36,6 +36,22 @@ falla.
 
 ## Estado aparcado
 
+Aparcar es una **capa encima del check, no un reemplazo**: la etapa conserva su
+definición y solo se suspende. Lleva tres cosas y las tres son obligatorias:
+razón, fecha en que se aparcó, y fecha para volver a revisar.
+
+Armando aparca diciéndolo en una línea. Lo demás lo hace
+`watchdog.py park <etapa> --razon "..." --revisar <fecha>`.
+
+**Las etapas aparcadas no levantan la banda.** Cuando llega la fecha, el parqueo
+vence solo y la etapa vuelve a alarmar —aunque el componente ya esté sano— con
+el texto de por qué se había aparcado. Es a propósito: la decisión de aparcar
+también caduca, y hay que volver a tomarla a la vista de cómo están las cosas.
+
+Un parqueo sin fecha se rechaza. Sería olvidar algo con estilo.
+
+## Estado aparcado (detalle heredado)
+
 Lo que deliberadamente no existe —el destilador y el courier de la Fase 4— está
 **aparcado** con razón y fecha de revisión, no en ámbar. Pero la fecha vence: al
 llegar, se vuelve ámbar sola. Aparcar algo sin fecha es olvidarlo con estilo.
