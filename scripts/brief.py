@@ -12,6 +12,7 @@ and produces the same bytes from the same repo.
 """
 import argparse
 import json
+import re
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -127,10 +128,38 @@ def calendar_today(now):
     f = CACHE / "calendar" / f"{now.date().isoformat()}.json"
     if not f.exists():
         return None
-    return json.loads(f.read_text())
+    # Ordenado por hora: el brief se lee de arriba abajo como transcurre el día.
+    return sorted(json.loads(f.read_text()), key=lambda e: e.get("start", "99:99"))
 
 
 def prep_notes(event) -> list:
+    """Qué dice la wiki sobre esta junta: gente, organizaciones, reglas.
+
+    Usa el MISMO buscador que `consultar.py`, para que la preparación de una
+    junta y la consulta previa a redactar no den respuestas distintas sobre los
+    mismos hechos. Las reglas salen primero: son restricciones, no color.
+    """
+    import subprocess as _sp
+    asistentes = ",".join(a for a in event.get("attendees", []) if "armando" not in a.lower())
+    cmd = [sys.executable, str(constants.REPO_ROOT / "scripts" / "consultar.py"),
+           "--evento", event.get("summary", "")]
+    if asistentes:
+        cmd += ["--asistentes", asistentes]
+    r = _sp.run(cmd, capture_output=True, text=True)
+    hits, seccion = [], ""
+    for linea in r.stdout.splitlines():
+        if linea.startswith("## "):
+            seccion = linea[3:].strip()
+        m = re.match(r"\s*\[([a-z0-9\-]+)\]\s*(.*)", linea)
+        if m:
+            etiqueta = {"REGLAS QUE APLICAN": "regla", "GENTE": "quién",
+                        "QUÉ ESTÁ PASANDO": "abierto", "CONTEXTO": "contexto"}.get(seccion)
+            if etiqueta:
+                hits.append(f"{etiqueta}: [[{m.group(1)}]] {m.group(2)[:70]}")
+    return hits[:3]
+
+
+def _prep_notes_viejo(event) -> list:
     """Deterministic prep: memory cards whose slug matches an attendee or a
     distinctive word of the title. No inference, just the library."""
     hits, seen = [], set()

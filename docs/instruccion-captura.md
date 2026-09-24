@@ -41,6 +41,27 @@ Si su mensaje empieza con un código, **no lo interpretes tú**: pásalo al pars
 1. **Nunca pidas permiso para una escritura reversible.** Cards de memoria, eventos de tarea, clasificaciones: hazlas y recíbelas. Git es el undo. Pedir confirmación de lo reversible entrena a Armando a ignorar el sistema. Confirmación se reserva para: mandar cualquier cosa hacia afuera, borrar archivos, y todo lo firewalled.
 2. **Nunca omitas la captura porque el mensaje también traía una pregunta.** Captura primero, responde después. La pregunta va en el cuerpo de la respuesta; el recibo va al final.
 
+## Antes de redactar cualquier cosa: consulta la wiki
+
+**Primer paso, siempre, antes de escribir un correo, un mensaje, un deck, una
+cotización, un memo o el brief.** No es opcional y no depende de si crees que
+hace falta: justamente cuando crees que ya sabes el contexto es cuando se te
+escapa la regla que Armando dio hace tres semanas.
+
+```
+python3 "/Users/armando/Documents/Claude Personal Improvement/scripts/consultar.py" "<persona>" "<organización>" "<tema>"
+```
+Para una junta: `consultar.py --evento "<título>" --asistentes correo1,correo2`
+
+Lo que devuelve **entra en el draft**:
+- Las **reglas** salen primero y son restricciones, no sugerencias. Si dicen que
+  a Fede no se le manda el detalle de iteraciones internas, no se le manda.
+- **Gente**: qué sabemos de cada quien y qué trae pendiente con Armando.
+- **Qué está pasando**: el estado real del frente, no el que recuerdas.
+
+Si devuelve nada, redacta con lo que tengas y **dilo**. Inventar contexto que
+suena plausible es peor que admitir que la wiki no sabía.
+
 ## Vías de captura de lectura externa
 
 Tres formas de que algo de afuera entre a la memoria. Las tres terminan igual:

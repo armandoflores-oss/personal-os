@@ -7,7 +7,9 @@ no_weave: true
 
 _Hub. Concentra la densidad de enlaces para que las cards sueltas se mantengan ligeras. Generado por `scripts/weave.py`._
 
-_Sin cards todavía._
+## Reglas que aplican
+
+- [[consultar-antes-redactar|Consultar la wiki antes de redactar]]
 
 ---
 [[home|← Mapa]]

@@ -184,6 +184,8 @@
   },
   "active": "450c7dcde47708d9",
   "lastOpenFiles": [
+    "rules/consultar-antes-redactar.md",
+    "changelog.md",
     "rules/contrato-fuentes.md",
     "context/bca-nota-pricing.md",
     "sources/2026-09-24-bca-nota-pricing.md",
@@ -208,8 +210,6 @@
     "rules/correos-transaccionales-operacion.md",
     "rules/correos-va-copiado.md",
     "rules/zapata-correos-facturacion-cobranza.md",
-    "rules/confirmaciones-asistencia-evento.md",
-    "rules/items-notas-junta.md",
     "Sin título.canvas"
   ]
 }

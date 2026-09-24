@@ -129,6 +129,10 @@ def cmd_ingest_post():
     rs = py("capture_source.py", "scan")
     if rs.stdout.strip():
         out.append(rs.stdout.strip().splitlines()[-1])
+    # El changelog se escribe DESPUÉS de tejer, para contar el árbol ya cerrado.
+    # Cuando exista el destilador nocturno (Fase 4) también lo llamará; hoy la
+    # ingesta es lo único que corre, así que aquí vive.
+    py("changelog.py")
     r = py("weave.py")
     out.append(r.stdout.strip().splitlines()[-1] if r.stdout.strip() else "tejido: sin cambios")
     commit("Ingesta automática")
