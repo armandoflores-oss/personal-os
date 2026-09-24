@@ -307,7 +307,18 @@ def render(now, since):
     L.append(f"# Brief · {DIAS[day.weekday()]} {day.day} de {MESES[day.month - 1]} de {day.year}")
     L.append("")
 
-    problems = health(now)
+    # Banda solo cuando algo NO está verde. El watchdog decide; el brief no
+    # repite su lógica, porque dos verdades sobre lo mismo se separan.
+    problems = []
+    try:
+        import subprocess as _sp
+        r = _sp.run([sys.executable, str(constants.REPO_ROOT / "scripts" / "watchdog.py"),
+                     "check", "--json"], capture_output=True, text=True, timeout=60)
+        wd = json.loads(r.stdout)
+        problems = [f"**{f['productor']}** · {f['nombre']}: {f['detalle']}"
+                    for f in wd.get("etapas", []) if f.get("estado") == "ambar"]
+    except Exception as e:
+        problems = [f"El watchdog no pudo correr: {type(e).__name__}: {e}"]
     if problems:
         L.append("## ⚠️ Salud del sistema")
         for p in problems:

@@ -218,6 +218,31 @@ def generar_indices(excl):
     return list(INDICES)
 
 
+def _total_cards():
+    return len([f for d in MEM.iterdir() if d.is_dir() and not d.name.startswith(".")
+                and d.name not in NO_TEJER
+                for f in d.glob("*.md") if f.name != "CLAUDE.md"])
+
+
+def _cobertura():
+    """Cuántas cards no se alcanzan desde home en dos clics."""
+    def enl(p):
+        return {r.split("|")[0].rstrip("\\").strip()
+                for r in re.findall(r"\[\[([^\]]+)\]\]", p.read_text(errors="ignore"))}
+    home = MEM / "home.md"
+    if not home.exists():
+        return -1
+    n1 = enl(home); n2 = set(n1)
+    for l in list(n1):
+        for d in MEM.iterdir():
+            f = (d / f"{l}.md") if d.is_dir() else None
+            if f and f.exists():
+                n2 |= enl(f)
+    todas = {f.stem for d in MEM.iterdir() if d.is_dir() and not d.name.startswith(".")
+             and d.name not in NO_TEJER for f in d.glob("*.md") if f.name != "CLAUDE.md"}
+    return len(todas - n2 - exclusiones())
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
@@ -253,6 +278,20 @@ def main():
         idx = generar_indices(excl)
         print(f"hubs regenerados: {nh}")
         print(f"índices regenerados: {', '.join(idx)}")
+    # Aserción con nombre: el watchdog no puede verificar una etapa que no
+    # deja rastro. "Corrió bien" tiene que ser un hecho escrito, no una
+    # suposición por ausencia de errores.
+    if not args.dry_run:
+        import datetime as _dt
+        import json as _j
+        huerfanas = _cobertura()
+        ahora = _dt.datetime.now(_dt.timezone.utc)
+        linea = {"ts": ahora.isoformat(timespec="seconds"), "leg": "tejido",
+                 "cards": _total_cards(), "huerfanas": huerfanas, "cambiadas": cambiadas}
+        syncs = constants.REPO_ROOT / "syncs"
+        syncs.mkdir(exist_ok=True)
+        with open(syncs / f"{ahora.date()}.ndjson", "a", encoding="utf-8") as fh:
+            fh.write(_j.dumps(linea, ensure_ascii=False, sort_keys=True) + "\n")
     print(f"cards modificadas: {cambiadas} · enlaces inline nuevos: {inline_total}"
           + ("  (simulacro)" if args.dry_run else ""))
 

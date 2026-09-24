@@ -1,0 +1,84 @@
+{
+  "_nota": "Manifiesto del watchdog. Cada productor y, dentro, CADA etapa obligatoria con su asercion nombrada. Una etapa que no aparece aqui no se vigila; si borras una linea de aqui, el watchdog deja de exigirla y eso es visible en el diff.",
+  "productores": [
+    {
+      "id": "ingesta",
+      "nombre": "Ingesta",
+      "dias": "L-V",
+      "etapas": [
+        {"id": "ingesta.latido", "nombre": "la ingesta corrio y cerro",
+         "tipo": "recibo", "asercion": "heartbeat/end/ingest-personal-os", "horas": 26},
+        {"id": "ingesta.marca_gmail", "nombre": "marca de agua de Gmail avanzo",
+         "tipo": "watermark", "clave": "gmail", "horas": 26},
+        {"id": "ingesta.marca_drive", "nombre": "marca de agua de Drive avanzo",
+         "tipo": "watermark", "clave": "drive", "horas": 96},
+        {"id": "ingesta.reconciliacion", "nombre": "la pata de salida corrio",
+         "tipo": "recibo", "asercion": "outbound", "horas": 48}
+      ]
+    },
+    {
+      "id": "brief",
+      "nombre": "Brief diario",
+      "dias": "L-V",
+      "etapas": [
+        {"id": "brief.rendido", "nombre": "el brief de hoy existe",
+         "tipo": "brief_del_dia", "horas": 26},
+        {"id": "brief.latido", "nombre": "la rutina del brief cerro",
+         "tipo": "recibo", "asercion": "heartbeat/end/brief-personal-os", "horas": 26},
+        {"id": "brief.entrega", "nombre": "el brief se entrego por Slack",
+         "tipo": "parked", "razon": "no deja rastro verificable; el envio vive en la respuesta de la rutina",
+         "desde": "2026-09-24", "revisar": "2026-11-01"}
+      ]
+    },
+    {
+      "id": "loop",
+      "nombre": "Loop nocturno",
+      "dias": "L-V",
+      "etapas": [
+        {"id": "loop.corrio", "nombre": "el loop juzgo y aplico",
+         "tipo": "recibo", "asercion": "loop", "horas": 26},
+        {"id": "loop.calificacion", "nombre": "hay calificacion de ayer",
+         "tipo": "trend", "horas": 48}
+      ]
+    },
+    {
+      "id": "vault",
+      "nombre": "Mantenimiento del vault",
+      "dias": "L-V",
+      "etapas": [
+        {"id": "vault.tejido", "nombre": "el tejedor corrio",
+         "tipo": "recibo", "asercion": "tejido", "horas": 26},
+        {"id": "vault.sin_huerfanas", "nombre": "ninguna card quedo inalcanzable",
+         "tipo": "tejido_huerfanas", "horas": 26},
+        {"id": "vault.changelog", "nombre": "el changelog tiene la entrada de hoy",
+         "tipo": "changelog", "horas": 26}
+      ]
+    },
+    {
+      "id": "destilador",
+      "nombre": "Destilador nocturno (Fase 4)",
+      "dias": "L-V",
+      "etapas": [
+        {"id": "destilador.latido", "nombre": "el destilador corrio",
+         "tipo": "parked", "razon": "Fase 4 no construida todavia",
+         "desde": "2026-09-24", "revisar": "2026-12-01"},
+        {"id": "courier.empujes", "nombre": "el courier subio los digests del dia",
+         "tipo": "parked", "razon": "Fase 4 no construida todavia",
+         "desde": "2026-09-24", "revisar": "2026-12-01"}
+      ]
+    },
+    {
+      "id": "credenciales",
+      "nombre": "Credenciales",
+      "dias": "todos",
+      "etapas": [
+        {"id": "cred.declaradas", "nombre": "cuenta regresiva de vencimientos",
+         "tipo": "credenciales", "avisar_dias": 30}
+      ]
+    }
+  ],
+  "credenciales": [
+    {"_ejemplo": "agrega aqui cualquier credencial con fecha de vencimiento",
+     "_formato": {"nombre": "token X", "vence": "2027-01-15"}}
+  ]
+}

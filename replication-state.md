@@ -147,8 +147,14 @@ Nightly cloud routine after data-in, before brief: prepare (deterministic eviden
 - **Verified in all four states** with synthetic 21-day trends: improving (trend line), worsening (shutdown proposed with real deltas 1→5 interventions, 10→19 open, 0→2 resurfaced), silence elapsed (retired), and retired (prepare/apply/ledger all return a no-op). Real trend data restored afterwards — still only 1 day, 20 to go.
 - **Acceptance:** within the first week: ≥1 evidence-based close with correct receipt, zero resurfaced closed items, eval score visible in the brief.
 
-### Phase 7 — Watchdog → `PENDING`
+### Phase 7 — Watchdog → `DONE`
 Manifest of every producer AND every mandatory phase within each; stdlib-only checker (always exits 0): heartbeats, named log-line assertions (amber within 24h if missing), parked state with reason/since/next-check auto-expiry, freshness from content never mtime, schedule-aware thresholds, credential-expiry countdowns. Brief banner + session-start hook only when non-green.
+- **Built 2026-09-24.** `config/manifiesto.json` lists every producer and, inside each, every mandatory stage with its own NAMED assertion: `heartbeat/end/ingest-personal-os`, `tejido`, `loop`, `outbound`, the two watermarks, today's brief, the trend line, the changelog entry, and a credential countdown block. `scripts/watchdog.py` evaluates them; `brief.py` asks the watchdog rather than re-deriving health, so there is one verdict and not two.
+- **Freshness comes from content, proven:** the brief's date is parsed from its `# Brief ·` header, watermarks from their values, the changelog from its `## YYYY-MM-DD`, receipts from their internal `ts`. Test: aging the Gmail watermark's CONTENT by four days while writing the file fresh produced amber at 96h — the new mtime fooled nothing.
+- **The weaver had no assertion, so it was added**: it now writes a `tejido` line with card count and orphan count. A stage nobody can verify is a stage that is not watched — "it ran fine" has to be a written fact, not the absence of an error.
+- **Three failure modes tested, all exit 0:** an unknown check type → amber naming the type; a corrupt manifest → amber quoting the parse error; a Sunday → everything green, nothing demanded. The checker never breaks the pipeline it watches.
+- **Parked ≠ green.** Phase 4's distiller and courier are parked with a reason and a review date of 2026-12-01; when that date passes they turn amber on their own. Parking something without a date is forgetting it with style.
+- **Currently amber, correctly:** `loop.corrio` — the loop routine exists but has never run.
 - **Acceptance:** stop one producer for a day → next brief says so unprompted. Delete one phase from a routine prompt → brief flags the missing capability within a day.
 
 ## Resume notes
