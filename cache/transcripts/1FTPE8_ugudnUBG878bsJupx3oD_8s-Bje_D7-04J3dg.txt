@@ -1,0 +1,37 @@
+Seguimiento Piloto Autosur x Draiver – Siguientes pasos - 2026/09/24 10:30 CST - Notes by Gemini
+
+sept 24, 2026
+Invitado: Uriel Vargas, Laura Gamboa (coordinador.pyp@autosur.mx), Julia Díaz, Armando Flores
+
+### Resumen
+Revisión de acuerdos legales y logística piloto para la integración de conductores en plataformas.
+Acuerdo y esquema operativo: Proceso legal avanzado y propuesta de esquema paralelo para control de conductores aprobada.
+Definición de rutas piloto: Establecidas rutas iniciales entre Mérida y Quintana Roo para la próxima semana.
+Canales y sesiones de trabajo: Creación de formato en OneDrive y programación de reuniones de arranque confirmadas.
+
+### Decisiones (Acordada)
+- Rutas de traslado para el piloto: Se estableció realizar las rutas de traslado piloto en las trayectorias de Mérida a Cancún y de Mérida a Valladolid.
+- Control de la plataforma por Draiver: Se acordó que el control operativo inicial de la plataforma estará a cargo del equipo de Draiver.
+- Uso de formato en OneDrive para solicitudes: Se decidió utilizar un documento en OneDrive para que los involucrados carguen sus solicitudes, complementando al grupo de WhatsApp.
+
+### Próximos pasos
+- [José Agustín Vega] Firmar NDA: Gestionar la firma del documento de confidencialidad por parte de Alejandro una vez que el proveedor lo proporcione.
+- [El grupo] Compartir formato: Entregar a Laura el archivo con los campos requeridos para registrar solicitudes de traslados antes del lunes.
+- [El grupo] Enviar materiales: Compartir las diapositivas de la presentación programada para mañana para su revisión previa.
+- [Laura Gamboa] Programar reunión: Convocar a los gerentes regionales y comerciales a la sesión de trabajo del lunes.
+
+### Detalles
+- Estatus del acuerdo de confidencialidad y uso de conductores propios: Armando Flores informó que los datos de Alejandro ya se cargaron en el portal legal para la firma del acuerdo de confidencialidad, el cual estaría listo en un máximo de una hora sin representar un obstáculo para avanzar. Respecto al uso de conductores propios en la plataforma de Draiver, Laura Gamboa indicó inicialmente que esa opción no estaría disponible de inmediato. Sin embargo, Armando Flores propuso ejecutar un esquema en paralelo donde se utilice la plataforma tanto con conductores propios como con los de la empresa proveedora. José Agustín Vega explicó que el objetivo del ingeniero es mantener un control de los conductores propios a través de la herramienta para casos urgentes, mientras que los traslados largos y de mayor riesgo se planeen con veinticuatro horas de anticipación. Laura Gamboa agregó que actualmente no cuentan con conductores dedicados propios, ya que dicha función la realizan colaboradores de manera extraoficial o proveedores externos.
+- Definición de rutas, capacidad y logística inicial del piloto: Armando Flores y Laura Gamboa acordaron que el piloto abarcará las rutas de Mérida a Quintana Roo (Cancún) y de Mérida a Valladolid. Armando Flores sugirió mantener una base fija de dos o tres conductores para cubrir un porcentaje alto de los traslados cotidianos y utilizar a Draiver para los picos de demanda, como cierres de mes o llegada de nuevos modelos. Laura Gamboa especificó que el piloto se pondrá en marcha la próxima semana tras la firma del documento legal. Asimismo, se determinó que el equipo de Draiver llevará inicialmente el control y la carga de los viajes en la plataforma, otorgando visibilidad de acceso a la empresa.
+- Canales de comunicación y gestión de solicitudes: Laura Gamboa propuso crear un grupo de WhatsApp que incluya a los gerentes regionales y comerciales de las zonas mencionadas. Armando Flores estuvo de acuerdo, pero recomendó consolidar previamente las solicitudes en un archivo para evitar pérdidas de información o visibilidad desigual. Los solicitantes incluirán a cuatro gerentes comerciales por zona (tres distribuidoras de Nissan y una de Renault tanto en Mérida como en Cancún) y tres gerentes regionales. Laura Gamboa elaborará un formato en OneDrive que se compartirá con los involucrados antes del día lunes. Julia Diaz explicó que el proceso actual es muy manual: facturación contacta por teléfono a un proveedor externo de traslados y comparte especificaciones por correo. Laura planteó limitar la prueba a una cantidad (5, 10 o ilimitado) a definir en la sesión; la prueba coincidirá con cierre de mes.
+- Seguridad e identificación de conductores para la prueba: Laura Gamboa planteó la necesidad de definir mecanismos de seguridad y control dado que los trasladistas de Draiver no son los proveedores habituales. Julia Diaz propuso enviar con anticipación las identificaciones de los conductores asignados.
+- Planificación de sesiones de trabajo y reuniones de arranque: Julia Diaz acordó compartir un par de diapositivas con anticipación (el mismo día) para revisión de Laura. José Agustín Vega se retiró, indicando que la parte operativa quedará a cargo de Laura Gamboa y pidiendo que le avisen cuando el NDA esté listo para la firma de Alejandro. Se fijó una sesión para el día siguiente (25 sept) a las 11:00 enfocada en los gerentes regionales (kickoff del proceso del piloto); la reunión con los gerentes comerciales se programará el lunes para arranque formal. Armando Flores se comprometió a enviar la convocatoria de mañana en un par de minutos.
+
+### Transcripción (extracto fiel de compromisos)
+Armando Flores: "Justo este ya lo subí. Yo creo que te lo debe poder enviar en máximo una hora." (NDA)
+José Agustín Vega: quedó pendiente compartir cómo sería el proceso usando la plataforma con choferes propios. Armando Flores: "Sí, eso ya te lo tengo."
+Laura Gamboa: "el día lunes eh antes del día lunes estaría bien que me compartan el archivo para que el día lunes ya les presentemos dónde se encuentra ese archivo"
+Julia Diaz: "Estaríamos enviando entonces la información el día de hoy, para que le eches un ojo antes de la reunión"
+Laura Gamboa: "Entonces, ustedes mandan la convocatoria, ¿verdad? Para mañana." Armando Flores: "Yo ahorita te la envío en un par de minutos."
+Armando Flores: "hacemos la presentación mañana y ahí mañana mismo podemos agendar ya la de la siguiente semana ... con el equipo que estaría coordinando esa parte."
+La transcripción finalizó después de 00:16:29

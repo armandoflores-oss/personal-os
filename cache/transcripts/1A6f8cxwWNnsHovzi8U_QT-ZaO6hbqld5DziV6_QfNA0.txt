@@ -1,77 +1,57 @@
 Weekly Kavak / Draiver Leaders - 2026/09/22 11:00 CST - Notes by Gemini
 
 sept 22, 2026
-
-## Weekly Kavak / Draiver Leaders
-
-Invitados: Fede Ranero, Julia Diaz, Armando Flores, josue.luevano@kavak.com, Gerardo Acosta (kavak), Diego Diaz, aristides.calvani@kavak.com, diego.pacheco@kavak.com
+Invitado: Fede Ranero, Julia Diaz, Armando Flores, josue.luevano@kavak.com, Gerardo Acosta, Diego Diaz, aristides.calvani@kavak.com
 
 ### Resumen
 Revisión logística con análisis de volúmenes y estrategias operativas para mejorar procesos.
+Análisis de volumen operativo: Evaluación de backlog y caída de operaciones dominicales por tiempos de espera prolongados y baja asistencia.
+Estrategias de capacidad: Implementación de herramientas tecnológicas y optimización de rutas para equilibrar la capacidad instalada.
+Conciliaciones y logística: Revisión de métricas de tiempo y estatus de facturación para agilizar procesos financieros y operativos.
 
-**Análisis de volumen operativo**
-Evaluación de backlog y caída de operaciones dominicales por tiempos de espera prolongados y baja asistencia.
-
-**Estrategias de capacidad**
-Implementación de herramientas tecnológicas y optimización de rutas para equilibrar la capacidad instalada.
-
-**Conciliaciones y logística**
-Revisión de métricas de tiempo y estatus de facturación para agilizar procesos financieros y operativos.
-
-### Decisiones (Acordadas)
-- **Modelo de compensación para operadores en domingo**: esquema de pago dominical de 50 pesos por unidad, bono de 100 pesos por operar en domingo y condiciones de horario para fomentar la asistencia de los conductores.
-- **Asignación de rutas complejas a Lob**: priorizar la flotilla de Marketplace (Driver) para evitar la pérdida de conductores y asignar la capacidad instalada de Lob a las rutas con mayores dificultades operativas.
-- **Automatización de solicitudes logísticas mediante API**: integrar el bot de inspección con una API para sistematizar y automatizar el envío de solicitudes de servicios logísticos.
-- **Establecimiento de metas realistas de productividad**: metas de productividad para los conductores basadas en el volumen de unidades disponible los domingos.
-- **Estándar de visibilidad anticipada para accountability en piso**: enviar el estado de los vehículos con anticipación de uno a tres días para mejorar la preparación de los automóviles y la rendición de cuentas del personal de piso.
+### Decisiones (Acordada)
+- Modelo de compensación para operadores en domingo: 50 pesos por unidad, bono de 100 pesos por operar en domingo y condiciones de horario.
+- Asignación de rutas complejas a Lob: priorizar la flotilla de Marketplace (Driver) y asignar la capacidad instalada de Lob a las rutas con mayores dificultades.
+- Automatización de solicitudes logísticas mediante API: integrar el bot de inspección con una API.
+- Establecimiento de metas realistas de productividad para domingos.
+- Estándar de visibilidad anticipada para accountability en piso: enviar el estado de los vehículos con anticipación de uno a tres días.
 
 ### Próximos pasos
-- [Armando Flores] Presentar números: Mostrar en pantalla los indicadores del fin de semana para su revisión.
+- [Armando Flores] Presentar números: Mostrar en pantalla los indicadores del fin de semana.
 - [Armando Flores] Mostrar optimizador: Presentar el esquema de optimización logística de España para su implementación.
-- [Gerardo Acosta Romero] Contactar conductores: Coordinar directamente con los operadores para garantizar puntualidad y cumplimiento del horario los domingos.
-- [Gerardo Acosta Romero, Julia Diaz] Implementar bono: Aplicar el modelo de compensación dominical de 50 pesos por unidad más el bono de 100 pesos.
-- [El grupo] Coordinar optimización: Programar una reunión técnica para analizar el volumen actual y optimizar la gestión de madrinas.
-- [Arístides Calvani] Analizar rutas: Ejecutar una revisión profunda de los corredores logísticos para optimizar la distribución de carga entre proveedores.
-- [Julia Diaz] Planificación de Logística: Generar un plan de logística para la semana actual basado en los puntos discutidos.
-- [Armando Flores, Julia Diaz] Análisis Pickup Dropoff: Extraer el análisis de pickup y dropoff en las sucursales. Determinar si existe un problema de tiempo en el proceso de recolección de vehículos.
-- [Arístides Calvani, Julia Diaz] Revisar Evidencia Unidades: Revisar la evidencia de unidades listas en Alpan e Interlomas y hacer los cambios necesarios en la operación.
-- [Julia Diaz] Incluir Cuernavaca: Agregar Cuernavaca a la presentación de seguimiento.
-- [Arístides Calvani] Automatizar Monterrey: Solicitar el desarrollo de un bot de inspección para Monterrey siguiendo la lógica aplicada en Cuernavaca.
-- [Julia Diaz] Reportar Incidencias: Calcular el número total de incidencias y determinar los problemas principales del domingo pasado.
+- [Gerardo Acosta Romero] Contactar conductores: puntualidad y horario los domingos.
+- [Gerardo Acosta Romero, Julia Diaz] Implementar bono dominical (50 pesos por unidad + 100 pesos).
+- [El grupo] Coordinar optimización: reunión técnica para analizar volumen y optimizar gestión de madrinas.
+- [Arístides Calvani] Analizar rutas: revisión profunda de corredores logísticos.
+- [Julia Diaz] Planificación de Logística de la semana actual.
+- [Armando Flores, Julia Diaz] Análisis Pickup Dropoff: Extraer el análisis de pickup y dropoff en las sucursales.
+- [Arístides Calvani, Julia Diaz] Revisar Evidencia Unidades en Alpan e Interlomas.
+- [Julia Diaz] Incluir Cuernavaca en la presentación de seguimiento.
+- [Arístides Calvani] Automatizar Monterrey: bot de inspección siguiendo la lógica de Cuernavaca.
+- [Julia Diaz] Reportar Incidencias del domingo pasado.
 - [Armando Flores] Ajustar Análisis: Ajustar el artefacto de datos para medir unidades recolectadas en lugar de entregadas.
-- [Arístides Calvani] Reporte Productividad: Enviar un reporte sobre la proyección de mejora en la productividad para esta semana.
-- [Julia Diaz] Contactar a Marcelo: Buscar a Marcelo para cerrar los detalles de junio y julio.
+- [Arístides Calvani] Reporte Productividad de la semana.
+- [Julia Diaz] Contactar a Marcelo para cerrar los detalles de junio y julio.
 - [Armando Flores] Enviar comentarios: Entregar los comentarios pendientes sobre los movimientos de junio y julio.
-- [Arístides Calvani] Enviar detalles: Proporcionar los detalles correspondientes al mes de agosto antes de que finalice la semana.
-- [Arístides Calvani] Priorizar pago: Gestionar con finanzas la priorización del pago una vez que la factura esté disponible.
-- [Arístides Calvani] Informar sobre API: Notificar al equipo acerca de la interfaz de programación de aplicaciones para la entrega contra reembolso.
-- [Gerardo Acosta Romero] Gestionar orden compra: Coordinar con finanzas la aprobación de la orden de compra por parte de Cristian Evangelista.
-- [Armando Flores, Gerardo Acosta Romero] Revisar movimientos Lerma 5: Visitar Lerma 5 para supervisar, corregir o cancelar los movimientos pendientes y verificar el acceso a las llaves.
-- [Jose Luis Reyes Reyes] Compartir información: Compartir la información necesaria a través de los canales establecidos.
+- [Arístides Calvani] Enviar detalles de agosto antes de que finalice la semana.
+- [Arístides Calvani] Priorizar pago con finanzas una vez que la factura esté disponible.
+- [Arístides Calvani] Informar sobre API para la entrega contra reembolso.
+- [Gerardo Acosta Romero] Gestionar orden compra con aprobación de Cristian Evangelista.
+- [Armando Flores, Gerardo Acosta Romero] Revisar movimientos Lerma 5: visitar para supervisar, corregir o cancelar movimientos pendientes y verificar llaves.
+- [Jose Luis Reyes Reyes] Compartir información por los canales establecidos.
 
 ### Detalles
-- **Tendencias de Volumen y Backlog**: lunes con 199 unidades frente a 314 de la semana anterior y 226 de hace dos semanas; backlog de compras en 80 unidades y almacenamientos en 119.
-- **Expansión y Estrategia en el Mercado de España**: en España se venden 1.2 millones de autos nuevos al año, dos tercios a empresas vía renting o rentas a largo plazo y renta de autos, con alta necesidad logística.
-- **Modelo de Soluciones Logísticas en España**: no se compite con compraventa de autos; se ofrecen soluciones de logística, verificación, inspección y mantenimiento, más un optimizador de madrinas desarrollado en Cloud en dos semanas.
-- **Comparativa de Costos y Esquemas de Madrinas**: diferencias entre contratos de madrinas por ruta mensual en España y el proveedor local Fletescala; las cotizaciones resultaban muy costosas sin buena relación costo-beneficio.
-- **Rendimiento y Caída de Operaciones en Domingo**: solo 95 unidades movidas, la peor semana de las últimas cuatro, por volumen bajo de compras y almacenamientos y tiempos de espera prolongados.
-- **Disponibilidad y Asistencia de Conductores**: se esperaban 25 conductores de Lob y solo asistieron 12; se revisaron los pagos por viaje para evaluar incentivos.
-- **Incentivos y Bonos para Conductores Dominicales**: 50 pesos por unidad más bono de 100 pesos por domingo, condicionado a entrada puntual a las 9:00 y salida a las 18:00.
-- **Maximización de Capacidad Instalada con Lob**: asignar rutas complejas a Lob durante la semana para proteger la base de conductores de Marketplace.
-- **Reubicación y Flexibilidad de Conductores**: los conductores de Lob pueden reubicarse en sedes cercanas como Rosario y Antara según necesidades operativas.
-- **Resumen de Movimientos y Niveles de Servicio**: cumplimiento programado de 61.7% para Marketplace, menos cancelaciones, 1,158 movimientos completados por Driver frente a 634 por Lob.
-- **Efecto del Feriado del 16 de Septiembre**: pago triple autorizado a Lob permitió mover 78 unidades y mitigar resultados negativos.
-- **Incidencias y Duplicidad Operativa en Monterrey**: 68 cancelaciones porque el equipo local duplicaba servicios logísticos y enviaba personal propio sin verificar disponibilidad en el sistema.
-- **Alineación y Capacitación del Equipo en Monterrey**: reuniones jueves y viernes para corregir la falta de visibilidad sobre vehículos disponibles y establecer criterio de coordenadas para asignación de rutas.
-- **Operaciones en Cuernavaca y Conectividad por API**: se atendieron 29 unidades pendientes; concluyó el desarrollo de la API para automatizar la solicitud de servicios logísticos.
-- **Integración del Bot de Inspección con la API**: el bot de inspección mecánica y legal se conectará a la API para disparar automáticamente solicitudes de servicios logísticos.
-- **Análisis de Causas Raíz de los Problemas Dominicales**: 68% de las rutas liberadas el domingo fueron de una a dos unidades, dificultando el encadenamiento; ratio desfavorable de tres unidades de entrada por una de salida en Lerma.
-- **Tiempos Muertos y Bloqueos Operativos del Domingo**: tiempo entre servicios subió a 40 minutos o más, con esperas de hasta 1h53m por fallas mecánicas, ausencia de placas, batería, combustible y falta de unidades en Antara y Lerma.
-- **Planificación y Metas para el Siguiente Domingo**: herramientas tecnológicas para optimizar rutas dominicales y metas realistas, reemplazando la meta anterior de siete autos.
-- **Visibilidad de reportes y soporte operativo en centros de distribución**: falta de reportes o hilos de seguimiento en Antara y Rosario para respaldar solicitudes de apoyo ante incidencias.
-- **Análisis preliminar de tiempos de recolección, traslado y entrega**: mediana de recolección 22.4 min, manejo 42 min, entrega 7 min; programar todos los viajes a las 9:00 genera picos con P90 de recolección de 103 min; en Kavak Arts Pedregal recolección 19.5 min con P90 de 61 min. Los datos iniciales se evaluaron por unidades entregadas en lugar de recolectadas, lo que distorsionaba las métricas.
-- **Estrategias para mejorar la preparación de unidades y la rendición de cuentas**: compartir datos con dos o tres días de anticipación; pruebas seccionando conductores con formato tipo implant en San Ángel y Lerma, con acceso de seguridad para anticipar fallas mecánicas.
-- **Oportunidades de entregas el mismo día y programación de verificaciones**: unidades listas y oportunidades de same day en Tlalnepantla la Fortuna y San Ángel Arts sin aprovechar por falta de vinculación de conductores; 58 verificaciones planificadas, ritmo requerido de 50-60 diarias hasta el viernes, productividad objetivo de 5-6 autos por centro para marketplace.
-- **Conciliaciones financieras y estatus de facturación de junio, julio y agosto**: meta de cerrar los tres meses en septiembre; observaciones de Marcelo del 16 y 17 sobre detalles de movimientos; Julia Diaz buscará a Marcelo para cerrar junio y julio.
-- **Estado de pagos y aprobaciones de órdenes de compra**: cobros de agosto, junio y julio de Uber facturados y en proceso de pago, pendientes solo conciliaciones; la orden de compra requiere aprobación de Cristian Evangelista de finanzas, quien saldrá de vacaciones.
-- **Discrepancias en el registro de ubicaciones en los centros de Lerma**: discrepancia de volumen en Lerma 1 y Lerma 2; un problema heredado con la ubicación de Lerma 5 ruteaba viajes hacia Reforma o Lerma 1. Se acordó acudir presencialmente por la tarde a revisar unidades, verificar llaves y corregir o cancelar registros erróneos.
+- Backlog: lunes 199 unidades vs 314 la semana anterior y 226 hace dos semanas; compras 80, almacenamientos 119.
+- España: 1.2 millones de autos nuevos al año, dos tercios a empresas (renting). Draiver ofrece logística, verificación, inspección, mantenimiento y optimizador de madrinas desarrollado en Claude en dos semanas.
+- Madrinas: cotizaciones de Fletescala muy costosas.
+- Domingo: solo 95 unidades movidas, la peor de las últimas cuatro semanas. Se esperaban 25 conductores de Lob, asistieron 12.
+- Métricas semanales: cumplimiento programado 61.7% Marketplace; 1,158 movimientos Driver vs 634 Lob. Feriado 16 sept: pago triple a Lob, 78 unidades.
+- Monterrey: 68 cancelaciones por duplicidad de servicios del equipo local.
+- Cuernavaca: 29 unidades; API para automatizar solicitudes logísticas concluida.
+- Causas raíz domingo: 68% de rutas de 1-2 unidades; ratio 3 entradas por 1 salida en Lerma; tiempo entre servicios 40+ min, esperas hasta 1h53.
+- Análisis preliminar de Armando: mediana recolección 22.4 min, manejo 42 min, entrega 7 min; P90 de recolección 103 min por programar todo a las 9am; Kavak Arts Pedregal 19.5 min (P90 61). Datos iniciales por unidades entregadas en vez de recolectadas.
+- Arístides pide compartir datos con 2-3 días de anticipación. Gerardo propone formato implant en San Ángel y Lerma.
+- Verificaciones: 58 planificadas; ritmo 50-60 diarias hasta el viernes; productividad 5-6 autos por centro.
+- Conciliaciones junio/julio/agosto: cerrar los tres meses en septiembre. Julia buscará a Marcelo.
+- Uber: agosto, junio y julio facturados y en proceso de pago; pendientes conciliaciones. OC requiere aprobación de Cristian Evangelista (se va de vacaciones).
+- Lerma: problema heredado de ubicación de Lerma 5 que ruteaba viajes a Reforma o Lerma 1. Armando y Gerardo acudirán presencialmente por la tarde.

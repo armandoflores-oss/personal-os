@@ -1,41 +1,34 @@
 Diaria Spain Launch - 2026/09/23 08:30 CST - Notes by Gemini
 
 sept 23, 2026
-
-## Diaria Spain Launch
-
-Invitados: Daniel Escribano, Armando Flores, Artur Morais
+Invitado: Daniel Escribano, Armando Flores, Artur Morais
 
 ### Resumen
 Preparativos con demostración para Hartman y planificación de soporte y extracción de datos operativos.
+Preparativos y soporte: Demostración de rutas lista para Hartman. Agente de inteligencia artificial disponible el 5 de octubre.
+Infraestructura y objetivos: Entrenamiento en Salesforce y alineación de objetivos trimestrales. Integración de sistemas en marcha.
+Operaciones y datos: Plan de operaciones para Clicars y deca establecido. Extracción exitosa de datos operativos desde Salesforce.
 
-**Preparativos y soporte**
-Demostración de rutas lista para Hartman. Agente de inteligencia artificial disponible el 5 de octubre.
-
-**Infraestructura y objetivos**
-Entrenamiento en Salesforce y alineación de objetivos trimestrales. Integración de sistemas en marcha.
-
-**Operaciones y datos**
-Plan de operaciones para Clicars y deca establecido. Extracción exitosa de datos operativos desde Salesforce.
-
-### Decisiones (Acordadas)
-- **Establecimiento de fecha para agente de IA en soporte**: 5 de octubre como fecha límite para tener disponible un agente de soporte de IA junto con su base de conocimientos e integración de Hubspot.
-- **Uso de instancia de Salesforce para la operación**: utilizar y entrenar a los agentes en la instancia existente de Salesforce en lugar de crear una nueva al inicio.
-- **Alineación de responsabilidades y alcance operativo de Artur**: estructuración de las áreas de responsabilidad de Artur para la operación en España: producto, infraestructura, servicio, ventas y reporting.
+### Decisiones (Acordada)
+- Establecimiento de fecha para agente de IA en soporte: 5 de octubre como fecha límite para tener disponible un agente de soporte de IA junto con su base de conocimientos e integración de Hubspot.
+- Uso de instancia de Salesforce para la operación: utilizar y entrenar a los agentes en la instancia existente de Salesforce en lugar de crear una nueva instancia al inicio.
+- Alineación de responsabilidades y alcance operativo de Artur: estructuración de las áreas de responsabilidad de Artur para la operación en España (producto, infraestructura, servicio, ventas y reporting).
 
 ### Próximos pasos
-- [Bruno] Crear lista de ubicaciones genéricas para la demostración en vivo con Hartman, sin menciones a Clicars ni a terceros.
-- [Dani] Enviar los números reales de Cloud Talk para la configuración de la cuenta.
-- [Artur Morais] Extraer datos operativos preliminares de Clicars para la reunión de mañana, usando Salesforce y Cloud para KPIs como tiempos y número de movimientos.
-- [Armando Flores] Alinear OKRs: presentar a Paloma una propuesta de OKRs y responsabilidades detalladas para dar visibilidad completa de la operación en España.
-- [Artur Morais] Definir fecha Deca: obtener una fecha definida de inicio para el uso de Deca antes de que finalice el día.
+- [Bruno] Crear lista de ubicaciones: Generar una lista de ubicaciones genéricas para la demostración en vivo con Hartman, sin menciones a Clicars ni a terceros.
+- [Dani] Enviar números Cloud Talk: Proporcionar los números reales de Cloud Talk para la configuración de la cuenta.
+- [Artur Morais] Extraer datos operativos: Preparar datos operativos preliminares de Clicars para la reunión de mañana, usando Salesforce y Claude (tiempos, número de movimientos).
+- [Armando Flores] Alinear OKRs: Presentar a Paloma una propuesta de OKRs y responsabilidades detalladas para brindar visibilidad completa sobre la operación en España.
+- [Artur Morais] Definir fecha Deca: Obtener una fecha definida de inicio para el uso de Deca antes de que finalice el día.
 
 ### Detalles
-- **Preparativos para la demostración de Hartman y Cloud Talk**: todo listo para la reunión con Hartman del día siguiente para demostrar el optimizador de rutas. Bruno creará una lista de ubicaciones genéricas y Artur espera los números reales de Cloud Talk de Dani.
-- **Planificación del soporte y agente de IA**: plan de tener un agente disponible desde el lunes 5 de octubre; contratación de un nuevo agente en España durante octubre, que inicialmente no cubrirá el 100% del tiempo en Wati, por lo que Artur cubrirá el turno de la mañana por el huso horario. Felipe y Tiago crean la base de conocimiento e integran Hubspot.
-- **Instancia de Hubspot, Salesforce y pruebas con conductores**: no habrá nueva instancia de Hubspot al inicio, pero sí entrenamiento en otra instancia de Salesforce y creación de usuarios. Se replicará el proceso de Hubspot con Help Desk usado en otros países. Pruebas a principios de la próxima semana y más conductores haciendo viajes hacia el viernes o lunes.
-- **Revisión de datos operativos y alineación de OKR**: Armando propone extraer datos reales de pickup time, driving time y tiempos entre hubs. Artur prefiere hablar primero con los clientes en la reunión del día siguiente antes de extraer información detallada. Armando menciona la necesidad de alinear OKRs con Paloma.
-- **Propuesta de OKR y responsabilidades de producto**: producto listo para operar en España a escala, holders, optimizador, app de conductores y de registro funcionando, integración de deca, seguimiento a APIs y notificaciones, y sistema de facturación para clientes y conductores. También el intake de peticiones específicas de producto.
-- **Infraestructura, servicios, ventas y reportes de operación**: infraestructura, servicio y ventas (telefonía de Cloud Talk, configuración de Hubspot, soporte al equipo comercial liderado por Dani); reporte y manejo de datos vía Salesforce EU, MCP de datos con Kevin, Superset, y seguimiento a pagos y facturación. Artur expresa preocupación por recibir solicitudes por diversos canales sin visibilidad completa.
-- **Plan de operaciones para Clicars y Deca**: registrar los estándares de los conductores, iniciar el 100% de las operaciones de Clicars y recopilar al menos una semana completa de rutas para compararlas con el optimizador junto a Bruno. Respuesta sobre la fecha de Deca al finalizar el día.
-- **Extracción de datos operativos desde Salesforce**: Cloud extrae datos operativos directamente de Salesforce mediante navegador automatizado, obteniendo métricas de septiembre como unidades ejecutadas reales, cuentas de autónomos activos y entregas de Clicars. Artur acuerda conversar con Cloud para extraer información adicional y compartirla al final de la tarde.
+- Preparativos para la demostración de Hartman y Cloud Talk: todo listo para la reunión con Hartman del día siguiente (demo del optimizador de rutas, white label). Artur espera que Dani envíe los números reales de Cloud Talk.
+- Soporte e IA: agente disponible a partir del lunes 5 de octubre; contratación de un nuevo agente en España en octubre; Artur seguirá cubriendo el turno de la mañana en Wati. Felipe crea la knowledge base y Tiago integra Hubspot antes del 5.
+- Hubspot/Salesforce: no nueva instancia de Hubspot al inicio; entrenar agentes en la instancia de Salesforce EU; replicar proceso Hubspot + Help Desk de otros países. Pruebas a inicios de la próxima semana; conductores de Clicars en la app hacia viernes/lunes.
+- Datos operativos y OKR: Armando propone extraer pickup time, driving time y tiempos entre hubs. Artur prefiere primero hablar con el cliente en la junta del día siguiente. Armando intentará asistir a la junta de las 6:30. Fede pidió a Armando alinear OKRs; Armando quiere alinear con Paloma y dar una propuesta, porque Paloma tiene poca visibilidad de lo que hace Artur.
+- Propuesta de OKR de producto para Paloma: producto listo para operar en España a escala; holders; optimizador; app de conductores y app de registro funcionando; integración Deca; seguimiento a integraciones (Eurotransport Car), APIs y notificaciones; facturación a clientes y conductores; intake de peticiones específicas de producto.
+- Infraestructura, servicio, ventas y reporting a cargo de Artur: telefonía Cloud Talk, Hubspot, soporte al equipo comercial de Dani; reporting vía Salesforce EU; MCP de datos con Kevin; Superset; seguimiento a ejecución de pagos y facturación; pilotos técnicos (Clicars, Hartman, Harness). Artur preocupado por recibir solicitudes por varios canales sin visibilidad.
+- Armando: "lo que yo quiero es que haya visibilidad de todo lo que estás haciendo" — quiere dar visibilidad ordenada a Paloma; luego Artur mostraría el estatus.
+- Plan Clicars y Deca: registrar a los conductores, iniciar el 100% de las operaciones de Clicars y recopilar al menos una semana completa de rutas para comparar con el optimizador junto a Bruno. Deca: respuesta de fecha al final del día.
+- Extracción de datos desde Salesforce: Armando demostró cómo Claude extrae datos de Salesforce vía navegador automatizado (unidades ejecutadas reales en septiembre, autónomos activos, entregas de Clicars). Artur hablará con Claude para extraer información adicional y compartirla al final de la tarde. Armando: "si no, trato yo de mandarte algo hoy en la noche".
+La transcripción finalizó después de 00:19:41
