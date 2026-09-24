@@ -4,7 +4,7 @@ titulo: Pipeline estratégico
 
 # Pipeline estratégico
 
-_Automatización y proceso: Ford, Tesla, Element._
+_Automatización y proceso: [[ford|Ford]], [[tesla|Tesla]], [[element|Element]]._
 
 ## Lo que sabemos
 
@@ -14,3 +14,13 @@ _Automatización y proceso: Ford, Tesla, Element._
 
 ---
 [[home|← Mapa]]
+
+<!-- weave:inicio -->
+## Relacionado
+
+- [[element]]
+- [[ford]]
+- [[tesla]]
+
+[[home|← Mapa]]
+<!-- weave:fin -->

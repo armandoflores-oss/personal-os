@@ -121,6 +121,12 @@ def cmd_ingest_post():
             out.append(f"reconciliación: ERROR {r.stderr[:120]}")
     for f in TMP.glob("*.json"):
         f.unlink()          # los intermedios no sobreviven a la corrida
+    # Tejer DESPUÉS de escribir: si la ingesta crea una card y nadie teje, esa
+    # card queda fuera de los índices y por lo tanto inalcanzable hasta el
+    # siguiente tejido. El contrato es que cada escritura automática deja la
+    # telaraña íntegra, no que alguien se acuerde de repararla.
+    r = py("weave.py")
+    out.append(r.stdout.strip().splitlines()[-1] if r.stdout.strip() else "tejido: sin cambios")
     commit("Ingesta automática")
     heartbeat("end", "ingest-personal-os")
     print("\n".join(out) if out else "nada que ingerir")

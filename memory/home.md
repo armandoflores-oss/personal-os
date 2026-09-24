@@ -33,6 +33,18 @@ Estado de cada frente, con su código de tarea cuando lo tiene.
 - **BCA · sesión del 17-sep** — [[fede-y-nico-piden-usar-penske-en-la-sesion-bca-del-17-sep-si]] · [[en-la-grid-de-bca-ftl-n03-ai-pricing-engine-no-tiene-ninguna]]
 - **Piloto Centauro** — [[el-arranque-del-piloto-centauro-9-sep-2026-no-salio-bien-seg]] · _sin dominio asignado todavía_
 
+## Índices completos
+
+Red de seguridad: regenerados en cada tejido, siempre con todo.
+
+[[indice-de-proyectos|Todos los proyectos]] · [[indice-de-reglas|Todas las reglas]] · [[indice-de-contexto|Todo el contexto]]
+
+## Organizaciones y temas
+
+Los hubs cargan la densidad de enlaces; las cards sueltas se mantienen ligeras.
+
+[[penske|Penske]] · [[element|Element]] · [[bca|BCA]] · [[ford|Ford]] · [[zapata|Zapata Logistics]] · [[kavak|Kavak]] · [[centauro|Piloto Centauro]] · [[turbofin|Turbofin]] · [[tesla|Tesla]] · [[clicars|Clicars]] · [[uber-av|Uber AV]] · [[avasa|Avasa]] · [[carta-responsiva|Carta responsiva]] · [[facturacion|Facturación y cobranza]] · [[cotizaciones|Cotizaciones y tarifas]]
+
 ## Gente
 
 Fichas armadas desde lo que ya dicen tus cards; cada línea enlaza a su fuente.

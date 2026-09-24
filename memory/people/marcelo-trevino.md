@@ -7,6 +7,15 @@ creada: 2026-09-13
 
 _Ficha armada desde lo que ya dicen las cards. Cada línea enlaza a su fuente._
 
-- — La facturación (p.ej. Zapata Logistics) la maneja Marcelo. Solo llega a Armando si se la escalan. — [[facturacion-la-maneja-marcelo]]
+- — La facturación (p.ej. [[zapata|Zapata]] Logistics) la maneja Marcelo. Solo llega a Armando si se la escalan. — [[facturacion-la-maneja-marcelo]]
 
 [[home]]
+
+<!-- weave:inicio -->
+## Relacionado
+
+- [[zapata]]
+- [[facturacion]]
+
+[[home|← Mapa]]
+<!-- weave:fin -->

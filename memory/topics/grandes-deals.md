@@ -4,7 +4,7 @@ titulo: Grandes deals / RFPs
 
 # Grandes deals / RFPs
 
-_Uber AV, BCA, Penske y los que sigan._
+_Uber AV, [[bca|BCA]], [[penske|Penske]] y los que sigan._
 
 ## Lo que sabemos
 
@@ -16,3 +16,12 @@ _Uber AV, BCA, Penske y los que sigan._
 
 ---
 [[home|← Mapa]]
+
+<!-- weave:inicio -->
+## Relacionado
+
+- [[penske]]
+- [[bca]]
+
+[[home|← Mapa]]
+<!-- weave:fin -->
