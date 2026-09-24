@@ -1737,6 +1737,33 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "f3be1b8affb6": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-58",
+  "counterparty": "continental",
+  "created": "2026-09-24T06:50:21+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Te comparto las CSF para las facturas de cada una de las razones sociales:",
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-09-24T02:41:19Z a continental: «Fwd: Constancias de Situación Fiscal»",
+    "ts": "2026-09-24T06:50:21+00:00"
+   }
+  ],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a0d0b6e2a6aed67",
+  "status": "done",
+  "task_id": "f3be1b8affb6",
+  "title": "RV: Constancias de Situación Fiscal",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "f68cbc15aa53": {
   "action": "enviar",
   "applied": false,
