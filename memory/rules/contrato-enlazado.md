@@ -32,6 +32,15 @@ Nadie enlaza a mano: lo hecho a mano no sobrevive a la card número mil.
    Obsidian se ve roto. Se limpian antes de usarlos.
 6. **Nunca sale de `memory/`.** Las bóvedas firewalled no son asunto suyo.
 
+## Cómo se nombran las cards
+
+El nombre del archivo **es la etiqueta del nodo** en el grafo de Obsidian. Una
+card nombrada con la oración completa que registra llena el grafo de prosa que
+se lee como instrucciones, y deja de verse quién es cliente, quién persona y qué
+proyecto. Por eso `scripts/lib/slugs.py` nombra **entidad primero y corto**:
+`penske-sesion-dan-rizzo`, no la oración entera. Máximo cuatro palabras, sin
+muletillas ni palabras de estado, con el código T-/P-/A- al frente cuando lo hay.
+
 ## Cobertura garantizada, no esperada
 
 Los hubs de entidad dan significado pero solo cubren lo que mencionan. Por eso
