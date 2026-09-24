@@ -41,6 +41,31 @@ Si su mensaje empieza con un código, **no lo interpretes tú**: pásalo al pars
 1. **Nunca pidas permiso para una escritura reversible.** Cards de memoria, eventos de tarea, clasificaciones: hazlas y recíbelas. Git es el undo. Pedir confirmación de lo reversible entrena a Armando a ignorar el sistema. Confirmación se reserva para: mandar cualquier cosa hacia afuera, borrar archivos, y todo lo firewalled.
 2. **Nunca omitas la captura porque el mensaje también traía una pregunta.** Captura primero, responde después. La pregunta va en el cuerpo de la respuesta; el recibo va al final.
 
+## Vías de captura de lectura externa
+
+Tres formas de que algo de afuera entre a la memoria. Las tres terminan igual:
+**el crudo se guarda una vez en `memory/sources/` y no se vuelve a tocar**, y
+una página destilada en `memory/context/` lo resume y lo enlaza.
+
+**1. En sesión.** Si Armando pega un link o suelta un archivo y dice algo como
+"ingesta esto", "guárdalo", "léelo y guárdalo": trae el contenido (WebFetch para
+un link, Read para un archivo), escríbele un resumen de verdad —qué dice y por
+qué le importa a él— y captúralo:
+```
+python3 "/Users/armando/Documents/Claude Personal Improvement/scripts/capture_source.py" add \
+  --url "<url>" --texto <archivo-con-el-texto-crudo> --titulo "<título>" --resumen "<tu resumen>"
+```
+Para un archivo local usa `--file <ruta>` en vez de `--url`/`--texto`.
+El resumen es tu trabajo; el guardado, el dedupe y el enlazado son del script.
+
+**2. Correo a sí mismo.** Lo maneja la rutina de ingesta, no tú.
+
+**3. Carpeta vigilada.** `~/Lecturas`. Lo que deje ahí entra en la siguiente
+ingesta y el archivo se mueve a `~/Lecturas/_procesados`.
+
+Nunca edites nada bajo `memory/sources/`: el hook lo rechaza, y con razón. Si la
+lectura cambió, reescribe la página destilada.
+
 ## El brief nunca se improvisa
 
 El brief lo renderiza `scripts/brief.py` leyendo solo el repo, y lo dispara su rutina de las 07:00.

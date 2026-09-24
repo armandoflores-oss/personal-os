@@ -182,8 +182,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cadd1c89e24d4b4",
+  "active": "450c7dcde47708d9",
   "lastOpenFiles": [
+    "rules/contrato-fuentes.md",
     "context/bca-nota-pricing.md",
     "sources/2026-09-24-bca-nota-pricing.md",
     "context/transcripciones-juntas-llegan.md",
@@ -209,7 +210,6 @@
     "rules/zapata-correos-facturacion-cobranza.md",
     "rules/confirmaciones-asistencia-evento.md",
     "rules/items-notas-junta.md",
-    "rules/fragmentos-transcripcion-tareas.md",
     "Sin título.canvas"
   ]
 }

@@ -7,7 +7,7 @@ no_weave: true
 
 _Todas las reglas que Armando ha dado. Se aplican solas; están aquí para discutirlas. Generado por `scripts/weave.py`; no editar a mano._
 
-**20 cards**
+**21 cards**
 
 - [[avasa-monto-t-32|Corrige el monto de T-32, que quedó truncado por un error de captura: el pago de]]
 - [[borusan-ruido-clasificador|Borusan no es ruido: el clasificador suprimió 3 veces el hilo 'Borusan/Draiver']]
@@ -15,6 +15,7 @@ _Todas las reglas que Armando ha dado. Se aplican solas; están aquí para discu
 - [[confirmaciones-asistencia-evento|Las confirmaciones de asistencia a un evento no son accionables: no abrir tarea]]
 - [[confirmaciones-reserva-hotel|Confirmaciones de reserva (hotel, vuelo) son logística, no pendientes: no se con]]
 - [[contrato-enlazado|Contrato de enlazado de la memoria]]
+- [[contrato-fuentes|Contrato de captura de lectura externa]]
 - [[correo-pendiente-correo|Un correo solo es pendiente de Armando si el correo le pide explicitamente algo]]
 - [[correos-transaccionales-operacion|Los correos transaccionales de operacion que ejecuta su equipo no se dan de alta]]
 - [[correos-va-copiado|Los correos donde Armando solo va copiado y la ejecucion es de su equipo no son]]
