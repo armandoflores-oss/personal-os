@@ -3,4 +3,5 @@
 # (install gitleaks from a clean network and swap this line when possible).
 root="$(git rev-parse --show-toplevel)"
 python3 "$root/scripts/firewall_check.py" || exit 1
+python3 "$root/scripts/sources_immutable.py" || exit 1
 exec python3 "$root/scripts/hooks/secret_scan.py"

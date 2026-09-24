@@ -7,9 +7,10 @@ no_weave: true
 
 _Hechos durables que hay que tener presentes. Generado por `scripts/weave.py`; no editar a mano._
 
-**13 cards**
+**14 cards**
 
 - [[bca-grid-ftl-n03|En la grid de BCA FTL, N03 (AI Pricing Engine) no tiene NINGUNA fila HAVE: 2 ADA]]
+- [[bca-nota-pricing|nota-bca-pricing]]
 - [[brief-diario-09|Brief diario a las 09:00, no a las 07:00]]
 - [[brief-entrega-dm|El brief se entrega por DM de Slack]]
 - [[decision-permisos-rutinas|Decisión de permisos para rutinas desatendidas]]

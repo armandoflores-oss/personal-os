@@ -79,8 +79,16 @@ def exclusiones():
     return out
 
 
+# sources/ guarda material crudo INMUTABLE. El tejedor lo excluye: si lo
+# recorriera le inyectaría enlaces y bloques, que es exactamente lo que la
+# inmutabilidad prohíbe. La telaraña se teje sobre lo destilado, no sobre la
+# evidencia.
+NO_TEJER = {"sources"}
+
+
 def cards():
-    for d in sorted(p for p in MEM.iterdir() if p.is_dir() and not p.name.startswith(".")):
+    for d in sorted(p for p in MEM.iterdir()
+                    if p.is_dir() and not p.name.startswith(".") and p.name not in NO_TEJER):
         for f in sorted(d.glob("*.md")):
             if f.name != "CLAUDE.md":
                 yield f

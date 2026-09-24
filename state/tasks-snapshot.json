@@ -852,7 +852,13 @@
   "domain": "reuniones-espana",
   "due_date": null,
   "evidence": "Felipe y Tiago crean la base de conocimiento e integran Hubspot para tener todo listo antes del día 5.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "evidencia: Armando dice que no está hecha",
+    "ts": "2026-09-24T19:11:23+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "drive:1jrjHNr1WzIWiyCDVVwe6OaORgk6c_zlVV9lxBMdw65A",

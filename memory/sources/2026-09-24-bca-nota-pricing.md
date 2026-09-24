@@ -7,5 +7,3 @@ inmutable: true
 ---
 
 Apuntes sobre el motor de pricing de BCA y su comparacion con Penske. Uriel Vargas mando el analisis.
-
-línea agregada a mano

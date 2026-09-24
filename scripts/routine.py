@@ -125,6 +125,10 @@ def cmd_ingest_post():
     # card queda fuera de los índices y por lo tanto inalcanzable hasta el
     # siguiente tejido. El contrato es que cada escritura automática deja la
     # telaraña íntegra, no que alguien se acuerde de repararla.
+    # Vía 3: lo que Armando haya dejado en la carpeta vigilada entra ahora.
+    rs = py("capture_source.py", "scan")
+    if rs.stdout.strip():
+        out.append(rs.stdout.strip().splitlines()[-1])
     r = py("weave.py")
     out.append(r.stdout.strip().splitlines()[-1] if r.stdout.strip() else "tejido: sin cambios")
     commit("Ingesta automática")
