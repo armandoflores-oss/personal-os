@@ -7,7 +7,7 @@ no_weave: true
 
 _Todas las reglas que Armando ha dado. Se aplican solas; están aquí para discutirlas. Generado por `scripts/weave.py`; no editar a mano._
 
-**25 cards**
+**27 cards**
 
 - [[avasa-monto-t-32|Corrige el monto de T-32, que quedó truncado por un error de captura: el pago de]]
 - [[borusan-ruido-clasificador|Borusan no es ruido: el clasificador suprimió 3 veces el hilo 'Borusan/Draiver']]
@@ -18,6 +18,7 @@ _Todas las reglas que Armando ha dado. Se aplican solas; están aquí para discu
 - [[contrato-enlazado|Contrato de enlazado de la memoria]]
 - [[contrato-fuentes|Contrato de captura de lectura externa]]
 - [[correo-pendiente-correo|Un correo solo es pendiente de Armando si el correo le pide explicitamente algo]]
+- [[correo-pendiente-tuyo-pide|Un correo solo es pendiente tuyo si te pide algo a ti]]
 - [[correos-transaccionales-operacion|Los correos transaccionales de operacion que ejecuta su equipo no se dan de alta]]
 - [[correos-va-copiado|Los correos donde Armando solo va copiado y la ejecucion es de su equipo no son]]
 - [[diga-haga|Cuando le diga a Armando que NO haga algo y a la vez que SÍ haga una variante, s]]
@@ -27,6 +28,7 @@ _Todas las reglas que Armando ha dado. Se aplican solas; están aquí para discu
 - [[libro-propuestas|Libro de propuestas]]
 - [[mensajes-manda-fede|En mensajes que Armando manda a Fede o a liderazgo, no incluir el detalle de las]]
 - [[panel-llama-routines|El panel se llama Routines, no Scheduled]]
+- [[pase-semanal|Pase semanal]]
 - [[pedirle-aprobacion-cierre|No pedirle aprobacion en cada cierre de tarea: los comandos del Personal OS se c]]
 - [[priorizar-rankings-operativos|Priorizar rankings operativos por unidades solicitadas/recolectadas, no por entr]]
 - [[quiere-avance-frenarlo-aprobaciones|Armando quiere que avance sin frenarlo con aprobaciones. Los diálogos que ve vie]]

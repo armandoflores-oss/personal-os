@@ -37,7 +37,7 @@ SYNCS = constants.REPO_ROOT / "syncs"
 # reversible y no un borrón. El spec sugería ~15; con este tamaño de tablero
 # eso no sería un tope, sería permiso para vaciarlo.
 MAX_MUTACIONES = 6
-VENTANA_PROPUESTA_H = 96
+VENTANA_PROPUESTA_H = 72
 
 
 def hoy():

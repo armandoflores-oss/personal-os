@@ -399,6 +399,11 @@ def render(now, since):
                          f"\n  ↩︎ reábrela con `{c['code']} no`")
             for v in r.get("vetadas", []):
                 L.append(f"- **{v['code']}** propuesta retirada · {cap(v.get('motivo',''))}")
+        elif r.get("leg") == "semanal":
+            for a in r.get("ajustes", []):
+                L.append(f"- ⚙️ ajuste automático · `{a['constante']}` → {a['valor']} · {cap(a.get('por',''))}")
+            for x in r.get("rechazadas", []):
+                L.append(f"- ⚙️ ajuste rechazado · `{x.get('constante')}` · {x.get('por')}")
         elif r.get("leg") == "error":
             L.append(f"- ⚠️ {r.get('source')} falló · {cap(r.get('error',''))}")
     L.append("")
@@ -428,6 +433,23 @@ def render(now, since):
         if abiertas_fw:
             L.append(f"- {len(abiertas_fw)} propuesta(s) retenida(s) — dominio firewalled. "
                      f"No vencen: esperan a que tú las toques.")
+        L.append("")
+
+    # Mejoras estructurales: numeradas, en el brief, nunca en una carpeta.
+    try:
+        import json as _j
+        uf = constants.REPO_ROOT / "state" / "loop" / "upgrades.json"
+        reg = _j.loads(uf.read_text()) if uf.exists() else {}
+        abiertas_up = {k: v for k, v in (reg.get("abiertas") or {}).items()}
+    except Exception:
+        abiertas_up = {}
+    if abiertas_up:
+        L.append("## Mejoras al sistema que propongo")
+        L.append("_Estructurales: no se aplican solas. Una línea basta._")
+        for n, v in sorted(abiertas_up.items(), key=lambda kv: int(kv[0])):
+            L.append(f"- **{n}.** {cap(v.get('titulo',''))}"
+                     f"\n  {cap(v.get('por',''))}"
+                     f"\n  toca: {v.get('toca','')} · `aplica {n}` · `mejora {n} nunca`")
         L.append("")
 
     counts = noise_counts(now)

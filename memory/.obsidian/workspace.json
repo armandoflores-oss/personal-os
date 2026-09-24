@@ -182,8 +182,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "450c7dcde47708d9",
+  "active": "8cadd1c89e24d4b4",
   "lastOpenFiles": [
+    "rules/correo-pendiente-tuyo-pide.md",
     "rules/t-57-base-conocimiento-hubspot-dia.md",
     "rules/libro-propuestas.md",
     "rules/quiere-avance-frenarlo-aprobaciones.md",
@@ -209,7 +210,6 @@
     "rules/reportes-directos-nombre.md",
     "rules/priorizar-rankings-operativos.md",
     "rules/pedirle-aprobacion-cierre.md",
-    "rules/temas-operativos-resuelve.md",
     "Sin título.canvas"
   ]
 }

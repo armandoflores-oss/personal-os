@@ -117,8 +117,35 @@ def classify(code, rest):
         f"No entendí «{code} {' '.join(rest)}». Formas válidas: reply.py forms")
 
 
+def _mejoras(raw, actor):
+    """`aplica 2` y `mejora 2 nunca`: mejoras estructurales del pase semanal.
+
+    No llevan código T-/A-/P- porque no son tareas: son cambios al sistema que
+    esperan el visto bueno de Armando. Aceptarlas no las implementa — las marca
+    aceptadas para que la siguiente sesión las haga."""
+    import json as _j
+    from datetime import datetime, timezone
+    m = re.match(r"^(aplica|mejora)\s+(\d+)\s*(nunca|jamas|jamás)?\s*$", raw.lower())
+    if not m:
+        return False
+    n, veto = m.group(2), bool(m.group(3))
+    f = constants.REPO_ROOT / "state" / "loop" / "upgrades.json"
+    reg = _j.loads(f.read_text()) if f.exists() else {"siguiente": 1, "abiertas": {}}
+    if n not in (reg.get("abiertas") or {}):
+        raise SystemExit(f"no hay mejora abierta con el número {n}")
+    v = reg["abiertas"].pop(n)
+    v["resuelta"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    v["decision"] = "vetada" if veto else "aceptada"
+    reg.setdefault("cerradas", {})[n] = v
+    f.write_text(_j.dumps(reg, indent=1, ensure_ascii=False) + "\n")
+    print(f"mejora {n} {'vetada para siempre' if veto else 'aceptada: se implementa en la próxima sesión'}")
+    return True
+
+
 def cmd_parse(args):
     raw = args.text.strip()
+    if _mejoras(raw, args.actor):
+        return
     m = CODE_RE.match(raw)
     if not m:
         raise SystemExit(f"«{raw}» no empieza con un código T-/A-/P-.")
