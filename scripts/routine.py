@@ -143,6 +143,9 @@ def cmd_ingest_post():
 def cmd_brief_pre():
     heartbeat("start", "brief-personal-os")
     pull()
+    # Vencimientos y vetos ANTES de renderizar: el brief tiene que mostrar el
+    # estado de hoy, no el de anoche.
+    py("loop.py", "ledger")
     (REPO / "cache" / "calendar").mkdir(parents=True, exist_ok=True)
     (REPO / "cache" / "transcripts").mkdir(parents=True, exist_ok=True)
     print(json.dumps({"escribe_calendario_en": str(REPO / "cache" / "calendar"),

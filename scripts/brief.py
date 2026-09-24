@@ -393,6 +393,12 @@ def render(now, since):
                 if topes:
                     L.append(f"- _{len(topes)} cierre(s) no aplicados: se alcanzó el tope de "
                              f"{r.get('tope')} por noche._")
+        elif r.get("leg") == "propuestas":
+            for c in r.get("vencidas", []):
+                L.append(f"- **{c['code']}** cerrada al vencer su propuesta · {cap(c.get('evidencia',''))}"
+                         f"\n  ↩︎ reábrela con `{c['code']} no`")
+            for v in r.get("vetadas", []):
+                L.append(f"- **{v['code']}** propuesta retirada · {cap(v.get('motivo',''))}")
         elif r.get("leg") == "error":
             L.append(f"- ⚠️ {r.get('source')} falló · {cap(r.get('error',''))}")
     L.append("")
@@ -406,14 +412,22 @@ def render(now, since):
     except Exception:
         props = {}
     vivas = {k: v for k, v in props.items() if not v.get("vetada")}
-    if vivas:
+    # Lo firewalled se cuenta, no se nombra: ni código ni título ni fecha.
+    # Una propuesta retenida que muestre su título es la misma fuga que
+    # mostrar la card, solo que en otra sección.
+    abiertas_fw = [v for v in vivas.values() if v.get("firewalled")]
+    normales = [v for v in vivas.values() if not v.get("firewalled")]
+    if normales or abiertas_fw:
         L.append("## Propuestas")
-        L.append("_Si no dices nada, se aplican solas en la fecha indicada. Una sola palabra las mata._")
-        for v in list(vivas.values())[:8]:
-            marca = " · retenida (firewalled)" if v.get("firewalled") else ""
-            L.append(f"- **{v['code']}** {cap(v.get('titulo',''))}{marca}"
+        L.append("_Si no dices nada, se aplican solas en la fecha indicada. "
+                 "Cualquier cosa que hagas sobre el item la mata para siempre._")
+        for v in normales[:8]:
+            L.append(f"- **{v['code']}** {cap(v.get('titulo',''))}"
                      f"\n  vence {v.get('vence','')[:16].replace('T',' ')} · "
                      f"`{v['code']} va` la aplica ya · `{v['code']} nunca` la mata para siempre")
+        if abiertas_fw:
+            L.append(f"- {len(abiertas_fw)} propuesta(s) retenida(s) — dominio firewalled. "
+                     f"No vencen: esperan a que tú las toques.")
         L.append("")
 
     counts = noise_counts(now)

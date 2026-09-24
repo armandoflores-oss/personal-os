@@ -174,3 +174,12 @@
 {"actor": "system:limpieza", "kind": "set_status", "payload": {"evidence": "revertido: fue una prueba de los guardarraíles del loop", "status": "open"}, "task_id": "3414689d651a", "ts": "2026-09-24T19:49:45+00:00"}
 {"actor": "system:prueba-firewall", "kind": "create", "payload": {"code": "T-60", "domain": "fw-finanzas", "due_date": null, "title": "Revisar algo de finanzas personales"}, "task_id": "ec52174721aa", "ts": "2026-09-24T19:50:15+00:00"}
 {"actor": "system:limpieza", "kind": "archive", "payload": {"reason": "tarea de prueba del guardarraíl firewalled"}, "task_id": "ec52174721aa", "ts": "2026-09-24T19:50:16+00:00"}
+{"actor": "user", "kind": "set_status", "payload": {"evidence": "Armando dijo que está listo", "status": "done"}, "task_id": "828da750e63e", "ts": "2026-09-24T19:59:02+00:00"}
+{"actor": "user", "kind": "set_status", "payload": {"evidence": "Armando dijo que está listo", "status": "done"}, "task_id": "6e1775e23c03", "ts": "2026-09-24T19:59:06+00:00"}
+{"actor": "user", "kind": "set_owner", "payload": {"owner": "Felipe"}, "task_id": "6ec8e2f70a98", "ts": "2026-09-24T19:59:47+00:00"}
+{"actor": "system:prueba", "kind": "create", "payload": {"code": "T-61", "domain": "fw-familia", "due_date": null, "title": "Prueba firewalled que nunca vence"}, "task_id": "6736ad7499a5", "ts": "2026-09-24T20:00:21+00:00"}
+{"actor": "user", "kind": "add_note", "payload": {"note": "ojo con esta, sigue viva"}, "task_id": "3414689d651a", "ts": "2026-09-24T20:00:21+00:00"}
+{"actor": "system:loop:propuesta", "kind": "set_status", "payload": {"evidence": "propuesta vencida sin objeción · sin movimiento en dos semanas", "status": "done"}, "task_id": "207c6a5f5690", "ts": "2026-09-24T20:00:21+00:00"}
+{"actor": "system:limpieza", "kind": "set_status", "payload": {"evidence": "revertido: prueba del vencimiento de propuestas", "status": "open"}, "task_id": "207c6a5f5690", "ts": "2026-09-24T20:01:49+00:00"}
+{"actor": "system:limpieza", "kind": "add_note", "payload": {"note": "La nota anterior con actor=user fue una prueba del veto, no la escribió Armando."}, "task_id": "3414689d651a", "ts": "2026-09-24T20:01:49+00:00"}
+{"actor": "system:limpieza", "kind": "archive", "payload": {"reason": "tarea de prueba del ledger firewalled"}, "task_id": "6736ad7499a5", "ts": "2026-09-24T20:01:49+00:00"}

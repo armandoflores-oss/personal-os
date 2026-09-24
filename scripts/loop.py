@@ -122,6 +122,9 @@ def guardar_propuestas(d):
 
 
 def cmd_apply(args):
+    # Vetos y vencimientos primero: si Armando tocó algo, esa propuesta muere
+    # antes de que se evalúe nada nuevo sobre ella.
+    cmd_ledger(argparse.Namespace())
     ruta = pathlib.Path(args.decisiones)
     crudo = ruta.read_text()
     sello = hashlib.sha256(crudo.encode()).hexdigest()[:16]
@@ -169,6 +172,7 @@ def cmd_apply(args):
             if tid in props and props[tid].get("vetada"):
                 rechazadas.append({"code": t["code"], "por": "vetada para siempre"}); continue
             props[tid] = {"code": t["code"], "titulo": t["title"][:120],
+                          "creada": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
                           "evidencia": (d.get("evidencia") or "")[:200],
                           "vence": vence, "degradada": d.get("degradada"),
                           "firewalled": t["domain"] in constants.FIREWALLED_DOMAINS}
@@ -234,10 +238,72 @@ def cmd_grade(args):
     print(json.dumps(linea, ensure_ascii=False))
 
 
+# ----------------------------------------------------------------- LEDGER
+def cmd_ledger(args):
+    """Vetos y vencimientos. Corre antes del brief y dentro del loop.
+
+    Tres reglas, y las tres son del spec por una razón:
+    * Cualquier acción de Armando sobre el item ES un veto. No hay que
+      preguntarle; que se haya metido ya dice todo lo que hacía falta saber.
+    * El veto es permanente. La entrada se queda vetada para siempre, así que
+      eso no se le vuelve a proponer aunque la evidencia reaparezca.
+    * Lo firewalled NUNCA vence. Espera indefinidamente a que él lo toque.
+    """
+    props = cargar_propuestas()
+    if not props:
+        print(json.dumps({"propuestas": 0}, ensure_ascii=False)); return
+    eventos = read_events()
+    estado = replay()
+    ahora = datetime.datetime.now(datetime.timezone.utc)
+    vetadas, vencidas, esperando = [], [], []
+
+    for tid, p in props.items():
+        if p.get("vetada"):
+            continue
+        # ¿Armando tocó el item después de que se propuso? Eso es el veto.
+        suyos = [e for e in eventos if e["task_id"] == tid and e["actor"] == "user"
+                 and e["ts"] > p.get("creada", "")]
+        if suyos:
+            p["vetada"] = True
+            p["vetada_el"] = ahora.isoformat(timespec="seconds")
+            p["motivo"] = f"Armando actuó sobre el item ({suyos[-1]['kind']})"
+            vetadas.append({"code": p["code"], "motivo": p["motivo"]})
+            continue
+        if p.get("firewalled"):
+            esperando.append({"code": p["code"], "por": "firewalled: no vence nunca"})
+            continue
+        if p.get("vence") and ahora.isoformat(timespec="seconds") >= p["vence"]:
+            t = estado.get(tid)
+            if not t or t["status"] != "open" or t["archived"]:
+                p["vetada"] = True
+                p["motivo"] = "el item ya no estaba abierto al vencer"
+                continue
+            append_event({"kind": "set_status", "actor": "system:loop:propuesta",
+                          "task_id": tid,
+                          "payload": {"status": "done",
+                                      "evidence": f"propuesta vencida sin objeción · {p.get('evidencia','')[:200]}"}})
+            p["aplicada"] = ahora.isoformat(timespec="seconds")
+            p["vetada"] = True          # cerrada: no se vuelve a proponer
+            vencidas.append({"code": p["code"], "titulo": p.get("titulo", "")[:80],
+                             "evidencia": p.get("evidencia", "")[:200]})
+        else:
+            esperando.append({"code": p["code"], "vence": p.get("vence")})
+
+    guardar_propuestas(props)
+    recibo = {"ts": ahora.isoformat(timespec="seconds"), "fecha": hoy(), "leg": "propuestas",
+              "vetadas": vetadas, "vencidas": vencidas, "esperando": len(esperando)}
+    if vetadas or vencidas:
+        SYNCS.mkdir(exist_ok=True)
+        with open(SYNCS / f"{hoy()}.ndjson", "a", encoding="utf-8") as fh:
+            fh.write(json.dumps(recibo, ensure_ascii=False, sort_keys=True) + "\n")
+    print(json.dumps(recibo, ensure_ascii=False))
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = ap.add_subparsers(dest="cmd", required=True)
     sub.add_parser("prepare").set_defaults(fn=cmd_prepare)
+    sub.add_parser("ledger").set_defaults(fn=cmd_ledger)
     a = sub.add_parser("apply"); a.add_argument("--decisiones", required=True); a.set_defaults(fn=cmd_apply)
     g = sub.add_parser("grade"); g.add_argument("--fecha"); g.set_defaults(fn=cmd_grade)
     args = ap.parse_args(); args.fn(args)
