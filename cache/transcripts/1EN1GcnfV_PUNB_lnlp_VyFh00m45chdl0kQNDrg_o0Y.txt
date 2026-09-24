@@ -1,0 +1,33 @@
+Daily Huddle - Ops MX - 2026/09/24 09:29 CST - Notes by Gemini
+
+## Daily Huddle - Ops MX
+
+Sep 24, 2026
+
+Invited: Uriel Vargas, Cristian Arizmendi, Julia Diaz, Armando Flores, Diego Diaz, Camila Flores, Jose Duran, Gerardo Acosta (kavak.com)
+
+Quick notes summary: Query review and driver verification leading to system refresh and command center evaluation.
+
+## Tesla and command center operations
+- Discussed Tesla drivers and the command center.
+- Mentioned Eric Fernando and the formal legal convention.
+
+## Next steps
+No suggested next steps were found for this meeting.
+
+### Summary
+Query review and driver verification leading to system refresh and command center evaluation.
+
+**Query and Element Review**
+Review of queries and elements located below the minute element.
+
+**Driver Verification Check**
+Validation of drivers and review of system data associated with Tesla.
+
+**System Refresh Operations**
+Execution of system refresh and legal review alongside command center layout examination.
+
+### Details
+- **Query and Minute Element Review**: Jose Duran, Julia Diaz, Uriel Vargas, and Cristian Arizmendi review queries and elements, specifically discussing items located below the minute element.
+- **Driver Verification and Tesla System Check**: Diego Diaz, Julia Diaz, Jose Duran, and Camila Flores discuss validating drivers and reviewing system data associated with Tesla.
+- **System Refresh, Legal Review, and Command Center Operations**: Camila Flores, Julia Diaz, Jose Duran, Uriel Vargas, and Cristian Arizmendi discuss performing a system refresh, checking formal legal conventions involving Robson and Eric Fernando, reviewing Tesla details, and examining the command center building layout to ensure all elements are accounted for.
