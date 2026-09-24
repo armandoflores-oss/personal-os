@@ -14,6 +14,7 @@ import uuid
 from datetime import datetime, timezone
 
 from . import constants
+from .slugs import slug_corto
 
 
 def _now() -> str:
@@ -61,16 +62,31 @@ def append_feedback(kind: str, text: str, *, actor: str = "user", lesson: str = 
     return event
 
 
+def _entidades():
+    """Alias de entidades para nombrar cards. Se leen del tejedor para no
+    mantener dos listas que se separan con el tiempo."""
+    try:
+        import sys, pathlib as _pl
+        sys.path.insert(0, str(_pl.Path(__file__).resolve().parents[1]))
+        from weave import ENTIDADES, PERSONAS
+        return [(k, v[1]) for k, v in list(ENTIDADES.items()) + list(PERSONAS.items())]
+    except Exception:
+        return []
+
+
 def card_path(kind: str, title: str, domain: str = None) -> str:
     """Decide where a card lives. Firewalled domains are forced into privado/."""
     if domain and domain in constants.FIREWALLED_DOMAINS:
         # Absolute path into the private vault: never a repo-relative one, so
         # a firewalled card cannot land inside the tree by accident.
-        return str(constants.PRIVATE_VAULTS[domain] / f"{slugify(title)}.md")
+        return str(constants.PRIVATE_VAULTS[domain] / f"{slug_corto(title, _entidades())}.md")
     folder = constants.CARD_FOLDER.get(kind)
     if folder is None:
         raise ValueError(f"kind {kind!r} does not get a card")
-    return f"memory/{folder}/{slugify(title)}.md"
+    # Nombre corto y con la entidad al frente: el nombre del archivo es la
+    # etiqueta del nodo en el grafo de Obsidian, y una oración completa ahí
+    # hace que el grafo se lea como instrucciones en vez de como entidades.
+    return f"memory/{folder}/{slug_corto(title, _entidades())}.md"
 
 
 def write_card(rel_path: str, title: str, line: str, *, source: str) -> tuple[str, bool]:

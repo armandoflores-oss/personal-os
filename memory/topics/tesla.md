@@ -9,7 +9,7 @@ _Hub. Concentra la densidad de enlaces para que las cards sueltas se mantengan l
 
 ## Qué está pasando
 
-- [[t-44-tesla-forum-a-montes-urales-q3-2026-cerrada|T-44 (Tesla Forum a Montes Urales Q3 2026) cerrada.]]
+- [[t-44-tesla-forum-montes-urales|T-44 (Tesla Forum a Montes Urales Q3 2026) cerrada.]]
 
 ---
 [[home|← Mapa]]

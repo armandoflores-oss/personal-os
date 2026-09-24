@@ -7,7 +7,7 @@ creada: 2026-09-13
 
 _Ficha armada desde lo que ya dicen las cards. Cada línea enlaza a su fuente._
 
-- — El arranque del piloto [[centauro|Centauro]] (9 sep 2026) no salió bien según Dani; queda duda de si se cubrieron las expectativas. — [[el-arranque-del-piloto-centauro-9-sep-2026-no-salio-bien-seg]]
+- — El arranque del piloto [[centauro|Centauro]] (9 sep 2026) no salió bien según Dani; queda duda de si se cubrieron las expectativas. — [[centauro-arranque-piloto-9]]
 
 [[home]]
 

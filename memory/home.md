@@ -25,13 +25,13 @@ Dos dominios más existen y **no se mapean aquí a propósito**: finanzas person
 
 Estado de cada frente, con su código de tarea cuando lo tiene.
 
-- **T-4 · Penske EU** — [[t-4-penske-eu-armando-ya-reviso-las-caracteristicas-se-compr]] · [[armando-ya-tuvo-la-sesion-con-dan-rizzo-sobre-el-caso-penske]]
-- **T-9 · Carta responsiva (Turbofin)** — [[t-9-el-siguiente-paso-es-de-armando-dar-seguimiento-de-la-ca]] · [[juliana-confirmo-que-si-se-puede-usar-la-carta-responsiva-t-]] · [[armando-escribe-hoy-9-sep-2026-a-julianna-por-la-carta-respo]]
-- **T-22 · Shipper / carrier / peso** — [[t-22-quedo-en-manos-de-artur-el-le-contesta-a-paloma-como-ll]]
-- **T-23 · Element (Rides / Variable Fleet)** — [[t-23-element-el-paso-de-armando-es-entender-el-scope-que-qui]] · [[t-23-element-rides-variable-fleet-no-tiene-correo-pendiente-]]
-- **T-31 · Ford MX** — [[t-31-ford-mx-esta-esperando-el-analisis-de-uriel-armando-va-]]
-- **BCA · sesión del 17-sep** — [[fede-y-nico-piden-usar-penske-en-la-sesion-bca-del-17-sep-si]] · [[en-la-grid-de-bca-ftl-n03-ai-pricing-engine-no-tiene-ninguna]]
-- **Piloto Centauro** — [[el-arranque-del-piloto-centauro-9-sep-2026-no-salio-bien-seg]] · _sin dominio asignado todavía_
+- **T-4 · Penske EU** — [[t-4-penske-eu-reviso-caracteristicas]] · [[penske-sesion-dan-rizzo]]
+- **T-9 · Carta responsiva (Turbofin)** — [[t-9-turbofin-siguiente-paso-dar]] · [[carta-responsiva-juliana-confirmo-puede]] · [[carta-responsiva-escribe-9-sep]]
+- **T-22 · Shipper / carrier / peso** — [[t-22-manos-artur-contesta]]
+- **T-23 · Element (Rides / Variable Fleet)** — [[t-23-element-paso-entender-scope]] · [[t-23-element-rides-variable-fleet-2]]
+- **T-31 · Ford MX** — [[t-31-ford-mx-esperando-analisis]]
+- **BCA · sesión del 17-sep** — [[penske-fede-nico-piden]] · [[bca-grid-ftl-n03]]
+- **Piloto Centauro** — [[centauro-arranque-piloto-9]] · _sin dominio asignado todavía_
 
 ## Índices completos
 
@@ -56,29 +56,29 @@ Fichas armadas desde lo que ya dicen tus cards; cada línea enlaza a su fuente.
 Las reglas que me diste. Se aplican solas; están aquí para que puedas discutirlas.
 
 **Al redactar**
-- [[reportes-directos-solo-nombre-de-pila-en-drafts]]
-- [[cuando-le-diga-a-armando-que-no-haga-algo-y-a-la-vez-que-si-]]
+- [[reportes-directos-nombre]]
+- [[diga-haga]]
 
 **Qué es tarea y qué no**
-- [[confirmaciones-de-reserva-hotel-vuelo-son-logistica-no-pendi]]
-- [[las-confirmaciones-de-asistencia-a-un-evento-no-son-accionab]]
-- [[los-correos-de-facturacion-y-cobranza-zapata-logistics-y-sim]]
-- [[los-temas-operativos-que-resuelve-su-equipo-en-el-dia-a-dia-]]
-- [[fragmentos-de-transcripcion-no-son-tareas]]
-- [[items-de-notas-de-junta-llevan-los-accionables]]
-- [[corrige-el-monto-de-t-32-que-quedo-truncado-por-un-error-de-]]
+- [[confirmaciones-reserva-hotel]]
+- [[confirmaciones-asistencia-evento]]
+- [[zapata-correos-facturacion-cobranza]]
+- [[temas-operativos-resuelve]]
+- [[fragmentos-transcripcion-tareas]]
+- [[items-notas-junta]]
+- [[avasa-monto-t-32]]
 
 **El brief**
-- [[brief-maximo-dos-lineas-por-item]]
-- [[entrega-del-brief-diario-slack-y-claude-code]]
-- [[brief-diario-a-las-09-00-no-a-las-07-00]]
+- [[brief-maximo-lineas]]
+- [[entrega-brief-diario]]
+- [[brief-diario-09]]
 
 ## Contexto que hay que tener presente
 
-- [[clientes-de-resguardo-los-lleva-jose-duran]]
-- [[facturacion-la-maneja-marcelo]]
-- [[los-dos-dominios-de-correo-de-armando-son-un-solo-buzon]]
-- [[jornada-laboral-de-armando-08-30-19-00-cdmx]]
+- [[jose-duran-clientes-resguardo-lleva]]
+- [[zapata-facturacion-maneja-marcelo]]
+- [[dominios-correo-buzon]]
+- [[jornada-laboral-08]]
 
 ## El sistema por dentro
 
@@ -92,10 +92,10 @@ Cómo funciona lo que produce todo esto. Vive **fuera del vault**, en el repo, a
 - [Briefs pasados](file:///Users/armando/Documents/Claude%20Personal%20Improvement/briefs/)
 
 Decisiones del sistema que quedaron como memoria:
-- [[el-brief-se-entrega-por-dm-de-slack]]
-- [[decision-de-permisos-para-rutinas-desatendidas]]
-- [[transcripciones-de-juntas-llegan-por-drive-no-por-conector]]
-- [[el-panel-se-llama-routines-no-scheduled]]
+- [[brief-entrega-dm]]
+- [[decision-permisos-rutinas]]
+- [[transcripciones-juntas-llegan]]
+- [[panel-llama-routines]]
 
 ## Vocabulario
 

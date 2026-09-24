@@ -9,9 +9,9 @@ _Hub. Concentra la densidad de enlaces para que las cards sueltas se mantengan l
 
 ## Qué está pasando
 
-- [[armando-escribe-hoy-9-sep-2026-a-julianna-por-la-carta-respo|Armando escribe hoy (9 sep 2026) a Julianna por la carta responsiva.]]
-- [[juliana-confirmo-que-si-se-puede-usar-la-carta-responsiva-t-|Juliana confirmó que sí se puede usar la carta responsiva: T-9 deja de estar esp]]
-- [[t-9-el-siguiente-paso-es-de-armando-dar-seguimiento-de-la-ca|T-9: el siguiente paso es de Armando, dar seguimiento de la carta responsiva con]]
+- [[carta-responsiva-escribe-9-sep|Armando escribe hoy (9 sep 2026) a Julianna por la carta responsiva.]]
+- [[carta-responsiva-juliana-confirmo-puede|Juliana confirmó que sí se puede usar la carta responsiva: T-9 deja de estar esp]]
+- [[t-9-turbofin-siguiente-paso-dar|T-9: el siguiente paso es de Armando, dar seguimiento de la carta responsiva con]]
 
 ## Gente
 

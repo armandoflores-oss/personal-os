@@ -9,11 +9,11 @@ _Hub. Concentra la densidad de enlaces para que las cards sueltas se mantengan l
 
 ## Contexto
 
-- [[facturacion-la-maneja-marcelo|Facturación la maneja Marcelo]]
+- [[zapata-facturacion-maneja-marcelo|Facturación la maneja Marcelo]]
 
 ## Reglas que aplican
 
-- [[los-correos-de-facturacion-y-cobranza-zapata-logistics-y-sim|Los correos de facturación y cobranza (Zapata Logistics y similares) los ejecuta]]
+- [[zapata-correos-facturacion-cobranza|Los correos de facturación y cobranza (Zapata Logistics y similares) los ejecuta]]
 
 ## Gente
 

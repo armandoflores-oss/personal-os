@@ -9,13 +9,13 @@ _Hub. Concentra la densidad de enlaces para que las cards sueltas se mantengan l
 
 ## Qué está pasando
 
-- [[armando-ya-tuvo-la-sesion-con-dan-rizzo-sobre-el-caso-penske|Armando ya tuvo la sesión con Dan Rizzo sobre el caso Penske (antes del 13-sep-2]]
-- [[t-4-penske-eu-armando-ya-reviso-las-caracteristicas-se-compr|T-4 Penske EU: Armando ya revisó las características; se compromete a ejecutarlo]]
+- [[penske-sesion-dan-rizzo|Armando ya tuvo la sesión con Dan Rizzo sobre el caso Penske (antes del 13-sep-2]]
+- [[t-4-penske-eu-reviso-caracteristicas|T-4 Penske EU: Armando ya revisó las características; se compromete a ejecutarlo]]
 
 ## Contexto
 
-- [[en-la-grid-de-bca-ftl-n03-ai-pricing-engine-no-tiene-ninguna|En la grid de BCA FTL, N03 (AI Pricing Engine) no tiene NINGUNA fila HAVE: 2 ADA]]
-- [[fede-y-nico-piden-usar-penske-en-la-sesion-bca-del-17-sep-si|Fede y Nico piden 'usar Penske' en la sesión BCA del 17-sep. Significa el caso c]]
+- [[bca-grid-ftl-n03|En la grid de BCA FTL, N03 (AI Pricing Engine) no tiene NINGUNA fila HAVE: 2 ADA]]
+- [[penske-fede-nico-piden|Fede y Nico piden 'usar Penske' en la sesión BCA del 17-sep. Significa el caso c]]
 
 ## Gente
 

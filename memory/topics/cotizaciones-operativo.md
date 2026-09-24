@@ -8,10 +8,10 @@ _Cotizaciones, seguimientos con clientes y el día a día que sí te toca a ti._
 
 ## Lo que sabemos
 
-- [[t-9-el-siguiente-paso-es-de-armando-dar-seguimiento-de-la-ca]]
-- [[juliana-confirmo-que-si-se-puede-usar-la-carta-responsiva-t-]]
-- [[armando-escribe-hoy-9-sep-2026-a-julianna-por-la-carta-respo]]
-- [[clientes-de-resguardo-los-lleva-jose-duran]]
+- [[t-9-turbofin-siguiente-paso-dar]]
+- [[carta-responsiva-juliana-confirmo-puede]]
+- [[carta-responsiva-escribe-9-sep]]
+- [[jose-duran-clientes-resguardo-lleva]]
 
 ---
 [[home|← Mapa]]

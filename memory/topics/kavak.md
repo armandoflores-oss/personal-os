@@ -9,7 +9,7 @@ _Hub. Concentra la densidad de enlaces para que las cards sueltas se mantengan l
 
 ## Contexto
 
-- [[draiverdo-espana-estructura-y-modelo-operativo|DRAIVERDO España — estructura y modelo operativo]]
+- [[kavak-draiverdo-espana-estructura|DRAIVERDO España — estructura y modelo operativo]]
 
 ---
 [[home|← Mapa]]

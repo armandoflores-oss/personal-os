@@ -9,7 +9,7 @@ _Hub. Concentra la densidad de enlaces para que las cards sueltas se mantengan l
 
 ## Qué está pasando
 
-- [[t-9-el-siguiente-paso-es-de-armando-dar-seguimiento-de-la-ca|T-9: el siguiente paso es de Armando, dar seguimiento de la carta responsiva con]]
+- [[t-9-turbofin-siguiente-paso-dar|T-9: el siguiente paso es de Armando, dar seguimiento de la carta responsiva con]]
 
 ## Gente
 

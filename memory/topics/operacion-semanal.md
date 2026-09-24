@@ -8,8 +8,8 @@ _Revisiones semanales, desempeño del equipo, márgenes, juntas de comunicación
 
 ## Lo que sabemos
 
-- [[facturacion-la-maneja-marcelo]]
-- [[los-temas-operativos-que-resuelve-su-equipo-en-el-dia-a-dia-]]
+- [[zapata-facturacion-maneja-marcelo]]
+- [[temas-operativos-resuelve]]
 
 ---
 [[home|← Mapa]]

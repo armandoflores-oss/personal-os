@@ -11,10 +11,10 @@
             "id": "8cadd1c89e24d4b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -184,24 +184,32 @@
   },
   "active": "8cadd1c89e24d4b4",
   "lastOpenFiles": [
-    "context/draiverdo-espana-estructura-y-modelo-operativo.md",
-    "rules/en-mensajes-que-armando-manda-a-fede-o-a-liderazgo-no-inclui.md",
-    "topics/operacion-semanal.md",
-    "topics/pipeline-estrategico.md",
-    "topics/grandes-deals.md",
-    "topics/reuniones-espana.md",
-    "topics/operacion-kavak.md",
-    "topics/cotizaciones-operativo.md",
-    "people/daniel-escribano.md",
-    "people/uriel-vargas.md",
-    "people/carolina-osses.md",
-    "people/paloma-calderon.md",
-    "people/artur-morais.md",
-    "people/juliana-turbofin.md",
-    "people/dan-rizzo.md",
-    "people/nico-ariza.md",
-    "people/fede-ranero.md",
-    "people/marcelo-trevino.md",
-    "people/jose-duran.md"
+    "context/transcripciones-juntas-llegan.md",
+    "context/pagos-facturacion-ejecuta.md",
+    "context/temas-fiscales-constitucion.md",
+    "context/dominios-correo-buzon.md",
+    "context/jornada-laboral-08.md",
+    "context/penske-fede-nico-piden.md",
+    "context/zapata-facturacion-maneja-marcelo.md",
+    "context/bca-grid-ftl-n03.md",
+    "context/brief-entrega-dm.md",
+    "context/kavak-draiverdo-espana-estructura.md",
+    "context/decision-permisos-rutinas.md",
+    "context/jose-duran-clientes-resguardo-lleva.md",
+    "context/brief-diario-09.md",
+    "rules/correo-pendiente-correo.md",
+    "rules/reportes-directos-nombre.md",
+    "rules/priorizar-rankings-operativos.md",
+    "rules/pedirle-aprobacion-cierre.md",
+    "rules/temas-operativos-resuelve.md",
+    "rules/correos-transaccionales-operacion.md",
+    "rules/correos-va-copiado.md",
+    "rules/zapata-correos-facturacion-cobranza.md",
+    "rules/confirmaciones-asistencia-evento.md",
+    "rules/items-notas-junta.md",
+    "rules/fragmentos-transcripcion-tareas.md",
+    "rules/entrega-brief-diario.md",
+    "rules/mensajes-manda-fede.md",
+    "Sin título.canvas"
   ]
 }

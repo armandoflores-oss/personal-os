@@ -8,11 +8,11 @@ _Uber AV, [[bca|BCA]], [[penske|Penske]] y los que sigan._
 
 ## Lo que sabemos
 
-- [[fede-y-nico-piden-usar-penske-en-la-sesion-bca-del-17-sep-si]]
-- [[en-la-grid-de-bca-ftl-n03-ai-pricing-engine-no-tiene-ninguna]]
-- [[t-4-penske-eu-armando-ya-reviso-las-caracteristicas-se-compr]]
-- [[armando-ya-tuvo-la-sesion-con-dan-rizzo-sobre-el-caso-penske]]
-- [[t-22-quedo-en-manos-de-artur-el-le-contesta-a-paloma-como-ll]]
+- [[penske-fede-nico-piden]]
+- [[bca-grid-ftl-n03]]
+- [[t-4-penske-eu-reviso-caracteristicas]]
+- [[penske-sesion-dan-rizzo]]
+- [[t-22-manos-artur-contesta]]
 
 ---
 [[home|← Mapa]]

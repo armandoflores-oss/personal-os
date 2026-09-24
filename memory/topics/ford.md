@@ -9,8 +9,8 @@ _Hub. Concentra la densidad de enlaces para que las cards sueltas se mantengan l
 
 ## Qué está pasando
 
-- [[t-31-ford-mx-esta-esperando-el-analisis-de-uriel-armando-va-|T-31 Ford MX está esperando el análisis de Uriel; Armando va a revisar cómo va.]]
-- [[t-31-ford-mx-operation-2a-reasignada-a-kevin-tomo-el-lideraz|T-31 (Ford MX operation 2A) reasignada a Kevin: tomo el liderazgo y ya lo esta e]]
+- [[t-31-ford-mx-esperando-analisis|T-31 Ford MX está esperando el análisis de Uriel; Armando va a revisar cómo va.]]
+- [[t-31-ford-mx-operation-2a|T-31 (Ford MX operation 2A) reasignada a Kevin: tomo el liderazgo y ya lo esta e]]
 
 ## Gente
 
