@@ -7,7 +7,7 @@ no_weave: true
 
 _Todas las reglas que Armando ha dado. Se aplican solas; están aquí para discutirlas. Generado por `scripts/weave.py`; no editar a mano._
 
-**28 cards**
+**29 cards**
 
 - [[autorretiro-loop|Autorretiro del loop]]
 - [[avasa-monto-t-32|Corrige el monto de T-32, que quedó truncado por un error de captura: el pago de]]
@@ -28,6 +28,7 @@ _Todas las reglas que Armando ha dado. Se aplican solas; están aquí para discu
 - [[items-notas-junta|Items de notas de junta llevan los accionables]]
 - [[libro-propuestas|Libro de propuestas]]
 - [[mensajes-manda-fede|En mensajes que Armando manda a Fede o a liderazgo, no incluir el detalle de las]]
+- [[minimizar-dialogos-aprobacion-correr|Minimizar diálogos de aprobación: no correr comandos opcionales (p.ej. reply.py]]
 - [[panel-llama-routines|El panel se llama Routines, no Scheduled]]
 - [[pase-semanal|Pase semanal]]
 - [[pedirle-aprobacion-cierre|No pedirle aprobacion en cada cierre de tarea: los comandos del Personal OS se c]]

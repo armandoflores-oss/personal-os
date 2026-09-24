@@ -1917,6 +1917,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "f0960cc11322": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-62",
+  "counterparty": "turbofin",
+  "created": "2026-09-24T23:46:51+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Espero se encuentren muy bien, les comparto por este medio la copia firmada del NDA.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a0d5b6de731a27a",
+  "status": "open",
+  "task_id": "f0960cc11322",
+  "title": "Re: Draiver / Grupo Turbofin — Presentación comercial y siguientes pasos",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "f3be1b8affb6": {
   "action": "enviar",
   "applied": false,

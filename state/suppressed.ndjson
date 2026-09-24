@@ -865,3 +865,11 @@
 {"detail": "", "item_id": "1a0d526975159935", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Claim 1906 payment request - Zapata MX, trip 3786069.1, VIN WF06S5KF5TZD04959", "ts": "2026-09-24T21:46:42+00:00"}
 {"detail": "", "item_id": "1a0d51438ff162cb", "reason": "sin_compromiso", "source": "gmail", "subject": "Fwd: CONSTANCIA FISCAL AYVENS", "ts": "2026-09-24T21:46:42+00:00"}
 {"detail": "", "item_id": "1a0d50691fe24366", "reason": "sin_compromiso", "source": "gmail", "subject": "1 South Dearborn: Heather Duchi posted a new announcement", "ts": "2026-09-24T21:46:42+00:00"}
+{"detail": "^\\s*invitation:", "item_id": "1a0d5ba5b357c58f", "reason": "meta", "source": "gmail", "subject": "Invitation: Kavak - Fuel & Casetas Disputadas @ Mon Sep 28, 2026 2pm - 2:45pm (CST) (Armando Flores)", "ts": "2026-09-24T23:46:51+00:00"}
+{"detail": "^\\s*invitation:", "item_id": "1a0d5b5e733b7460", "reason": "meta", "source": "gmail", "subject": "Invitation: Check - Kavak @ Mon Sep 28, 2026 3pm - 4pm (CST) (Armando Flores)", "ts": "2026-09-24T23:46:51+00:00"}
+{"detail": "", "item_id": "1a0d5b02e55907fc", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: presentación", "ts": "2026-09-24T23:46:51+00:00"}
+{"detail": "", "item_id": "1a0d5aecc918bda9", "reason": "sin_compromiso", "source": "gmail", "subject": "Completed: Complete with Docusign: NDA DRAIVER.docx", "ts": "2026-09-24T23:46:51+00:00"}
+{"detail": "^\\s*invitation:", "item_id": "1a0d5a4761092ffe", "reason": "meta", "source": "gmail", "subject": "Invitation: Digital Platform @ Fri Sep 25, 2026 11:30am - 12pm (CST) (Armando Flores)", "ts": "2026-09-24T23:46:51+00:00"}
+{"detail": "\\by si\\b", "item_id": "1a0d59d264626534", "reason": "exploratorio", "source": "gmail", "subject": "Re: Draiver / Grupo Turbofin — Presentación comercial y siguientes pasos", "ts": "2026-09-24T23:46:51+00:00"}
+{"detail": "", "item_id": "1a0d59cf72d119cb", "reason": "sin_compromiso", "source": "gmail", "subject": "DAÑO PARABRISAS X350 VM031610", "ts": "2026-09-24T23:46:51+00:00"}
+{"detail": "", "item_id": "1a0d575015a14964", "reason": "sin_compromiso", "source": "gmail", "subject": "RE: TESLA - TLM - Larmex MTY Dispatch Q3 2026 Sept", "ts": "2026-09-24T23:46:51+00:00"}
