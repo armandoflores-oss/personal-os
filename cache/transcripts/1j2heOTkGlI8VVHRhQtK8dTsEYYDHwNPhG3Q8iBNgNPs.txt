@@ -1,8 +1,29 @@
-# Full notes — Sep 22, 2026
+# Quick notes
 
 ## Daily Huddle - Ops MX
 
-Invited: Uriel Vargas, Cristian Arizmendi, Julia Diaz, Armando Flores, Diego Diaz, Camila Flores, Jose Duran, Gerardo Acosta
+Sep 22, 2026
+
+Uriel Vargas (uriel.vargas@driverdo.com), Cristian Arizmendi (cristian.arizmendi@driverdo.com), Julia Diaz (julia.diaz@draiver.com), Armando Flores (armando.flores@draiver.com), Diego Diaz (diego.diaz@draiver.com), Camila Flores (camila.flores@draiver.com), Jose Duran (jose.duran@driverdo.com), Gerardo Acosta (gerardo.acosta@kavak.com)
+
+Driver comparisons reviewed with selection timelines and system configuration steps.
+
+## Driver configurations and dry runs
+
+- Diego discussed driver configurations and scheduled dry runs.
+- Cristian noted an October timeframe for driver updates.
+- Camila reviewed the master and child account configuration.
+- Julia outlined connector and junior driver components.
+
+## Next steps
+
+No suggested next steps were found for this meeting.
+
+# Full notes
+
+Sep 22, 2026
+
+## Daily Huddle - Ops MX
 
 ### Summary
 
@@ -16,17 +37,6 @@ Driver listings reviewed for October targets requiring background checks.
 
 **System Configuration Account Management**
 Configuration settings addressed for operational setup and account integration.
-
-### Quick notes
-
-- Diego discussed driver configurations and scheduled dry runs.
-- Cristian noted an October timeframe for driver updates.
-- Camila reviewed the master and child account configuration.
-- Julia outlined connector and junior driver components.
-
-### Next steps
-
-No suggested next steps were found for this meeting.
 
 ### Details
 

@@ -1,0 +1,42 @@
+# Quick notes
+
+## Daily Huddle - Ops MX
+
+Sep 23, 2026
+
+Uriel Vargas (uriel.vargas@driverdo.com), Cristian Arizmendi (cristian.arizmendi@driverdo.com), Julia Diaz (julia.diaz@draiver.com), Armando Flores (armando.flores@draiver.com), Diego Diaz (diego.diaz@draiver.com), Camila Flores (camila.flores@draiver.com), Jose Duran (jose.duran@driverdo.com), Gerardo Acosta (gerardo.acosta@kavak.com)
+
+Technical setup review with dry run analysis and plant visit coordination.
+
+## Driver logistics and dry runs
+
+- Discussed dry runs and driver logistics.
+
+## Next steps
+
+No suggested next steps were found for this meeting.
+
+# Full notes
+
+Sep 23, 2026
+
+## Daily Huddle - Ops MX
+
+### Summary
+
+Technical setup review with dry run analysis and plant visit coordination.
+
+**Meeting Setup and Wi Fi**
+Initial gathering covered technical aspects and Wi-Fi conditions.
+
+**Driver Conditions and Dry Run**
+Standing conditions and drivers were evaluated for the dry run.
+
+**Plant Visit and Operations**
+Tickets and operational mentions preceded plant visit coordination.
+
+### Details
+
+- **Meeting Opening and Setup**: Uriel Vargas, Jose Duran, Camila Flores, Julia Diaz, and Cristian Arizmendi gathered for the meeting, exchanged morning greetings, and touched upon technical aspects including Wi-Fi.
+- **Driver Conditions and Dry Run**: Cristian Arizmendi brought up standing conditions. Following this, Diego Diaz and Jose Duran discussed drivers and referenced a dry run.
+- **Plant Visit and Operational Mentions**: Jose Duran mentioned tickets, a minister, and Foreex. Concurrently, Camila Flores brought up seeing the plant.

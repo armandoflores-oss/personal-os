@@ -1,8 +1,30 @@
-# Full notes — Sep 21, 2026
+# Quick notes
 
 ## Daily Huddle - Ops MX
 
-Invited: Uriel Vargas, Cristian Arizmendi, Julia Diaz, Armando Flores, Diego Diaz, Camila Flores, Jose Duran, Gerardo Acosta
+Sep 21, 2026
+
+Uriel Vargas (uriel.vargas@driverdo.com), Cristian Arizmendi (cristian.arizmendi@driverdo.com), Julia Diaz (julia.diaz@draiver.com), Armando Flores (armando.flores@draiver.com), Diego Diaz (diego.diaz@draiver.com), Camila Flores (camila.flores@draiver.com), Jose Duran (jose.duran@driverdo.com), Gerardo Acosta (gerardo.acosta@kavak.com)
+
+Terminal review and financial evaluation with business driver standardization and roster verification.
+
+## Salesforce driver metrics
+
+- Discussed Salesforce driver metrics and request counts for operations in Mexico.
+
+## Personnel roster coordination
+
+- Reviewed participating team member names to accurately update internal operational records.
+
+## Next steps
+
+- [Diego Diaz] Record Video: Record the requested video content.
+
+# Full notes
+
+Sep 21, 2026
+
+## Daily Huddle - Ops MX
 
 ### Summary
 

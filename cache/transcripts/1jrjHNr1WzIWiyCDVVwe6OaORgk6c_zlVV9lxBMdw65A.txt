@@ -1,0 +1,319 @@
+# Las notas
+
+sept 23, 2026
+
+## Diaria Spain Launch
+
+Invitado: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
+
+### Resumen
+
+Preparativos con demostración para Hartman y planificación de soporte y extracción de datos operativos.
+
+**Preparativos y soporte**
+Demostración de rutas lista para Hartman. Agente de inteligencia artificial disponible el 5 de octubre.
+
+**Infraestructura y objetivos**
+Entrenamiento en Salesforce y alineación de objetivos trimestrales. Integración de sistemas en marcha.
+
+**Operaciones y datos**
+Plan de operaciones para Clicars y deca establecido. Extracción exitosa de datos operativos desde Salesforce.
+
+### Decisiones
+
+## Acordada
+
+- **Establecimiento de fecha para agente de IA en soporte** Se acordó establecer el 5 de octubre como fecha límite para tener disponible un agente de soporte de IA junto con su base de conocimientos e integración de Hubspot.
+- **Uso de instancia de Salesforce para la operación** Se determinó utilizar y entrenar a los agentes en la instancia existente de Salesforce para la operación en lugar de crear una nueva instancia al inicio.
+- **Alineación de responsabilidades y alcance operativo de Artur** Se acordó la estructuración de las áreas de responsabilidad de Artur para la operación en España, abarcando producto, infraestructura, servicio, ventas y reporting.
+
+### Próximos pasos
+
+- [Bruno] Crear lista de ubicaciones: Generar una lista de ubicaciones genéricas para realizar la demostración en vivo con Hartman. Asegurarse de que no incluyan menciones a Clicas ni a terceros.
+- [Dani] Enviar números Cloud Talk: Proporcionar los números reales de Cloud Talk para la configuración de la cuenta.
+- [Artur Morais] Extraer datos operativos: Preparar datos operativos preliminares de Clicas para la reunión de mañana. Utilizar Sales Force y la herramienta Cloud para extraer indicadores clave de rendimiento como tiempos y número de movimientos.
+- [Armando Flores] Alinear OKRs: Presentar a Paloma una propuesta de OKRs y responsabilidades detalladas para brindar visibilidad completa sobre la operación en España.
+- [Artur Morais] Definir fecha Deca: Obtener una fecha definida de inicio para el uso de Deca antes de que finalice el día de hoy.
+
+### Detalles
+
+- **Preparativos para la demostración de Hartman y Cloud Talk**: Artur Morais informa que todo está listo para la reunión con Hartman del día siguiente con el propósito de realizar la demostración del optimizador de rutas. Bruno creará una lista de ubicaciones genéricas que no mencionen a Clicas ni a terceros para ejecutar la demostración en vivo, y Artur Morais se encuentra a la espera de que Dani envíe los números reales de Cloud Talk para su creación (00:00:22).
+- **Planificación del soporte y agente de inteligencia artificial**: Artur Morais señala que, tras conversar con Tiago, Larisa y el resto del equipo, el plan contempla tener un agente disponible a partir del lunes 5 de octubre. Se prevé la contratación de un nuevo agente en España durante el mes de octubre, el cual inicialmente no cubrirá el 100 por ciento del tiempo en Wati, por lo que Artur Morais continuará cubriendo el turno de la mañana debido a las complicaciones del huso horario. Paralelamente, Felipe y Tiago están creando la base de conocimiento e integrando Hubspot para tener todo listo antes del día 5 (00:02:08).
+- **Instancia de Hubspot, Salesforce y pruebas con conductores**: Artur Morais aclara que inicialmente no se implementará una nueva instancia de Hubspot, pero sí será necesario entrenar al personal para manejar otra instancia de Salesforce y crear usuarios. Se replicará el proceso de Hubspot con la mesa de ayuda (Help Desk) utilizado en otros países para simplificar la operación en España. Asimismo, Artur Morais coordina con el desarrollador responsable para cerrar las últimas actualizaciones, con la expectativa de iniciar pruebas a principios de la próxima semana y sumar a otros conductores para que realicen viajes en driver hacia el viernes o lunes (00:03:37).
+- **Revisión de datos operativos y alineación de OKR**: Armando Flores plantea la conveniencia de extraer datos operativos reales como el tiempo de recogida (pickup time), el tiempo de conducción (driving time) y los tiempos entre centros (hubs) (00:03:37). Artur Morais prefiere dialogar primero con los clientes en la reunión del día siguiente para conocer sus comentarios y evaluar el funcionamiento de los viajes antes de extraer información detallada, aunque reconoce que ya se pueden rescatar datos preliminares. Adicionalmente, Armando Flores menciona la necesidad de alinear los objetivos y resultados clave (OKR) junto con Paloma (00:05:09).
+- **Propuesta de OKR y responsabilidades de producto**: Armando Flores detalla los componentes clave de la propuesta de producto para Paloma, los cuales abarcan: el producto listo para operar en España a escala, holders, el optimizador, la aplicación de conductores y de registro funcionando correctamente, la integración de deca, el seguimiento a APIs y notificaciones, y el sistema de facturación para clientes y conductores (00:06:28). Artur Morais confirma que estos puntos ya están planificados, mientras que Armando Flores añade que también se debe gestionar la recepción de peticiones específicas de producto (00:07:33).
+- **Infraestructura, servicios, ventas y reportes de operación**: Armando Flores estructura las áreas adicionales a cargo de Artur Morais, las cuales incluyen la infraestructura, el servicio y las ventas (telefonía de Cloud Talk, configuración de Hubspot y soporte al equipo comercial liderado por Dani) (00:07:33). También se contemplan el reporte y manejo de datos a través de Salesforce EU, el establecimiento de un punto de control de datos (MCP) con Kevin, el uso de Superset, y el seguimiento a la ejecución de pagos y facturación (00:08:47). Artur Morais expresa su preocupación por recibir solicitudes por diversos canales sin visibilidad completa, un aspecto que ya está aprendiendo a gestionar (00:10:50).
+- **Plan de operaciones para Clicars y Deca**: Artur Morais detalla el plan para el día siguiente, el cual consiste en registrar los estándares de los conductores, iniciar el 100 por ciento de las operaciones de Clicars y recopilar al menos una semana completa de rutas para compararlas con el optimizador de rutas junto a Bruno. Respecto a deca, Artur Morais espera obtener una respuesta sobre la fecha de implementación al finalizar el día (00:15:41).
+- **Extracción de datos operativos desde Salesforce**: Armando Flores demuestra cómo la herramienta Cloud extrae exitosamente datos operativos directamente de Salesforce mediante un navegador automatizado, obteniendo métricas de septiembre como unidades ejecutadas reales, cuentas de autónomos activos y entregas de Clicars (00:17:03). Artur Morais acuerda conversar con Cloud para entender cómo extraer información adicional específica y compartirla al final de la tarde (00:18:16).
+
+# Transcripción
+
+sept 23, 2026
+
+## Diaria Spain Launch - Transcripción
+
+### 00:00:22
+
+**Armando Flores:** Artur, ¿cómo estás?
+
+**Artur Morais:** Armando. dice que no vas a poder conectar que está en la meeting coná. Entonces, si quiera actualizar algún tema específico, algo, acabo de enviar
+
+**Armando Flores:** La de ¿Qué? Perdón. No te entendí. Perdón, Artur. En la meeting de ¿Quién?
+
+**Artur Morais:** que Dani está en la miting con el cliente ah con Nico Astara,
+
+**Armando Flores:** M. Ok. Ok.
+
+**Artur Morais:** entonces no vas a conectar. Entonces son solamente nosotros dos. Si quiera actualizar algún tema específico, algo así, ah, yo puedo ya traer algunos puntos. Acabo de enviar ahí en grupo de WhatsApp que está todo listo para reunión de Hartman mañana para hacer la demostración de de optimizador de jutas. Entonces, ya tenemos White Label. Bruno, vas a crear para nosotros una lista de ubicaciones como genéricas, ¿vale? Que no ha mencionado a Clicas ni nadie para que podamos hacerlo al vivo, en vivo con ellos,
+
+**Armando Flores:** Hm.
+
+**Artur Morais:** ¿vale? Y bien, ah, los números de Cloud Talk estoy aguardando a Dani enviar a los números reales que vamos a tener para crearlos.
+
+### 00:02:08
+
+**Artur Morais:** Eh, la parte de soporte y IA, ya hablé ayer con Tiago, Larisa, todo el resto del team y ya tenemos algunas fechas determinadas. El plan es que para lunes día 5 de octubre ya tengamos un agente ah disponible para nosotros, ¿vale? Y muy probablemente a lo del mes de octubre vamos a a a estar contractando un nuevo agente en España para que él pueda también estar ahí disponible. Entonces, probablemente en ese primer momento la gente no vas a cubrir 100% de tiempo en Wati, entonces debo también continuar ahí Yeah. y la parte de la mañana probablemente porque con el fuso acaba que la mañana en España es más es el horario más complicado, yo diría.
+
+**Armando Flores:** Mhm.
+
+**Artur Morais:** Vale, pero ya tenemos ahí un plan y una fecha para empezar. Eh, mientras Felipe ya está como creando la knowledge base para y Tiago también vas a hacer integración con Hubspot y todo para que hasta día 5 tengamos todo listo para arrancar de ahí.
+
+**Armando Flores:** Vamos,
+
+**Artur Morais:** Vale.
+
+**Armando Flores:** vamos a tener que hacer otra entidad de hotspot o vamos a trabajar sobre la misma.
+
+### 00:03:37
+
+**Artur Morais:** No, creo que la instancia de HSpot al principio creo que no.
+
+**Armando Flores:** Ok.
+
+**Artur Morais:** Sí. No, no lo había pensado en eso para ser sincero, pero creo que no. Pero sí vamos a tener que entrenar los agentes a manejar la otra instancia de Salos Force, crear usuarios ahí para ellos y sí. Ah, pero la idea es hacer el mismo proceso que ya tenemos con los otros países en HSPOT, con Health Desk y todo, ah,
+
+**Armando Flores:** Mhm.
+
+**Artur Morais:** sea más más sencillo posible adaptar y y añadir ahí la operación
+
+**Armando Flores:** Ok.
+
+**Artur Morais:** de España, ¿vale? la parte de también estoy hablando con el desarrollador de que está responsable proío para cerrarmos cuanto antes las las últimas actualizaciones. Espero que al principio de la semana que viene ya podemos empezar a a hacer pruebas y probablemente mañana complicarse van a querer ya añadir los otros conductores. Entonces creo que por viernes, lunes, por ahí ya vamos a tener todo su sus conductores haciendo viajes en driver.
+
+**Armando Flores:** Bien. Oye, te justo te iba a preguntar, e valdrá la pena sacar ya datos reales de la operación y pickup time, driving time, entre hobs, toda esa parte
+
+### 00:05:09
+
+**Artur Morais:** Sí, me gustaría primero hablar con ellos para entender si los conductores están de hecho haciendo todos los pasos, cuáles los feedbacks y comentarios relacionados a la operación hasta ahora y colectar
+
+**Armando Flores:** Mhm.
+
+**Artur Morais:** todo. Pero si creo que mínimamente ya podemos como sacar ahí informaciones que ya tenemos, pero no sé si si el zozo de viajes está funcionando como debería, ¿sabes? Entonces, me gustaría guardar mañana en la junta con ellos para para entender mejor esos temas, ¿vale?
+
+**Armando Flores:** Okay, voy a tratar de atender la junta de mañana. Este, pero son 6:30 de la mañana para mí, entonces va a estar,
+
+**Artur Morais:** No, no preocupes.
+
+**Armando Flores:** o sea, voy a voy a intentarlo porque me interesa mucho, o sea, creo que le has metido bastante a eso, a Artur y y si lo logras es muy un proyecto muy exitoso.
+
+**Artur Morais:** Vale,
+
+**Armando Flores:** Yo justo justo quería platicar contigo eh eh porque me pidió Fede que fuera alineando como OKRs y cosas por el estilo. Entonces, eh lo que yo quería era como alinear con Paloma, ¿no?
+
+**Artur Morais:** Sí.
+
+### 00:06:28
+
+**Armando Flores:** Este y pero también dar yo una propuesta porque al final Paloma tiene una ventana de visibilidad, yo creo que muy chica, de lo que tú haces, ¿no? Este, entonces te voy a te los voy a decir platicados ya después de que los discuta eh con el team te aviso bien, pero dame un segundo.
+
+**Artur Morais:** Vale.
+
+**Armando Flores:** O sea, uno es lo que tiene que llenar Paloma, que es el producto listo para operar en España a escala, ¿no? O sea, digámoslo como definición. viene lo de holders, el optimizador, el app de conductores que funcione bien, el app de registro, o sea, que funcione este todo el flujo, eh lo la parte deca, eh integraciones, o sea, que que o sea tú le des seguimiento con esa parte de integraciones, estés de ese lado lo de Eurotransport Car, por ejemplo, e o sea, creo que de seguimiento a las a los temas de APIs, el tema de las de las notificaciones y luego va lo facturación,
+
+**Artur Morais:** Sí,
+
+**Armando Flores:** ¿no? O sea, o sea, que funcione el sistema de facturación a clientes y conductores, ¿no?
+
+### 00:07:33
+
+**Armando Flores:** O sea, creo que esos son como los principales de producto, ¿no?
+
+**Artur Morais:** sí. Y hasta ahora creo que todos esos ya están como planeados,
+
+**Armando Flores:** Y sí,
+
+**Artur Morais:** No.
+
+**Armando Flores:** pero al final tú estás como probando, dando seguimiento y, o sea, y luego el otro es como todo el intake de las peticiones específicas de producto, ¿no? O sea, que oye, salió, que ahora hay que modificar la salida de esas cosas. Em, y luego hay otros cuatro puntos, eh, que es infraestructura y servicio y ventas, ¿no? O sea, la parte que estás haciendo telefonía, lo que estás haciendo de hotspot, este, o sea, como darle la estructura a ese equipo, porque yo creo que si a Dani le pones vendedores van a estar llamando y vas a cerrar uno y, o sea, como poner poner
+
+**Artur Morais:** Sí, sí, claro, sí. la parte sobre este tema, la parte de cloud talk, bueno, ya tenemos planeado, tenemos teléfono y todo, pero la parte de manejar leads y todo de hotspot, yo honestamente no tengo mucha exper,
+
+**Armando Flores:** No, eso lo vamos lo vamos a ir viend es muy intuitivo, o sea, yo creo que lo vamos a setear, pero sí que tengan las herramientas, que estén conectados, porque con eso los vamos a poder este manejar.
+
+### 00:08:47
+
+**Armando Flores:** Hm.
+
+**Artur Morais:** claro.
+
+**Armando Flores:** O sea,
+
+**Artur Morais:** No.
+
+**Armando Flores:** lo lo que yo creo que tú cumples un rol, eh, Arthur, que que creo que es clave es tú le das orden a la operación, hm, este, a la operación de de en general en España. Hm. O sea, Dani, yo creo que se va a aventar muy rápido y y yo creo que y va a estar vendiendo y va a estar cerrando y va a estar comerciando, va a estar en esas partes. Y yo creo que creo que es importante que tú pongas como los sistemas y estructuras, ¿no? Es así lo estoy poniendo, infraestructura y servicio y y ventas. eh reporting y datos, o sea, asegurarte que, o sea, digo, creo que lo sales force EU ya funciona, o sea, pero o sea, que esté, digamos, la data en manejada. Eh, dar seguimiento a que se establezca el MCP de datos después con este con Kevin o algo así. Yo ya pude conectar que Cloud me abra Sales Force y me reporte cosas. Okay.
+
+### 00:09:46
+
+**Armando Flores:** Pero pues no tenemos una ENCP, o sea, tienes que abrir en el navegador Sales Force y empieza a navegar y empieza a bajar todo, ¿no?
+
+**Artur Morais:** Vale.
+
+**Armando Flores:** E y superset, ¿no? O sea, es creo que esos son más bien dar seguimiento. H,
+
+**Artur Morais:** Sí, sí.
+
+**Armando Flores:** o sea, esto hay que hay que definir porque, o sea, alguien le tiene que dar seguimiento a la facturación y pagos en general, o sea, no nada más la forma, sino la ejecución. Eh, son varias cosas los que traes, Artur, ¿no? Entonces, yo creo que vas a necesitar área managers o vas a necesitar cosas, o sea, conforme vaya creciendo,
+
+**Artur Morais:** Sí, claro. No.
+
+**Armando Flores:** porque después están los pilotos técnicos con los clientes, o sea, lo que estás haciendo con Clickar es un piloto técnico muy crítico. Hm. Este, eh, probablemente cuando salga lo de Hartman que hay junta mañana. Este, y después de esto viene lo que eh e lo que estaba platicando Nico, que es el hardness. Hm.
+
+**Artur Morais:** Sí.
+
+### 00:10:50
+
+**Armando Flores:** Eso va a estar retador. Entonces, o sea, voy a mandar una propuesta, pero quería ver si te hace sentido lo que te estoy diciendo o Oh.
+
+**Artur Morais:** Sí, sí, creo que sí. Ah, para mí la parte más difícil hasta ahora era porque todos están tomando reuniones y manejando clientes de todo y las solicitaciones vienen de diferentes ah bueno, formas,
+
+**Armando Flores:** Sí.
+
+**Artur Morais:** ¿sabes? y para mí tener visibilidad de todo y todo, pero creo que ya estoy empezando a manejar, entender mejor el parte de Hatman ah de Hardness. Entonces creo que ahí todas las solicitaciones y todo que venga de otros clientes que yo no necesariamente voy a estar ahí presente voy a recibir por ello, creo.
+
+**Armando Flores:** Sí,
+
+**Artur Morais:** Entonces mi preocupación es solo esas hasta no sé,
+
+**Armando Flores:** sí, justo
+
+**Artur Morais:** pasa una semana estoy siendo cobrado por algo que no tenía visibilidad o no estaba ahí totalmente alineado, ¿sabes? Entonces,
+
+**Armando Flores:** justo lo Lo que yo quiero es que haya visibilidad de todo lo que estás haciendo, porque ayer me puse a enlistarlo y son muchas cosas, Artur, ¿no?
+
+### 00:12:00
+
+**Armando Flores:** Entonces, quizás Paloma ve una parte así, ¿no? Quizás Nico ve una parte así, quizás Fede ve una parte así, quizás eso, pero yo sí he visto todo, ¿no? Y y me parece que son bastantes cosas. Entonces, este, o sea, porque todo esto que estamos discutiendo no es algo que que sea una nueva asignación. Creo que estás trabajando todo lo que te estoy diciendo, ¿no? O sea,
+
+**Artur Morais:** Sí.
+
+**Armando Flores:** es nada más dar visibilidad de, oye, no nada más está Arthur ahí este haciendo un piloto de clicars, cab, no está viendo esto, está viendo tal, tal, tal, tal, tal, tal, ¿no? Entonces quería quería tenerlo ahí para que no haya este o para que no si te queremos subir más cosas, pues que sepamos hacia dónde, ¿no? Y que se vea la la cantidad de trabajo. Eso eso sería mi punto ahí este porque e pues sí necesitaríamos, o sea, le quiero dar visibilidad a Paloma de todo esto, este de manera ordenada, ¿no?
+
+**Artur Morais:** Perfecto. Gracias.
+
+**Armando Flores:** Este porque además si si Dani te está pidiendo cosas y ahora lo de los conductores y esas cosas, entonces quiero que todo tenga esa visibilidad, ¿va?
+
+### 00:13:00
+
+**Armando Flores:** Entonces, si crees que haya se me haya ido algo y demás, avísame, pero este sería ese punto, ¿no? Este
+
+**Artur Morais:** Bien, para mí me parece bien, obviamente que son muchas cosas, pero también al mismo tiempo no no necesariamente todas vas a a demandar una tarea directa que vas a tomar esfuerzo tiempo. Es más, como asignar las personas responsables por eso y estar como dependiendo un poquito
+
+**Armando Flores:** sí.
+
+**Artur Morais:** del trabajo de otros. Entonces, para tener visibilidad y saber que bueno, quién está haciendo qué qué tipo de informaciones o entregas estoy dependiendo para procedir cosas así, ¿sabes? Entonces y también obviamente que no a partir de mí como ya alineado con Paloma, la parte de qué ser priorizado, ¿no? pero también inputs de todo team comercial y operacional es muy importante para saber, bueno, ah, no vamos a logar de hacer todo para mañana, entonces, ¿qué vamos a priorizar ahí? ¿Qué es más importante? Pues así,
+
+**Armando Flores:** Sí.
+
+**Artur Morais:** principalmente sobre los desarrollos para clientes específicamente o adaptaciones o cosas.
+
+**Armando Flores:** Y lo que me gustaría es que después tú ya tomaras más bien estas, o sea, todas estas cosas que que te estoy diciendo que lo tomes y muestres como el estatus tú, ¿no?
+
+### 00:14:29
+
+**Armando Flores:** O sea, porque en realidad creo que es lo más crítico del negocio hoy, ¿no? O sea, está una parte crítica que es setear la parte de ventas, convertir a los clientes, tener estas reuniones, aproximaciones y todo, pero lo que tú estás haciendo es un habilitador pues bastante potente para el negocio. Entonces, lo que yo quiero es que tengas visibilidad sobre ese sobre ese lado,
+
+**Artur Morais:** Dale. Sí.
+
+**Armando Flores:** este, y lo iremos ajustando y lo que sea, ¿no? St. Eh, pero creo que creo que va por ahí. Va, pues sí, o sea, yo lo que te decía es si puedes llevar datos preliminares mañana para lo de Clickars, creo que sería lo ideal. O sea, con Cloud te puede generar algo muy rápido si lo jalas con con este con ay con Sales Force. Y si no,
+
+**Artur Morais:** Sí,
+
+**Armando Flores:** trato yo de mandarte algo hoy en la noche y veo si jala. Este, pero llevarles también. Oye, ¿cuál es el plan? Decir, oye, mañana eh decir, ya está esto, lo de Deca ya está funcionando, eh el optimizador ya lo tendríamos listo trabajando tal y tal fecha, este, o sea, que vean como ya un pipeline de implementación,
+
+### 00:15:41
+
+**Artur Morais:** Sí,
+
+**Armando Flores:** Hm.
+
+**Artur Morais:** mi plan es que probablemente mañana vamos a a a registrar los están de los conductores y vamos a empezar a a rodar con 100% de operaciones de cliccars y ahí el ideal sería como tener al menos una semana completa de ellos forneciendo las rutas de todo para que estaba hablando con
+
+**Armando Flores:** H.
+
+**Artur Morais:** Bruno para que podamos como probar los utilizador de rutas y hacer como versus lo que tienen para comparar y ver lo que estamos mejorando que podemos estar a ahí nuestro nuestra fejamenta, ¿sabes?
+
+**Armando Flores:** M.
+
+**Artur Morais:** Y ahí sí a planificar para empezar a rodar y usar como lateralmente, ¿vale? Entonces creo que ese es el plan y sobre deca hasta el final del día de hoy creo que voy a tener al menos una respuesta de fecha para que comenzamos a a a usarlo.
+
+**Armando Flores:** Va, tú listo, Artur. No.
+
+**Artur Morais:** Vale. y voy a ver que que puedo lograr acá de de data de operaciones de clicar hasta hoy, pero porque bueno, no tenemos super set todavía, entonces vas a hacer 100% de force.
+
+### 00:17:03
+
+**Artur Morais:** Vamos a medir ahí la cantidad de moves, los tiempos, no sé qué pensar que serían como indicadores relevantes porque no sé
+
+**Armando Flores:** Te iba a decir. Mm.
+
+**Artur Morais:** si vamos a a voy a ver qué qué es posible sacar de ahí.
+
+**Armando Flores:** Ajá. Si ya si ya usaste cloud con el MCP y al final las definiciones que están en Sales Force son las mismas.
+
+**Artur Morais:** Vale.
+
+**Armando Flores:** Entonces, y ahora que tienes pocos moves, o sea, puedes usar Sales Force todavía, ¿eh? O sea, porque lo lo corre muy rápido. O sea, si quieres te enseño rápido algunas cosas que saqué y y sí lo sacó. Mira, ver,
+
+**Artur Morais:** Y sí, comparta ahí que
+
+**Armando Flores:** mira, te enseño, o sea, es muy rápido lo que te enseño de lo que me logra sacar.
+
+**Artur Morais:** ya tengo la conexión con seos fuera de chat, pero confenso que ya usé solamente para comparar como pantallas
+
+**Armando Flores:** Mira,
+
+**Artur Morais:** y
+
+**Armando Flores:** o sea, me saca ya las unidades ejecutadas reales, ¿no? En septiembre, eh, la plataforma de conductores del cliente, cuentas con más de una unidad, este, autónomos activos con más de cinco unidades al mes, o sea, ya me da ya me da este ciertas cosas, ¿no?
+
+### 00:18:16
+
+**Armando Flores:** Hay aquí este entregas en septiembre de Clicks, o sea, sí me da datos ya. Esto es con sales force, o sea, yo no lo saqué, o sea, fue eh Cloud lo saca este directo con Sales Force, o sea,
+
+**Artur Morais:** Vale.
+
+**Armando Flores:** le di acceso a no le di acceso, lo que hace es que abre un navegador y empieza a, o sea, tú le das login y ya empieza a mover pantallas, baja, filtra y hace su magia ahí, No.
+
+**Artur Morais:** Dale. Ah, sí. Yo voy a a hablar con con Cloud. Normalmente siempre es también necesariamente tener al pronto, pero saber cómo hablar con él que me da qué más necesitas de informaciones y cómo pueda buscarlo.
+
+**Armando Flores:** Sí, es a mí me funciona bastante.
+
+**Artur Morais:** Entonces creo que que ir. Ah, voy a ver.
+
+**Armando Flores:** Es
+
+**Artur Morais:** Voy por ahora no tengo más reuniones por la final de tarde, entonces voy a a mirar eso y comparto algo para ti.
+
+**Armando Flores:** dale.
+
+**Artur Morais:** Si quieras como traer feedbacks o cosas así, podemos al final eso.
+
+**Armando Flores:** Vale, pues muchas gracias, Artur. Estamos en contacto.
+
+**Artur Morais:** Vale, hermano. Buen día.
+
+**Armando Flores:** Nos vemos.
+
+**Artur Morais:** Ok.
+
+### La transcripción finalizó después de 00:19:41
