@@ -4,3 +4,7 @@
 {"casi": [], "cerrados": [{"code": "T-58", "evidencia": "Fwd: Constancias de Situación Fiscal", "titulo": "RV: Constancias de Situación Fiscal", "tokens": ["constancias", "fiscal", "situacion"]}], "leg": "outbound", "revisados": 3, "ts": "2026-09-24T06:50:21+00:00"}
 {"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-09-24T06:50:24+00:00"}
 {"leg": "heartbeat", "stage": "start", "task": "brief-personal-os", "ts": "2026-09-24T07:08:33+00:00"}
+{"leg": "heartbeat", "stage": "end", "task": "brief-personal-os", "ts": "2026-09-24T07:16:51+00:00"}
+{"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-09-24T08:45:23+00:00"}
+{"creados": [], "leg": "inbound", "source": "gmail", "suprimidos": [{"detail": "^\\s*accepted:", "item_id": "1a0d229d53516cb0", "reason": "meta", "source": "gmail", "subject": "Accepted: Seguimiento Piloto Autosur x Draiver - Siguientes pasos @ Thu Sep 24, 2026 10:30am - 11am (CST) (Armando Flore", "ts": "2026-09-24T08:46:16+00:00"}], "tope_alcanzado": 0, "ts": "2026-09-24T08:46:16+00:00", "vistos": 1, "watermark": "2026-09-24T06:45:51Z", "ya_vistos": 0}
+{"casi": [], "cerrados": [], "leg": "outbound", "revisados": 2, "ts": "2026-09-24T08:46:16+00:00"}

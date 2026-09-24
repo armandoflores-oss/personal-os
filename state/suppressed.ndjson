@@ -811,3 +811,4 @@
 {"detail": "", "item_id": "1a0cf00c8cf58806", "reason": "sin_compromiso", "source": "gmail", "subject": "RE: COTIZACION", "ts": "2026-09-24T06:50:21+00:00"}
 {"detail": "", "item_id": "1a0cef48e68637a1", "reason": "sin_compromiso", "source": "gmail", "subject": "AW: Consulta de admisión curso 2027-28 — alumnos del Colegio Alemán de Ciudad de México", "ts": "2026-09-24T06:50:21+00:00"}
 {"detail": "", "item_id": "1THmfo6nOwTrGeducWc8svq6WibZUlDmpFpzq6WKl5bs", "reason": "sin_compromiso", "source": "drive", "subject": "Daily Huddle - Ops MX - 2026/09/23 09:15 CST - Notes by Gemini", "ts": "2026-09-24T06:50:21+00:00"}
+{"detail": "^\\s*accepted:", "item_id": "1a0d229d53516cb0", "reason": "meta", "source": "gmail", "subject": "Accepted: Seguimiento Piloto Autosur x Draiver - Siguientes pasos @ Thu Sep 24, 2026 10:30am - 11am (CST) (Armando Flore", "ts": "2026-09-24T08:46:16+00:00"}
