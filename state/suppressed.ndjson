@@ -817,3 +817,5 @@
 {"detail": "^\\s*invitation:", "item_id": "1a0d31686e764334", "reason": "meta", "source": "gmail", "subject": "Invitation: Casos de Soporte - Validación @ Fri Sep 25, 2026 8:30pm - 9:30pm (CST) (Armando Flores)", "ts": "2026-09-24T11:59:39+00:00"}
 {"detail": "", "item_id": "1a0d3151439582d6", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: [EXT]Re: Element / Draiver: Explorar \"Rides\" en Variable Fleet y negocio Element", "ts": "2026-09-24T11:59:39+00:00"}
 {"detail": "", "item_id": "1a0d313ef34fe022", "reason": "sin_compromiso", "source": "gmail", "subject": "[DriverDO LLC] Reminder: 2 requests are awaiting your decision", "ts": "2026-09-24T11:59:39+00:00"}
+{"detail": "^\\s*updated invitation:", "item_id": "1a0d37557a86c3d8", "reason": "meta", "source": "gmail", "subject": "Updated invitation: DrAIver & Clicars - Follow up @ Thu Sep 24, 2026 6:30am - 8am (CST) (armando.flores@driverdo.com)", "ts": "2026-09-24T13:48:10+00:00"}
+{"detail": "", "item_id": "1a0d34adad24c1bc", "reason": "sin_compromiso", "source": "gmail", "subject": "[Data]  Yesterday Trip Source Creation", "ts": "2026-09-24T13:48:10+00:00"}
