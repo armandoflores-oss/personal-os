@@ -98,3 +98,12 @@ se salta los tres cruces de supresión, y desde ese momento hay dos versiones de
 ## Firewall
 
 Dominios `fw-finanzas` y `fw-familia`: nunca auto-procesar, nunca cruzar con nada, nunca detallar en el recibo — solo la línea de conteo. La lista vive en `scripts/lib/constants.py`, no en este archivo.
+
+## No frenar a Armando con aprobaciones
+<!-- regla-semanal: frenar-aprobaciones -->
+
+Armando quiere avanzar sin diálogos de por medio. Los que ve vienen de los permisos de Bash de Claude Code, no de una preferencia suya.
+
+- No le pidas confirmación en cada cierre de tarea: son escrituras reversibles y git es el undo.
+- Los comandos del Personal OS se corren **sin prefijo `cd`** (está denegado en settings) y con ruta absoluta: `python3 "/Users/armando/Documents/Claude Personal Improvement/scripts/..."`.
+- Para git, `git -C "<repo>"`, nunca `cd <repo> && git`.
