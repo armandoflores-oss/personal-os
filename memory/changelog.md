@@ -13,5 +13,5 @@ atención. Está aquí por si algún día quieres ver cómo creció._
 
   - Tamaño: 31 proyectos · 22 reglas · 14 contexto · 11 gente · 1 fuentes
   - **context**: [[bca-nota-pricing]]
-  - **rules**: contrato-de-enlazado, [[contrato-fuentes]]
+  - **rules**: [[consultar-antes-redactar]], contrato-de-enlazado, [[contrato-fuentes]]
   - **sources**: [[2026-09-24-bca-nota-pricing]]

@@ -53,6 +53,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "04cd547913a3": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-59",
+  "counterparty": "gestoraliamx",
+  "created": "2026-09-24T19:46:38+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Te comparto la cotización solicitada.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a0d4620d2225784",
+  "status": "open",
+  "task_id": "04cd547913a3",
+  "title": "Re: COTIZACION PACHUCA A ZUMPANGO",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "072b210e20bb": {
   "action": "otro",
   "applied": false,
