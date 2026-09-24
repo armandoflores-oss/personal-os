@@ -262,11 +262,17 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "If so, could you please send it to me?",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "evidencia: Armando dijo que está listo",
+    "ts": "2026-09-24T23:39:43+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0b0e0b6947f724",
-  "status": "open",
+  "status": "done",
   "task_id": "1a09bb3d3506",
   "title": "Re: Fw: RESTABLECIMIENTOS",
   "vetoed": false,

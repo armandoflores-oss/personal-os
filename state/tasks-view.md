@@ -5,7 +5,6 @@
 ## Cotizaciones y pendientes operativos
 - **T-23** Re: [EXT]Re: Element / Draiver: Explorar "Rides" en Variable Fleet y negocio Element · esperando a Fernando Galán
 - **T-34** Re: REPSE and digital platforms · esperando a Juliana / Garrigues
-- **T-47** Re: Fw: RESTABLECIMIENTOS
 - **T-50** Re: Facturas pendientes de pago
 - **T-51** Re: MUSTANG | GRIS CARBONO | 1FA6P8CF6T5408892
 - **T-53** Re: RANGER | GRIS CARBONO | AFAHR6MB0VP148872

@@ -25,8 +25,11 @@ from lib.replay import replay  # noqa: E402
 
 CODE_RE = re.compile(r"^([TAP])-?(\d+)\b", re.I)
 
-DONE     = {"listo", "hecho", "ya", "done", "ok", "cerrada", "cierra", "✓"}
-NOT_DONE = {"no", "nel", "abierta", "reabre", "sigue", "falta", "todavia", "todavía"}
+DONE     = {"listo", "lista", "hecho", "hecha", "ya", "done", "ok", "cerrada", "cerrado",
+            "cierra", "cerrar", "ciérrala", "cierrala", "terminada", "terminado",
+            "resuelta", "resuelto", "✓"}
+NOT_DONE = {"no", "nel", "abierta", "abierto", "reabre", "reabrir", "sigue", "falta",
+            "todavia", "todavía"}
 DEFER    = {"pospon", "pospón", "empuja", "mueve", "para", "al", "a"}
 VETO     = {"nunca", "jamas", "jamás"}
 EXPLAIN  = {"que", "qué", "cual", "cuál", "porque", "porqué", "por"}
@@ -199,7 +202,7 @@ def cmd_parse(args):
 
 
 FORMS = [
-    ("1", "T-4 listo",          "hecho · ya · ok · cerrada",        "la cierra con evidencia"),
+    ("1", "T-4 listo",          "hecho · ya · ok · cerrado",        "la cierra con evidencia"),
     ("2", "T-4 no",             "sigue · falta · reabre",           "la reabre: corrige un cierre equivocado"),
     ("3", "T-4 viernes",        "mañana · 12 sep · +3d",            "la pospone a esa fecha"),
     ("4", "T-4 es de Laura",    "pásasela a Laura",                 "cambia el dueño"),
