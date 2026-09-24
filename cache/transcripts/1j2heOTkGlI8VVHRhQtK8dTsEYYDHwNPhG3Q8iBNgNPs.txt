@@ -1,32 +1,21 @@
-# Quick notes
-
-## Daily Huddle - Ops MX
+Daily Huddle - Ops MX - 2026/09/22 09:00 CST - Notes by Gemini
 
 Sep 22, 2026
 
-Uriel Vargas (uriel.vargas@driverdo.com), Cristian Arizmendi (cristian.arizmendi@driverdo.com), Julia Diaz (julia.diaz@draiver.com), Armando Flores (armando.flores@draiver.com), Diego Diaz (diego.diaz@draiver.com), Camila Flores (camila.flores@draiver.com), Jose Duran (jose.duran@driverdo.com), Gerardo Acosta (gerardo.acosta@kavak.com)
+Invited: Uriel Vargas, Cristian Arizmendi, Julia Diaz, Armando Flores, Diego Diaz, Camila Flores, Jose Duran, Gerardo Acosta (kavak)
 
-Driver comparisons reviewed with selection timelines and system configuration steps.
+Quick notes: Driver comparisons reviewed with selection timelines and system configuration steps.
 
 ## Driver configurations and dry runs
-
 - Diego discussed driver configurations and scheduled dry runs.
 - Cristian noted an October timeframe for driver updates.
 - Camila reviewed the master and child account configuration.
 - Julia outlined connector and junior driver components.
 
 ## Next steps
-
 No suggested next steps were found for this meeting.
 
-# Full notes
-
-Sep 22, 2026
-
-## Daily Huddle - Ops MX
-
 ### Summary
-
 Driver comparisons reviewed with selection timelines and system configuration steps.
 
 **Driver Comparisons And Dry Runs**
@@ -39,7 +28,6 @@ Driver listings reviewed for October targets requiring background checks.
 Configuration settings addressed for operational setup and account integration.
 
 ### Details
-
 - **Driver Comparisons and Dry Runs**: Uriel Vargas and Diego Diaz discussed dry runs and the comparison of various drivers, referencing Bian CC as part of the evaluation process. Julia Diaz acknowledged the updates and confirmed their agreement with the dry run schedule.
 - **Driver Selection and Background Checks**: Diego Diaz and Cristian Arizmendi reviewed specific driver listings, including Mauricio Christian Lima and Alfred driver, setting a target timeline for October. Camila Flores noted the necessity of background checks, and Jose Duran brought up a Wi-Fi standby status during their review.
 - **System Configuration and Account Management**: Jose Duran and Camila Flores addressed configuration and connection settings, specifically mentioning child accounts, master accounts, and Alumi integrations. Additional discussion involving Pablo Christiano, leaders, and Uriel Vargas covered control measures, connectors, junior drivers, and turbochet components to finalize their operational setup.

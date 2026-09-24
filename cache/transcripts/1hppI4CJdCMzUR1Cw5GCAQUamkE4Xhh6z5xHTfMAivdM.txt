@@ -1,14 +1,13 @@
-# Las notas
+Diaria Spain Launch - 2026/09/22 08:31 CST - Notes by Gemini
 
 sept 22, 2026
 
 ## Diaria Spain Launch
 
-Invitado: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
+Invitados: Daniel Escribano, Armando Flores, Artur Morais
 
 ### Resumen
-
-Migración telefónica con análisis competitivo y estrategia comercial
+Migración telefónica con análisis competitivo y estrategia comercial.
 
 **Migración y análisis competitivo**
 Cloud Talk reemplaza a Airco con integración estimada para octubre. Competencia de Rodit y Driver Flow evaluada por márgenes operativos y precios.
@@ -19,309 +18,26 @@ Estrategia comercial más agresiva propuesta frente a competidores. Flexicar se 
 **Incidencias y cuotas**
 Fallas en aplicación atribuidas a errores de usuario. Hunters con objetivo mínimo de 15 aperturas mensuales y comisiones vinculadas a rendimiento.
 
-### Decisiones
-
-## Acordada
-
-- **Migración de llamadas a Cloud Talk** Se acordó que las llamadas se realicen inicialmente por teléfono para luego migrar a Cloud Talk una vez completada la integración del sistema.
-- **Establecimiento de cuotas y comisiones para Hunters** Se fijó un objetivo mensual mínimo de 15 aperturas para los Hunters, con un esquema de comisiones escalonado sujeto al cumplimiento de transportes de los clientes.
-- **Contratación y promoción interna de Account Manager** Se determinó contratar al candidato como Hunter y promocionar posteriormente al mejor desempeño al puesto de Account Manager.
+### Decisiones (Acordadas)
+- **Migración de llamadas a Cloud Talk**: las llamadas se realizan inicialmente por teléfono para luego migrar a Cloud Talk una vez completada la integración.
+- **Establecimiento de cuotas y comisiones para Hunters**: objetivo mensual mínimo de 15 aperturas, con esquema de comisiones escalonado sujeto al cumplimiento de transportes de los clientes.
+- **Contratación y promoción interna de Account Manager**: contratar al candidato como Hunter y promocionar después al mejor desempeño a Account Manager.
 
 ### Próximos pasos
-
-- [Artur Morais] Probar registro aplicación: Ejecutar pruebas de registro dentro de la aplicación para validar el flujo de creación de cuentas.
-- [Artur Morais] Migrar registros: Dar de alta en el sistema a los usuarios registrados mediante Typeform y verificar su documentación.
-- [Daniel Escribano] Enviar resumen: Enviar a Armando un resumen informativo sobre la situación de la competencia y las aseguradoras.
-- [Daniel Escribano] Reunión comercial: Reunirse con Diego la próxima semana para profundizar en la información sobre el mercado y la competencia.
-- [Daniel Escribano] Reunión ex-colegas: Reunirse con ex-colaboradores el lunes para obtener actualizaciones sobre el estado del mercado.
+- [Artur Morais] Probar registro aplicación: ejecutar pruebas de registro dentro de la aplicación para validar el flujo de creación de cuentas.
+- [Artur Morais] Migrar registros: dar de alta en el sistema a los usuarios registrados mediante Typeform y verificar su documentación.
+- [Daniel Escribano] Enviar resumen: enviar a Armando un resumen sobre la situación de la competencia y las aseguradoras.
+- [Daniel Escribano] Reunión comercial: reunirse con Diego la próxima semana para profundizar en la información sobre el mercado y la competencia.
+- [Daniel Escribano] Reunión ex-colegas: reunirse con ex-colaboradores el lunes para obtener actualizaciones sobre el estado del mercado.
 
 ### Detalles
-
-- **Migración del sistema de telefonía a Cloud Talk**: Artur Morais informó que ya tienen acceso a Cloud Talk, reemplazando a Airco, y se encuentran guardando los números para realizar la portabilidad, la cual toma entre 10 y 12 días hábiles. Daniel Escribano acordó enviar la información requerida esta semana para completar la integración estimada entre la primera y segunda semana de octubre, probablemente durante la semana del 5 de octubre (00:00:10).
-- **Competencia en el mercado y precios de Rodit y Driver Flow**: Daniel Escribano compartió información obtenida de Diego, country manager de Driver Flow (una cooperativa de conductores), y de Nico sobre Rodit, indicando que Rodit ofrece transportes de 50 kilómetros por 30 euros con combustible incluido y que Driver Flow busca el beneficio de sus conductores (00:01:49). Daniel Escribano y Armando Flores analizaron que aunque la competencia podría estar inflando sus cifras, Driver Flow proyecta facturar entre 50,000 y 80,000 euros en su primer mes de operación al 100% (00:02:56) (00:05:04).
-- **Situación de los seguros y márgenes operativos**: Daniel Escribano señaló que la empresa de seguros Lagunaro trabaja con Draimy por un costo de 8.50 euros y también asegura a Rodit, mientras que Driver Flow utiliza otra póliza aún más económica que les permite operar con márgenes ajustados (00:01:49) (00:04:05). Daniel Escribano mencionó que prevé obtener más detalles sobre esto durante una comida programada con Diego para la semana siguiente (00:05:04).
-- **Estructura y expansión de las plataformas Floby y Otoki**: Daniel Escribano comentó sobre Otoki, la cual recibió una inversión millonaria desde Francia y contrató a Marta Voz Mediano, y sobre Floby, donde Enrique funge como country manager con funciones comerciales limitadas mientras las operaciones se dirigen desde Finlandia (00:06:04) (00:09:39). Daniel Escribano y Armando Flores evaluaron que estas estructuras deberían ser la competencia más preocupante, aunque los actores de precios bajos dominan el mercado actual (00:07:12).
-- **Integraciones tecnológicas rápidas de Driver Flow**: Daniel Escribano informó que Driver Flow logró integrar su sistema con Eurotransport Car en 24 horas y construir una plataforma similar a la de Draimy en una semana, con la intención de crecer rápidamente para ser adquiridos (00:10:47). Armando Flores y Daniel Escribano discutieron la viabilidad y sostenibilidad a largo plazo de estas prácticas agresivas en el mercado (00:07:12) (00:11:53).
-- **Estrategia comercial y necesidad de mayor agresividad**: Daniel Escribano expresó preocupación por quedarse atrás frente a competidores agresivos comercialmente y propuso que el equipo sea más directo y enfocado en vender con propuestas concretas en sus reuniones, en contraste con las posturas a más largo plazo defendidas internamente (00:14:41). Armando Flores cuestionó los recursos necesarios para dicha estrategia, mientras Daniel Escribano destacó la importancia de capitalizar las relaciones existentes (00:17:32).
-- **Estado de la apertura con el cliente Flexicar**: Daniel Escribano exigió que la relación con Flexicar se abra de inmediato debido a la buena conexión con sus directivos. Armando Flores aclaró que la apertura se había retrasado intencionalmente para asegurar que todo estuviera debidamente probado antes de incorporar clientes de gran escala (00:17:32).
-- **Incidencias técnicas en la aplicación de conductores**: Daniel Escribano expuso que algunos conductores enviaron fotos por WhatsApp porque la aplicación presentó fallas de uso en momentos de recogida. Artur Morais aclaró que la gran mayoría de los incidentes se debieron a errores de usuario (contraseñas incorrectas o falta de lectura de mensajes) y no a problemas del producto, añadiendo que se encargará de gestionar directamente los contactos para identificar futuras fallas (00:18:44).
-- **Cuotas e incentivos de rendimiento para los Hunters**: Daniel Escribano estableció un objetivo mínimo de 15 aperturas mensuales para los Hunters, con una meta ideal de 20 (una media de una por día) (00:22:36). Daniel Escribano detalló un esquema de comisiones donde el 50% del beneficio depende de que los clientes generen al menos 15 transportes en 90 días (5 mensuales), y el pago de comisiones varía entre el 50% (menos de 15 aperturas), el 100% (más de 15) y el 150% (más de 25). Armando Flores cuestionó si las metas podrían ser demasiado altas para el inicio, a lo que Daniel Escribano respondió basándose en su experiencia previa en Draimy (00:23:47) (00:26:50).
-- **Gestión de cuentas y automatización operativa**: Daniel Escribano indicó que asumirá la gestión inicial de las cuentas abiertas por los Hunters hasta demostrar que el sistema funciona y contratar a un account manager, tras el rechazo de un candidato previo (00:27:50). Artur Morais y Daniel Escribano enfatizaron la necesidad de automatizar las cuentas pequeñas para que los conductores suban sus transportes directamente a la aplicación sin saturar al equipo operativo (00:23:47) (00:28:49).
-
-# Transcripción
-
-sept 22, 2026
-
-## Diaria Spain Launch - Transcripción
-
-### 00:00:10
-
-**Armando Flores:** Artur,
-
-**Artur Morais:** Hola, Armando.
-
-**Armando Flores:** ¿cómo estás?
-
-**Artur Morais:** Vienes tú
-
-**Armando Flores:** Bien, bien.
-
-**Artur Morais:** como actualizaciones ya tengo acceso a Cloud Talk porque ahora no trabajamos más con Airco. Vale.
-
-**Armando Flores:** ¿Con quién entonces?
-
-**Artur Morais:** Cloud Talk.
-
-**Armando Flores:** Ah, ok.
-
-**Artur Morais:** Sí. Y ahí ahora solo estoy guardando los números que las chicas van a usar ah para que haga la portabilidad dentro de Cloud Talk para esos, pero se queda como 12, 10 a 12 días para hacerlo a el sistema de Cloud. No lo sé si vas a hacer antes o no, pero que dejado alineado con Dani es que empiezan ellas a hacer calls solo por teléfono y así que tengamos top integrado se se migran ahí.
-
-**Armando Flores:** ¿Cuándo sería tener ya Cloud Truck integrado.
-
-**Artur Morais:** Entonces, el sitio web me da como 12 12 business days
-
-**Armando Flores:** Ok.
-
-**Artur Morais:** para hacerlo. Entonces, se Dani me envía esta semana, creo que hasta la primera segunda semana de octubre ya tenemos todo porque día 1 de octubre es jueves, ¿cierto?
-
-### 00:01:49
-
-**Artur Morais:** Entonces, probablemente por la semana de cinco, creo.
-
-**Daniel Escribano:** Hola, chicos.
-
-**Artur Morais:** Dan
-
-**Armando Flores:** Hola, Dani.
-
-**Daniel Escribano:** ¿Cómo estáis?
-
-**Armando Flores:** Bien.
-
-**Daniel Escribano:** Armando, te acabo de poner en copia de un email a Lagunaro otra vez porque te pongo en Lagunaro es la empresa de seguros que le hace los seguros a Drimi por 8,50 con todas los beneficios que que teníais allí. Vamos, lo que os comenté. Eh, resulta que esta mañana me ha llamado el el country manager de de Driver Flow. es la compañía esta que te dije que es una cooperativa de conductores que han cogido a a uno que trabaja en Dray antes que que nosotros y bueno, pues es buen tío, es muy currante y es muy buen comercial, pero es un poco portera, entonces me ha contado un poco todo lo que ha hablado con todos y que querían comer conmigo, pues para estar también un poco al tanto de nosotros y que estemos todos alineados.
-
-### 00:02:56
-
-**Daniel Escribano:** Yeah. contra el monstruo de Draimy que está demasiado sentado, ¿no? Eh, básicamente me dice que Rodic, que se acaba de reunir Nico con ellos, justo cuando yo le estaba dando esta info, Nico iba camino a reunirse con ellos, eh, está tirando precios, hace transportes de 50 km por 30 € combustible incluido. Entonces, contra eso no podemos competir. Pero es que esto de drivers flow hacen lo mismo, pero hacen lo mismo porque es una cooperativa de conductores, entonces realmente no buscan ese beneficio, lo que buscan es un beneficio para los conductores.
-
-**Daniel Escribano:** Entonces este hombre que te digo, Diego, no es mal comercial, aunque es un poco correidile, ¿no? Es un poco así tal, pero es cierto que es muy buen comercial. Entonces ellos lo están enfocando mucho desde el lado comercial. Vale, yo creo que me han inflado los resultados porque Nico me está diciendo que hablando con el de Rodit, que digo, "Qué casualidad, él ha hablado con uno hoy y yo he hablado con otro hoy." Digo, "Pero qué casualidad que los dos han inflado una barbaridad los números, porque es lo que estoy diciendo a Nico. Si todos dicen lo que hacen,
-
-### 00:04:05
-
-**Daniel Escribano:** o sea, hacen lo que dicen, hay más coches en España que personas, ¿sabes? Porque entre Trainy, ellos tal cual, si todos hacen lo que lo que dicen, hay más coches que personas. Lo que sí está claro y es un feedback muy claro es que Lagunaro no solo le está haciendo seguros a Draimy, ¿vale? Que llevan dándome largas todo el verano, no solo están haciendo seguros a Dray y que tanto Rodit como Driver Flow tienen un seguro económico porque si no es imposible los márgenes con los que funcionan.
-
-**Armando Flores:** ¿de dónde sacan y ese seguro entonces es de este de lagunar o de dónde es.
-
-**Daniel Escribano:** El de Rodit me acaba de decir Nico, que es Lagunaro, que se lo ha confirmado el el de Rodit y el de lo diré y el de Drivers Flow me ha dicho que no es Lagunaro, que es un seguro que tiene que es más barato todavía que Lagunaro. Lo que pasa que no me ha dicho el nombre. Tampoco he querido ser yo muy agresivo en sacarle la información en la primera llamada.
-
-### 00:05:04
-
-**Daniel Escribano:** he quedado en comer con él la semana que viene y yo creo que como es un poco portera me lo va a contar, ¿eh? Pero lo que está claro que tenemos un déficit en cuanto al seguro y y en cuanto a precios. Si quieres, ahora te mando yo un poco, si quieres estar al tanto armando porque yo me he ido ajustando todo lo que me decía este hombre y y me he hecho un pequeño resumen de todo y se lo acabo de mandar a Nicola. Te mando a ti si quieres estar un poco tú al tanto también. Pero vamos, eh, me llega el de Driver Flow este y me dice que este mes van a facturar entre que acaban de empezar, o sea, acaban de arrancar ahora en verano haciendo pruebas y que desde septiembre están ya al 100% y que dice que este primer mes va a terminar facturando entre 50 y 80,000
-
-**Armando Flores:** Pues sí, es bastante, No.
-
-**Daniel Escribano:** lo que a ver lo que le pones lo que te estoy diciendo y me llega Nico y me dice también que si están haciendo no sé cuántos miles de movimiento.
-
-### 00:06:04
-
-**Daniel Escribano:** Le digo, "A ver, es que si me Draimy hace lo que creo que hace y lo que me dicen los compañeros de Draimy, que los excompañeros de Draimy que están haciendo, que por cierto el lunes como con ellos para que me pongan al día, eh, si Rod hace esto, si Driver Flow hace esto, si Enrique cuando me llamó el otro día hace lo que dice en Flobby y Otoki esa es la única de la que no tenemos información pura y dura, pero Sí, sabemos que la que han contratado, que es Marta Voz Mediano, es la que quería mi puesto en Draimi. Es decir, cuando yo me fui es la que postuló o la que estaba postulando para mi puesto en Draimi, que al final se ha se Autoki y que eh lo porque se se hizo más o menos a la vez el cambio que yo eh lo diré y que no ah que no tienen todavía un liderazgo claro, pero que están buscando country manager y un business, ¿vale? y que acaban de aprobar una inversión eh millonaria desde Francia para Ooki.
-
-### 00:07:12
-
-**Daniel Escribano:** Entonces, Otoki Flobi deberían de ser los la competencia un poco que más no pueda asustar por estructura y por capacidad, pero claro, mientras haya actores tipo Driverflow y tipo Rodic que estén regalando los precios de esa manera,
-
-**Armando Flores:** Pues también hay que ver si es sostenible para ellos, Dani.
-
-**Daniel Escribano:** hemos dicho exactamente lo mismo esta mañana con el de el que me llaman, con Diego. que creemos que en un o dos años va a desaparecer alguno, o sea, en menos de un año alguno va a desaparecer porque no es rentable.
-
-**Armando Flores:** a ver, aquí en México hay una plataforma que se llama InDrive, que llegó a a competir con Ubero, ¿no? y fue si sacó a Cabify aquí ese tipo de prácticas, pero o sea, si hay que entender cómo cómo lo están
-
-**Daniel Escribano:** Indri es la número uno en Colombia, porque yo cuando ido a Colombia tenía el negocio allí, todo me movía con Indrive, más casi más que con Uber.
-
-**Armando Flores:** Sí, ahora también es más peligroso, o sea, es este, o sea, tiene ahí sus desventajas, pero también batallan por precio.
-
-### 00:08:21
-
-**Armando Flores:** Hm. Entonces, este, pues veamos. O sea, digo, ya ahora sí que tienes una competencia decente en el en el sector, Dani.
-
-**Daniel Escribano:** Sí, lo que me preocupa, ya te digo, es sobre todo el seguro,
-
-**Armando Flores:** sí, lo del seguro sí sigue siendo un
-
-**Daniel Escribano:** los porque Pero bueno, eh, este hombre Diego está muy alineado también conmigo porque es de mi mentalidad de los que piensan que no queremos transportes de corto recorrido porque no es rentable, queremos los de largo recorrido. ¿Sabes? El problema es que las compañías que te dan volumen te dan volumen para el pequeño recorrido, no te suelen dar volumen para el largo recorrido,
-
-**Armando Flores:** Exacto. O sea, ese es ese es el
-
-**Artur Morais:** Hasta porque probablemente el volumen de corto es hay más no proporcionalmente se hace más cortos
-
-**Daniel Escribano:** sí, seguramente haya más. Sí. E lo que sí también me han dado feedback como bueno, ya lo sabíamos un poco Nico y yo porque Nico habló con Elia de Floby y yo hablé varias veces con Enrique, pero también está un poco confirmado que Enrique es con Manager, pero no tiene mucha mano en Floby.
-
-### 00:09:39
-
-**Daniel Escribano:** El que Enrique está más o menos, para que te hagas una idea, haciendo más o menos lo que hace Gerardo y lo que hago yo entre medias ahí un poco, ¿sabes? Porque lo que está haciendo Enrique es un poco abrir puertas. Luego acaban de contratar a un a un director comercial que viene de Autobiz, pero que no vale nada porque el country manager de Autobit me intentó contratar a mí, que es el que dije Nacho Caro el otro día aquí de Caetano, que está un poco enfadado conmigo porque en un principio le dije que sí, luego que no y era precisamente para sustituir a este tío que era un cero a la izquierda. me lo dijo así de claro. Entonces, no preocupa porque no me parece un buen comercial, pero sí quieren utilizar la estructura española más puramente comercial porque operaciones lo llevan desde Finlandia. Es decir, Enrique y este tal Brce se dedican a hacer la labor comercial aquí en España y las operaciones las llevan en Finlandia, que es de donde es Floby. Y el que realmente tiene voz y voto es el director de operaciones de Todos Floby que está en Finlandia, aparte de Lian.
-
-### 00:10:47
-
-**Armando Flores:** Y, o sea, aquí mi duda es estos están tocando gente como o proyectos como lo que estábamos viendo, este, ¿cómo te diré? haciendo alianzas con Eurotransport Car, con Hartman, con BCA, con gente así.
-
-**Daniel Escribano:** Sí, con todos están todos están con Eurotransport Car. De hecho, os voy a contar otra nueva. El de el de Drivers Flow, que es el que te digo que que está con la cooperativa esta de conductores. Vamos, es una cooperativa, son dos conductores que se lo han montado por su cuenta y han cogido a este hombre a Diego para que se asocie con ellos y hacerlo juntos. ¿Vale? Eh, pues este a su vez tiene un amigo informático que le ha hecho la integración con Neurotransportcar en 24 horas. Me ha presumido de eso, mientras que nosotros llevamos llevamos un mes, ¿vale? Él ha presumido de eso y ha presumido de que eh le ha construido una plataforma como la de Dami en una semana. Eso es lo que me ha dicho.
-
-### 00:11:53
-
-**Daniel Escribano:** Y también te digo que su idea, porque me lo ha dicho así de claro, que él cuando le ha hablado con los dos conductores estos, con lo que lo ha con los que lo ha creado, eh, que su idea es crecer lo máximo posible rápido para que lleguemos nosotros y se la compremos nosotros o el que sea, pero que sabe que nosotros somos compradores. Básicamente, vamos, me lo ha dicho así de claro, ¿eh?
-
-**Armando Flores:** Eso ya lo saben
-
-**Daniel Escribano:** más o menos le hecho un pequeño resumen, pero esto no, tal y como te lo estoy diciendo a ti, ¿no? Porque él como estaba reunido con el de Rodit, no he podido hablar con él. De hecho, cuando se lo estaba medio empezando a contar, eh, nos lo estábamos empezando a contar por audos y por mensajes, estamos alineados un poco en esta mentalidad. No es mala idea tener cerca al Diego este y al de Rodit porque no creemos que todo salga bien, pero sí es cierto que si tienen el volumen que tienen o aunque tengan solamente el 50% del volumen que tienen o que esperan tener, no es malo tenerles cerca por si acaso, porque a lo mejor nos compensa incluso decirle, "Oye, deja estos dos conductores que están ahí y y vente con nosotros, anda.
-
-### 00:13:14
-
-**Daniel Escribano:** yo te voy a ser lo más sincero y claro posible como comerciales y que puedan llegar llevar todo el negocio global en en que sean buenos comerciales y aparte sepan llevar operaciones. No es por tirarme ninguna flor, pero creo que no va a haber nadie que el tal Diego esté y yo en el mercado. ¿Qué decir? Que es un mercado muy reducido en el que nada más que en el que nada más que tienes a Marta Voz Mediano que para mí no vale, eh, se cargó High Flow, se cargó el departamento comercial de High Flow. Dry no la quiso por lo mismo porque se se cargó la parte todo la parte comercial de High Flow. Tienes al chico este, al Rafa del Rod, que es con el que se ha reunido Nico, que viene de también de High Flow. que se lo han cargado y se la han tenido que montar por su cuenta porque nadie les contrataba. Eh, que puedan llevar, ¿sabes? que merezca la el Diego este. Lo malo que tiene es que es muy correidile, lo que te digo, es como muy portera y es muy sin sin que se me malinprete, es un poco chabacano, quiero decir a veces hablando y un poco así corbeidile, muy portera, pero es cierto que es un comercial, como la copa de un pino, es muy buen comercial y tiene muy buenos contactos porque lleva eh empezó en driver, o sea, en driver, en Dimy, perdón,
-
-### 00:14:41
-
-**Armando Flores:** Sí, ese no lo ubico. Ah.
-
-**Daniel Escribano:** no empezó en Dimy. lleva mucho tiempo de contactos también y en el sector y te y te podría incluir también a Nacho, el de BCA, que es el que con el que trabajábamos Gerardo y yo. No. Lo que pasa que es un perfil muy diego, como te digo, es un perfil un poco más coloquial y un poquito más portera y corredirile, pero así resumido está el sector. Ahora mismo estamos nosotros somos los que más estamos tardando en arrancar, pero los que creo que posiblemente tengamos una una estructura más de medio largo plazo. Entonces, yo creo que mañana, a ver, con Nico, que que estoy con Nico y con Gerardo que tenemos la reunión esta, yo creo que tenemos que ser más agresivos comercialmente. Yo me parece bien las reuniones de CEO y de quedar bien y de nos tomamos un café, pero creo que tenemos que empezar a ser más agresivos comercialmente,
-
-**Armando Flores:** ¿A qué te refieres con más agresivos.
-
-**Daniel Escribano:** vender, o tener propuestas concretas y empezar a vender, porque me da miedo quedarnos atrás con la competencia.
-
-### 00:16:03
-
-**Daniel Escribano:** Repito, creo que nuestras propuestas van a ser más de medio y largo plazo que las de estas compañías, ¿vale? También lo creo, pero sí creo que estas pequeñas compañías las está cogiendo gente que cuando aquí para hacer crecer una empresa de esa de esta manera tienes que hacerla enfocar desde la parte comercial. Las operaciones ya se gestionan con buena gente y ya está, pero la clave está en la parte comercial y esta gente es muy agresiva comercialmente o van a precio o van a, ¿sabes? Entonces han pegado antes que nosotros. Ahora nos tienen miedo porque nos están llamando. Si no, a mí no me llaman por teléfono hoy para preguntarme qué tal me va el día. O sea, está claro qué ruido hemos hecho y que seguramente ellos estén marcando un farol, que Nico piensa como yo. de lo que nos están contando, el 50% sí llega, pero no sé, Nico es de muy también de sus ideas fijas y y tiene, o sea, y y da resultado, está, o sea, y a medio largo plazo creo que va a dar resultado, pero con la entrada del Al Hunter y está bien que Gerardo abra la puerta, pero que que me deje pegar la estocada.
-
-### 00:17:32
-
-**Daniel Escribano:** Me da miedo quedarnos atrás.
-
-**Armando Flores:** ¿Qué necesitarías?
-
-**Daniel Escribano:** Puede ser más directo.
-
-**Armando Flores:** Por ejemplo, ahora con, no sé, clicas, o sea, ¿qué qué necesitaríamos para esto?
-
-**Daniel Escribano:** Clicar. Ya está, ya está gestionado. Clicar. Ya lo tiene hecho. con Alejandro desde el principio y gracias a ese acuerdo les está obligando a los chicos a trabajar con nosotros cuando mejor ellos ni quieren. O sea, esa parte y con Palo y eso ya está cerrado, ¿no? Lo que me preocupa es lo que tengamos que abrir, es decir, flexicar. Flexicar tendría que estar flexicar tendría que estar abierto ya. Si de verdad tienen tan buena relación con tenemos tan buena relación con los directivos de Flexicar, Flexicar ya tendría que estar abierto.
-
-**Armando Flores:** Pero no hay una reunión esta semana con ellos.
-
-**Daniel Escribano:** Sí, sí, sí. la semana que viene.
-
-**Armando Flores:** Ahora no, no es que no hayamos podido abrirlo, es que no queríamos abrir los clientes antes de tener todo probado, ¿no?
-
-**Daniel Escribano:** Sí, sí, sí, sí, sí. Posiblemente sea esa parte, pero por eso digo que ahora es el momento que tenemos que ir a pegar estocadas.
-
-### 00:18:44
-
-**Armando Flores:** Pues vamos, o sea, a mí te digo que me preocupa, o sea, terminar de de que que ya tengamos bien, digamos, aquí planchado la parte de que funcione la parte de los conductores, que esté llegando eso, o sea, eso me preocupa si agarramos un cliente de escala, ¿no?
-
-**Daniel Escribano:** A mí a mí también me preocupa. De hecho, la conversación que he tenido esta mañana con Arthur un poco, ¿verdad, Arthur? Había conductores que me han tenido que mandar fotos por WhatsApp porque la aplicación no les funcionaba en el momento de la recogida.
-
-**Artur Morais:** Al final, al final del día, el mismo conductor logró de hacer todo el viaje. Yo lo creo que hay una una ventana ahí sobre cómo están habituados a hacerlo y no lo conocen en la aplicación también, no lo saben cómo hacerlo y ahí todo se queda más grande que de hecho es, ¿vale? Porque por ejemplo todos los situaciones de conductores que no estaban logrando de hacer login no era un problema de producto.
-
-### 00:19:46
-
-**Artur Morais:** La gran mayoría es un problema de conductor no lee las mensajes, no sabes cómo logar y se queda ahí mandando mensajes,
-
-**Armando Flores:** O sea, ya está ya estás encontrando causas raíz, Artur.
-
-**Artur Morais:** Sí. La gran mayoría cuando intenta una contraseña equivocada o no lee siempre todo que está enviado, intenta un correo distinto que logró de de hacerlo registro.
-
-**Armando Flores:** Pero tienes tienes identificado algún caso concreto de producto este o no.
-
-**Artur Morais:** Eh, la única cosa es que uno que había como un error de conexión y pero después cuando probé a mí mismo en la aplicación de driver y hacer el ascender a la aplicación con sus credenciales, yo yo puedo puedo hacerlo. Entonces, no es un problema con la cuenta y tampoco con la aplicación. Si hay un problema, si no lo sé, porque debería ser algo relacionado a lo que hablamos anteriormente sobre el conductor estar en otro país o algo así que las credenciales no funcionan, ¿vale? Ah, pero voy ahora de ahora en adelante siempre estaré en ahí manejando los contactos como ya alineé con Dani.
-
-### 00:21:07
-
-**Artur Morais:** Entonces, a medida que nuevas nuevos problemas vengan, yo voy a poder como identificar mejor a
-
-**Armando Flores:** Entonces, la parte de conductores, digamos que, o sea, tú no lo ves como un stopper ahorita, Arturo.
-
-**Artur Morais:** que lo quiero hacer es cuanto antes ah porque hay conductores, por ejemplo, que hicieron registro por la formulario de Type For, pero también hicieron por dentro de la aplicación y ahora no saben cuál correo están haciendo. Entonces, lo que quiero hacer cuanto antes y quiero probar esta semana una vez más a la parte de registro por la aplicación porque tenemos que tener tenemos que crear un flujo para probar documentaciones y todo que hoy es vía plantil archivo de Type For, pero después va a ser tenemos que tenerlo dentro del sistema. Entonces es mi única preocupación ahora. Porque a medida que, bueno, tenemos tengamos más volumen, más conductores interesados y más registros, tenemos que tener un flujo bien claro ah para eso. Ah, además los que ya están ahí registrados por Type, tenemos que dar alta ahí y y ver las documentaciones para que cerramos esta este proceso para empezar a arrancar solamente con registro por la aplicación.
-
-### 00:22:36
-
-**Armando Flores:** Oye, Dani, ¿cuántos me recuerdas cuántos le vas a poner de cuota a los Hunters?
-
-**Daniel Escribano:** ¿Qué refieres con cuota?
-
-**Armando Flores:** Eh, o sea, ¿cuánto eh, o sea, qué resultados esperas con ellos de de de CIS más o menos?
-
-**Daniel Escribano:** Yo de objetivo mínimo quiero pedirles 15 al mes.
-
-**Armando Flores:** 15.
-
-**Daniel Escribano:** 15 aperturas mensuales y espero que puedan ser capaces de hacer una media de uno por día, 20 mensuales.
-
-**Armando Flores:** 20.
-
-**Daniel Escribano:** Al principio al principio les costará un poco porque tendrán que sembrar porque de primera llamada es casi muy difícil vender, pero
-
-**Armando Flores:** Y esos estos, ¿cuántos transportes esperas que te generen este mensuales? Estos 15.
-
-**Daniel Escribano:** depende. Hay hay clientes pequeños, hay clientes medianos.
-
-**Armando Flores:** Promedio, ¿qué? Cinco mensuales, 10.
-
-**Daniel Escribano:** Es lo que es lo que te iba a decir. El el la segunda, el 50% de su comisión va a ser que en 90 días, o es decir, en 3 meses, esos clientes que han abierto hagan 15 transportes, es decir,
-
-### 00:23:47
-
-**Daniel Escribano:** cinco por mes como mínimo para que cobren el 50% de su comisión, porque no nos vale abrir una cuenta y que no vuelva a pedir ningún transporte más.
-
-**Armando Flores:** son 5 por 2, o sea, 200 vehículos mensuales. Entonces, en tres meses cada uno te está manejando 600 vehículos. Es es bastante.
-
-**Daniel Escribano:** Pero a ver, lo hunter lo único que tienen que hacer que hacer es abrir cuentas. No quiero.
-
-**Armando Flores:** Sí, sí, sí. O sea, pero pero es un volumen muy muy rápido, muy muy alto. No,
-
-**Daniel Escribano:** Eh, ¿tú crees que no se pueden hacer 15?
-
-**Armando Flores:** no, no. O sea, yo me me estoy yendo hacia los números de Drive Me. No estaba moviendo igual alrededor de que 6,000 mensuales, ¿no? O 12,000.
-
-**Daniel Escribano:** Yo yo yo yo te hablo de los números de Dimy, ¿vale? Cuando yo entré en Dimying no tenían una estructura comercial como tal, ¿vale? Entonces, yo dividí la estructura en tres en tres segmentos, pequeños, medianos y grandes.
-
-### 00:24:49
-
-**Daniel Escribano:** ¿Vale? Contratamos un Hunter para que hiciera esas eh aperturas, ¿vale? Y lo que no pudiera abrir en la llamada me cerrara una cita para ir yo si era una compañía más mediana o grande, ¿vale? Entonces yo le cerraba esa venta. Antes de eso, cuando yo llegué, yo le demostré porque Constantín y y Enrique eran un poco reacios, eran iban al libre albedrío y sin objetivos y sin nada. Entonces, cuando yo le expliqué esto y la estructura que quería, me dijo, "Vale, ¿y cómo lo piensas hacer?" "No, es que no quieren." Digo, "Vale, pero déjame demostrarte los dos primeros meses que se puede hacer y después lo vemos." ¿Vale? El primer mes de entrar yo en Draimy hice 20 y pico aperturas cuando yo no tenía que hacer aperturas y eran aperturas de cuentas medianas y grandes encima, ¿vale? Y el segundo mes exactamente igual, ¿vale? Entonces, si se puede hacer eso con una compañía que ya tenía casi todo el mercado tratado,
-
-### 00:25:51
-
-**Daniel Escribano:** ¿cómo no lo vas a poder hacer con una compañía que tiene todo el mercado virgen?
-
-**Armando Flores:** o sea, yo no no dudo nada más de eso.
-
-**Daniel Escribano:** Porque no tenemos ni clientes ahora mismo
-
-**Armando Flores:** Es es nada más no lo que no me gustaría sería ponerles una un objetivo muy muy grande que no puedan alcanzar, ¿no? O sea, es es, o sea, quizás el primer mes, a lo mejor digo porque ahorita estarían entrando el lunes, No.
-
-**Daniel Escribano:** Sí. A ver, lo que les podemos decir es que el primer mes no va a depender, ¿eh? O sea, el van a cobrar las comisiones de todo lo que hagan, es decir, no se le va a poner un objetivo el primer mes, pero tienen que saber que el objetivo mensual son 15 mínimo. Si no haces mínimo 15 mensuales, un ejemplo, pues eh una de dos, o no cobras comisiones o cobras solamente el 50% de las comisiones que generes, ¿vale? Porque también para que no se desanimen, porque si no te dicen, "Va, como no voy a llegar, no vendo más." Entonces les dices,
-
-### 00:26:50
-
-**Daniel Escribano:** por debajo del de 15 mensuales vais a cobrar el 50% por encima de 15 mensuales vais a cobrar el 100%. Y si me apuras por encima del de 25 mensuales, cobras el 150%. O eso quiere decir que sí le vas a pagar mucho dinero, pero eso quiere decir que lo ha generado.
-
-**Armando Flores:** Sí. Okay, pero sí tienen que generar transportes porque si no empiezan a hacer aperturas y no generan transportes, ¿no?
-
-**Daniel Escribano:** Claro, pero pero el 50% de su beneficio, de su objetivo, o sea, de su comisión es que a 90 días esos clientes hagan un mínimo 15 viajes, es decir, que hagan como mínimo cinco transportes mensuales. No es mucho tampoco, es una es una medida muy fácil de hacer. Es decir, que un cliente te haga cinco transportes mensuales no es no es no es movimiento, o sea, es posible.
-
-**Artur Morais:** pero quién vas a manejar la cuenta o los clientes después que abra la Vale.
-
-### 00:27:50
-
-**Daniel Escribano:** De momento yo, hasta que demostremos que el sistema funciona y metamos una una code manager. Lo hablé ayer con Armando, este chico que hay un tercer chico que nos gustó tanto Armando como a mí, ¿vale? pero que ha rechazado hacer de account manager y lo que le habíamos ofrecido sin comisionar y con un contrato de 6 meses de prueba. ¿Vale? Entonces, eh yo hablé con Armando y con lo que hablé con Armando le he mandado un email a Nico y le he dicho que si que si le parece bien la opción le podemos contratar como Hunter. También tenemos tres Hunter y en el momento con tres Hunter es cierto que yo si hacen lo que tienen que hacer yo en dos semanas o una semana ya no doy a basto, ¿no? Entonces a uno de esos tres, el que sea mejor le promocionamos a Co Manager con las condiciones de Co Manager reales.
-
-### 00:28:49
-
-**Artur Morais:** Si si vas a tener 15 cuentas por por hunter por mes, en un mes, si todo sale bien, está manejando 45 cuentas.
-
-**Daniel Escribano:** correcto. Pero también te vuelvo a lo mismo, es que las cuentas pequeñas tenemos que ser capaces de poder automatizarlas, es decir, que suban sus transportes ellos mismos a la aplicación o que lo pongan en un en un archivo como lo estamos haciendo, que se vuelque automáticamente en la aplicación. Es decir, que no que nuestros compañeros no pierdan el tiempo con un cliente que no nos genera, es decir, que también hay que tratarlos, eh, ojo, que también hay que tratarlos porque en operaciones se tratan todos los viajes. Entonces, hay que tratarlos, pero que no se pierdan más tiempo de la cuenta tratándolos, ¿o no?
-
-**Artur Morais:** Un onboard y un entrenamiento rápido y ya está.
-
-**Armando Flores:** Tenemos que ir a la otra, a la otra junta.
-
-**Daniel Escribano:** Sí, vamos a la otra.
-
-### La transcripción finalizó después de 00:29:46
+- **Migración del sistema de telefonía a Cloud Talk**: ya tienen acceso a Cloud Talk, reemplazando a Airco; se guardan los números para la portabilidad, que toma 10-12 días hábiles. Integración estimada entre la primera y segunda semana de octubre, probablemente la semana del 5 de octubre.
+- **Competencia en el mercado y precios de Rodit y Driver Flow**: Rodit ofrece transportes de 50 km por 30 euros con combustible incluido; Driver Flow es una cooperativa de conductores que busca el beneficio de sus conductores. Aunque la competencia podría estar inflando cifras, Driver Flow proyecta facturar entre 50,000 y 80,000 euros en su primer mes al 100%.
+- **Situación de los seguros y márgenes operativos**: la aseguradora Lagunaro trabaja con Draimy por 8.50 euros y también asegura a Rodit; Driver Flow usa otra póliza aún más económica que les permite operar con márgenes ajustados. Daniel obtendrá más detalles en una comida con Diego la semana siguiente.
+- **Estructura y expansión de las plataformas Floby y Otoki**: Otoki recibió una inversión millonaria desde Francia y contrató a Marta Voz Mediano; en Floby, Enrique es country manager con funciones comerciales limitadas mientras las operaciones se dirigen desde Finlandia. Estas estructuras deberían ser la competencia más preocupante, aunque los actores de precios bajos dominan el mercado actual.
+- **Integraciones tecnológicas rápidas de Driver Flow**: Driver Flow integró su sistema con Eurotransport Car en 24 horas y construyó una plataforma similar a la de Draimy en una semana, con la intención de crecer rápido para ser adquiridos. Se discutió la viabilidad y sostenibilidad a largo plazo de estas prácticas agresivas.
+- **Estrategia comercial y necesidad de mayor agresividad**: Daniel expresó preocupación por quedarse atrás frente a competidores agresivos y propuso que el equipo sea más directo y enfocado en vender con propuestas concretas. Armando cuestionó los recursos necesarios; Daniel destacó capitalizar las relaciones existentes.
+- **Estado de la apertura con el cliente Flexicar**: Daniel exigió abrir Flexicar de inmediato por la buena relación con sus directivos. Armando aclaró que la apertura se retrasó intencionalmente para asegurar que todo estuviera probado antes de incorporar clientes de gran escala.
+- **Incidencias técnicas en la aplicación de conductores**: algunos conductores enviaron fotos por WhatsApp porque la aplicación presentó fallas en la recogida. Artur aclaró que la gran mayoría de los incidentes fueron errores de usuario (contraseñas incorrectas, falta de lectura de mensajes) y no problemas del producto; gestionará directamente los contactos para identificar futuras fallas.
+- **Cuotas e incentivos de rendimiento para los Hunters**: objetivo mínimo de 15 aperturas mensuales, meta ideal de 20 (una por día). Esquema de comisiones: 50% del beneficio depende de que los clientes generen al menos 15 transportes en 90 días (5 mensuales); pago de comisiones del 50% (menos de 15 aperturas), 100% (más de 15) y 150% (más de 25). Armando cuestionó si las metas son demasiado altas para el inicio; Daniel respondió con base en su experiencia previa en Draimy.
+- **Gestión de cuentas y automatización operativa**: Daniel asumirá la gestión inicial de las cuentas abiertas por los Hunters hasta demostrar que el sistema funciona y contratar a un account manager, tras el rechazo de un candidato previo. Artur y Daniel enfatizaron automatizar las cuentas pequeñas para que los conductores suban sus transportes directamente a la aplicación sin saturar al equipo operativo.
