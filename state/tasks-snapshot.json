@@ -342,6 +342,16 @@
     "actor": "system:brief-personal-os",
     "note": "Origen: corrección de Armando al brief del 22-sep-2026. El hilo Borusan/Draiver fue suprimido como sin_compromiso 3 veces (item_ids 1a0b97b09817afbc, 1a0c3018e21ed274, 1a0c77f83cb999c2; el último el 22-sep 11:47 UTC). Dominio grandes-deals asignado por inferencia: corregir si va en otro.",
     "ts": "2026-09-22T19:19:10+00:00"
+   },
+   {
+    "actor": "system:loop",
+    "note": "evidencia: prueba: evidencia dura",
+    "ts": "2026-09-24T19:49:23+00:00"
+   },
+   {
+    "actor": "system:limpieza",
+    "note": "evidencia: revertido: fue una prueba de los guardarraíles del loop",
+    "ts": "2026-09-24T19:49:45+00:00"
    }
   ],
   "owner": null,
@@ -418,7 +428,18 @@
   "domain": "pipeline-estrategico",
   "due_date": null,
   "evidence": "Elidee Arias (Over-haul): Could you please confirm if you are moving the loads/shipments or gating out VINs coming from Barragan, 2A, and Cienega de Flores, 3C?",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:loop",
+    "note": "evidencia: prueba tope",
+    "ts": "2026-09-24T19:49:23+00:00"
+   },
+   {
+    "actor": "system:limpieza",
+    "note": "evidencia: revertido: fue una prueba de los guardarraíles del loop",
+    "ts": "2026-09-24T19:49:45+00:00"
+   }
+  ],
   "owner": "Kevin",
   "snoozed_until": null,
   "source": "gmail:1a08962d352c14f7",
@@ -513,6 +534,16 @@
     "actor": "user",
     "note": "evidencia: Armando dice que no está hecha",
     "ts": "2026-09-21T19:59:54+00:00"
+   },
+   {
+    "actor": "system:loop",
+    "note": "evidencia: prueba tope",
+    "ts": "2026-09-24T19:49:23+00:00"
+   },
+   {
+    "actor": "system:limpieza",
+    "note": "evidencia: revertido: fue una prueba de los guardarraíles del loop",
+    "ts": "2026-09-24T19:49:45+00:00"
    }
   ],
   "owner": null,
@@ -852,7 +883,18 @@
   "domain": "operacion-kavak",
   "due_date": null,
   "evidence": "TRX UNIDADES DE VENTA CAR SHOP - KAVAK MERIDA\nBuenas tardes @jose.duran de tu apoyo para coordinar los traslados solicitados para el jueves 17 de septiembre por favor confirmar los nombre de los opera",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:loop",
+    "note": "evidencia: prueba: evidencia dura",
+    "ts": "2026-09-24T19:49:23+00:00"
+   },
+   {
+    "actor": "system:limpieza",
+    "note": "evidencia: revertido: fue una prueba de los guardarraíles del loop",
+    "ts": "2026-09-24T19:49:45+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0a6a7a982b0d34",
@@ -878,6 +920,16 @@
     "actor": "user",
     "note": "evidencia: Armando dice que no está hecha",
     "ts": "2026-09-24T19:11:23+00:00"
+   },
+   {
+    "actor": "system:loop",
+    "note": "evidencia: prueba: evidencia dura",
+    "ts": "2026-09-24T19:49:23+00:00"
+   },
+   {
+    "actor": "system:limpieza",
+    "note": "evidencia: revertido: fue una prueba de los guardarraíles del loop",
+    "ts": "2026-09-24T19:49:45+00:00"
    }
   ],
   "owner": null,
@@ -1088,7 +1140,18 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Si te parece bien, te envio la convocatoria para el miercoles 30 a las 09:30",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:loop",
+    "note": "evidencia: prueba: evidencia dura",
+    "ts": "2026-09-24T19:49:23+00:00"
+   },
+   {
+    "actor": "system:limpieza",
+    "note": "evidencia: revertido: fue una prueba de los guardarraíles del loop",
+    "ts": "2026-09-24T19:49:45+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0c8bc2947b2676",
@@ -1761,6 +1824,33 @@
   "status": "open",
   "task_id": "eb97255c36fd",
   "title": "BCA Europe Requirements - 2026/09/03 19:00 CEST - Notes by Gemini",
+  "vetoed": false,
+  "waiting_on": null
+ },
+ "ec52174721aa": {
+  "action": null,
+  "applied": false,
+  "archived": true,
+  "blocked": null,
+  "code": "T-60",
+  "counterparty": null,
+  "created": "2026-09-24T19:50:15+00:00",
+  "domain": "fw-finanzas",
+  "due_date": null,
+  "evidence": null,
+  "notes": [
+   {
+    "actor": "system:limpieza",
+    "note": "archivado: tarea de prueba del guardarraíl firewalled",
+    "ts": "2026-09-24T19:50:16+00:00"
+   }
+  ],
+  "owner": null,
+  "snoozed_until": null,
+  "source": null,
+  "status": "open",
+  "task_id": "ec52174721aa",
+  "title": "Revisar algo de finanzas personales",
   "vetoed": false,
   "waiting_on": null
  },

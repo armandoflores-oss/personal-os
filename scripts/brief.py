@@ -382,9 +382,39 @@ def render(now, since):
         elif r.get("leg") == "outbound":
             for c in r.get("cerrados", []):
                 L.append(f"- **{c['code']}** cerrada · evidencia: {cap(c['evidencia'])}")
+        elif r.get("leg") == "loop":
+            for c in r.get("cerradas", []):
+                # Evidencia y forma de deshacerlo, en la misma línea. Un cierre
+                # automático sin las dos cosas es una decisión invisible.
+                L.append(f"- **{c['code']}** cerrada · {cap(c.get('evidencia',''))}"
+                         f"\n  ↩︎ reábrela con `{c['code']} no`")
+            if r.get("rechazadas"):
+                topes = [x for x in r["rechazadas"] if "tope" in x.get("por", "")]
+                if topes:
+                    L.append(f"- _{len(topes)} cierre(s) no aplicados: se alcanzó el tope de "
+                             f"{r.get('tope')} por noche._")
         elif r.get("leg") == "error":
             L.append(f"- ⚠️ {r.get('source')} falló · {cap(r.get('error',''))}")
     L.append("")
+
+    # Propuestas: silencio = consentimiento en 72h, así que tienen que verse.
+    props = {}
+    try:
+        import json as _j
+        pfile = constants.REPO_ROOT / "state" / "loop" / "propuestas.json"
+        props = _j.loads(pfile.read_text()) if pfile.exists() else {}
+    except Exception:
+        props = {}
+    vivas = {k: v for k, v in props.items() if not v.get("vetada")}
+    if vivas:
+        L.append("## Propuestas")
+        L.append("_Si no dices nada, se aplican solas en la fecha indicada. Una sola palabra las mata._")
+        for v in list(vivas.values())[:8]:
+            marca = " · retenida (firewalled)" if v.get("firewalled") else ""
+            L.append(f"- **{v['code']}** {cap(v.get('titulo',''))}{marca}"
+                     f"\n  vence {v.get('vence','')[:16].replace('T',' ')} · "
+                     f"`{v['code']} va` la aplica ya · `{v['code']} nunca` la mata para siempre")
+        L.append("")
 
     counts = noise_counts(now)
     L.append("## Ruido")

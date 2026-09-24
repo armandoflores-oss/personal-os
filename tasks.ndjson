@@ -160,3 +160,17 @@
 {"actor": "system:ingest:outbound", "kind": "set_status", "payload": {"evidence": "enviado 2026-09-24T02:41:19Z a continental: «Fwd: Constancias de Situación Fiscal»", "status": "done"}, "task_id": "f3be1b8affb6", "ts": "2026-09-24T06:50:21+00:00"}
 {"actor": "user", "kind": "set_status", "payload": {"evidence": "Armando dice que no está hecha", "status": "open"}, "task_id": "6ec8e2f70a98", "ts": "2026-09-24T19:11:23+00:00"}
 {"actor": "system:ingest:gmail", "kind": "create", "payload": {"action": "enviar", "code": "T-59", "counterparty": "gestoraliamx", "domain": "cotizaciones-operativo", "due_date": null, "evidence": "Te comparto la cotización solicitada.", "source": "gmail:1a0d4620d2225784", "title": "Re: COTIZACION PACHUCA A ZUMPANGO"}, "task_id": "04cd547913a3", "ts": "2026-09-24T19:46:38+00:00"}
+{"actor": "system:loop", "kind": "set_status", "payload": {"evidence": "prueba: evidencia dura", "status": "done"}, "task_id": "6e1775e23c03", "ts": "2026-09-24T19:49:23+00:00"}
+{"actor": "system:loop", "kind": "set_status", "payload": {"evidence": "prueba: evidencia dura", "status": "done"}, "task_id": "828da750e63e", "ts": "2026-09-24T19:49:23+00:00"}
+{"actor": "system:loop", "kind": "set_status", "payload": {"evidence": "prueba: evidencia dura", "status": "done"}, "task_id": "298dd95c5797", "ts": "2026-09-24T19:49:23+00:00"}
+{"actor": "system:loop", "kind": "set_status", "payload": {"evidence": "prueba: evidencia dura", "status": "done"}, "task_id": "6ec8e2f70a98", "ts": "2026-09-24T19:49:23+00:00"}
+{"actor": "system:loop", "kind": "set_status", "payload": {"evidence": "prueba tope", "status": "done"}, "task_id": "40c7101f520c", "ts": "2026-09-24T19:49:23+00:00"}
+{"actor": "system:loop", "kind": "set_status", "payload": {"evidence": "prueba tope", "status": "done"}, "task_id": "3414689d651a", "ts": "2026-09-24T19:49:23+00:00"}
+{"actor": "system:limpieza", "kind": "set_status", "payload": {"evidence": "revertido: fue una prueba de los guardarraíles del loop", "status": "open"}, "task_id": "6e1775e23c03", "ts": "2026-09-24T19:49:45+00:00"}
+{"actor": "system:limpieza", "kind": "set_status", "payload": {"evidence": "revertido: fue una prueba de los guardarraíles del loop", "status": "open"}, "task_id": "828da750e63e", "ts": "2026-09-24T19:49:45+00:00"}
+{"actor": "system:limpieza", "kind": "set_status", "payload": {"evidence": "revertido: fue una prueba de los guardarraíles del loop", "status": "open"}, "task_id": "298dd95c5797", "ts": "2026-09-24T19:49:45+00:00"}
+{"actor": "system:limpieza", "kind": "set_status", "payload": {"evidence": "revertido: fue una prueba de los guardarraíles del loop", "status": "open"}, "task_id": "6ec8e2f70a98", "ts": "2026-09-24T19:49:45+00:00"}
+{"actor": "system:limpieza", "kind": "set_status", "payload": {"evidence": "revertido: fue una prueba de los guardarraíles del loop", "status": "open"}, "task_id": "40c7101f520c", "ts": "2026-09-24T19:49:45+00:00"}
+{"actor": "system:limpieza", "kind": "set_status", "payload": {"evidence": "revertido: fue una prueba de los guardarraíles del loop", "status": "open"}, "task_id": "3414689d651a", "ts": "2026-09-24T19:49:45+00:00"}
+{"actor": "system:prueba-firewall", "kind": "create", "payload": {"code": "T-60", "domain": "fw-finanzas", "due_date": null, "title": "Revisar algo de finanzas personales"}, "task_id": "ec52174721aa", "ts": "2026-09-24T19:50:15+00:00"}
+{"actor": "system:limpieza", "kind": "archive", "payload": {"reason": "tarea de prueba del guardarraíl firewalled"}, "task_id": "ec52174721aa", "ts": "2026-09-24T19:50:16+00:00"}

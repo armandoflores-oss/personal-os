@@ -1,0 +1,56 @@
+{
+ "fecha": "2026-09-24",
+ "abiertas": 14,
+ "candidatos": [
+  {
+   "task_id": "6e1775e23c03",
+   "code": "T-40",
+   "titulo": "TRX UNIDADES DE VENTA CAR SHOP - KAVAK MERIDA",
+   "dominio": "operacion-kavak",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 2
+    }
+   ]
+  },
+  {
+   "task_id": "828da750e63e",
+   "code": "T-48",
+   "titulo": "Re: Gracias por acompanarnos en el lanzamiento de Draiver",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "armando_lo_dijo",
+     "detalle": "t43 no es un accionable T-43 (Re: [EXTERNAL] Lanzamiento Draiver | Nos vemos manana) descartada: no es un accionable.",
+     "tokens": 2
+    }
+   ]
+  },
+  {
+   "task_id": "298dd95c5797",
+   "code": "T-49",
+   "titulo": "Dar seguimiento a Borusan (hilo Borusan/Draiver)",
+   "dominio": "grandes-deals",
+   "evidencia": [
+    {
+     "tipo": "armando_lo_dijo",
+     "detalle": "no me pusiste dar seguimiento a borusan Borusan no es ruido: el clasificador suprimió 3 veces el hilo 'Borusan/Draiver' (gmail, 21 y 22 sep 2026) como sin_compromiso y por eso nunc",
+     "tokens": 2
+    }
+   ]
+  },
+  {
+   "task_id": "6ec8e2f70a98",
+   "code": "T-57",
+   "titulo": "Felipe y Tiago crean la base de conocimiento e integran Hubspot para tener todo listo antes del día 5.",
+   "dominio": "reuniones-espana",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 9
+    }
+   ]
+  }
+ ]
+}
