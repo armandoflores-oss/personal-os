@@ -54,6 +54,9 @@ def tokens(texto):
 
 # ---------------------------------------------------------------- PREPARE
 def cmd_prepare(args):
+    if esta_retirado():
+        print(json.dumps({"estado": "retirado", "nota": "el loop se retiro; esta corrida no hace nada"}))
+        return
     """Junta evidencia para cada item abierto. Sin juicio, sin modelo."""
     eventos = read_events()
     por_tarea = collections.defaultdict(list)
@@ -122,6 +125,9 @@ def guardar_propuestas(d):
 
 
 def cmd_apply(args):
+    if esta_retirado():
+        print(json.dumps({"estado": "retirado", "nota": "el loop se retiro; esta corrida no hace nada"}))
+        return
     # Vetos y vencimientos primero: si Armando tocó algo, esa propuesta muere
     # antes de que se evalúe nada nuevo sobre ella.
     cmd_ledger(argparse.Namespace())
@@ -235,11 +241,22 @@ def cmd_grade(args):
               if l.strip() and json.loads(l)["fecha"] != fecha]     # idempotente
     lineas.append(json.dumps(linea, ensure_ascii=False, sort_keys=True))
     f.write_text("\n".join(sorted(lineas, key=lambda l: json.loads(l)["fecha"])) + "\n")
-    print(json.dumps(linea, ensure_ascii=False))
+    ret = evaluar_retiro()
+    if ret:
+        linea["retiro"] = ret.get("estado")
+        rec = {"ts": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
+               "fecha": hoy(), "leg": "tendencia", "retiro": ret}
+        SYNCS.mkdir(exist_ok=True)
+        with open(SYNCS / f"{hoy()}.ndjson", "a", encoding="utf-8") as fh:
+            fh.write(json.dumps(rec, ensure_ascii=False, sort_keys=True) + "\n")
+    print(json.dumps({**linea, "retiro_detalle": ret}, ensure_ascii=False))
 
 
 # ----------------------------------------------------------------- LEDGER
 def cmd_ledger(args):
+    if esta_retirado():
+        print(json.dumps({"estado": "retirado", "nota": "el loop se retiro; esta corrida no hace nada"}))
+        return
     """Vetos y vencimientos. Corre antes del brief y dentro del loop.
 
     Tres reglas, y las tres son del spec por una razón:
@@ -297,6 +314,77 @@ def cmd_ledger(args):
         with open(SYNCS / f"{hoy()}.ndjson", "a", encoding="utf-8") as fh:
             fh.write(json.dumps(recibo, ensure_ascii=False, sort_keys=True) + "\n")
     print(json.dumps(recibo, ensure_ascii=False))
+
+
+# ------------------------------------------------------------------ RETIRO
+DIAS_MINIMOS = 21          # antes de esto no hay tendencia, hay ruido
+VENTANA = 7
+DIAS_SILENCIO = 7
+RETIRO = LOOP / "retiro.json"
+
+
+def _retiro():
+    return json.loads(RETIRO.read_text()) if RETIRO.exists() else {}
+
+
+def esta_retirado():
+    return bool(_retiro().get("retirado"))
+
+
+def _mediana(xs):
+    xs = sorted(xs)
+    return xs[len(xs) // 2] if xs else 0
+
+
+def evaluar_retiro():
+    """Compara el primer tramo contra el ultimo y decide si el loop se gana su lugar.
+
+    Tres numeros, los tres desde el punto de vista de Armando: cuantas veces
+    tuvo que meter la mano, cuantas cosas siguen abiertas, y cuantos cierres se
+    le resucitaron encima. Si eso no mejora, el loop no esta ayudando por mas
+    limpio que se vea por dentro.
+    """
+    f = EVALS / "trend.ndjson"
+    if not f.exists():
+        return None
+    lineas = [json.loads(l) for l in f.read_text().splitlines() if l.strip()]
+    lineas.sort(key=lambda x: x["fecha"])
+    if len(lineas) < DIAS_MINIMOS:
+        return {"estado": "juntando_datos", "dias": len(lineas),
+                "faltan": DIAS_MINIMOS - len(lineas)}
+    pri, ult = lineas[:VENTANA], lineas[-VENTANA:]
+    m = {}
+    for k in ("intervenciones_usuario", "abiertas_al_calificar", "resucitadas"):
+        m[k] = (_mediana([x.get(k, 0) for x in pri]), _mediana([x.get(k, 0) for x in ult]))
+    mejoras = sum(1 for a, b in m.values() if b < a)
+    empeora = sum(1 for a, b in m.values() if b > a)
+    mejorando = mejoras >= 1 and empeora == 0
+    datos = {"dias": len(lineas), "primeros": {k: v[0] for k, v in m.items()},
+             "ultimos": {k: v[1] for k, v in m.items()}, "mejorando": mejorando}
+    r = _retiro()
+    if mejorando:
+        if r.get("propuesto") and not r.get("retirado"):
+            RETIRO.write_text("{}\n")      # se recupero: la propuesta se cae sola
+        datos["estado"] = "mejorando"
+        return datos
+    if r.get("retirado"):
+        datos["estado"] = "retirado"
+        return datos
+    if not r.get("propuesto"):
+        r["propuesto"] = datetime.date.today().isoformat()
+        r["numeros"] = datos
+        RETIRO.write_text(json.dumps(r, indent=1, ensure_ascii=False) + "\n")
+        datos["estado"] = "apagado_propuesto"
+        return datos
+    dias = (datetime.date.today() - datetime.date.fromisoformat(r["propuesto"])).days
+    if dias >= DIAS_SILENCIO:
+        r["retirado"] = datetime.date.today().isoformat()
+        RETIRO.write_text(json.dumps(r, indent=1, ensure_ascii=False) + "\n")
+        datos["estado"] = "retirado"
+    else:
+        datos["estado"] = "esperando_silencio"
+        datos["dias_de_silencio"] = dias
+    return datos
 
 
 def main():

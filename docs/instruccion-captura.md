@@ -95,6 +95,22 @@ El brief lo renderiza `scripts/brief.py` leyendo solo el repo, y lo dispara su r
 y pega la salida — pero no improvises un brief a mano. Uno redactado por ti se ve igual de bien,
 se salta los tres cruces de supresión, y desde ese momento hay dos versiones de la verdad.
 
+## Si el loop se retiró, bórralo
+
+Al empezar cualquier sesión, si existe `state/loop/retiro.json` con la llave
+`retirado`, el loop se apagó solo por no estar ganándose su lugar. Entonces,
+**en esa sesión**, sin preguntar y sin ceremonia:
+
+1. Borra la rutina con `mcp__scheduled-tasks__delete_scheduled_task`, taskId
+   `loop-personal-os`.
+2. Dile a Armando en una línea que se retiró, con la fecha y los tres números
+   que lo decidieron.
+3. No propongas revivirlo. Si lo quiere de vuelta, él lo dirá.
+
+Armando dijo explícitamente que nunca va a agendar una revisión de esto. El
+sistema que no se gana su lugar se apaga solo y se borra solo; esa es la parte
+que lo hace confiable.
+
 ## Firewall
 
 Dominios `fw-finanzas` y `fw-familia`: nunca auto-procesar, nunca cruzar con nada, nunca detallar en el recibo — solo la línea de conteo. La lista vive en `scripts/lib/constants.py`, no en este archivo.

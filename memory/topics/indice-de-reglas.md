@@ -7,8 +7,9 @@ no_weave: true
 
 _Todas las reglas que Armando ha dado. Se aplican solas; están aquí para discutirlas. Generado por `scripts/weave.py`; no editar a mano._
 
-**27 cards**
+**28 cards**
 
+- [[autorretiro-loop|Autorretiro del loop]]
 - [[avasa-monto-t-32|Corrige el monto de T-32, que quedó truncado por un error de captura: el pago de]]
 - [[borusan-ruido-clasificador|Borusan no es ruido: el clasificador suprimió 3 veces el hilo 'Borusan/Draiver']]
 - [[brief-maximo-lineas|Brief: máximo dos líneas por item]]

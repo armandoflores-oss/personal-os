@@ -1,32 +1,7 @@
 {
  "fecha": "2026-09-24",
- "abiertas": 14,
+ "abiertas": 12,
  "candidatos": [
-  {
-   "task_id": "6e1775e23c03",
-   "code": "T-40",
-   "titulo": "TRX UNIDADES DE VENTA CAR SHOP - KAVAK MERIDA",
-   "dominio": "operacion-kavak",
-   "evidencia": [
-    {
-     "tipo": "se_trato_en_junta",
-     "tokens": 2
-    }
-   ]
-  },
-  {
-   "task_id": "828da750e63e",
-   "code": "T-48",
-   "titulo": "Re: Gracias por acompanarnos en el lanzamiento de Draiver",
-   "dominio": "cotizaciones-operativo",
-   "evidencia": [
-    {
-     "tipo": "armando_lo_dijo",
-     "detalle": "t43 no es un accionable T-43 (Re: [EXTERNAL] Lanzamiento Draiver | Nos vemos manana) descartada: no es un accionable.",
-     "tokens": 2
-    }
-   ]
-  },
   {
    "task_id": "298dd95c5797",
    "code": "T-49",
@@ -47,8 +22,13 @@
    "dominio": "reuniones-espana",
    "evidencia": [
     {
+     "tipo": "armando_lo_dijo",
+     "detalle": "T-57 no me toca a mí T-57 (base de conocimiento + Hubspot antes del dia 5) no es de Armando; se reasigno a Felipe. Defecto del parser: reply.py clasifico 'T-57 no me toca a mi' com",
+     "tokens": 4
+    },
+    {
      "tipo": "se_trato_en_junta",
-     "tokens": 9
+     "tokens": 7
     }
    ]
   }

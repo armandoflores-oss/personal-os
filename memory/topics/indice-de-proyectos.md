@@ -7,8 +7,9 @@ no_weave: true
 
 _Todo lo que el sistema sabe sobre frentes de trabajo, abiertos y cerrados. Generado por `scripts/weave.py`; no editar a mano._
 
-**31 cards**
+**32 cards**
 
+- [[24-sep-2026-quito|24 sep 2026: Armando quito el candado sobre ~/.claude/settings.json, asi que aho]]
 - [[a-1-razon-social-matriz|A-1 (razon social de la matriz UK para COGESA) descartada: solo vuelve a ser acc]]
 - [[a-2-cnae-secundario-transporte|A-2 (CNAE secundario de transporte) descartada: mismo criterio que A-1, solo si]]
 - [[carta-responsiva-escribe-9-sep|Armando escribe hoy (9 sep 2026) a Julianna por la carta responsiva.]]

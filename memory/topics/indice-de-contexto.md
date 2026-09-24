@@ -7,7 +7,7 @@ no_weave: true
 
 _Hechos durables que hay que tener presentes. Generado por `scripts/weave.py`; no editar a mano._
 
-**14 cards**
+**15 cards**
 
 - [[bca-grid-ftl-n03|En la grid de BCA FTL, N03 (AI Pricing Engine) no tiene NINGUNA fila HAVE: 2 ADA]]
 - [[bca-nota-pricing|nota-bca-pricing]]
@@ -20,6 +20,7 @@ _Hechos durables que hay que tener presentes. Generado por `scripts/weave.py`; n
 - [[kavak-draiverdo-espana-estructura|DRAIVERDO España — estructura y modelo operativo]]
 - [[pagos-facturacion-ejecuta|Pagos y facturacion los ejecuta Marcelo: los correos informativos de ese tipo se]]
 - [[penske-fede-nico-piden|Fede y Nico piden 'usar Penske' en la sesión BCA del 17-sep. Significa el caso c]]
+- [[programa-nunca-pidas-editar|Armando no programa. Nunca le pidas editar JSON, YAML ni codigo a mano: dale un]]
 - [[temas-fiscales-constitucion|Los temas fiscales y de constitucion en Espana (COGESA, CNAE, razon social) no s]]
 - [[transcripciones-juntas-llegan|Transcripciones de juntas llegan por Drive, no por conector]]
 - [[zapata-facturacion-maneja-marcelo|Facturación la maneja Marcelo]]

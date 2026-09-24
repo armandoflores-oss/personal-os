@@ -142,9 +142,31 @@ def _mejoras(raw, actor):
     return True
 
 
+def _loop(raw):
+    """`loop sigue` y `loop retira`. La propuesta de apagado necesita una
+    respuesta explícita: el silencio ya significa otra cosa (apagarlo), así que
+    no puede ser también la forma de salvarlo."""
+    import json as _j
+    from datetime import date
+    m = re.match(r"^loop\s+(sigue|retira|vive|apaga|apagate)\s*$", raw.lower())
+    if not m:
+        return False
+    f = constants.REPO_ROOT / "state" / "loop" / "retiro.json"
+    r = _j.loads(f.read_text()) if f.exists() else {}
+    if m.group(1) in ("sigue", "vive"):
+        f.write_text("{}\n")
+        print("loop: propuesta de apagado cancelada, sigue corriendo")
+    else:
+        r["retirado"] = date.today().isoformat()
+        r.setdefault("propuesto", date.today().isoformat())
+        f.write_text(_j.dumps(r, indent=1, ensure_ascii=False) + "\n")
+        print("loop: retirado. sus corridas ya no hacen nada; la próxima sesión lo borra")
+    return True
+
+
 def cmd_parse(args):
     raw = args.text.strip()
-    if _mejoras(raw, args.actor):
+    if _mejoras(raw, args.actor) or _loop(raw):
         return
     m = CODE_RE.match(raw)
     if not m:

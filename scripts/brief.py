@@ -452,6 +452,44 @@ def render(now, since):
                      f"\n  toca: {v.get('toca','')} · `aplica {n}` · `mejora {n} nunca`")
         L.append("")
 
+    # Tendencia y autorretiro. Una línea si va bien; la propuesta de apagado
+    # con sus números si no. El loop se juzga solo y lo dice en voz alta.
+    try:
+        import json as _j
+        rf = constants.REPO_ROOT / "state" / "loop" / "retiro.json"
+        ret = _j.loads(rf.read_text()) if rf.exists() else {}
+    except Exception:
+        ret = {}
+    ultima_tend = None
+    for r in _receipts(now, hours=36):
+        if r.get("leg") == "tendencia":
+            ultima_tend = r.get("retiro")
+    if ret.get("retirado"):
+        L.append("## El loop se retiró")
+        L.append(f"- Se apagó solo el {ret['retirado']} tras una semana sin respuesta. "
+                 f"Sus corridas ya no hacen nada. La próxima sesión que abras lo borra.")
+        L.append("")
+    elif ret.get("propuesto"):
+        n = ret.get("numeros", {})
+        pri, ult = n.get("primeros", {}), n.get("ultimos", {})
+        L.append("## El loop propone apagarse")
+        L.append(f"_Propuesto el {ret['propuesto']}. Si no dices nada en una semana, se apaga solo._")
+        L.append(f"- No está mejorando en {n.get('dias','?')} días de datos:")
+        L.append(f"  - veces que interviniste: {pri.get('intervenciones_usuario')} → "
+                 f"{ult.get('intervenciones_usuario')}")
+        L.append(f"  - pendientes abiertos: {pri.get('abiertas_al_calificar')} → "
+                 f"{ult.get('abiertas_al_calificar')}")
+        L.append(f"  - cierres que resucitaron: {pri.get('resucitadas')} → {ult.get('resucitadas')}")
+        L.append("- `loop sigue` lo deja vivo · `loop retira` lo apaga hoy")
+        L.append("")
+    elif ultima_tend and ultima_tend.get("estado") == "mejorando":
+        pri, ult = ultima_tend.get("primeros", {}), ultima_tend.get("ultimos", {})
+        L.append(f"_Tendencia · intervenciones {pri.get('intervenciones_usuario')}→"
+                 f"{ult.get('intervenciones_usuario')} · abiertas {pri.get('abiertas_al_calificar')}→"
+                 f"{ult.get('abiertas_al_calificar')} · resucitadas {pri.get('resucitadas')}→"
+                 f"{ult.get('resucitadas')} en {ultima_tend.get('dias')} días._")
+        L.append("")
+
     counts = noise_counts(now)
     L.append("## Ruido")
     if not counts:
