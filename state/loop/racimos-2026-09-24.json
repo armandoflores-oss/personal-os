@@ -1,0 +1,26 @@
+{
+ "desde": "2026-09-17",
+ "correcciones": 8,
+ "racimos": [
+  {
+   "n": 4,
+   "textos": [
+    "Los correos donde Armando solo va copiado y la ejecucion es de su equipo no son pendientes suyos: no deben entrar al brief como tareas propias.",
+    "Los correos transaccionales de operacion que ejecuta su equipo no se dan de alta como tareas de Armando: no deben entrar al brief.",
+    "Un correo solo es pendiente de Armando si el correo le pide explicitamente algo a el; si no, no hay accionable de su lado aunque venga en el hilo.",
+    "Borusan no es ruido: el clasificador suprimió 3 veces el hilo 'Borusan/Draiver' (gmail, 21 y 22 sep 2026) como sin_compromiso y por eso nunca llegó al brief. Lo"
+   ]
+  },
+  {
+   "n": 3,
+   "textos": [
+    "No pedirle aprobacion en cada cierre de tarea: los comandos del Personal OS se corren SIN prefijo 'cd' (que esta denegado en settings), usando python3 con la ru",
+    "Armando quiere que avance sin frenarlo con aprobaciones. Los diálogos que ve vienen de los permisos de Bash de Claude Code, no de una preferencia suya: la soluc",
+    "T-57 (base de conocimiento + Hubspot antes del dia 5) no es de Armando; se reasigno a Felipe. Defecto del parser: reply.py clasifico 'T-57 no me toca a mi' como"
+   ]
+  }
+ ],
+ "sueltas": [
+  "Priorizar rankings operativos por unidades solicitadas/recolectadas, no por entregadas: ordenar por entregadas esconde los destinos donde hubo demanda y no se c"
+ ]
+}
