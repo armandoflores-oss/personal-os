@@ -1,36 +1,33 @@
 Diaria Spain Launch - 2026/09/22 08:31 CST - Notes by Gemini
-
 sept 22, 2026
 Invitados: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
 
-### Resumen
+Resumen
 Migración telefónica con análisis competitivo y estrategia comercial.
-Migración y análisis competitivo: Cloud Talk reemplaza a Aircall con integración estimada para octubre. Competencia de Rodit y Driver Flow evaluada por márgenes operativos y precios.
-Estrategia comercial y Flexicar: Estrategia comercial más agresiva propuesta frente a competidores. Flexicar se abrirá de inmediato tras retrasos por pruebas técnicas.
-Incidencias y cuotas: Fallas en aplicación atribuidas a errores de usuario. Hunters con objetivo mínimo de 15 aperturas mensuales y comisiones vinculadas a rendimiento.
+Migración y análisis competitivo: Cloud Talk reemplaza a Aircall con integración estimada para octubre. Competencia de Rodit y Driver Flow evaluada.
+Estrategia comercial y Flexicar: Estrategia comercial más agresiva propuesta. Flexicar se abrirá de inmediato tras retrasos por pruebas técnicas.
+Incidencias y cuotas: Fallas en aplicación atribuidas a errores de usuario. Hunters con objetivo mínimo de 15 aperturas mensuales.
 
-### Decisiones
-- Migración de llamadas a Cloud Talk: Las llamadas se realizan inicialmente por teléfono para luego migrar a Cloud Talk una vez completada la integración del sistema.
-- Establecimiento de cuotas y comisiones para Hunters: Objetivo mensual mínimo de 15 aperturas, con esquema de comisiones escalonado sujeto al cumplimiento de transportes de los clientes.
-- Contratación y promoción interna de Account Manager: Contratar al candidato como Hunter y promocionar posteriormente al de mejor desempeño al puesto de Account Manager.
+Decisiones — Acordada
+- Migración de llamadas a Cloud Talk: llamadas inicialmente por teléfono y luego migrar a Cloud Talk al completar la integración.
+- Cuotas y comisiones para Hunters: mínimo 15 aperturas mensuales, comisiones escalonadas sujetas a transportes de clientes.
+- Contratación del candidato como Hunter y promoción posterior del mejor desempeño a Account Manager.
 
-### Próximos pasos
-- [Artur Morais] Probar registro aplicación: Ejecutar pruebas de registro dentro de la aplicación para validar el flujo de creación de cuentas.
-- [Artur Morais] Migrar registros: Dar de alta en el sistema a los usuarios registrados mediante Typeform y verificar su documentación.
-- [Daniel Escribano] Enviar resumen: Enviar a Armando un resumen informativo sobre la situación de la competencia y las aseguradoras.
-- [Daniel Escribano] Reunión comercial: Reunirse con Diego la próxima semana para profundizar en la información sobre el mercado y la competencia.
-- [Daniel Escribano] Reunión ex-colegas: Reunirse con ex-colaboradores el lunes para obtener actualizaciones sobre el estado del mercado.
+Próximos pasos
+- [Artur Morais] Probar registro en la aplicación para validar el flujo de creación de cuentas.
+- [Artur Morais] Migrar registros de Typeform al sistema y verificar documentación.
+- [Daniel Escribano] Enviar a Armando un resumen sobre la situación de la competencia y las aseguradoras.
+- [Daniel Escribano] Reunirse con Diego (Driver Flow) la próxima semana.
+- [Daniel Escribano] Reunirse con ex-colegas el lunes para actualizaciones del mercado.
 
-### Detalles
-- Migración del sistema de telefonía a Cloud Talk: Ya tienen acceso a Cloud Talk; la portabilidad de números toma 10-12 días hábiles. Dani enviará la información esta semana; integración estimada semana del 5 de octubre.
-- Competencia: Diego (country manager de Driver Flow, cooperativa de conductores) y Nico (sobre Rodit): Rodit ofrece transportes de 50 km por 30 euros con combustible incluido. Driver Flow proyecta facturar 50,000-80,000 euros en su primer mes al 100%; se sospechan cifras infladas.
-- Seguros y márgenes: Lagunaro asegura a Drivalia/Draimy por 8.50 euros y también a Rodit; Driver Flow usa una póliza aún más económica. Déficit de Draiver en seguro y precio. Dani comerá con Diego la próxima semana.
-- Floby y Otoki: Otoki recibió inversión millonaria desde Francia y contrató a Marta Voz Mediano; en Floby, Enrique es country manager con funciones comerciales limitadas y operaciones desde Finlandia.
-- Driver Flow integró con Eurotransport Car en 24 horas y busca crecer rápido para ser adquirido (sabe que Draiver es comprador).
-- Estrategia comercial: Dani propone ser más agresivos comercialmente, con propuestas concretas. Armando cuestiona los recursos necesarios.
-- Flexicar: Dani quiere abrirlo de inmediato; Armando aclara que se retrasó intencionalmente hasta tener todo probado. Reunión con Flexicar la semana siguiente.
-- Incidencias en app de conductores: la mayoría fueron errores de usuario (contraseñas, correos distintos); Artur gestionará directamente los contactos.
-- Cuotas Hunters: mínimo 15 aperturas/mes, ideal 20. 50% de la comisión depende de que los clientes hagan 15 transportes en 90 días. Pago 50% (<15 aperturas), 100% (>15), 150% (>25). Primer mes sin objetivo condicionante. Armando cuestiona si las metas son muy altas al inicio.
-- Gestión de cuentas: Dani gestionará inicialmente las cuentas abiertas por Hunters hasta contratar account manager. Necesidad de automatizar cuentas pequeñas.
-
-[Nota de la rutina: se guardaron las notas de Gemini; la transcripción literal completa está en el Doc original.]
+Detalles
+- Cloud Talk: portabilidad de números 10-12 días hábiles; integración estimada semana del 5 de octubre.
+- Competencia: Rodit ofrece 50 km por 30 € con combustible; Driver Flow (cooperativa) proyecta facturar 50-80k € en su primer mes.
+- Seguros: Lagunaro asegura a Drivalia/Rodit por 8.50 €; Driver Flow tiene una póliza más barata. Déficit en seguro y precios.
+- Floby y Otoki: Otoki recibió inversión desde Francia; Floby opera desde Finlandia.
+- Driver Flow integró Eurotransport Car en 24 h; busca ser adquirido.
+- Estrategia comercial: Daniel pide ser más agresivos comercialmente. Armando pregunta recursos necesarios.
+- Flexicar: Daniel pide abrir ya; Armando aclara que se retrasó para tener todo probado antes de clientes de escala. Reunión la próxima semana.
+- Incidencias app conductores: mayoría errores de usuario; Artur gestionará contactos.
+- Cuotas Hunters: mínimo 15 aperturas/mes, ideal 20; 50% de comisión depende de 15 transportes en 90 días por cliente; pago 50%/100%/150% según aperturas. Armando cuestionó si las metas son altas; primer mes sin objetivo.
+- Gestión de cuentas: Daniel gestionará cuentas abiertas hasta contratar account manager; automatizar cuentas pequeñas.

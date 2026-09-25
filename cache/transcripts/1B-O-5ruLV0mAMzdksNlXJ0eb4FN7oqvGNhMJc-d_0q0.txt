@@ -1,0 +1,34 @@
+Diaria Spain Launch - 2026/09/25 08:31 CST - Notes by Gemini
+sept 25, 2026
+Invitados: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
+
+Resumen
+Revisión operativa sobre Clicars y Deca con integración de soporte y telefonía.
+Acuerdos operativos y Deca: Acuerdo favorable con Clicars y desarrollo de Deca previsto para el miércoles.
+Soporte y telefonía: Ampliación de soporte en España con turnos definidos y evaluación de Cloud Talk.
+Planificación y HubSpot: Creación de accesos a HubSpot y planificación de reuniones semanales.
+
+Decisiones — Requiere más debate
+- Establecimiento tentativo de tarifas por Deca: Se propuso cobrar entre 20 y 90 céntimos por cada Deca, apuntando inicialmente a una tarifa simbólica o ligeramente más alta para negociar después.
+- Creación provisional de números de telefonía: Se discutió la opción de crear un número directamente en Cloud Talk para que las agentes empiecen a trabajar el lunes en caso de que las tarjetas SIM físicas se retrasen.
+- Volcado masivo de listados en Hubspot: Se acordó que Armando le preguntará a Paulo sobre la posibilidad de volcar el archivo de listados de norte y sur directamente en Hubspot.
+
+Próximos pasos
+- [Daniel Escribano] Analizar Precios: Analizar la estructura de precios para el servicio de Deca y definir el costo definitivo.
+- [Armando Flores] Coordinar Soporte: Contactar a Rocío en Finout y poner a Daniel Escribano y Armando Flores en copia del correo para coordinar los contratos y horarios del personal de soporte.
+- [Daniel Escribano] Documentar Formación: Redactar por escrito la formación y el discurso sobre la competencia para futuras incorporaciones.
+- [Daniel Escribano] Gestionar Telefonía: Verificar el número de pedido en Digi para obtener las líneas celulares y comunicárselo a Artur Morais para configurar Cloud Talk.
+- [Armando Flores] Actualizar Hubspot: Consultar con Paulo si puede subir el archivo con los listados de clientes al CRM Hubspot.
+- [Daniel Escribano] Compartir Listados: Enviar el archivo con los listados de clientes norte y sur a Armando Flores.
+- [Artur Morais] Priorizar Producto: Preparar y priorizar las nuevas solicitudes de producto para España junto con el equipo de producto el próximo lunes.
+
+Detalles
+- Actualización de Clicars y programación de rodaje: Daniel Escribano señaló que la jornada laboral fue pesada pero positiva tras las reuniones con clientes, destacando un acuerdo favorable con Clicars. Tras comunicarse con Pablo respecto al rodado, Daniel acordó una reunión para el jueves con la persona encargada de gestionar el proceso para iniciar las pruebas. Artur Morais indicó que Samuel confirmó la creación de otros conductores con el objetivo de alcanzar una cobertura del 100% en la aplicación para el lunes.
+- Presentación de datos, integraciones de correo y Deca: Artur compartió material con indicadores operativos, aunque no había suficientes días con datos completos. Respecto a Deca, Artur actualizó al equipo de producto y estimó que el desarrollo saldrá a más tardar el miércoles, permitiendo pruebas de interacción por correo hasta el lunes. Armando y Daniel conversaron sobre la falta de un precio establecido para este servicio.
+- Incidencias de conexión a internet: Daniel reportó problemas de conexión (dependen de la red del vecino). La operadora exige que sea Nico, como administrador, quien solicite la información del número de pedido.
+- Estrategia de precios para el servicio Deca: Daniel planteó un precio simbólico inicial entre 20 y 50 céntimos, o elevarlo a 70-90 céntimos por unidad para contar con margen de negociación, considerando que Docuten supera los dos mil euros anuales. Daniel se comprometió a revisar las tarifas exactas de Docuten.
+- Contratación y operatividad del equipo de soporte en España: Armando informó que Jacki contrató a un agente de soporte basado en España, que reportará globalmente al equipo de soporte. Daniel enfatizó disponibilidad entre 9:00 y 19:00. Armando aclaró que los turnos cubren diferentes horarios y que Jacki incluirá a Daniel y Armando en los correos con Finout para coordinar horarios. El soporte opera bajo manuales y escala casos complejos a operaciones o a Artur vía HubSpot.
+- Revisión de contratos laborales: Daniel debe revisar con Finout los contratos de las dos nuevas Hunter (errores en periodo de prueba); lo gestionará el lunes.
+- Formación del personal y solución de telefonía: Daniel capacitó a las nuevas incorporaciones y documentará el material. Artur y Daniel evaluaron líneas en Cloud Talk; Daniel verificará en Digi los números de pedido para que Artur configure las cuentas y el personal opere el lunes con ordenador y auriculares, sin WhatsApp temporalmente.
+- Listados regionales y carga en HubSpot: Daniel creó dos listados (norte y sur) y consultó volcarlos en HubSpot. Armando acordó consultar con Paulo. Paulo ya generó accesos a HubSpot.
+- Planificación de Clicars y reuniones semanales: Artur configurará usuarios y viajes para Clicars de cara al lunes, e implementará reuniones todos los lunes con product owners, Paloma y equipo para gestionar solicitudes de España.

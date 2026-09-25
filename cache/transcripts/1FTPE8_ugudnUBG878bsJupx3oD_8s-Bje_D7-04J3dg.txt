@@ -1,30 +1,27 @@
 Seguimiento Piloto Autosur x Draiver – Siguientes pasos - 2026/09/24 10:30 CST - Notes by Gemini
-
 sept 24, 2026
 Invitados: Uriel Vargas (uriel.vargas@draiver.com), Laura Gamboa (coordinador.pyp@autosur.mx), Julia Díaz (julia.diaz@draiver.com), Armando Flores (armando.flores@driverdo.com)
 
-### Resumen
+Resumen
 Revisión de acuerdos legales y logística piloto para la integración de conductores en plataformas.
 Acuerdo y esquema operativo: Proceso legal avanzado y propuesta de esquema paralelo para control de conductores aprobada.
 Definición de rutas piloto: Establecidas rutas iniciales entre Mérida y Quintana Roo para la próxima semana.
 Canales y sesiones de trabajo: Creación de formato en OneDrive y programación de reuniones de arranque confirmadas.
 
-### Decisiones
-- Rutas de traslado para el piloto: Se estableció realizar las rutas de traslado piloto en las trayectorias de Mérida a Cancún y de Mérida a Valladolid.
-- Control de la plataforma por Draiver: Se acordó que el control operativo inicial de la plataforma estará a cargo del equipo de Draiver.
-- Uso de formato en OneDrive para solicitudes: Se decidió utilizar un documento en OneDrive para que los involucrados carguen sus solicitudes, complementando al grupo de WhatsApp.
+Decisiones — Acordada
+- Rutas de traslado para el piloto: Mérida a Cancún y Mérida a Valladolid.
+- Control de la plataforma por Draiver: El control operativo inicial de la plataforma estará a cargo del equipo de Draiver.
+- Uso de formato en OneDrive para solicitudes: documento en OneDrive para que los involucrados carguen sus solicitudes, complementando al grupo de WhatsApp.
 
-### Próximos pasos
+Próximos pasos
 - [José Agustín Vega] Firmar NDA: Gestionar la firma del documento de confidencialidad por parte de Alejandro una vez que el proveedor lo proporcione.
 - [El grupo] Compartir formato: Entregar a Laura el archivo con los campos requeridos para registrar solicitudes de traslados antes del lunes.
 - [El grupo] Enviar materiales: Compartir las diapositivas de la presentación programada para mañana para su revisión previa.
 - [Laura Gamboa] Programar reunión: Convocar a los gerentes regionales y comerciales a la sesión de trabajo del lunes.
 
-### Detalles
-- Estatus del acuerdo de confidencialidad y uso de conductores propios: Armando Flores informó que los datos de Alejandro ya se cargaron en el portal legal para la firma del acuerdo de confidencialidad, el cual estaría listo en un máximo de una hora sin representar un obstáculo para avanzar. Respecto al uso de conductores propios en la plataforma de Draiver, Laura Gamboa indicó inicialmente que esa opción no estaría disponible de inmediato. Sin embargo, Armando Flores propuso ejecutar un esquema en paralelo donde se utilice la plataforma tanto con conductores propios como con los de la empresa proveedora. José Agustín Vega explicó que el objetivo del ingeniero es mantener un control de los conductores propios a través de la herramienta para casos urgentes, mientras que los traslados largos y de mayor riesgo se planeen con veinticuatro horas de anticipación. Laura Gamboa agregó que actualmente no cuentan con conductores dedicados propios, ya que dicha función la realizan colaboradores de manera extraoficial o proveedores externos.
-- Definición de rutas, capacidad y logística inicial del piloto: Armando Flores y Laura Gamboa acordaron que el piloto abarcará las rutas de Mérida a Quintana Roo (Cancún) y de Mérida a Valladolid. Armando Flores sugirió mantener una base fija de dos o tres conductores para cubrir un porcentaje alto de los traslados cotidianos y utilizar a Draiver para los picos de demanda, como cierres de mes o llegada de nuevos modelos. Laura Gamboa especificó que el piloto se pondrá en marcha la próxima semana tras la firma del documento legal. Asimismo, se determinó que el equipo de Draiver llevará inicialmente el control y la carga de los viajes en la plataforma, otorgando visibilidad de acceso a la empresa.
-- Canales de comunicación y gestión de solicitudes: Laura Gamboa propuso crear un grupo de WhatsApp que incluya a los gerentes regionales y comerciales de las zonas mencionadas para coordinar las necesidades operativas. Armando Flores estuvo de acuerdo, pero recomendó consolidar previamente las solicitudes en un archivo para evitar pérdidas de información o visibilidad desigual. Laura Gamboa detalló que los solicitantes incluirán a cuatro gerentes comerciales por zona (tres distribuidoras de Nissan y una de Renault tanto en Mérida como en Cancún) y tres gerentes regionales. Para gestionar esto, Laura Gamboa elaborará un formato en OneDrive que se compartirá con los involucrados antes del día lunes. Julia Diaz explicó que el proceso actual es muy manual y personalizado, donde el área de facturación contacta por teléfono a un proveedor externo de traslados y comparte especificaciones por correo electrónico.
-- Seguridad e identificación de conductores para la prueba: Laura Gamboa planteó la necesidad de definir los mecanismos de seguridad y control dado que los trasladistas de Draiver no son los proveedores habituales conocidos por la empresa. Julia Diaz propuso establecer un proceso para enviar con anticipación las identificaciones de los conductores asignados para que la empresa pueda registrarlos e identificarlos correctamente antes de que pasen por los vehículos.
-- Planificación de sesiones de trabajo y reuniones de arranque: Laura Gamboa solicitó revisar previamente el proceso de comunicación para resolver cualquier duda antes del inicio formal. Julia Diaz acordó compartir un par de diapositivas gráficas con anticipación para su revisión. Armando Flores propuso agendar ambas sesiones de trabajo. José Agustín Vega se retiró de la reunión por compromisos de agenda, indicando que la parte operativa quedará a cargo de Laura Gamboa y solicitando que le avisen cuando el acuerdo de confidencialidad esté listo para la firma de Alejandro. Se fijó una sesión para el día siguiente a las 11:00 horas, la cual estará enfocada en los gerentes regionales para revisar el proceso del piloto, mientras que la reunión con los gerentes comerciales se programó para el día lunes para dar inicio formal a las pruebas. Armando Flores se comprometió a enviar la convocatoria en un par de minutos.
-
-[Nota de la rutina: se guardaron las notas de Gemini; la transcripción literal completa está en el Doc original.]
+Detalles
+- Estatus del NDA y uso de conductores propios: Armando informó que los datos de Alejandro ya se cargaron en el portal legal para la firma del NDA (listo en máximo una hora). Laura indicó que la opción de conductores propios no estaría disponible de inmediato; Armando propuso un esquema en paralelo con conductores propios y de Draiver. José Agustín explicó el objetivo de controlar conductores propios vía la herramienta para urgencias, y planear traslados largos con 24 h de anticipación. Autosur no cuenta con conductores dedicados propios.
+- Rutas, capacidad y logística: Piloto Mérida–Cancún y Mérida–Valladolid. Armando sugirió base fija de 2-3 conductores y Draiver para picos. El piloto arranca la próxima semana tras la firma del NDA. Draiver llevará el control y carga de viajes, dando visibilidad a Autosur.
+- Canales de comunicación: Grupo de WhatsApp con gerentes regionales y comerciales; Armando recomendó consolidar solicitudes en un archivo. Solicitantes: 4 gerentes comerciales por zona (3 Nissan + 1 Renault en Mérida y Cancún) y 3 gerentes regionales. Laura elaborará formato en OneDrive antes del lunes. Julia explicó que el proceso actual es manual (facturación llama a proveedor externo).
+- Seguridad e identificación de conductores: Julia propuso enviar con anticipación las identificaciones de los conductores asignados.
+- Sesiones de trabajo: Julia compartirá diapositivas con anticipación. Sesión al día siguiente a las 11:00 con gerentes regionales (kickoff del proceso); reunión con gerentes comerciales el lunes para arranque formal. Armando se comprometió a enviar la convocatoria en un par de minutos. José Agustín pidió que le avisen cuando el NDA esté listo para la firma de Alejandro.
