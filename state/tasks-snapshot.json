@@ -2045,5 +2045,26 @@
   "title": "prueba de humo",
   "vetoed": false,
   "waiting_on": null
+ },
+ "ff7aa54c1c90": {
+  "action": null,
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-63",
+  "counterparty": null,
+  "created": "2026-09-25T00:28:17+00:00",
+  "domain": "grandes-deals",
+  "due_date": null,
+  "evidence": null,
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": null,
+  "status": "open",
+  "task_id": "ff7aa54c1c90",
+  "title": "Mandar detalle de Autosur (RFC/CSF, filial a facturar) para alta de cuenta en finanzas",
+  "vetoed": false,
+  "waiting_on": null
  }
 }
