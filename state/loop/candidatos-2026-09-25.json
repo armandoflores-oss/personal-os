@@ -1,0 +1,48 @@
+{
+ "fecha": "2026-09-25",
+ "abiertas": 12,
+ "candidatos": [
+  {
+   "task_id": "298dd95c5797",
+   "code": "T-49",
+   "titulo": "Dar seguimiento a Borusan (hilo Borusan/Draiver)",
+   "dominio": "grandes-deals",
+   "evidencia": [
+    {
+     "tipo": "armando_lo_dijo",
+     "detalle": "no me pusiste dar seguimiento a borusan Borusan no es ruido: el clasificador suprimió 3 veces el hilo 'Borusan/Draiver' (gmail, 21 y 22 sep 2026) como sin_compromiso y por eso nunc",
+     "tokens": 2
+    }
+   ]
+  },
+  {
+   "task_id": "6ec8e2f70a98",
+   "code": "T-57",
+   "titulo": "Felipe y Tiago crean la base de conocimiento e integran Hubspot para tener todo listo antes del día 5.",
+   "dominio": "reuniones-espana",
+   "evidencia": [
+    {
+     "tipo": "armando_lo_dijo",
+     "detalle": "T-57 no me toca a mí T-57 (base de conocimiento + Hubspot antes del dia 5) no es de Armando; se reasigno a Felipe. Defecto del parser: reply.py clasifico 'T-57 no me toca a mi' com",
+     "tokens": 4
+    },
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 9
+    }
+   ]
+  },
+  {
+   "task_id": "f0960cc11322",
+   "code": "T-62",
+   "titulo": "Re: Draiver / Grupo Turbofin — Presentación comercial y siguientes pasos",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 6
+    }
+   ]
+  }
+ ]
+}
