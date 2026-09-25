@@ -17,3 +17,4 @@ _Hub. Concentra la densidad de enlaces para que las cards sueltas se mantengan l
 
 ---
 [[home|← Mapa]]
+- 2026-09-25 — Términos de cuenta Turbofin: Net 30, facturación mensual, fixed pricing (alta en finanzas, sep 2026).  <!-- feedback:fact -->
