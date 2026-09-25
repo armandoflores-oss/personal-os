@@ -9,6 +9,11 @@ _Lo que la memoria fue aprendiendo, día por día. Se escribe solo. No es un
 reporte: nadie tiene que leerlo, y nunca va a aparecer en el brief pidiendo
 atención. Está aquí por si algún día quieres ver cómo creció._
 
+## 2026-09-25
+
+  - Tamaño: 32 proyectos · 30 reglas · 16 contexto · 11 gente · 1 fuentes
+  - Sin cards nuevas.
+
 ## 2026-09-24
 
   - Tamaño: 32 proyectos · 30 reglas · 15 contexto · 11 gente · 1 fuentes
