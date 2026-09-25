@@ -2061,7 +2061,7 @@
   "owner": null,
   "snoozed_until": null,
   "source": null,
-  "status": "open",
+  "status": "done",
   "task_id": "ff7aa54c1c90",
   "title": "Mandar detalle de Autosur (RFC/CSF, filial a facturar) para alta de cuenta en finanzas",
   "vetoed": false,

@@ -16,7 +16,6 @@
 
 ## Grandes deals / RFPs
 - **T-49** Dar seguimiento a Borusan (hilo Borusan/Draiver)
-- **T-63** Mandar detalle de Autosur (RFC/CSF, filial a facturar) para alta de cuenta en finanzas
 
 ## Pipeline estratégico
 - **T-31** Re: FORD MX -DRAIVER -MEXICO OPERATION 2A · esperando a Uriel
