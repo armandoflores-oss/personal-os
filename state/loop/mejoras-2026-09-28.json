@@ -1,0 +1,8 @@
+{"mejoras":[
+ {"titulo":"El clasificador no debe suprimir como sin_compromiso hilos de cliente/prospecto donde alguien espera respuesta de Armando",
+  "toca":"clasificador de la rutina de ingesta de gmail (regla sin_compromiso)",
+  "por":"El hilo 'Borusan/Draiver' se suprimió 3 veces (21 y 22 sep 2026) como sin_compromiso y nunca llegó al brief; Armando tuvo que corregirlo a mano. La nueva regla de 'solo si le piden algo explícito' puede empeorarlo si se aplica literal: hace falta que un hilo comercial con pregunta dirigida a él cuente como pendiente aunque no haya imperativo."},
+ {"titulo":"reply.py debe entender 'T-N no me toca' como reasignación, no como otra forma",
+  "toca":"scripts/reply.py (formas del parser)",
+  "por":"'T-57 no me toca a mi' se clasificó mal; la tarea era de Felipe. Hace falta una forma de reasignar/desasignar (con destinatario opcional) para que Armando no tenga que corregir el cierre a mano."}
+]}

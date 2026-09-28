@@ -187,3 +187,11 @@
 {"actor": "system:ingest:gmail", "kind": "create", "payload": {"action": "enviar", "code": "T-62", "counterparty": "turbofin", "domain": "cotizaciones-operativo", "due_date": null, "evidence": "Espero se encuentren muy bien, les comparto por este medio la copia firmada del NDA.", "source": "gmail:1a0d5b6de731a27a", "title": "Re: Draiver / Grupo Turbofin — Presentación comercial y siguientes pasos"}, "task_id": "f0960cc11322", "ts": "2026-09-24T23:46:51+00:00"}
 {"actor": "user", "kind": "create", "payload": {"code": "T-63", "domain": "grandes-deals", "due_date": null, "title": "Mandar detalle de Autosur (RFC/CSF, filial a facturar) para alta de cuenta en finanzas"}, "task_id": "ff7aa54c1c90", "ts": "2026-09-25T00:28:17+00:00"}
 {"actor": "user", "kind": "set_status", "payload": {"status": "done"}, "task_id": "ff7aa54c1c90", "ts": "2026-09-25T00:31:08+00:00"}
+{"actor": "user", "kind": "set_status", "payload": {"evidence": "no soy owner", "status": "done"}, "task_id": "40c7101f520c", "ts": "2026-09-28T18:46:11+00:00"}
+{"actor": "user", "kind": "set_status", "payload": {"evidence": "hoy tengo reunión con ellos", "status": "done"}, "task_id": "f0960cc11322", "ts": "2026-09-28T18:46:11+00:00"}
+{"actor": "user", "kind": "set_status", "payload": {"evidence": "el dueño es Artur y está dando seguimiento", "status": "done"}, "task_id": "6ec8e2f70a98", "ts": "2026-09-28T18:46:11+00:00"}
+{"actor": "user", "kind": "set_owner", "payload": {"owner": "Cristian"}, "task_id": "4b087a8a484f", "ts": "2026-09-28T18:46:11+00:00"}
+{"actor": "user", "kind": "set_owner", "payload": {"owner": "Cristian"}, "task_id": "73f11825b541", "ts": "2026-09-28T18:46:11+00:00"}
+{"actor": "user", "kind": "add_note", "payload": {"note": "Es de Zapata. Accionable: Cristian da seguimiento a este pago."}, "task_id": "4b087a8a484f", "ts": "2026-09-28T18:46:11+00:00"}
+{"actor": "user", "kind": "add_note", "payload": {"note": "Es de Zapata. Accionable: Cristian da seguimiento a este pago."}, "task_id": "73f11825b541", "ts": "2026-09-28T18:46:11+00:00"}
+{"actor": "user", "kind": "add_note", "payload": {"note": "Siguiente paso: Armando genera junta de seguimiento/discusión con Fede y Nico."}, "task_id": "298dd95c5797", "ts": "2026-09-28T18:46:11+00:00"}

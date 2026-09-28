@@ -368,6 +368,11 @@
     "actor": "system:limpieza",
     "note": "evidencia: revertido: fue una prueba de los guardarraíles del loop",
     "ts": "2026-09-24T19:49:45+00:00"
+   },
+   {
+    "actor": "user",
+    "note": "Siguiente paso: Armando genera junta de seguimiento/discusión con Fede y Nico.",
+    "ts": "2026-09-28T18:46:11+00:00"
    }
   ],
   "owner": null,
@@ -570,12 +575,17 @@
     "actor": "system:limpieza",
     "note": "evidencia: revertido: fue una prueba de los guardarraíles del loop",
     "ts": "2026-09-24T19:49:45+00:00"
+   },
+   {
+    "actor": "user",
+    "note": "evidencia: no soy owner",
+    "ts": "2026-09-28T18:46:11+00:00"
    }
   ],
   "owner": null,
   "snoozed_until": "2026-09-09",
   "source": "gmail:1a0825e8628794bf",
-  "status": "open",
+  "status": "done",
   "task_id": "40c7101f520c",
   "title": "Re: [EXT]Re: Element / Draiver: Explorar \"Rides\" en Variable Fleet y negocio Element",
   "vetoed": false,
@@ -646,8 +656,14 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Quedo en espera de su apoyo.",
-  "notes": [],
-  "owner": null,
+  "notes": [
+   {
+    "actor": "user",
+    "note": "Es de Zapata. Accionable: Cristian da seguimiento a este pago.",
+    "ts": "2026-09-28T18:46:11+00:00"
+   }
+  ],
+  "owner": "Cristian",
   "snoozed_until": null,
   "source": "gmail:1a0cab5fc5f50c82",
   "status": "open",
@@ -988,12 +1004,17 @@
     "actor": "system:limpieza",
     "note": "evidencia: revertido: fue una prueba de los guardarraíles del loop",
     "ts": "2026-09-24T19:49:45+00:00"
+   },
+   {
+    "actor": "user",
+    "note": "evidencia: el dueño es Artur y está dando seguimiento",
+    "ts": "2026-09-28T18:46:11+00:00"
    }
   ],
   "owner": "Felipe",
   "snoozed_until": null,
   "source": "drive:1jrjHNr1WzIWiyCDVVwe6OaORgk6c_zlVV9lxBMdw65A",
-  "status": "open",
+  "status": "done",
   "task_id": "6ec8e2f70a98",
   "title": "Felipe y Tiago crean la base de conocimiento e integran Hubspot para tener todo listo antes del día 5.",
   "vetoed": false,
@@ -1096,8 +1117,14 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Les envío la prefactura para que nos apoyen en realizar el pago.",
-  "notes": [],
-  "owner": null,
+  "notes": [
+   {
+    "actor": "user",
+    "note": "Es de Zapata. Accionable: Cristian da seguimiento a este pago.",
+    "ts": "2026-09-28T18:46:11+00:00"
+   }
+  ],
+  "owner": "Cristian",
   "snoozed_until": null,
   "source": "gmail:1a0ca5b72962a4e4",
   "status": "open",
@@ -1928,11 +1955,17 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Espero se encuentren muy bien, les comparto por este medio la copia firmada del NDA.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "evidencia: hoy tengo reunión con ellos",
+    "ts": "2026-09-28T18:46:11+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0d5b6de731a27a",
-  "status": "open",
+  "status": "done",
   "task_id": "f0960cc11322",
   "title": "Re: Draiver / Grupo Turbofin — Presentación comercial y siguientes pasos",
   "vetoed": false,

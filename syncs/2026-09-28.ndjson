@@ -5,3 +5,4 @@
 {"creados": [], "leg": "inbound", "source": "drive", "suprimidos": [{"detail": "", "item_id": "1RtpFl-S8g9aeuHHf1GPshk3anUN6iDN5VTjTgKEHke8", "reason": "sin_compromiso", "source": "drive", "subject": "Diaria Spain Launch - 2026/09/28 08:30 CST - Notes by Gemini", "ts": "2026-09-28T16:54:23+00:00"}], "tope_alcanzado": 0, "ts": "2026-09-28T16:54:23+00:00", "vistos": 1, "watermark": "2026-09-28T15:20:10Z", "ya_vistos": 0}
 {"cambiadas": 0, "cards": 114, "huerfanas": 0, "leg": "tejido", "ts": "2026-09-28T16:54:24+00:00"}
 {"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-09-28T16:54:27+00:00"}
+{"ajustes": [], "fecha": "2026-09-28", "leg": "semanal", "mejoras_propuestas": [{"n": 1, "titulo": "El clasificador no debe suprimir como sin_compromiso hilos de cliente/prospecto "}, {"n": 2, "titulo": "reply.py debe entender 'T-N no me toca' como reasignación, no como otra forma"}], "rechazadas": [], "ts": "2026-09-28T18:02:32+00:00"}
