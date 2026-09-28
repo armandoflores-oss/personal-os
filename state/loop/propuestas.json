@@ -1,11 +1,11 @@
 {
  "6ec8e2f70a98": {
   "code": "T-57",
-  "creada": "2026-09-25T17:01:34+00:00",
+  "creada": "2026-09-26T00:42:54+00:00",
   "degradada": null,
-  "evidencia": "Dijiste 'T-57 no me toca a mí' y la nota dice que se reasignó a Felipe; sale de tu tablero, pero nada dice que Felipe y Tiago ya la terminaron. Por eso es propuesta y no cierre.",
+  "evidencia": "Dijiste 'T-57 no me toca a mí' y la nota dice que se reasignó a Felipe; también salió en junta. Ya no es tuya, pero nada confirma que la base de conocimiento y Hubspot estén terminados: lo propongo ce",
   "firewalled": false,
   "titulo": "Felipe y Tiago crean la base de conocimiento e integran Hubspot para tener todo listo antes del día 5.",
-  "vence": "2026-09-28T17:01:34+00:00"
+  "vence": "2026-09-29T00:42:54+00:00"
  }
 }

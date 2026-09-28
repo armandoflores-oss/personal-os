@@ -1,0 +1,10 @@
+{"reglas":[
+ {"titulo":"Un correo es pendiente de Armando solo si le pide algo a él explícitamente",
+  "veces":3,
+  "destino":"rules",
+  "cuerpo":"**Regla.** Un correo entra al brief como tarea de Armando solo si el correo le pide algo **a él, explícitamente** (una decisión, una respuesta, un entregable suyo).\n\n**Cuándo aplica.** A todo correo que el clasificador evalúe como posible tarea. En particular, NO son tareas suyas:\n- Correos donde Armando solo va copiado y la ejecución es de su equipo.\n- Correos transaccionales de operación (altas, confirmaciones, avisos de viaje) que ejecuta su equipo.\n- Hilos donde hay accionables, pero para otra persona, aunque Armando esté en el hilo.\n\n**Qué la rompe / excepción.** No es licencia para suprimir hilos de clientes o prospectos: si en un hilo comercial (ej. 'Borusan/Draiver', sep 2026) alguien le escribe a Armando o espera su respuesta, sí es pendiente suyo aunque no haya un verbo imperativo. La prueba es '¿alguien está esperando algo de Armando?', no '¿hay una petición con la palabra por favor?'. Ante duda en un hilo con cliente, que entre al brief."},
+ {"titulo":"Minimizar diálogos de aprobación: nada de comandos opcionales, captura agrupada",
+  "veces":3,
+  "destino":"instruccion",
+  "cuerpo":"**Regla.** Armando repitió varias veces (sep 2026) que no quiere que lo frenen con diálogos de aprobación. Complementa la regla ya existente de 'sin `cd`, ruta absoluta, `git -C`':\n- No corras comandos opcionales. Si un script falló y su mensaje de error ya dice qué hacer (ej. el parser de `reply.py`), no corras `reply.py forms` ni nada extra 'para confirmar'.\n- Agrupa la captura: haz las escrituras del turno en el menor número de llamadas posible en vez de una por paso.\n- Cada llamada de Bash es un posible diálogo para él; cuéntalas como un costo.\n\n**Cuándo aplica.** Toda sesión, sobre todo en cierres de tareas y capturas de feedback.\n\n**Excepción.** Sigue pidiendo confirmación para lo que ya la requiere: mandar algo hacia afuera, borrar archivos y lo firewalled. Esta regla reduce comandos, no se salta confirmaciones."}
+]}

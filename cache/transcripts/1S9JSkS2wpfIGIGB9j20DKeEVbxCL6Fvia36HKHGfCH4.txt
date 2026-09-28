@@ -1,0 +1,30 @@
+Casos de Soporte - Validación - 2026/09/25 12:30 CST - Notes by Gemini
+Sep 25, 2026
+Invited: Felipe Martini (felipe.martini@driverdo.com), Paola Marin (paola.marin@driverdo.com), Julia Diaz (julia.diaz@draiver.com), Camila Flores (camila.flores@draiver.com), Armando Flores (armando.flores@driverdo.com)
+
+### Summary
+Support ticket reduction analysis covering AI bot language bugs and escalation failures.
+AI bot language bugs: Prompt structure issues caused bot Livia to switch languages unexpectedly.
+Contact correlation trip errors: System issues occurred when Livia failed to find contacts inside Salesforce.
+Area manager escalation failures: Escalation notifications failed to tag appropriate managers due to empty N3 fields.
+
+### Decisions
+Aligned
+  - Scheduling follow-up status update meeting: The participants agreed to hold a follow-up meeting next Wednesday at the same time to review the AI fix ETAs and investigate further.
+
+### Next steps
+  - [Camila Flores] Share Case Document: Prepare and share a document containing the identified HubSpot AI errors to provide context for the investigation.
+  - [Camila Flores] Provide Escalation Cases: Provide specific examples of cases where the bot failed to tag an area manager in the escalation channel.
+  - [Felipe Martini] Investigate Bugs: Investigate the AM escalation and empty contact field issues to determine if they represent system bugs.
+  - [Paola Marin] Analyze Trip Ticket: Analyze the ticket regarding the trip status marked as complete to identify the cause of the discrepancy.
+  - [The group] Schedule Meeting: Schedule and attend a follow up meeting next Wednesday to review findings and discuss potential solutions.
+
+### Details
+  - Meeting Purpose and Ticket Reduction Analysis: Julia Diaz and Paola Marin convened the meeting to address a noticeable reduction in support tickets received by Paola Marin's team, first identified in HubSpot by Camila Flores. Julia noted drivers are texting area managers' personal cell phones because support isn't resolving their issues.
+  - AI Bot Language and Prompt Bugs: Camila presented cases of Livia switching between Spanish and English, stating "I'm not able to help," failing to open tickets, or closing them prematurely. Felipe explained Livia's prompts are entirely in English without localization context; known bug mapped by the AI team, fix in progress.
+  - Contact Correlation and Trip Status Errors: Livia tells drivers "you are not on a trip" when it cannot correlate the HubSpot semi-contact with Salesforce; redirects them to the app. Felipe to confirm with AI team whether intended or a bug.
+  - Area Manager Escalation Failures: Julia raised cases where Livia promises AM escalation but nothing happens. Escalations post to the channel but sometimes fail to tag AMs, or the N3 field stays empty. Felipe will investigate / report to Thiago; asked Camila for case links.
+  - Follow-Up Schedule: Camila shared the document with HubSpot conversation links. Follow-up next Wednesday same time; Felipe expects ETA for AI fixes and a structured log by then.
+  - Trip Status Marking Discrepancies: Camila reported trips marked complete by support without notice. Paola said agents must not manipulate trip statuses and will review the ticket.
+
+[Nota de la rutina: se guardaron las notas de Gemini; la transcripción literal completa está en el doc original.]
