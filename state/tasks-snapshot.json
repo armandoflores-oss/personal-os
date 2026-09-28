@@ -278,6 +278,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "1b79dc02c937": {
+  "action": "otro",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-65",
+  "counterparty": "turbofin",
+  "created": "2026-09-28T23:47:01+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "A ver si puedes darnos a más tardar mañana antes de las 12 hrs para tomar decisión.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a0ea4bea2fbbf1c",
+  "status": "open",
+  "task_id": "1b79dc02c937",
+  "title": "RV: Solicitud de traslado Camioneta BYD de Playa del Carmen a CDMX  (para cotización DRAIVER)",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "1c6ffdb4b860": {
   "action": "otro",
   "applied": false,

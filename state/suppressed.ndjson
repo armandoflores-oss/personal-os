@@ -992,3 +992,10 @@
 {"detail": "", "item_id": "1a0e9c81109edb8b", "reason": "sin_compromiso", "source": "gmail", "subject": "New Account Request: premier auto body", "ts": "2026-09-28T21:52:38+00:00"}
 {"detail": "", "item_id": "1a0e9c4535086893", "reason": "sin_compromiso", "source": "gmail", "subject": "Pago Confirmado - 9000014033", "ts": "2026-09-28T21:52:38+00:00"}
 {"detail": "", "item_id": "1a0e9bf561976d00", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: JAC 4 VM009491 PARABRISAS ESTRELLADO", "ts": "2026-09-28T21:52:38+00:00"}
+{"detail": "^\\s*accepted:", "item_id": "1a0ea584e7ce553b", "reason": "meta", "source": "gmail", "subject": "Accepted: Weekly Kavak / Draiver Leaders @ Wed Sep 30, 2026 10:30am - 11:30am (CST) (armando.flores@driverdo.com)", "ts": "2026-09-28T23:47:01+00:00"}
+{"detail": "", "item_id": "1a0ea1628a6e752f", "reason": "sin_compromiso", "source": "gmail", "subject": "Spreadsheet shared with you: \"Piloto TurboFin\"", "ts": "2026-09-28T23:47:01+00:00"}
+{"detail": "", "item_id": "1a0ea15f12e56852", "reason": "sin_compromiso", "source": "gmail", "subject": "Your import \"Hunting ES – Sur – Beatriz\" is ready", "ts": "2026-09-28T23:47:01+00:00"}
+{"detail": "", "item_id": "1a0ea13b4591532f", "reason": "sin_compromiso", "source": "gmail", "subject": "Your import \"Hunting ES – Norte – Lucía\" is ready", "ts": "2026-09-28T23:47:01+00:00"}
+{"detail": "^\\s*declined:", "item_id": "1a0ea0dfa54e7526", "reason": "meta", "source": "gmail", "subject": "Declined: Draiver - Kavak CDMX @ Mon Sep 28, 2026 4:30pm - 5pm (CST) (Armando Flores)", "ts": "2026-09-28T23:47:01+00:00"}
+{"detail": "", "item_id": "1Ly-tAe58yHuniPiqoKkfVtbkKykpx9ULAS4Oqup5jU8", "reason": "sin_compromiso", "source": "drive", "subject": "Check - Kavak - 2026/09/28 15:01 CST - Notes by Gemini", "ts": "2026-09-28T23:47:01+00:00"}
+{"detail": "", "item_id": "1G8kVFVwx57DhPYiZ44fKNv7C48kbS2vlBsE8N1jWT-c", "reason": "sin_compromiso", "source": "drive", "subject": "Daily Huddle - Ops MX - 2026/09/28 09:14 CST - Notes by Gemini", "ts": "2026-09-28T23:47:01+00:00"}

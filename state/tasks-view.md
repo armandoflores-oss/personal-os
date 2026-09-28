@@ -8,6 +8,7 @@
 - **T-51** Re: MUSTANG | GRIS CARBONO | 1FA6P8CF6T5408892
 - **T-53** Re: RANGER | GRIS CARBONO | AFAHR6MB0VP148872
 - **T-59** Re: COTIZACION PACHUCA A ZUMPANGO
+- **T-65** RV: Solicitud de traslado Camioneta BYD de Playa del Carmen a CDMX  (para cotización DRAIVER)
 
 ## Grandes deals / RFPs
 - **T-49** Dar seguimiento a Borusan (hilo Borusan/Draiver)
