@@ -11,8 +11,9 @@ atención. Está aquí por si algún día quieres ver cómo creció._
 
 ## 2026-09-28
 
-  - Tamaño: 32 proyectos · 30 reglas · 16 contexto · 11 gente · 1 fuentes
-  - Sin cards nuevas.
+  - Tamaño: 33 proyectos · 32 reglas · 16 contexto · 11 gente · 1 fuentes
+  - **projects**: [[borusan-agenda-junta-seguimiento]]
+  - **rules**: [[correo-pendiente-pide-explicitamente]], [[nunca-armes-bash-compuesto]]
 
 ## 2026-09-25
 
