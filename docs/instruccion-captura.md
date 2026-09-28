@@ -146,3 +146,15 @@ Armando quiere avanzar sin diálogos de por medio. Los que ve vienen de los perm
 - No le pidas confirmación en cada cierre de tarea: son escrituras reversibles y git es el undo.
 - Los comandos del Personal OS se corren **sin prefijo `cd`** (está denegado en settings) y con ruta absoluta: `python3 "/Users/armando/Documents/Claude Personal Improvement/scripts/..."`.
 - Para git, `git -C "<repo>"`, nunca `cd <repo> && git`.
+
+## Minimizar diálogos de aprobación: nada de comandos opcionales, captura agrupada
+<!-- regla-semanal: minimizar-dialogos-aprobacion-nada -->
+
+**Regla.** Armando repitió varias veces (sep 2026) que no quiere que lo frenen con diálogos de aprobación. Complementa la regla ya existente de 'sin `cd`, ruta absoluta, `git -C`':
+- No corras comandos opcionales. Si un script falló y su mensaje de error ya dice qué hacer (ej. el parser de `reply.py`), no corras `reply.py forms` ni nada extra 'para confirmar'.
+- Agrupa la captura: haz las escrituras del turno en el menor número de llamadas posible en vez de una por paso.
+- Cada llamada de Bash es un posible diálogo para él; cuéntalas como un costo.
+
+**Cuándo aplica.** Toda sesión, sobre todo en cierres de tareas y capturas de feedback.
+
+**Excepción.** Sigue pidiendo confirmación para lo que ya la requiere: mandar algo hacia afuera, borrar archivos y lo firewalled. Esta regla reduce comandos, no se salta confirmaciones.
