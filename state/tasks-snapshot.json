@@ -1251,6 +1251,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "83736b6acee1": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-64",
+  "counterparty": "element",
+  "created": "2026-09-28T21:52:38+00:00",
+  "domain": "pipeline-estrategico",
+  "due_date": null,
+  "evidence": "Espero se encuentren bien, les comparto la lista preliminar de unidades para entrega de la siguiente semana y subsecuente, esto para que puedan empezar a preparar a los drivers y lo necesario para cum",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a0e9bbd4a403f73",
+  "status": "open",
+  "task_id": "83736b6acee1",
+  "title": "Propuesta de entrega",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "84da2aa4b831": {
   "action": "enviar",
   "applied": false,
