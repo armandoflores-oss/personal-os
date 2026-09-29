@@ -19,3 +19,4 @@
 {"creados": [], "leg": "inbound", "source": "drive", "suprimidos": [{"detail": "", "item_id": "1Ly-tAe58yHuniPiqoKkfVtbkKykpx9ULAS4Oqup5jU8", "reason": "sin_compromiso", "source": "drive", "subject": "Check - Kavak - 2026/09/28 15:01 CST - Notes by Gemini", "ts": "2026-09-28T23:47:01+00:00"}, {"detail": "", "item_id": "1G8kVFVwx57DhPYiZ44fKNv7C48kbS2vlBsE8N1jWT-c", "reason": "sin_compromiso", "source": "drive", "subject": "Daily Huddle - Ops MX - 2026/09/28 09:14 CST - Notes by Gemini", "ts": "2026-09-28T23:47:01+00:00"}], "tope_alcanzado": 0, "ts": "2026-09-28T23:47:01+00:00", "vistos": 2, "watermark": "2026-09-28T21:27:57Z", "ya_vistos": 0}
 {"casi": [], "cerrados": [], "leg": "outbound", "revisados": 1, "ts": "2026-09-28T23:47:01+00:00"}
 {"cambiadas": 0, "cards": 117, "huerfanas": 0, "leg": "tejido", "ts": "2026-09-28T23:47:02+00:00"}
+{"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-09-28T23:47:05+00:00"}

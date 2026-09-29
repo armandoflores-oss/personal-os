@@ -1,0 +1,19 @@
+{
+ "fecha": "2026-09-28",
+ "abiertas": 11,
+ "candidatos": [
+  {
+   "task_id": "298dd95c5797",
+   "code": "T-49",
+   "titulo": "Dar seguimiento a Borusan (hilo Borusan/Draiver)",
+   "dominio": "grandes-deals",
+   "evidencia": [
+    {
+     "tipo": "armando_lo_dijo",
+     "detalle": "no me pusiste dar seguimiento a borusan Borusan no es ruido: el clasificador suprimió 3 veces el hilo 'Borusan/Draiver' (gmail, 21 y 22 sep 2026) como sin_compromiso y por eso nunc",
+     "tokens": 2
+    }
+   ]
+  }
+ ]
+}
