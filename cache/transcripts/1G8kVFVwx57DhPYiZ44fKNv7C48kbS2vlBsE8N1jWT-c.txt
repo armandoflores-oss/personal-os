@@ -1,0 +1,16 @@
+Daily Huddle - Ops MX - 2026/09/28 09:14 CST - Notes by Gemini
+Invited: Uriel Vargas, Cristian Arizmendi, Julia Diaz, Armando Flores, Diego Diaz, Camila Flores, Jose Duran, Gerardo Acosta
+
+Summary
+Transit control discussion with Quattro driver status and system testing evaluation via physical checks
+- Transit Control And Drivers: Introductory discussion touched upon transit control and drivers with various speech-testing remarks.
+- Quattro Drivers Status: Discussions covered Quattro drivers, recollection, and disposal processes noting status updates.
+- Physical System Testing: Participants addressed physical checks and system testing procedures alongside driver-related details.
+
+Next steps
+No suggested next steps were found for this meeting.
+
+Details
+- Transit Control and Driver Mentions: Uriel Vargas, Camila Flores, Cristian Arizmendi, and Julia Diaz engaged in an introductory discussion touching upon transit control and drivers. Cristian Arizmendi and Uriel Vargas referenced transit movement and drivers. No formal consensus or definitive decisions were established.
+- Quattro Drivers and Disposal: Cristian Arizmendi, Julia Diaz, Diego Diaz, and Jose Duran discussed Quattro drivers, recollection, and disposal. Cristian Arizmendi noted the status of Quattro drivers, mentioning that there are not two of them, while Jose Duran brought up recollection and disposal processes. No formal consensus or specific action outcomes.
+- Physical Checks and System Testing: Jose Duran, Uriel Vargas, Julia Diaz, and Camila Flores addressed physical checks and system testing procedures. No final decisions were finalized.

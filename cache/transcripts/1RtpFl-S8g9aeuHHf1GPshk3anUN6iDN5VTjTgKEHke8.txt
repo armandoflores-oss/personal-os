@@ -1,0 +1,36 @@
+Diaria Spain Launch - 2026/09/28 08:30 CST - Notes by Gemini
+Invitados: Daniel Escribano, Armando Flores, Artur Morais
+
+Resumen
+Actualización sobre mudanzas con resolución de incidencias y gestión de leads en HubSpot
+- Mudanza y gestión bancaria: Artur Morais completó su mudanza a España y abrió una cuenta bancaria. Daniel Escribano resolvió una incidencia de transporte.
+- Carga de leads en HubSpot: Armando Flores subirá más de 2.000 leads a HubSpot. Daniel Escribano gestionará los permisos de asignación.
+- Retrasos de internet y telefonía: Critica los retrasos de Finout y Rigi con las tarjetas SIM. Las hunters limpian listas de leads mientras evalúan líneas temporales en CloudTalk.
+
+Decisiones
+Requiere más debate:
+- Creación de líneas temporales provisionales en CloudTalk para que las hunters comiencen a llamar antes de recibir las tarjetas SIM definitivas.
+- Implementación de clases de inglés subvencionadas: proponer un profesor de inglés subvencionado para la oficina con apoyo de la empresa.
+Acordada:
+- Subida de ficheros de leads a HubSpot: Armando Flores subirá los ficheros de los leads de los hunters directamente con acceso de administrador.
+
+Próximos pasos
+- [Artur Morais, Daniel Escribano] Aprender reportes: sesión de trabajo para aprender a realizar el mapeo de procesos y el informe de incidencias.
+- [Armando Flores] Subir leads: Cargar los ficheros de leads en HubSpot tras obtener los accesos necesarios.
+- [Daniel Escribano] Solicitar acceso leads: Gestionar los permisos para cambios en las asignaciones de leads dentro de HubSpot.
+- [Daniel Escribano] Enviar plan incentivos: Remitir el plan de incentivos a Nico para su aprobación antes de compartirlo con el equipo.
+- [Armando Flores] Gestionar formación inglés: Consultar con Rafa la viabilidad de proporcionar clases de inglés como beneficio social en la oficina.
+- [Artur Morais, Daniel Escribano] Compartir manuales: Intercambiar los documentos de formación de Driver y los manuales creados por el equipo.
+
+Detalles
+- Mudanza de Artur Morais en España: ya cuenta con piso propio tras firmar contrato el viernes y mudarse el fin de semana.
+- Cuenta bancaria y gestión de conductor: Artur abrió cuenta en banco español para servicios básicos. Modificación de horario de un conductor gestionada para las 12:00.
+- Incidencia de transporte con Card 10: vehículo que Card 10 no quería entregar a un conductor; Dani consiguió otro transporte en Barcelona para no perder el pago. Artur propuso cambiar el coche directamente en el viaje sin crear uno nuevo y usar "dry run".
+- Reporte de incidencias y leads: Artur propuso informe de fin de mes a Card 10 con recogidas fallidas. Armando subirá hoy más de 2.000 leads de las hunters a HubSpot y los asignará.
+- Automatización y reasignación de leads: Armando probará con unos cuantos registros antes de volcar el total, o pedirá ayuda a Claude. Dani enviará plan de incentivos a Nico.
+- Demoras en internet y líneas: Dani frustrado por retrasos de Finout y Rigi con SIMs para las hunters (prometieron 24-48 h). Preparó manuales de entrada y de competencia. La prioridad crítica son las SIM con número propio.
+- Bases de datos y líneas temporales en CloudTalk: las hunters limpian listas para llegar a responsables de logística. Artur propuso líneas temporales en CloudTalk; Dani preocupado por devoluciones de llamada. Pablo indica que el trámite ya está en curso; evaluar si esperar o usar CloudTalk temporal.
+- Viajes a España: Armando viaja del 25 de octubre al 7-8 de noviembre; posibles visitas a Finlandia con BCA y a Córdoba (Kevin también). Paloma con problemas de visado en EE.UU.
+- Clases de inglés subvencionadas: Dani propone profesor presencial deducible como formación. Armando lo planteará a Rafa.
+- Inglés en equipos y HubSpot: Dani verificará que las hunters integren Gmail/Google con HubSpot.
+- Documentación Driver Spain: Artur compartirá documentos de Nico con Dani. Armando tomará los apuntes de la junta de producto del día siguiente.

@@ -5,7 +5,10 @@
   "degradada": null,
   "evidencia": "Dijiste 'T-57 no me toca a mí' y la nota dice que se reasignó a Felipe; también salió en junta. Ya no es tuya, pero nada confirma que la base de conocimiento y Hubspot estén terminados: lo propongo ce",
   "firewalled": false,
+  "motivo": "Armando actuó sobre el item (set_status)",
   "titulo": "Felipe y Tiago crean la base de conocimiento e integran Hubspot para tener todo listo antes del día 5.",
-  "vence": "2026-09-29T00:42:54+00:00"
+  "vence": "2026-09-29T00:42:54+00:00",
+  "vetada": true,
+  "vetada_el": "2026-09-29T15:08:38+00:00"
  }
 }

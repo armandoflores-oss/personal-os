@@ -1,0 +1,42 @@
+Diaria Spain Launch - 2026/09/29 08:30 CST - Notes by Gemini
+Invitados: Daniel Escribano, Armando Flores, Artur Morais
+
+Resumen
+Configuración de CloudTalk con actualización en HubSpot y revisión del proyecto Clicars y procesos financieros
+- Configuración y cuentas: CloudTalk requiere prueba de propiedad para líneas virtuales. HubSpot actualizó y asignó cuentas estratégicas.
+- Proyecto Clicars y DECA: Proyecto Clicars muestra bajo uso de la aplicación por conductores. Proveedores ocasionales requieren generación de documentos DECA para el 5 de octubre.
+- Procesos y automatización: Flujo de facturas y soporte técnico avanzan. Viajes se crean manualmente esperando automatización.
+
+Decisiones
+Requiere más debate:
+- Evaluación de soluciones para generación de DECA: Se evaluarán dos opciones técnicas para la generación de DECA de proveedores casuales asegurando su contabilización para cobro.
+Acordada:
+- Generación de líneas virtuales para Cloud Talk: Se acordó generar líneas virtuales en Cloud Talk en lugar de realizar una portabilidad completa.
+- Reestructuración de objetivos y rol de Artur: Se acordó resumir los objetivos y la descripción de puesto de Artur en solicitudes de producto y soporte operativo.
+
+Próximos pasos
+- [Armando Flores] Abrir cuenta Hotspot: Crear una cuenta en Hotspot para Gerardo y asignarle las cuentas estratégicas.
+- [Artur Morais] Programar reunión Clicars: Agendar y realizar la reunión de seguimiento con el equipo de Clicars para el próximo viernes.
+- [Artur Morais] Finalizar facturación Driver Pay: Completar el proceso de facturación para los clientes con Kevin.
+- [Artur Morais] Cerrar registro: Finalizar el proceso de registro pendiente.
+- [Armando Flores] Revisar objetivos: Coordinar la revisión de los objetivos de producto de Artur con Paloma.
+
+Detalles
+Configuración de Cloud Talk y líneas virtuales: Artur Morais indicó que Dani envió los números de Cloud Talk para configurar, aclarando que no se trata de una portabilidad completa a una línea normal, sino de una opción de identificador de llamadas virtual o línea virtual. Armando Flores y Artur Morais coincidieron en que no es posible mantener el número en ambos lados simultáneamente. Artur Morais solicitó a Dani una prueba de propiedad (como una factura con las líneas listadas) para efectuar el proceso, estimando que será más rápido que el plazo inicial de doce días al no haber portabilidad.
+
+Actualización y asignación de cuentas en HubSpot: Armando Flores explicó que subió todas las cuentas a HubSpot, eliminó duplicados y cuentas estratégicas, y las asignó a dos colaboradoras. Además, Armando Flores propuso abrir una cuenta en HubSpot para Gerardo con el fin de asignarle las cuentas estratégicas y registrar las interacciones.
+
+Estado del proyecto Clicars y uso de la aplicación por conductores: Artur Morais informó que el responsable técnico en México aún no ha respondido debido a la diferencia horaria, aunque se estableció el miércoles como límite de entrega y se programó una junta con dicho responsable, Bruno y Paloma. Artur Morais creó todos los conductores en Command Center y asignó viajes para el lunes, pero notó que solo los dos conductores iniciales del piloto utilizaron la aplicación. Armando Flores cuestionó la falta de uso por parte de los demás, y Artur Morais acordó con Clicars una reunión para el viernes para revisar uno o dos días de prueba, definir responsabilidades y ajustar los viajes nocturnos cuyas matrículas se conocen con poca anticipación.
+
+Proceso de generación de DECA para proveedores casuales: Pablo planteó la necesidad de generar documentos DECA para proveedores ocasionales que no están en Driver. Artur Morais conversó con Paloma sobre dos posibles soluciones técnicas: crear una habilidad en la nube para generar el archivo PDF o habilitar una interfaz donde los proveedores ingresen la información y extraigan el archivo directamente. Armando Flores sugirió otorgar usuarios temporales o enviar los documentos a través de un intermediario. Artur Morais destacó la importancia de contabilizar estos DECA externos para asegurar el cobro correspondiente. Asimismo, Artur Morais recordó que la obligatoriedad del DECA entra en vigor el 5 de octubre y que están pendientes las tarifas de cobro que debe definir Dani.
+
+Procesos financieros, de pagos y soporte operativo: Artur Morais señaló que está trabajando con Kevin para cerrar el flujo de facturas de pago a conductores y preparar las facturas de fin de mes para los clientes Car 10 y otro cliente. Adicionalmente, Artur Morais realiza seguimiento al soporte técnico para arrancar el lunes con al menos un agente y avanzar en el proceso de registro pendiente.
+
+Automatización de viajes y revisión de objetivos de desempeño: Artur Morais comentó que actualmente crea los viajes de forma manual al final del día, a la espera de que la solución DECA y la automatización de viajes compartida por Clicars se integren. Armando Flores acordó con Paloma revisar y resumir los objetivos de producto de Artur Morais en torno a la gestión de solicitudes, ejecución y soporte operativo. Armando Flores también se reunió con Nico y Fede el viernes para definir los roles y descripciones de puestos.
+
+Transcripción (extracto clave)
+Armando Flores: Falta que Dani no les ha hecho propuesta de cuánto les va a cobrar el DECA, ¿no?
+Artur Morais: Eso quedó pendiente de la junta de jueves.
+Armando Flores: Sí, porque ya tienen que arrancar DECA en octubre, ¿no?
+Artur Morais: Sí, pasa a ser obligatorio 5 de octubre, entonces próximo lunes. La idea es que podamos probar a partir de mañana o a más tardar jueves; jueves y viernes de pruebas para que el lunes arranquemos con todo listo.
+Armando Flores: O sea, vamos justos de tiempo, pero sí vamos.
