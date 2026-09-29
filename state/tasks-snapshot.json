@@ -1068,6 +1068,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "703b0bca2d85": {
+  "action": "otro",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-66",
+  "counterparty": "clicars",
+  "created": "2026-09-29T16:47:26+00:00",
+  "domain": "reuniones-espana",
+  "due_date": null,
+  "evidence": "Artur creó todos los conductores en Command Center y asignó viajes para el lunes, pero solo los dos conductores iniciales del piloto usaron la aplicación.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "drive:161VTipyDFjmloNGRF5ab_gw5A6ulUidlmUkzQzqoIvI",
+  "status": "open",
+  "task_id": "703b0bca2d85",
+  "title": "Artur creó todos los conductores en Command Center y asignó viajes para el lunes, pero solo los dos conductores iniciale",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "71be9a163a47": {
   "action": "otro",
   "applied": false,

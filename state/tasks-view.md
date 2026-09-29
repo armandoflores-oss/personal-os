@@ -10,6 +10,9 @@
 - **T-59** Re: COTIZACION PACHUCA A ZUMPANGO
 - **T-65** RV: Solicitud de traslado Camioneta BYD de Playa del Carmen a CDMX  (para cotización DRAIVER)
 
+## Reuniones España
+- **T-66** Artur creó todos los conductores en Command Center y asignó viajes para el lunes, pero solo los dos conductores iniciale
+
 ## Grandes deals / RFPs
 - **T-49** Dar seguimiento a Borusan (hilo Borusan/Draiver)
 
