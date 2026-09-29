@@ -289,11 +289,17 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "A ver si puedes darnos a más tardar mañana antes de las 12 hrs para tomar decisión.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-09-29T17:53:16Z a turbofin: «RE: Solicitud de traslado Camioneta BYD de Playa del Carmen a CDMX (para cotizac»",
+    "ts": "2026-09-29T19:46:36+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0ea4bea2fbbf1c",
-  "status": "open",
+  "status": "done",
   "task_id": "1b79dc02c937",
   "title": "RV: Solicitud de traslado Camioneta BYD de Playa del Carmen a CDMX  (para cotización DRAIVER)",
   "vetoed": false,

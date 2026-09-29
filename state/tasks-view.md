@@ -8,7 +8,6 @@
 - **T-51** Re: MUSTANG | GRIS CARBONO | 1FA6P8CF6T5408892
 - **T-53** Re: RANGER | GRIS CARBONO | AFAHR6MB0VP148872
 - **T-59** Re: COTIZACION PACHUCA A ZUMPANGO
-- **T-65** RV: Solicitud de traslado Camioneta BYD de Playa del Carmen a CDMX  (para cotización DRAIVER)
 
 ## Reuniones España
 - **T-66** Artur creó todos los conductores en Command Center y asignó viajes para el lunes, pero solo los dos conductores iniciale
