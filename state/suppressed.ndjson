@@ -1095,3 +1095,9 @@
 {"detail": "", "item_id": "1a0f3dd4d62ffb9e", "reason": "sin_compromiso", "source": "gmail", "subject": "Your receipt from Anthropic, PBC #2648-8956-6350", "ts": "2026-09-30T21:46:08+00:00"}
 {"detail": "", "item_id": "1a0f3dd765134e17", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: ARCHIVO CONCENTRADO SINIESTROS DRIVER DO A 30 SEP P2026", "ts": "2026-09-30T21:46:08+00:00"}
 {"action": "enviar", "counterparty": "pylc", "detail": "ya abierto en T-68", "item_id": "1a0f3dc5d97d9fb6", "reason": "duplicado", "source": "gmail", "subject": "ARCHIVO  CONCENTRADO  SINIESTROS DRIVER DO  A 30 SEP P2026", "ts": "2026-09-30T21:46:08+00:00"}
+{"detail": "", "item_id": "1a0f4945043ed166", "reason": "sin_compromiso", "source": "gmail", "subject": "Your latest payslip is now available", "ts": "2026-09-30T23:46:08+00:00"}
+{"detail": "", "item_id": "1a0f48d3bb0fb417", "reason": "sin_compromiso", "source": "gmail", "subject": "Prueba piloto Mendel + Próximos pasos", "ts": "2026-09-30T23:46:08+00:00"}
+{"detail": "^\\s*invitation:", "item_id": "1a0f46a37ca86827", "reason": "meta", "source": "gmail", "subject": "Invitation: Mendell Pilot Ending Dec29 - Check SaaS fee and if make s... @ Mon Dec 28, 2026 8am - 9am (CST) (Armando Flo", "ts": "2026-09-30T23:46:08+00:00"}
+{"detail": "", "item_id": "1a0f468c305ace04", "reason": "sin_compromiso", "source": "gmail", "subject": "Draiver <> Mendel Onboarding", "ts": "2026-09-30T23:46:08+00:00"}
+{"detail": "", "item_id": "1a0f44cb2d4e9ad6", "reason": "sin_compromiso", "source": "gmail", "subject": "What's new in Confluence, Jira, and Loom", "ts": "2026-09-30T23:46:08+00:00"}
+{"detail": "", "item_id": "1a0f4495c759e640", "reason": "sin_compromiso", "source": "gmail", "subject": "Notes: “Kavak - Fuel & Casetas Disputadas” Sep 30, 2026", "ts": "2026-09-30T23:46:08+00:00"}
