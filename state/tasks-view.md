@@ -8,6 +8,8 @@
 - **T-51** Re: MUSTANG | GRIS CARBONO | 1FA6P8CF6T5408892
 - **T-53** Re: RANGER | GRIS CARBONO | AFAHR6MB0VP148872
 - **T-59** Re: COTIZACION PACHUCA A ZUMPANGO
+- **T-67** RE: POLIZA : 5 - 201 - M - 46169 REPORTE 5-201-2025-R-101 SERIE WMWX9108KTF04806//MINI COOPER MODELO 2003 COLOR ROJO PLA
+- **T-68** RE: Concentrado Driverdo Septiembre 2026
 
 ## Reuniones España
 - **T-66** Artur creó todos los conductores en Command Center y asignó viajes para el lunes, pero solo los dos conductores iniciale
