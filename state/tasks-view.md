@@ -11,6 +11,9 @@
 - **T-67** RE: POLIZA : 5 - 201 - M - 46169 REPORTE 5-201-2025-R-101 SERIE WMWX9108KTF04806//MINI COOPER MODELO 2003 COLOR ROJO PLA
 - **T-68** RE: Concentrado Driverdo Septiembre 2026
 
+## Operación Kavak
+- **T-69** RV: Draiver reclamo 1849, 5-201-2026M13, unidad 3HGGK5874HM008202 Kavak Mexico
+
 ## Reuniones España
 - **T-66** Artur creó todos los conductores en Command Center y asignó viajes para el lunes, pero solo los dos conductores iniciale
 

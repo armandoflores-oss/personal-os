@@ -332,6 +332,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "201f925406d6": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-69",
+  "counterparty": "kavak",
+  "created": "2026-09-30T19:46:50+00:00",
+  "domain": "operacion-kavak",
+  "due_date": null,
+  "evidence": "De: Diaz Puga Moises <moises.diaz@segurossura.com.mx> Estimado Juan, buen día Te envío los formatos...",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a0f3560bc67b6c5",
+  "status": "open",
+  "task_id": "201f925406d6",
+  "title": "RV: Draiver reclamo 1849, 5-201-2026M13, unidad 3HGGK5874HM008202 Kavak Mexico",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "207c6a5f5690": {
   "action": "confirmar",
   "applied": false,
