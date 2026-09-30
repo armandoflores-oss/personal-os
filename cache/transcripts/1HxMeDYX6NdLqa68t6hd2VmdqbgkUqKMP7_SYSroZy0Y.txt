@@ -1,0 +1,27 @@
+SLAs Mx - 2026/09/29 14:00 GMT-03:00 - Notes by Gemini
+Invitados: Paloma Calderon, Armando Flores, Carolina Osses, Julia Diaz
+
+Resumen
+Revisión operativa de integración con Cabac y definición de presupuestos fijos.
+Problemas operativos de integración: Integración actual con Cabac presenta problemas operativos y falta de pruebas adecuadas.
+Presupuestos fijos y acuerdos: Confusión sobre presupuestos fijos y acuerdos de nivel de servicio para México.
+Verificación de estado Aliados: Verificación de precios fijos con Aliados para definir próximas acciones.
+
+Decisiones
+Requiere más debate:
+- Validación de prioridad y alcance de cotizaciones: se aplazó la definición de cotizaciones y precios fijos hasta verificar requerimientos y prioridad con Alberto Tobar.
+Acordada:
+- Criterio de tiempos de entrega para cotizaciones: 24 horas para traslados locales dentro del metro de CDMX y 48 horas para el resto.
+
+Próximos pasos
+- [Julia Diaz] Confirmar pruebas operativas: Consultar con operaciones si se están ejecutando pruebas de los flujos de la nueva integración.
+- [Julia Diaz] Revisar problemas integración: Investigar la situación operativa con los despachadores de Cabac.
+- [Armando Flores] Aclarar requerimientos Cabac: Contactar a Tobar para definir requerimientos y estado de la integración de cotizaciones y SLAs para Cabac Aliados.
+- [Armando Flores] Consultar proyecto marketplace: Solicitar información sobre el progreso del proyecto de integración de marketplace.
+
+Detalles
+Problemas de integración con Cabac: cancelaciones de servicios logísticos no actualizan asignaciones en Minerva; procesos manuales. Falta de pruebas operativas del lado de Cabac genera desconfianza.
+Presupuestos fijos y SLAs: Ale Masa asumió que la nueva integración incluiría quotes y SLAs esta semana; el equipo operativo local no lo conocía. 20% de casos de Cabac son excepciones (cancelaciones, reprogramaciones, dry runs).
+Modelo EE. UU.: Carolina explica Service App (precio y tiempo por código postal, tabla compartida con Marketplace). Pide saber la prioridad real para México y que el equipo local provea la información.
+Cabac vs Cabac Aliados: Aliados es plataforma de compraventa entre lotes donde se cotiza el traslado (ej. CDMX a Pachuca). Genera un servicio logístico que ejecuta el equipo de Julia. Responsable del lado de Cabac: Alberto Tobar.
+Estado Aliados: sin mensajes en el chat de Aliados desde el 1 de julio. Se acordó confirmar estos puntos la semana siguiente.

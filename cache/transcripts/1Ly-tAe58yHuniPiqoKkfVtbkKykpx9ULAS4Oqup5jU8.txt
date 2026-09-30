@@ -2,35 +2,29 @@ Check - Kavak - 2026/09/28 15:01 CST - Notes by Gemini
 Invited: Jaqueline Sanches, Julia Diaz, Armando Flores
 
 Summary
-Salary proposals and benefits research debated with overtime regulations and offer logistics reviewed
-- Salary and Benefit Proposals: Base salaries proposed for 4 employees. Life insurance comparisons remain pending.
-- Overtime and Work Schedules: Overtime data presented for April. Sunday shifts clarified for support rotation.
-- Bonus and System Setup: Quarterly bonus structure deemed unfeasible. System accesses and equipment allowances discussed.
+Salary proposals and benefits research debated with overtime regulations and offer logistics reviewed.
+Salary and Benefit Proposals: Base salaries proposed for 4 employees. Life insurance comparisons remain pending.
+Overtime and Work Schedules: Overtime data presented for April. Sunday shifts clarified for support rotation.
+Bonus and System Setup: Quarterly bonus structure deemed unfeasible. System accesses and equipment allowances discussed.
 
 Decisions (Aligned)
 - Start Date for Incoming Team Members: October 15th as the first start date.
 - Equipment and Cell Phone Allowance: equipment allowance covering equipment and cell phones through Airbase.
-- Transition Meeting Cadence: weekly or twice-weekly meetings until onboarding and transition issues are solved.
+- Transition Meeting Cadence: weekly or twice-weekly meetings until onboarding/transition issues are solved.
 
 Next steps
-- [Jaqueline Sanches] Request vacation data: Obtain remaining vacation balance information for Sebastian, Otavio, and VMO.
-- [Jaqueline Sanches] Verify overtime details: Confirm expected overtime and Sunday work requirements with the relevant point of contact.
-- [Jaqueline Sanches] Update offer letters: Incorporate PTO and vacation time details into all candidate contracts.
+- [Jaqueline Sanches] Request vacation data: Obtain remaining vacation balance for Sebastian, Otavio, and VMO.
+- [Jaqueline Sanches] Verify overtime details: Confirm expected overtime and Sunday work requirements.
+- [Jaqueline Sanches] Update offer letters: Incorporate PTO and vacation time into candidate contracts.
 - [Jaqueline Sanches] Compare insurance policies: Analyze current and proposed life insurance policies.
-- [Jaqueline Sanches] Request bonus history: Collect records of past bonus payouts to establish accurate monthly figures.
+- [Jaqueline Sanches] Request bonus history: Collect past bonus payouts to establish monthly figures.
 - [Julia Diaz] Schedule meetings: Set up a recurring weekly or bi-weekly meeting to review hiring progress.
-- [Julia Diaz, Armando Flores] Develop data reports: Create a standardized process to extract GNO data directly from the system for reporting.
+- [Julia Diaz, Armando Flores] Develop data reports: Create a standardized process to extract GNO data directly from the system.
 - [Armando Flores] Manage system access: Define and coordinate necessary permissions for Kavak systems for new employees.
 - [Juliana] Draft service agreement: Work with labor counsel to finalize the agreement for representative services.
 - [Jaqueline Sanches] Clarify office agreements: Confirm whether office space rental negates the need for representative agreements.
 - [Jaqueline Sanches] Recruit support representative: Proceed with hiring the support representative role in Spain.
-- [Jaqueline Sanches] Schedule onboarding meeting: Ensure earlier involvement in new hire access and setup processes.
+- [Jaqueline Sanches] Schedule onboarding meeting: Ensure earlier involvement in new hire access and setup.
 
 Details
-Salary Proposals and Benefits Research: Proposed base salaries of 24,000/month for Herardo, 17,000 for Otavio and Guillermo, 16,000 for Sebastian, factoring market vouchers and vacation days the company must honor. Armando noted they did not have the comparison to current base salaries at hand.
-Overtime and Vacation Regulations: Higher vacation days are due to legal requirements, not policy. Overtime rules: Monday-Saturday, up to three times a day, max 18 hours bi-weekly.
-Work Schedules and Offer Logistics: Julia clarified employees work Sundays in a support rotation and are always in the office. Target start date October 15th; accrued PTO to be included in offer letters. Gym pass and market vouchers not provided initially.
-Bonus Structure: Quarterly bonus unfeasible; employees expect a 25% monthly bonus. Review payment history to establish baseline. Herardo's net increase driven by vouchers.
-System Data, Equipment, Office Agreements: Armando asked Julia to pull review data directly from the system. Employees expect new equipment. Kavak system accesses needed. Juliana to work with labor lawyer on a representative agreement; possible overlap with renting Kavak space in Lemmaos within a month.
-Offer Letter Finalization: Equipment allowance; cell phones through Airbase. Follow-up call Friday.
-Spain Support Hire and Access: Jaqueline to proceed directly with Finout (Spain back office) to hire a support representative; Nico Ariza as escalation contact. Jaqueline concerned about lacking visibility on access issues for new Spain hires; Armando confirmed Danny must involve Jaqueline and Rafa earlier in hiring/onboarding. Possible language barriers with Spanish contacts; email preferred.
+Proposed monthly base salaries: 24,000 Herardo; 17,000 Otavio and Guillermo; 16,000 Sebastian (considering market vouchers and vacation days to honor). Candidates expect a 25% monthly bonus; quarterly model unviable. Overtime max 3 instances/day, 18 hours bi-weekly. Julia clarified staff work Sundays in rotation and are always in office. Target start October 15. Kavak system access and a reps agreement (labor lawyer) needed; Kavak space rental in Lerma expected within a month. Spain: hire support rep via Finout; Nico Ariza as escalation. Jackie asked to be involved earlier in hiring/onboarding (Danny, Kevin access issues); Armando confirmed Danny must involve Jackie and Rafa.

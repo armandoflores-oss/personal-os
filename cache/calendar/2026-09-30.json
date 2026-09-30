@@ -1,0 +1,10 @@
+[
+  {"start": "08:00", "summary": "Llamar a DS Madrid – Admisiones (Kirsten Wahle) +34 91 558 02 00", "attendees": []},
+  {"start": "08:30", "summary": "Diaria Spain Launch", "attendees": ["daniel.escribano@draiver.com", "armando.flores@driverdo.com", "artur.morais@draiver.com"]},
+  {"start": "09:30", "summary": "Daily Huddle - Ops MX", "attendees": ["uriel.vargas@driverdo.com", "cristian.arizmendi@driverdo.com", "julia.diaz@draiver.com", "armando.flores@driverdo.com", "diego.diaz@draiver.com", "camila.flores@draiver.com", "jose.duran@driverdo.com", "gerardo.acosta@kavak.com"]},
+  {"start": "10:30", "summary": "Weekly Kavak / Draiver Leaders", "attendees": ["fede.ranero@driverdo.com", "julia.diaz@draiver.com", "armando.flores@driverdo.com", "josue.luevano@kavak.com", "gerardo.acosta@kavak.com", "diego.diaz@draiver.com", "aristides.calvani@kavak.com"]},
+  {"start": "10:30", "summary": "catch up Julia", "attendees": ["julia.diaz@draiver.com", "armando.flores@driverdo.com"]},
+  {"start": "13:00", "summary": "PYLC x Draiver connect - bisemanal", "attendees": ["eloy.cerda@pylc.com.mx", "armando.flores@driverdo.com", "harrison.wendland@driverdo.com", "david@pylc.com.mx", "rafael.andrade@draiver.com", "juan.gonzalez@pylc.com.mx", "julia.diaz@draiver.com", "lorena.felix@pylc.com.mx"]},
+  {"start": "13:30", "summary": "Pete/Armando ", "attendees": ["armando.flores@driverdo.com", "peter.janczewski@driverdo.com"]},
+  {"start": "15:00", "summary": "Kavak - Fuel & Casetas Disputadas", "attendees": ["gerardo.acosta@kavak.com", "julia.diaz@draiver.com", "armando.flores@driverdo.com", "josue.luevano@kavak.com", "jose.reyes.r@kavak.com"]}
+]

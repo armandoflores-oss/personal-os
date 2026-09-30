@@ -1,0 +1,16 @@
+Daily Huddle - Ops MX - 2026/09/29 09:14 CST - Notes by Gemini
+Invited: Uriel Vargas, Cristian Arizmendi, Julia Diaz, Armando Flores, Diego Diaz, Camila Flores, Jose Duran, Gerardo Acosta
+
+Summary
+Salesforce discussion and driver communications via WhatsApp and center operations.
+Salesforce System and Tesla: Salesforce integration discussed with reference to Tesla scheduling.
+Driver Communications and Apps: WhatsApp utilized for communicating with drivers alongside Uber references.
+Driver Management Operations: Driver identification reviewed with focus on center operations.
+
+Next steps
+No suggested next steps were found for this meeting.
+
+Details
+Salesforce System and Tesla Scheduling: Jose Duran brings up Salesforce. Uriel Vargas references Tesla and Sunday, and mentions Salesforce again.
+Driver Communications and Applications: Diego Diaz mentions using WhatsApp to communicate with drivers. Uber referenced regarding drivers.
+Driver Management and Center Operations: Jose Duran discusses driver identification. Camila Flores and Julia Diaz discuss driver elements; Diego Diaz mentions the center.
