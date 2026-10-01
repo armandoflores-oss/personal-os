@@ -1,0 +1,57 @@
+Weekly Kavak / Draiver Leaders - 2026/09/30 10:25 CST - Notes by Gemini
+
+sept 30, 2026 — Weekly Kavak / Draiver Leaders
+Invitados: Fede Ranero, Julia Diaz, Armando Flores, josue.luevano@kavak.com, Gerardo Acosta, Diego Diaz, aristides.calvani@kavak.com
+
+RESUMEN
+Revisión operativa y del mercado con gestión de conductores y costos logísticos.
+Avances y gestión de conductores: Proyecto en España avanza positivamente y ejecutan bajas de conductores en Guadalajara y Monterrey para mejorar el fulfillment.
+Volumen y tiempos de espera: Volumen del marketplace creció con metas cumplidas aunque persisten tiempos de espera en hubs afectando la productividad.
+Conciliación y costos logísticos: Cierran conciliación de agosto y discuten la integración de webhooks y modelos de estimación para calcular costos logísticos.
+
+DECISIONES (Acordada)
+- Establecimiento de cortes de conciliación quincenales: Se acordó transicionar a cortes de conciliación quincenales a partir de septiembre y definir fechas precisas para la validación de pagos.
+- Implementación de estimación de costos logísticos: Se adoptó el uso de un modelo de estimación y calculadora de precios para que la dirección evalúe los costos de traslado.
+- Ejecución de cortes de conciliación semanales: Se acordó realizar cortes semanales en lugar de mensuales para agilizar el proceso de conciliación y cierre.
+
+PRÓXIMOS PASOS
+- [Julia Diaz] Enviar fotos: Enviar las fotografías del outfit al equipo.
+- [Armando Flores] Revisar backlog: Analizar la posible desconexión existente entre el backlog y la demanda.
+- [Julia Diaz] Compartir datos: Compartir el análisis de los hubs y los datos de desempeño con el equipo.
+- [Armando Flores, Julia Diaz] Definir fechas: Reunirse con Pepe para definir las fechas precisas de conciliación.
+- [El grupo] Desarrollar webhooks: Completar los webhooks de cancelación y desplanificación esta semana.
+- [El grupo] Resolver servicios: Finalizar la gestión de servicios relacionados con conductores durante esta semana.
+- [Arístides Calvani] Finalizar QR: Completar el componente QR esta semana para la integración.
+- [Julia Diaz] Monitorear Cuernavaca: Continuar con el monitoreo del proyecto de Cuernavaca y presentar resultados la próxima semana.
+- [Armando Flores] Proponer modelo costos: Hablar con Palomo para proponer la migración hacia el nuevo esquema de cálculo de costos que utiliza APIs para integrar tarifas y casetas.
+- [El grupo] Implementar conciliación semanal: Realizar los cortes de conciliación y facturación de manera semanal en lugar de mensual. Iniciar este proceso a semana vencida para agilizar el cierre.
+- [Julia Diaz] Gestionar conductores Monterrey: Obtener al menos tres conductores o variables logísticas adicionales para satisfacer la demanda operativa en la zona de Monterrey.
+
+DETALLES
+Avance en España: Armando Flores señala que el proyecto en España avanza positivamente, ya que cuentan con un equipo en funciones y personal de ventas ya contratado.
+
+Volumen de Marketplace y Operación General: Josue Vader Luevano Medina comenta que no tiene quejas y que los niveles actuales son manejables, aunque le preocupa un posible aumento desmedido en el volumen. Armando Flores menciona que de una semana a otra el volumen del marketplace subió un 30% y se pudo soportar.
+
+Impacto de las Rutas de Demanda: Josue Vader Luevano Medina explica que al comparar martes con martes, la diferencia radicó en que el día anterior no se realizó la modalidad de demanda, lo que impidió alcanzar las 300 unidades diarias debido a que ciertos conductores no fijos no tomaron viajes. Añade que, aunque inicialmente era renuente a este esquema porque generaba retrabajos al deshacer viajes no tomados, ahora reconoce que esos pocos viajes marcan la diferencia.
+
+Bajas de Conductores en Guadalajara: Diego Diaz informa que de los conductores dados de baja en Guadalajara, ya cuentan con seis elementos con los que pueden contar casi a diario. Armando Flores considera que la medida fue acertada a largo plazo para mejorar el fulfillment, a pesar del esfuerzo que implicó.
+
+Gestión de Conductores en Monterrey: Armando Flores indica que en Monterrey también existen quejas sobre algunos conductores y que procederán con bajas similares a las de Guadalajara tan pronto como sea posible. Josue Vader Luevano Medina detalla que actualmente operan con pocos recursos en Monterrey, teniendo únicamente un conductor fijo disponible para rutas locales debido a que otro fue asignado a un viaje interestatal, por lo que solicita la contratación urgente de al menos tres conductores más para cubrir la demanda y compensar la falta de un supervisor o despachador local. Gerardo Acosta Romero agrega que el lunes pasado no se crearon servicios para el martes, lo que ralentizó la operación, pero el día posterior recibieron 22 servicios y actualmente cuentan con dos conductores fijos trabajando, mitigando errores previos como la duplicación de servicios. Julia Diaz menciona que debido a problemas de gastos no reconocidos se encuentran bajo cero tolerancia, por lo que investigan recibos y aplican suspensiones o inactivaciones tras enviar advertencias.
+
+Revisión del Backlog y Almacenamiento: Josue Vader Luevano Medina presenta las cifras recientes, indicando que el 28 de septiembre amanecieron con un backlog de 183 unidades y el miércoles con 207, manteniéndose en un rango uniforme de 200 a 300 unidades. Las unidades para ingreso a un centro de almacenamiento pasaron de 87 el lunes a 84, tras haber tenido un punto alto de 182 días antes. Armando Flores pregunta si la diferencia entre el backlog y la demanda se debe a servicios dominicales no ejecutados o no solicitados. Josue responde que abrieron todas las sedes y centros de distribución los domingos, pero un problema en Tlalnepantla y Tlalpan impidió sacar las compras de esos dos lugares. Asimismo, reporta que el almacenamiento amaneció en 123 unidades y que el 94% de los movimientos a centros de almacenamiento se realizaron en menos de 24 horas.
+
+Productividad y Movimientos de Unidades: El domingo pasado se movieron 151 unidades, casi el doble que en las dos semanas anteriores. Productividad con conductores fijos el 27 de septiembre fue de 4.58 y en la operación logística de 5, mientras que el pool registró 2.21 unidades por conductor. Julia Diaz añade que la última semana de septiembre registró un aumento de volumen del 24% con 2,278 solicitudes y 2,202 completadas, una productividad de 4.16 movimientos por conductor al día y un 65.3% de entregas en menos de 24 horas. El proveedor operativo registró una productividad de 4.56 y el proveedor de conductores de 3.99.
+
+Gestión de Tasaciones (TAS): El volumen de TAS se mantiene a la baja con menos de 50 unidades diarias, comprando entre 30 y 40 unidades por día, con el apoyo de Diego Diaz en la gestión foránea. Amanecieron con 33 unidades totales en TAS (16 foráneas y 17 locales), quedando una agencia cerrada en Querétaro debido a la ausencia del gerente.
+
+Migración de Datos de Verificación: El incremento aparente en el backlog de verificaciones a más de 400 unidades se debe a una falla originada por la migración de información de la plataforma Minerva a Checkars; el volumen real enviado a verificar es de entre 30 y 40 unidades diarias.
+
+Indicadores de Servicio por Área (septiembre acumulado): movimientos a centros de almacenamiento en menos de 24 horas 73%, almacenamiento 84% del backlog total, TAS foráneo 90% dentro del rango de 3 a 4 días, TAS local 68%.
+
+Tiempos de Espera en Hubs: Julia Diaz expone los hubs con mayores tiempos de espera: Lerma, Arts Pedregal, El Rosario, Fortuna, Puerta la Victoria (Querétaro), Patio Santa Fe, Puebla, Antara y Portal Centro. Se pierden aproximadamente 654 horas en espera; recuperar el 50% permitiría 163 movimientos adicionales, elevando la productividad de 4.16 a 4.47. Armando Flores y Arístides Calvani califican como grave que en Puerta la Victoria se registre un P90 de 64 minutos de espera con pocos movimientos; Arístides solicita compartir esta información. Causas: vehículos no listos o sin detallado (27%), documentación (26%), asignación de unidades (20%), unidades en otro hub (14%), acceso y seguridad en plazas (13%).
+
+Análisis de Operación en Cuernavaca: Forum Cuernavaca recibe casi el doble de lo que envía; el 84% de los viajes que llegan no tienen regreso programado; del 1 al 29 de septiembre 179 movimientos (117 entradas y 62 salidas). Arístides Calvani y Fede Ranero comentan que la integración de costos y niveles de servicio mediante webhooks ayudará al director general a evaluar las solicitudes de traslado.
+
+Conciliación de Pagos y Cierres: Julia Diaz y Josue sostendrán una reunión con Pepe para revisar los viajes no aceptados en el flujo de Marcelo, verificar el cálculo del combustible aplicado a los recortes de conductores y alinear con la validación del equipo de Armando Flores; agosto está cerrado. Arístides y Josue coinciden en establecer fechas precisas para la entrega de información y conciliación mutua. Fede Ranero y Armando Flores discuten cortes semanales en lugar de mensuales para agilizar la conciliación de casetas y servicios.
+
+Integración de Costos y Estimaciones en el Sistema: Quedan pendientes los webhooks de cancelación y desplanificación y los servicios relacionados con conductores a cargo del equipo de Armando Flores; el QR está a cargo del equipo de Arístides Calvani para salir el próximo lunes. Fede Ranero propone un calculador de precios basado en estimaciones y densidad de volumen para que el director general calcule costos logísticos antes de solicitar traslados. Armando Flores aclara que su sistema actual no calcula automáticamente casetas, combustible o transportistas, pero concuerdan en desarrollar un modelo inicial basado en estimaciones y factores por kilómetro que evolucione hacia una herramienta automatizada mediante APIs.

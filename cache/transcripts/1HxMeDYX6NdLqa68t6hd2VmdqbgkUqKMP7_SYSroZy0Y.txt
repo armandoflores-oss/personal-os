@@ -1,27 +1,35 @@
 SLAs Mx - 2026/09/29 14:00 GMT-03:00 - Notes by Gemini
+
+sept 29, 2026 — SLAs Mx
 Invitados: Paloma Calderon, Armando Flores, Carolina Osses, Julia Diaz
 
-Resumen
+RESUMEN
 Revisión operativa de integración con Cabac y definición de presupuestos fijos.
 Problemas operativos de integración: Integración actual con Cabac presenta problemas operativos y falta de pruebas adecuadas.
 Presupuestos fijos y acuerdos: Confusión sobre presupuestos fijos y acuerdos de nivel de servicio para México.
 Verificación de estado Aliados: Verificación de precios fijos con Aliados para definir próximas acciones.
 
-Decisiones
+DECISIONES
 Requiere más debate:
-- Validación de prioridad y alcance de cotizaciones: se aplazó la definición de cotizaciones y precios fijos hasta verificar requerimientos y prioridad con Alberto Tobar.
+- Validación de prioridad y alcance de cotizaciones: Se aplazó la definición de la implementación de cotizaciones y precios fijos hasta verificar los requerimientos y la prioridad con Alberto Tobar.
 Acordada:
-- Criterio de tiempos de entrega para cotizaciones: 24 horas para traslados locales dentro del metro de CDMX y 48 horas para el resto.
+- Criterio de tiempos de entrega para cotizaciones: Se acordó aplicar un estándar de 24 horas para traslados locales dentro del metro de la Ciudad de México y 48 horas para el resto.
 
-Próximos pasos
-- [Julia Diaz] Confirmar pruebas operativas: Consultar con operaciones si se están ejecutando pruebas de los flujos de la nueva integración.
-- [Julia Diaz] Revisar problemas integración: Investigar la situación operativa con los despachadores de Cabac.
-- [Armando Flores] Aclarar requerimientos Cabac: Contactar a Tobar para definir requerimientos y estado de la integración de cotizaciones y SLAs para Cabac Aliados.
-- [Armando Flores] Consultar proyecto marketplace: Solicitar información sobre el progreso del proyecto de integración de marketplace.
+PRÓXIMOS PASOS
+- [Julia Diaz] Confirmar pruebas operativas: Consultar con el equipo de operaciones si se están ejecutando pruebas de los flujos de la nueva integración.
+- [Julia Diaz] Revisar problemas integración: Investigar la situación operativa actual con los despachadores de Cabac para identificar los problemas recurrentes en la gestión de servicios.
+- [Armando Flores] Aclarar requerimientos Cabac: Contactar a Tobar para definir los requerimientos y el estado actual de la integración de cotizaciones y acuerdos de nivel de servicio para Cabac Aliados.
+- [Armando Flores] Consultar proyecto marketplace: Solicitar información sobre el progreso y estado del proyecto de integración de marketplace.
 
-Detalles
-Problemas de integración con Cabac: cancelaciones de servicios logísticos no actualizan asignaciones en Minerva; procesos manuales. Falta de pruebas operativas del lado de Cabac genera desconfianza.
-Presupuestos fijos y SLAs: Ale Masa asumió que la nueva integración incluiría quotes y SLAs esta semana; el equipo operativo local no lo conocía. 20% de casos de Cabac son excepciones (cancelaciones, reprogramaciones, dry runs).
-Modelo EE. UU.: Carolina explica Service App (precio y tiempo por código postal, tabla compartida con Marketplace). Pide saber la prioridad real para México y que el equipo local provea la información.
-Cabac vs Cabac Aliados: Aliados es plataforma de compraventa entre lotes donde se cotiza el traslado (ej. CDMX a Pachuca). Genera un servicio logístico que ejecuta el equipo de Julia. Responsable del lado de Cabac: Alberto Tobar.
-Estado Aliados: sin mensajes en el chat de Aliados desde el 1 de julio. Se acordó confirmar estos puntos la semana siguiente.
+DETALLES
+Problemas operativos y falta de pruebas en la integración con Cabac: Paloma Calderon señala que la integración actual con Cabac presenta problemas operativos, como la cancelación de servicios logísticos que no actualizan las asignaciones de conductores en Minerva, requiriendo procesos manuales. Aunque se han desarrollado funcionalidades exclusivas para Cabac (creación automática de usuarios para conductores y perfiles de contratistas con QR) (00:00:00), la falta de pruebas operativas adecuadas por parte de Cabac genera desconfianza sobre si la nueva integración empeorará la experiencia operativa, según Paloma Calderon y Julia Diaz (00:01:10).
+
+Presupuestos fijos y SLAs para Cabac: Paloma expone la confusión cuando Ale Masa asumió que la nueva integración incluiría quotes y SLAs esta misma semana, concepto no conocido por el equipo operativo local. SLAs: 24 horas para servicios locales en CDMX y 48 horas para zonas como Chiapas; el 20% de los casos de Cabac involucran excepciones (cancelaciones, reprogramaciones) que la integración actual no resuelve por completo (00:03:43) (00:06:01).
+
+Replicación del modelo de EE.UU. en México: Carolina Osses explica el desarrollo en EE.UU. con Service App, donde por código postal se calcula precio y tiempo estimado (24 o 48 horas), usando una tabla base compartida con Marketplace (00:07:17). Consulta la prioridad real para México y solicita que el equipo local provea la información; Paloma aclara que el mercado en México es menos maduro y que Fede confirmó que Cabac lo abordará por fases (00:09:47).
+
+Cabac vs. Cabac Aliados: Armando Flores aclara que son dos temas: Cabac y Cabac Aliados, plataforma de compraventa donde los clientes pueden solicitar el traslado (p. ej. CDMX a Pachuca) con tarifas precalculadas (00:12:18). Genera una solicitud de servicio logístico ejecutada por el equipo de Julia; Alberto Tobar es el responsable del lado de Cabac (00:15:44).
+
+Verificación con Alberto Tobar: Armando contacta a Tobar para verificar si la solicitud de precios fijos es solo de Cabac Aliados, dado que no hay mensajes en el chat de Aliados desde el 1 de julio (00:17:53). Se acuerda confirmar estos puntos la semana siguiente (00:20:37).
+
+[Transcripción completa disponible en el doc de Drive; aquí se guardan las notas de Gemini.]
