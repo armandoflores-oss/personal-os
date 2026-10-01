@@ -1,0 +1,5 @@
+{"decisiones": [
+  {"task_id": "298dd95c5797", "clase": "ninguna", "evidencia": "Lo único que hay es tu queja de que el seguimiento a Borusan no estaba en tu lista ('no me pusiste dar seguimiento a borusan'). Eso pide abrir la tarea, no dice que esté resuelta."},
+  {"task_id": "04cd547913a3", "clase": "ninguna", "evidencia": "La cotización Pachuca→Zumpango salió en una junta, pero el registro no dice que se haya mandado ni cerrado. Que se haya platicado no significa que quedó."},
+  {"task_id": "703b0bca2d85", "clase": "ninguna", "evidencia": "El tema de Artur (conductores en Command Center, solo los dos iniciales con viajes) se tocó en una junta, pero no hay registro de que el problema se haya resuelto."}
+]}
