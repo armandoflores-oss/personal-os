@@ -2022,6 +2022,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "eb1bc98cd22b": {
+  "action": "confirmar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-70",
+  "counterparty": "subastasegura",
+  "created": "2026-10-02T21:48:30+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Te confirmo que contamos con disponibilidad para el martes 06 de",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a0fe6ae9f985464",
+  "status": "open",
+  "task_id": "eb1bc98cd22b",
+  "title": "Re: COTIZACIÓN || CASO EL 5304 || ATOTONILCO,JAL",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "eb97255c36fd": {
   "action": "confirmar",
   "applied": false,
