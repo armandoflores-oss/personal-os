@@ -1,0 +1,20 @@
+PYLC x Draiver connect - bisemanal - 2026/09/30 15:02 EDT - Notes by Gemini
+Sep 30, 2026
+Invited: eloy.cerda@pylc.com.mx, Armando Flores (armando.flores@draiver.com), Harrison Wendland (harrison.wendland@driverdo.com), david@pylc.com.mx, Rafael Pagliuso De Andrade (rafael.andrade@draiver.com), juan.gonzalez@pylc.com.mx, Julia Diaz (julia.diaz@draiver.com), lorena.felix@pylc.com.mx
+
+### Summary
+Vehicle review with financial tracking and risk reporting
+Vehicle Models Review: Honda Fit and Chevrolet Cruze discussed.
+Financial Tracking: Participants reviewed vehicle assets and estimated data figures.
+Risk Form Submission: Clarification provided on incident reporting and communication channel usage.
+
+### Decisions
+Aligned
+- Incident reporting channel usage standard: submit incident forms and notify directly instead of posting updates in the channel.
+
+### Next steps
+- [Julia Diaz] Instruct Form Completion: Tell Diego to fill out the incident form.
+- [Harrison Wendland] Submit Form: Submit the form and include the accounting email address in the process.
+
+### Details
+Incident reporting: Harrison clarified incident details should not be posted in the public channel to avoid speculation (after discussing with Rafael). Submit standard incident forms and contact Harrison directly only for urgent issues. Harrison will submit the documentation adding the accounting email so Aaron can initiate the process.

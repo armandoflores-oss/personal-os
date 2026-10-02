@@ -3,3 +3,5 @@
 {"creados": [], "leg": "inbound", "source": "drive", "suprimidos": [{"detail": "", "item_id": "1ZTAjLLVPXDEFXOUrVpsNv6AH_52Q7W_ozKp3xJ-qqbc", "reason": "sin_compromiso", "source": "drive", "subject": "Mexico - Back Office - 2026/10/01 15:57 EDT - Notes by Gemini", "ts": "2026-10-02T14:47:50+00:00"}, {"detail": "", "item_id": "1dmQOd4CH0MJQkvyOi1lWZ411TmnqSE-ymuoqPQ8Cvus", "reason": "sin_compromiso", "source": "drive", "subject": "Product Sprint Review and Demo Day - 2026/10/01 10:59 EDT - Notes by Gemini", "ts": "2026-10-02T14:47:50+00:00"}], "tope_alcanzado": 0, "ts": "2026-10-02T14:47:50+00:00", "vistos": 2, "watermark": "2026-10-01T20:36:28Z", "ya_vistos": 0}
 {"casi": [], "cerrados": [], "leg": "outbound", "revisados": 4, "ts": "2026-10-02T14:47:50+00:00"}
 {"cambiadas": 0, "cards": 117, "huerfanas": 0, "leg": "tejido", "ts": "2026-10-02T14:47:51+00:00"}
+{"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-10-02T14:47:54+00:00"}
+{"leg": "heartbeat", "stage": "start", "task": "brief-personal-os", "ts": "2026-10-02T15:09:19+00:00"}

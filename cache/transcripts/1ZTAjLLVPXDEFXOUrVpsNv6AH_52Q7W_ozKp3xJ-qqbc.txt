@@ -1,0 +1,30 @@
+Mexico - Back Office - 2026/10/01 15:57 EDT - Notes by Gemini
+Oct 1, 2026
+Invited: Jaqueline Sanches (jaqueline.sanches@draiver.com), Juliana Turin (juliana.turin@driverdo.com), Armando Flores (armando.flores@driverdo.com), Rafael Pagliuso De Andrade (rafael.andrade@driverdo.com), Cristhian Herrera (cristhian.herrera@draiver.com), Julia Diaz (julia.diaz@draiver.com)
+
+### Summary
+Project updates and recruitment statuses with regulatory challenges and administrative transitions.
+Recruitment and Portal Approvals: Spain candidate proposal sent and portal setup pending approval via Ironclad workflow.
+Regulatory Deadlines and Agreements: Mexico regulatory update requires biometrics linking by October 15th and Kavak lease contract drafting.
+Operations and Personnel Handover: Temporary handover of responsibilities arranged following departure and financial adjustments planned.
+
+### Decisions
+Aligned
+- Product price adjustments for tax counterbalance: The company decided to implement price increases to counterbalance upcoming tax payments.
+- Parallel execution of compliance and transition: IMSS compliance requirements and the Cam supplier transition handled concurrently without interdependencies.
+
+### Next steps
+- [Cristhian Herrera] Share NDA: Pull the standard non-disclosure agreement from Ironclad and share it with the agency.
+- [Cristhian Herrera] Schedule IMS Appointment: Coordinate with the team to schedule a physical appointment for Armando Flores at the Social Security Institute office before October 15.
+- [Cristhian Herrera] Confirm Key Linking: Call Abraham to confirm that the company fiscal key has been successfully linked.
+- [Juliana Turin] Follow Up Contract: Send a follow-up email to the agency to check the status of the lease agreement contract draft.
+- [Cristhian Herrera] Check Tax Certificate: Check the expiration date of the company tax identification certificate to determine if renewal is required.
+- [Armando Flores, Juliana Turin] Manage Driver Process: Define and implement the monthly procedure for uploading and offloading drivers in the system.
+
+### Details
+Kavak follow-up and Spain candidate: Jaqueline waiting on information from Rosio at Kavak. After three interviews (approved by Artur and Dani) a proposal was sent to a Spain candidate living in Alicante (~4h from Madrid), willing to travel to Madrid monthly. Introduction to be arranged once logistics are final.
+TAM project portal and NDA: Cam had not sent an NDA for the transition; portal setup awaiting Rafael's approval. Rafael told Cristhian to generate the NDA via an Ironclad workflow; Cristhian will share it with Cam.
+Kavak lease agreement: Kavak legal is drafting; Rafael advised Juliana to push them.
+Mexico regulatory change (IMSS/SAT): Legal representatives must link physical keys with biometrics in person by October 15. Armando, as legal representative, can go in person despite hosting Kevin and the dev team next week; walk-ins exist at IMSS; ~15-20 min. Armando recommended checking validity of the company's electronic signature.
+Driver invoices transition Gargas → Cam: guidance still needed on uploading/offloading drivers in the IMSS portal. Higher taxes mean raising client prices; use Mendel for travel and recurring non-deductible expenses. IMSS and SAT are independent frameworks. Armando and Juliana to follow up with Gargas, including Julia Diaz in IMSS execution planning.
+Personnel departure: Reggie's last day is Friday. Cristhian temporarily takes over Mexico and global responsibilities; Paulo helps with Brazil pending a permanent hire. Julia asked about pending insurance payments during the transition.

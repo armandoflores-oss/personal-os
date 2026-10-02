@@ -1,0 +1,39 @@
+Diaria Spain Launch - 2026/09/30 08:31 CST - Notes by Gemini
+sept 30, 2026
+Invitados: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
+
+### Resumen
+Revisión de Hubspot y costos con configuraciones tarifarias mediante herramientas de Salesforce.
+Hubspot y costos de seguros: Hubspot mejoró con IA. Seguro calculado en 11.36 euros por trayecto.
+Configuración de Clickars y facturación: Suscripción iniciará el 1 de octubre. Creación de correo electrónico de facturación aprobado.
+Command Center: Uso obligatorio de la herramienta de cotización. Creación de ubicación personalizada para Park and Go.
+
+### Decisiones
+Acordada
+- Cobro por movimiento a Clickars a partir del 1 de octubre, eliminando la tarifa fija.
+- Tarifa por cada DECA: proponer 70 a 75 céntimos por cada DECA facturado a Clickars.
+- Creación de correo de facturación con la nomenclatura establecida.
+- Uso de cotización para tarifas: usar la función de cotización del sistema para registrar las tarifas de los trayectos.
+
+### Próximos pasos
+- [Armando Flores] Incluir costo seguro: Integrar el gasto del seguro automáticamente en los viajes dentro de Salesforce para reflejar la rentabilidad real.
+- [El grupo] Cargar costos Clickars: Registrar la estructura de costos por movimiento en el sistema para el inicio de la facturación en octubre.
+- [Armando Flores] Crear correo facturación: Solicitar a Kevin la creación de la dirección de correo electrónico para facturación con la nomenclatura oficial.
+- [Daniel Escribano] Definir precio deca: Elaborar una propuesta formal con el monto por servicio de DECA.
+- [Armando Flores] Gestionar contratación soporte: Coordinar con Jaqueline la propuesta salarial y los requisitos para el nuevo recurso de soporte en España, validando el rango salarial según convenio local y beneficios.
+- [Daniel Escribano] Usar cotización movimientos: Incluir la sección de cotización en todos los movimientos nuevos.
+- [Daniel Escribano] Cargar direcciones: Cargar el resto de las direcciones pendientes.
+- [Artur Morais] Enviar captura: Enviar la captura de pantalla a las partes correspondientes para su validación.
+- [Artur Morais] Enviar pruebas: Enviar pruebas adicionales de titularidad de los números si la captura no basta.
+
+### Detalles
+HubSpot: Dani resolvió el límite de un teléfono por contacto (agregar contactos existentes). HubSpot conectado con CloudTalk (aprobación de Paulo). Gerardo sin acceso por falta de seats.
+Seguro en Salesforce: el seguro no aparece como costo en los trayectos; debe cuadrar con el pago mensual a la aseguradora: 11.36 € por trayecto (Dani recordaba 11.31). Opciones: carga masiva a fin de mes o automático por trayecto. Dani: ~la mitad de los viajes van sin el seguro corporativo (con el seguro del coche).
+Clickars: costos sin configurar (aparecía 1.20 por milla). Piloto sin costo; desde el 1 de octubre se cobra por movimiento; tarifa fija mensual desde el 1 de enero. Armando pidió configurar los costos de inmediato para arrancar limpio.
+DECA: Dani propone 70-75 céntimos por DECA; para Draiver es utilidad al 100%. DECA para transportes externos: Armando sugiere cobrar SaaS con cuenta genérica; Dani argumenta que el objetivo es que hagan todo con la herramienta. Pendiente para la reunión con transporte rodado (Gina Alarcón, Pablo, Jesús) el jueves 16:30.
+Cobros en Salesforce: Armando veía montos cobrables en cero; Artur ve registros (4,000 Clicars, 756 Vicentín); revisará con Kevin.
+Correo de facturación: se crea; Armando lo pide a Kevin; puede usarlo Finout para facturas y pagos. Dani hablará con Finout sobre el proceso de cobranza.
+Objetivos de país: Armando termina el plan de objetivos con feedback de Nico, Gerardo y Artur y lo manda a Nico para aprobación. Dani propone no penalizar comisiones de nuevas incorporaciones en octubre.
+Soporte España: convenio Madrid reparto: mínimo 1,221 € x 14 pagas = 17,094 €/año; costo empresa ~100% adicional. Dani enviará cálculos exactos y recomienda incentivos; que la persona se entreviste localmente y se integre en la oficina de Madrid.
+Command Center: usar siempre la herramienta de cotización al crear movimientos. Park and Go: crear ubicación personalizada. Tarjetas corporativas físicas llegan a la oficina de Madrid.
+CloudTalk: verificación de números; Artur envía capturas a soporte; sin facturas de números nuevos, Dani propone documento de alta de Finout.

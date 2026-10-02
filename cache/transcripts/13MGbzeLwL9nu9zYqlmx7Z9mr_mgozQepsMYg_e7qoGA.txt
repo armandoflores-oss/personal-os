@@ -1,23 +1,30 @@
 Kavak Card for Draiver Operators - 2026/09/29 12:30 CST - Notes by Gemini
-Invited: Kevin Burke, Fede Ranero, Armando Flores, dario.mattio@kavak.com, Paulo Ferrato, federico.boero@kavak.com
+Sep 29, 2026
+Invited: Kevin Burke (kevin.burke@driverdo.com), Fede Ranero (fede.ranero@driverdo.com), Armando Flores (armando.flores@driverdo.com), dario.mattio@kavak.com, Paulo Ferrato (paulo.ferrato@driverdo.com), federico.boero@kavak.com
 
-Summary
+### Summary
 Financial providers reviewed and Mexican operational challenges addressed via parallel testing approved.
 Regional Revenue And Providers: US accounts for 90 percent of revenue while international operations face tax deduction losses. Current financial partners include Ramp, PEX, Airbase, and Car IQ.
 Mexican Operational Challenges: Mexico operations represent half of marketplace volume with significant tax losses from non-deductible foreign cards. Evaluation of Mendel and in-house Kavak cards provides potential solutions.
 Technical Architecture And Testing: Contract with Mendel approved at zero cost for parallel testing alongside the Kavak card integration. Technical teams aligned on API evaluations and merchant category code controls.
 
-Decisions (Aligned)
-- Adoption of Kavak Card Solution: move forward with the in-house Kavak card rather than Mendel for driver expenses.
-- Scheduling Technical Integration Meeting: Darío Mattio will schedule a technical meeting with Kevin Burke's team to review documentation and APIs.
+### Decisions
+Aligned
+- Adoption of Kavak Card Solution: move forward with the in-house Kavak card rather than Mendel for managing driver expenses.
+- Scheduling Technical Integration Meeting: Darío Mattio will schedule a technical meeting with Kevin Burke and team to review documentation and APIs for the Kavak card integration.
 
-Next steps
-- [Kevin Burke] Review API Specifications: Review Pomelo integration documentation and Mendel API specs for compatibility with the Kavak card system.
-- [Federico Boero, Darío Mattio] Provide CLI Access: Grant access to the Kavak CLI.
-- [Armando Flores] Test Mendel Cards: Execute a pilot using Mendel cards for corporate travel expenses and a limited group of drivers. Monitor performance to validate tax deductibility and integration.
-- [Federico Boero] Schedule Technical Call: Follow-up technical meeting to build the card operational solution for drivers.
-- [Darío Mattio] Coordinate Technical Call: Discuss use case requirements with internal tech team and arrange meeting with external parties.
-- [Kevin Burke] Review API Documentation: Compare provided documentation with the existing PEX implementation using AI; flag technical items.
+### Next steps
+- [Kevin Burke] Review API Specifications: Review Pomelo integration documentation and Mendel API specifications to evaluate compatibility with the Kavak card system.
+- [Federico Boero, Darío Mattio] Provide CLI Access: Grant access to the Kavak command line interface to facilitate technical evaluation and integration.
+- [Armando Flores] Test Mendel Cards: Execute a pilot program using Mendel cards for corporate travel expenses and a limited group of drivers. Monitor performance to validate tax deductibility and integration functionality.
+- [Federico Boero] Schedule Technical Call: Schedule a follow-up technical meeting to discuss integration requirements and build the card operational solution for drivers.
+- [Darío Mattio] Coordinate Technical Call: Discuss the use case requirements with the internal technical team. Arrange a subsequent meeting with the external parties involved.
+- [Kevin Burke] Review API Documentation: Utilize AI tools to compare the provided documentation with the existing PEX implementation. Flag necessary technical items for further evaluation.
 
-Details
-Mexico: PEX cards not accepted in ~50% of terminals; foreign-card expenses not tax deductible (loss of ~$5,000-$20,000/month in deductions); drivers get daily cash transfers when PEX fails. Mendel offers local virtual cards, API controls, AI receipt scanning for invoices. Kavak card: >85% approval rate in employee testing, virtual/physical, Google/Apple Pay, CLI for card creation, limits, on/off. Mendel and Kavak both run on Pomelo processor. Paulo: Mendel contract approved at zero commitment; Mexico is half of marketplace moves and a major finance bottleneck requiring fast resolution. Fede: priority is drivers; test should reflect fuel/tolls. Kevin prefers in-house Kavak integration (only create card, authorize, close calls).
+### Details
+Revenue: US is 90% of revenue; Mexico and Brazil 7-10% depending on month; Mexico is half of marketplace moves by volume.
+Providers: Ramp (driver flights/hotels, 30-day credit, 1.5% cashback); PEX (prepaid physical fuel cards with real-time customer decisioning API; ~3% total cost internationally); Airbase (subscriptions, leadership cards, no credit, may consolidate into Ramp); Car IQ (fuel pilot in Detroit/Chicago, acquired by Element Fleet Management); Brazil local card; customer credit card billing (e.g. Penske) to get cash in 3 days vs 60.
+Mexico problems (Armando): PEX not accepted in ~50% of Mexican terminals; foreign card expenses not tax-deductible (~$5k-$20k/month lost deductions); physical card logistics. Mendel chosen for local virtual cards, APIs and AI receipt scanning to generate facturas.
+Kavak card (Federico Boero): already operating in Mexico with employees, virtual and physical, >85% approval rate, Google/Apple Pay tokenization; not yet a mature B2B product (no back office for expense reports) but can move fast.
+Testing: Paulo — Mendel contract approved at zero commitment; test both in parallel. Armando suggested testing Mendel on corporate travel (Armando, Julia) first; Fede asked that tests be representative of driver spend (fuel, tolls, bus tickets). Paulo stressed Mexico is a major finance bottleneck and must move fast.
+Architecture: Mendel uses Pomelo, same processor as Kavak. Kavak/Pomelo can block MCCs (e.g. gas stations only) and turn cards on/off; real-time authorization not yet but small effort. Kavak CLI can create cards, set lines, switch on/off, pull transactions. Kevin: integration needs only create card, authorize transaction, close card; prefers in-house Kavak card. Armando: move forward with Kavak; use Mendel (no cost, includes travel platform) for other things. Brazil not supported locally; focus is Mexico.

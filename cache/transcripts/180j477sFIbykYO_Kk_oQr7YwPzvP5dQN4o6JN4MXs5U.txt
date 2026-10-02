@@ -1,39 +1,37 @@
 Diaria Spain Launch - 2026/10/01 08:33 CST - Notes by Gemini
-
-oct 1, 2026 — Diaria Spain Launch
+oct 1, 2026
 Invitados: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
 
-RESUMEN
-Pruebas de plataforma y automatización de viajes y estrategia de cuenta para rentabilidad.
+### Resumen
+Pruebas de plataforma y automatización de viajes y estrategia de cuenta para rentabilidad
+
 Pruebas de plataforma Clickcars: Pruebas completadas con éxito y refuerzo de instrucciones para conductores pendiente. Decisiones sobre automatización y soporte priorizadas.
 Estrategia y costos de seguros: Cuentas clave destacadas con gestión de expectativas y costos de seguros medidos externamente para análisis de rentabilidad.
 Reembolsos y rentabilidad: Reembolsos gestionados como servicio neto cero y fórmula de rentabilidad definida con datos de movimientos.
 
-DECISIONES
-Requiere más debate:
+### Decisiones
+Requiere más debate
 - Revisión de comisión en reembolsos con Finout: Se aplazó la decisión sobre añadir una comisión a los reembolsos de combustible para consultarlo con Finout.
-Acordada:
+Acordada
 - Contabilización del seguro en rentabilidad local: Se acordó contabilizar los costos de seguro en la rentabilidad local de forma externa a Salesforce.
 - Cálculo de rentabilidad local sin suplidos: Se acordó que el cálculo de rentabilidad excluya los suplidos de combustible de la facturación al cliente.
 
-PRÓXIMOS PASOS
+### Próximos pasos
 - [Artur Morais] Confirmar información logística: Confirmar detalles operativos de las matrículas y la variabilidad de conductores con el equipo de Cliccars.
 - [Artur Morais] Comunicar pruebas obligatorias: Reforzar en Slack la necesidad de que todos los conductores realicen las pruebas de viaje antes del lunes.
 - [Artur Morais] Revisar tarifas y reembolsos: Revisar con Dani los detalles sobre los reembolsos de gasolina y la estructura de tarifas aplicada a los servicios.
 - [Artur Morais, Armando Flores] Consultar equipo financiero: Discutir con el equipo de Finout la estrategia contable y el manejo de los costos operativos y comisiones de reembolsos.
 - [Artur Morais] Enviar hoja de rentabilidad: Organizar y enviar a Armando la hoja de cálculo con los datos actuales de rentabilidad y movimientos de clientes.
 
-DETALLES
-Pruebas de la plataforma Clickcars y adopción por conductores: Artur Morais informó que las pruebas de la plataforma Clickcars se realizaron correctamente, recibiendo los correos segundos después del cierre de recogida (00:05:55). Sin embargo, se detectó el problema de que ningún conductor había iniciado ni realizado los viajes de prueba creados para la tarde, requiriendo obligatoriamente el uso de DECA. Como decisión, Artur Morais reforzará esta instrucción en el canal de Slack al día siguiente para que todos los conductores realicen las pruebas y compartan sus comentarios. Asimismo, Armando Flores sugirió organizar una sesión presencial de capacitación en sitio con los conductores para mejorar la interacción, estrategia que había funcionado previamente (00:08:17).
+### Detalles
+Pruebas de la plataforma Clickcars y adopción por conductores: Artur Morais informó que las pruebas de la plataforma Clickcars se realizaron correctamente, recibiendo los correos segundos después del cierre de recogida. Sin embargo, ningún conductor había iniciado ni realizado los viajes de prueba creados para la tarde, requiriendo obligatoriamente el uso de DECA. Artur Morais reforzará esta instrucción en el canal de Slack al día siguiente. Armando Flores sugirió organizar una sesión presencial de capacitación en sitio con los conductores.
 
-Automatización de la creación de viajes y gestión de tiques con producto: Artur Morais expuso la complejidad y el esfuerzo operativo que implica crear manualmente los viajes para más de 90 unidades. Respecto a la automatización, Artur Morais indicó que la solución actual presenta errores técnicos (bugs) al integrarse con transportistas (haulers), aunque funciona adecuadamente para transporte rodado. Como medida acordada, Artur Morais revisará los tiques y comentarios con el equipo de producto para priorizar características según su impacto real en Cliccars, los conductores y su potencial de replicabilidad en otros clientes (00:09:45).
+Automatización de la creación de viajes y gestión de tiques con producto: Crear manualmente los viajes para más de 90 unidades es costoso. La automatización presenta bugs con haulers, funciona para transporte rodado. Artur revisará tiques con producto para priorizar por impacto en Cliccars, conductores y replicabilidad.
 
-Importancia estratégica de la cuenta de Cliccars y gestión de expectativas: Armando Flores destacó que ganar la cuenta de Cliccars es comparable a obtener la cuenta de Cabac en México, ya que representa la adquisición de un logotipo clave que facilitará la futura expansión comercial con Flexicar y BCA. Armando Flores se encargará de tranquilizar a Paloma brindándole contexto sobre el tamaño de la oportunidad —que abarca entre 100 y 200 unidades diarias con un potencial de ingresos cercano a los 5000 € solo con el cobro de DECA— y su alta prioridad estratégica (00:11:21). Artur Morais recopilará los comentarios de conductores y clientes, solicitando que el respaldo a esta solicitud estratégica provenga conjuntamente de Armando Flores, Nico y el resto del equipo (00:12:32).
+Importancia estratégica de la cuenta de Cliccars: Armando Flores destacó que ganar Cliccars es comparable a ganar Kavak en México; abre Flexicar y BCA. Armando tranquilizará a Paloma dándole contexto (100-200 unidades diarias, ~5000 € con el cobro de DECA). Artur pide que el respaldo estratégico venga de Armando, Nico y el equipo.
 
-Contabilización y seguimiento de los costos de seguros para la rentabilidad: Armando Flores comunicó que, tras hablar con Paulo, el seguro no se modificará fuera del sistema, lo que genera dos implicaciones: el costo deberá medirse externamente y afectará los costos de ventas (COGS), pero no se reflejará en el estado de resultados (P&L) a través de SalesForce. Artur Morais añadió que, para el cálculo de la rentabilidad local a fin de mes, se necesitará identificar qué transportes incluyeron el seguro para sumar el monto global junto con los ingresos de SalesForce y los demás costos operativos (00:13:52).
+Costos de seguros: Tras hablar con Paulo, el seguro no se modificará fuera del sistema; el costo se medirá externamente, afecta COGS pero no el P&L en Salesforce. Para la rentabilidad local de fin de mes se sumará el monto global del seguro.
 
-Gestión de reembolsos de combustible y análisis de la estructura de tarifas: Artur Morais explicó que los reembolsos de combustible se gestionan mediante un comprobante presentado por el conductor, el cual se cobra directamente al cliente como un servicio de paso (pass-through) con saldo neto cero, sin aplicar un porcentaje adicional como se realiza en otros países (00:15:14). Armando Flores cuestionó si las tarifas de Daniel eran de todo incluido, a lo que Artur Morais aclaró que el precio del servicio cubre el transporte pero excluye los insumos y peajes (00:16:50). Armando Flores contrastó este modelo con el de México, Brasil y Estados Unidos, donde los gastos se realizan con una tarjeta de Driver y se les añade una comisión, por lo que acordó llevar esta discusión contable directamente con FinOps y un contador (00:18:32).
+Reembolsos de combustible: Se cobran al cliente como pass-through neto cero, sin comisión (a diferencia de MX, BR, US donde se usa tarjeta Draiver con markup). Las tarifas de Daniel cubren el transporte pero excluyen suplidos y peajes. Armando llevará la discusión contable a FinOps y un contador.
 
-Fórmula para el cálculo de rentabilidad y uso de datos de movimientos: Armando Flores solicitó a Artur Morais que le enviara una hoja de cálculo con los datos de movimientos recopilados por Dani para poder establecer los objetivos de rentabilidad. Armando Flores definió la fórmula de rentabilidad como la facturación al cliente menos los insumos (supplies), menos el pago al conductor (driver pay), y menos los seguros (00:21:25).
-
-[Transcripción completa (25 min) disponible en el doc de Drive; aquí se guardan las notas de Gemini.]
+Fórmula de rentabilidad: Armando pidió a Artur la hoja de movimientos de Dani para fijar objetivos de rentabilidad. Rentabilidad = facturación al cliente − suplidos − driver pay − seguros.

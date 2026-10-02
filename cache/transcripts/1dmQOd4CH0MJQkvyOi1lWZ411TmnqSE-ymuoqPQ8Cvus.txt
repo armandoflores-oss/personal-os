@@ -1,0 +1,32 @@
+Product Sprint Review and Demo Day - 2026/10/01 10:59 EDT - Notes by Gemini
+oct 1, 2026
+Invitados: equipo amplio de Draiver (Paloma Calderon, Kevin Burke, Carolina Osses, Fede Ranero, Thiago Portes, Bruno Moraes, Armando Flores, Artur Morais, Daniel Escribano, Nicolas Ariza, Julia Diaz, Paulo Ferrato, entre otros)
+
+### Resumen
+Revisión de sprint con actualizaciones de Salesforce, inteligencia artificial y Command Center.
+Optimización en Salesforce: lógica para calcular dinámicamente el trayecto tramo por tramo. Migración del 100% de las solicitudes de rideshare a People Movement.
+Mejoras en Command Center: reporte de costos unitarios simplificado para cuentas de precio fijo; filas comprimidas en la tabla de movimientos.
+Actualizaciones de Plataforma: verificación de identidad con Vouch para España; microservicio centralizado para estandarizar eventos.
+
+### Decisiones
+Acordada
+- Restricción de viajes multicliente con integraciones: suspender viajes multicliente cuando exista integración y estandarizar eventos.
+
+### Próximos pasos
+- [El grupo] Notificar prioridades: Comunicar cualquier elemento indispensable o cambio en prioridades para Q4 lo antes posible.
+- [Thiago Portes] Compartir análisis: Presentar el análisis de impacto del ETA con datos reales el próximo mes.
+- [El grupo] Configurar funciones móviles: Habilitar escaneo de matrículas en la app para Brasil y España.
+- [El grupo] Enviar comentarios: Enviar comentarios sobre las vistas de rentabilidad en Command Center.
+- [Carolina Osses] Programar reuniones: Sesiones con Bruno para definir siguientes pasos con el cliente.
+- [El grupo] Confirmar pruebas finales: Verificar con el equipo Psk si se puede avanzar con pruebas finales.
+- [El grupo] Reunión casos borde: Reunión la próxima semana para casos borde en España.
+- [El grupo] Reunión Service Up: Coordinar reunión con ServiceUp para evaluar avance del portal.
+
+### Detalles
+Release: nueva versión el martes 6 de octubre; app móvil semana del 13 de octubre. Roadmaps Q4 en el town hall en dos semanas.
+Salesforce ETA: cálculo tramo por tramo para evitar ajustes de pago (>3,000 casos/mes en BR y MX); en producción la próxima semana. Migración de rideshares a People Movement completa; corregidas falsas alarmas y links de rideshare flexible. Alertas de Slack por región.
+IA: normalización de teléfonos (BR, MX) y límite de payload para hauling; booking copilot con proveedor Doful (demo al día siguiente), integra Salesforce y Ramp.
+Command Center: reporte de costo unitario simplificado para precio fijo; columna de tarifa en reporte diario; filas comprimidas; motivos de estado en rojo; fecha programada en timeline; descarga de cotizaciones con validez de 48h; comparación de precios de hauling RunBuggy vs Expedite. Próximo: confirmación de unidades en mapa, exclusión admin/limitado. Nueva incorporación: Facundo Cabrera.
+Plataforma: mejoras de registro España (GDPR); Vouch para España desde el martes; alertas programadas de ETA (~15 min) para Clicars desde el martes; multiplicador geográfico por código postal para precio fijo; llamadas enmascaradas vía tracker link. Primer viaje multicliente en California; fallo con integración Rivian → se suspenden viajes multicliente con integraciones; microservicio de eventos como prioridad Q4.
+App móvil: flujo de placas, mensajes a inactivos, autofoto, fix de motos en Brasil; versión 70 con factura del conductor para España; reemplazo de VIN por placas en localización.
+Integraciones: cancelación de pruebas para Rivian; SLAs con cotizaciones para ServiceUp; migración de Kavak en curso; monitoreo de Super Dispatch; autogestión de webhooks.

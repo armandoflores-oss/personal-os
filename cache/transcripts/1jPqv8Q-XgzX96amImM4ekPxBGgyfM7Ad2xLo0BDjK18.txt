@@ -1,20 +1,18 @@
 Daily Huddle - Ops MX - 2026/09/30 09:28 CST - Notes by Gemini
-
-Sep 30, 2026 — Daily Huddle - Ops MX
+Sep 30, 2026
 Invited: Uriel Vargas, Cristian Arizmendi, Julia Diaz, Armando Flores, Diego Diaz, Camila Flores, Jose Duran, Gerardo Acosta
 
-Summary: Scheduling review and system status updates via collaborative discussion.
+### Summary
+Scheduling review and system status updates via collaborative discussion
 Ticket and Driver Scheduling: Logistical details concerning tickets and driver controls reviewed for September dates.
 Driver Documentation Review: Driver photographs and continental references examined by team members.
 Financial Records and Templates: Financial topics and templates discussed alongside senior records and applications.
 
-Next steps: No suggested next steps were found for this meeting.
+### Next steps
+No suggested next steps were found for this meeting.
 
-Details:
-Ticket and Driver Control Scheduling: Cristian Arizmendi, Julia Diaz, and Uriel Vargas discuss logistical details concerning tickets and driver controls. Uriel Vargas points to specific dates including September and the fourth, while Cristian Arizmendi and Julia Diaz coordinate on the control view. No formal decision.
-
-Driver Photographs and Continental Reference: Uriel Vargas and Diego Diaz, with coordination from Julia Diaz, review driver documentation, noting the last photo associated with Clint. Diego Diaz mentions a reference to the Continental for 10. No action item.
-
-System Components and Driver Status: Diego Diaz, Jose Duran, and Julia Diaz discuss system parameters and driver metrics, referencing the C3 entry and weekly schedules. Jose Duran highlights names including Jose Carlos and Sally. No decision recorded.
-
-Financial Records, Templates, and Application Review: Camila Flores, Jose Duran, Cristian Arizmendi, and Uriel Vargas touch upon financial topics involving Platino and senior records. Cristian Arizmendi brings up the Bruno template on Confluence and discusses an application example. No formal decision.
+### Details
+Ticket and Driver Control Scheduling: Cristian Arizmendi, Julia Diaz and Uriel Vargas discuss tickets and driver controls; no formal decision.
+Driver Photographs and Continental Reference: Uriel Vargas and Diego Diaz review driver documentation; no action item.
+System Components and Driver Status: Diego Diaz, Jose Duran and Julia Diaz discuss system parameters and driver metrics; no decision.
+Financial Records, Templates, and Application Review: Cristian Arizmendi brings up the Bruno template on Confluence; no decision.

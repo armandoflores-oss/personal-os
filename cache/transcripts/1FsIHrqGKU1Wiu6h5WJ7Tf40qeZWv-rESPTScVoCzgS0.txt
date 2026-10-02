@@ -1,0 +1,41 @@
+Weekly Product & Ops Draiver Spain - 2026/09/29 17:00 CEST - Notes by Gemini
+sept 29, 2026
+Invitados: Artur Morais (artur.morais@draiver.com), Gerardo Cabanas (gerardo.cabanas@draiver.com), Paloma Calderon (paloma.calderon@draiver.com), Kevin Burke (kevin@draiver.com), Daniel Escribano (daniel.escribano@draiver.com), Fede Ranero (fede.ranero@draiver.com), Armando Flores (armando.flores@draiver.com), Rafael Pagliuso De Andrade (rafael.andrade@draiver.com), Nicolas Ariza (nicolas.ariza@draiver.com)
+
+### Resumen
+Revisión logística con pagos configurados y estrategia comercial definida para cuentas clave.
+Logística de viaje: Coordinación del viaje a la Ciudad de México y revisión de pagos a conductores.
+Actualizaciones del sprint: Progreso en notificaciones y adopción del Command Center para clientes.
+Estrategia comercial y DECA: Propuesta para ClickCars y automatización de creación de cuentas de clientes.
+
+### Decisiones
+Acordada
+- Facturación temporal de clientes mediante Finout: Artur emitirá las facturas de los clientes actuales y las compartirá con Finout mientras se define el proceso financiero global.
+- Modelo de cobro empaquetado para DECA y SaaS: cobrar DECA integrado en un paquete junto con la tarifa SaaS fija y variable para ClickCars.
+- Aceptación de términos y condiciones para cuentas pequeñas: cuentas pequeñas en España operan aceptando T&C públicos en la web en lugar de MSA/NDA.
+
+### Próximos pasos
+- [Kevin Burke] Reservar vuelo: Reservar el vuelo para su viaje de regreso.
+- [Kevin Burke] Corregir permisos: Corregir permisos de acceso a la pestaña del invoicer para el equipo.
+- [Artur Morais] Revisar DECA: Reunirse con Isaí para actualizar el estado de los archivos DECA y determinar requisitos faltantes.
+- [El grupo] Definir procesos financieros: Coordinar con finanzas la responsabilidad del proceso de facturación y pagos a conductores.
+- [Artur Morais] Generar facturas: Generar las facturas para los 2 clientes actuales y compartir con Finout.
+- [Artur Morais] Probar precios: Verificar que los costos de los viajes coincidan con las tablas de precios configuradas.
+- [Paloma Calderon] Enviar tickets: Enviar los tickets y el calendario de releases del sprint.
+- [El grupo] Recopilar NIF: Solicitar el NIF para las nuevas cuentas de empresas en España.
+- [El grupo] Definir almacenamiento: Determinar la ubicación del servidor para datos de clientes en España.
+- [Paloma Calderon] Capacitar usuario: Crear una cuenta para Dani y capacitarlo en el sistema.
+- [El grupo] Crear POE: Definir procedimientos operativos estándar para configuración de cuentas en España.
+- [El grupo] Generar plantilla: Plantilla de configuración para replicar ajustes estándar en nuevas cuentas.
+- [Artur Morais] Informar sobre DECA: Compartir actualizaciones de las reuniones de DECA.
+
+### Detalles
+Viaje a CDMX: equipo de Kevin (5 personas) va a CDMX a aprender el proceso del equipo de IA de Kavak y el harness para Claude. Armando ofrece organizar salida (Salón Ríos u otro cerca). Armando regresa a España el 25 de octubre; Kevin vuela el 1 de noviembre, llega el 2, escala en Lisboa.
+Driver pay: resuelto y corriendo, impuestos aplicados en Salesforce; falta formato del archivo CSV. Kevin corrige privilegios del invoicer para Artur. Notificaciones de pago a la lista contacto de España (6 miembros).
+Facturación a clientes: invoicer con dry run, PDF y correo; sincronización con NetSuite manual por ahora. Armando: pendiente conversación finanzas Kavak–Draiver (Paulo con Magnus, que llega el 1 de octubre); mientras, Artur factura los dos clientes y comparte con Finout.
+Sprint: notificaciones 15-30 min antes de entrega en el siguiente sprint; fixes de Command Center. Cotizaciones hoy vía links de presupuestos en Lovable y hojas de cálculo.
+Command Center: Paloma pide probarlo con un cliente; Armando: solo uno o dos clientes (marketplace y Clicars SaaS); dos nuevas personas comerciales empiezan a prospectar cuentas pequeñas (~5 viajes/mes) que deben ser self-serve.
+DECA: Artur se reúne con Isaí; pruebas jueves y viernes, live el lunes. Peso del vehículo en notas como campo concatenado. Escaneo de placas en la app en el próximo release (app publica con ~2 semanas de retraso).
+DECA para viajes fuera de Draiver: solicitud de ClickCars; riesgo de que solo usen DECA. Opción: frontend ligero conectado a Claude que genere el PDF. Armando: ClickCars es top-5 cuenta estratégica en España (con Flexicar, "los Kavak de España"); asumir costo de desarrollo; DECA en bundle con SaaS.
+Modelo de cobro ClickCars: 400 €/mes fijo + variable por VIN, con DECA en el paquete. Precedente Openlane: 10 horas de desarrollo por cada $10,000 de SaaS; tarifa estándar US $250/h. Kevin advierte sobre personalizaciones al core; prefiere integraciones externas.
+Creación de cuentas: metas comerciales de 10-15 cuentas/mes (expectativa 20 por hunter); proceso actual de admin es complejo; en España cuentas pequeñas con T&C web y NIF, configuración estandarizada.
