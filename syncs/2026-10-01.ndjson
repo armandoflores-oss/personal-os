@@ -22,3 +22,4 @@
 {"creados": [], "leg": "inbound", "source": "gmail", "suprimidos": [{"detail": "", "item_id": "1a0f9727425c082d", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: COTIZACION", "ts": "2026-10-01T23:46:51+00:00"}], "tope_alcanzado": 0, "ts": "2026-10-01T23:46:51+00:00", "vistos": 1, "watermark": "2026-10-01T21:50:07Z", "ya_vistos": 0}
 {"casi": [], "cerrados": [], "leg": "outbound", "revisados": 2, "ts": "2026-10-01T23:46:51+00:00"}
 {"cambiadas": 0, "cards": 117, "huerfanas": 0, "leg": "tejido", "ts": "2026-10-01T23:46:52+00:00"}
+{"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-10-01T23:46:55+00:00"}

@@ -1,0 +1,5 @@
+{"decisiones": [
+  {"task_id": "298dd95c5797", "clase": "ninguna", "evidencia": "Lo que dijiste ('no me pusiste dar seguimiento a borusan') es una queja de que faltaba la tarea, no una señal de que quedó resuelta: sigue abierta."},
+  {"task_id": "04cd547913a3", "clase": "ninguna", "evidencia": "Solo hay una coincidencia de 2 tokens con una junta y ningún detalle de que la cotización Pachuca–Zumpango se haya mandado o cerrado."},
+  {"task_id": "703b0bca2d85", "clase": "ninguna", "evidencia": "Hay una coincidencia de 4 tokens con una junta, pero nada dice que el problema de los conductores en Command Center se haya resuelto."}
+]}

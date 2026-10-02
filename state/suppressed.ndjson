@@ -1147,3 +1147,13 @@
 {"detail": "", "item_id": "1a0f92fb604fc5e4", "reason": "sin_compromiso", "source": "gmail", "subject": "Notes: “Mexico - Back Office” Oct 1, 2026", "ts": "2026-10-01T21:46:12+00:00"}
 {"detail": "", "item_id": "1a0f923e8e723aa5", "reason": "sin_compromiso", "source": "gmail", "subject": "Spreadsheet shared with you: \"Draiver Spain Results - Sep.26\"", "ts": "2026-10-01T21:46:12+00:00"}
 {"detail": "", "item_id": "1a0f9727425c082d", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: COTIZACION", "ts": "2026-10-01T23:46:51+00:00"}
+{"detail": "^\\s*canceled event\\b", "item_id": "1a0fcdadab3e88c0", "reason": "meta", "source": "gmail", "subject": "Canceled event: Back office Spain @ Fri Oct 2, 2026 8am - 8:30am (CST) (Armando Flores)", "ts": "2026-10-02T14:47:50+00:00"}
+{"detail": "", "item_id": "1a0fc7e2d225473a", "reason": "sin_compromiso", "source": "gmail", "subject": "[Data]  Yesterday Trip Source Creation", "ts": "2026-10-02T14:47:50+00:00"}
+{"detail": "", "item_id": "1a0fbae246d54ea8", "reason": "sin_compromiso", "source": "gmail", "subject": "AW: Consulta de admisión curso 2027-28 — alumnos del Colegio Alemán de Ciudad de México", "ts": "2026-10-02T14:47:50+00:00"}
+{"detail": "", "item_id": "1a0fb5c98c66fb1d", "reason": "sin_compromiso", "source": "gmail", "subject": "RE: Consulta de admisión curso 2027-28 — itinerario alemán/español", "ts": "2026-10-02T14:47:50+00:00"}
+{"detail": "", "item_id": "1a0fb5b880494971", "reason": "sin_compromiso", "source": "gmail", "subject": "Fam. Flores Castillo - 6º+8º DS-Mex.", "ts": "2026-10-02T14:47:50+00:00"}
+{"detail": "", "item_id": "1a0fa5cad0708631", "reason": "sin_compromiso", "source": "gmail", "subject": "The NFL’s best dressed 🏈", "ts": "2026-10-02T14:47:50+00:00"}
+{"detail": "^\\s*invitation:", "item_id": "1a0fa3cc19e75539", "reason": "meta", "source": "gmail", "subject": "Invitation: Onboarding: DriverDo <> Mendel @ Tue Oct 6, 2026 4pm - 5pm (CST) (armando.flores@driverdo.com)", "ts": "2026-10-02T14:47:50+00:00"}
+{"detail": "", "item_id": "1a0f9fe61e87e51b", "reason": "sin_compromiso", "source": "gmail", "subject": "Detalle traslados septiembre 2026 Draiver", "ts": "2026-10-02T14:47:50+00:00"}
+{"detail": "", "item_id": "1ZTAjLLVPXDEFXOUrVpsNv6AH_52Q7W_ozKp3xJ-qqbc", "reason": "sin_compromiso", "source": "drive", "subject": "Mexico - Back Office - 2026/10/01 15:57 EDT - Notes by Gemini", "ts": "2026-10-02T14:47:50+00:00"}
+{"detail": "", "item_id": "1dmQOd4CH0MJQkvyOi1lWZ411TmnqSE-ymuoqPQ8Cvus", "reason": "sin_compromiso", "source": "drive", "subject": "Product Sprint Review and Demo Day - 2026/10/01 10:59 EDT - Notes by Gemini", "ts": "2026-10-02T14:47:50+00:00"}
