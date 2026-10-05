@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab8d09d49774fd79",
+        "id": "aead23f5368fe726",
         "type": "tabs",
         "children": [
           {
-            "id": "8cadd1c89e24d4b4",
+            "id": "5cc8063c2bc9bcc0",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -182,8 +182,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cadd1c89e24d4b4",
+  "active": "5cc8063c2bc9bcc0",
   "lastOpenFiles": [
+    "context/autosur.md",
+    "people/artur-morais.md",
+    "people/daniel-escribano.md",
     "projects/24-sep-2026-quito.md",
     "context/programa-nunca-pidas-editar.md",
     "rules/pase-semanal.md",
@@ -207,9 +210,6 @@
     "context/brief-entrega-dm.md",
     "context/kavak-draiverdo-espana-estructura.md",
     "context/decision-permisos-rutinas.md",
-    "context/jose-duran-clientes-resguardo-lleva.md",
-    "context/brief-diario-09.md",
-    "rules/correo-pendiente-correo.md",
     "Sin título.canvas"
   ]
 }
