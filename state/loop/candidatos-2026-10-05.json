@@ -1,0 +1,79 @@
+{
+ "fecha": "2026-10-05",
+ "abiertas": 15,
+ "candidatos": [
+  {
+   "task_id": "298dd95c5797",
+   "code": "T-49",
+   "titulo": "Dar seguimiento a Borusan (hilo Borusan/Draiver)",
+   "dominio": "grandes-deals",
+   "evidencia": [
+    {
+     "tipo": "armando_lo_dijo",
+     "detalle": "no me pusiste dar seguimiento a borusan Borusan no es ruido: el clasificador suprimió 3 veces el hilo 'Borusan/Draiver' (gmail, 21 y 22 sep 2026) como sin_compromiso y por eso nunc",
+     "tokens": 2
+    }
+   ]
+  },
+  {
+   "task_id": "a2d1a4a31300",
+   "code": "T-56",
+   "titulo": "Fwd: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128",
+   "dominio": "pipeline-estrategico",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 2
+    }
+   ]
+  },
+  {
+   "task_id": "04cd547913a3",
+   "code": "T-59",
+   "titulo": "Re: COTIZACION PACHUCA A ZUMPANGO",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 2
+    }
+   ]
+  },
+  {
+   "task_id": "703b0bca2d85",
+   "code": "T-66",
+   "titulo": "Artur creó todos los conductores en Command Center y asignó viajes para el lunes, pero solo los dos conductores iniciale",
+   "dominio": "reuniones-espana",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 9
+    }
+   ]
+  },
+  {
+   "task_id": "94bb3ad23d4f",
+   "code": "T-68",
+   "titulo": "RE: Concentrado Driverdo Septiembre 2026",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 2
+    }
+   ]
+  },
+  {
+   "task_id": "201f925406d6",
+   "code": "T-69",
+   "titulo": "RV: Draiver reclamo 1849, 5-201-2026M13, unidad 3HGGK5874HM008202 Kavak Mexico",
+   "dominio": "operacion-kavak",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 4
+    }
+   ]
+  }
+ ]
+}
