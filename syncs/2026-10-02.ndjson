@@ -23,3 +23,4 @@
 {"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-10-02T23:46:03+00:00"}
 {"creados": [], "leg": "inbound", "source": "gmail", "suprimidos": [{"detail": "", "item_id": "1a0fec893552a4ed", "reason": "sin_compromiso", "source": "gmail", "subject": "COTIZACIÓN || CASO EL 5314 || LERMA, MEX.", "ts": "2026-10-02T23:46:40+00:00"}, {"detail": "", "item_id": "1a0febac31d48ec1", "reason": "sin_compromiso", "source": "gmail", "subject": "[DriverDO LLC] Action required: Payment request from Transfer Haber SA De CV #1266", "ts": "2026-10-02T23:46:40+00:00"}], "tope_alcanzado": 0, "ts": "2026-10-02T23:46:40+00:00", "vistos": 2, "watermark": "2026-10-02T22:42:19Z", "ya_vistos": 0}
 {"cambiadas": 0, "cards": 117, "huerfanas": 0, "leg": "tejido", "ts": "2026-10-02T23:46:40+00:00"}
+{"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-10-02T23:46:43+00:00"}
