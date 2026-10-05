@@ -1,0 +1,29 @@
+Daily Huddle - Ops MX - 2026/10/02 09:15 CST - Notes by Gemini
+Oct 2, 2026
+Invited: Uriel Vargas (uriel.vargas@driverdo.com), Cristian Arizmendi (cristian.arizmendi@driverdo.com), Julia Diaz (julia.diaz@draiver.com), Armando Flores (armando.flores@draiver.com), Diego Diaz (diego.diaz@draiver.com), Camila Flores (camila.flores@draiver.com), Jose Duran (jose.duran@driverdo.com), Gerardo Acosta (gerardo.acosta@kavak.com)
+
+Summary
+Driver verification and account setup updates with status reviews and suspension discussions
+
+Driver Checks and Setup
+Driver tracking and verification metrics reviewed for 4 drivers. Administrative steps addressed for new account setup.
+
+Status and Suspensions
+Status updates for B drivers remained pending. Driver suspensions evaluated following background check results.
+
+Lab Photo Resolution
+Lab photo issues and related documentation reviewed. Work scheduled to continue on Monday.
+
+Next steps
+No suggested next steps were found for this meeting.
+
+Details
+Driver Checks and New Account Setup: Camila Flores, Julia Diaz, Cristian Arizmendi, and Uriel Vargas discussed driver tracking and verification metrics, specifically reviewing status details for four drivers. Additionally, Julia Diaz addressed administrative steps regarding a new account for Alejandro.
+
+Verification and Team Leader Designation: Uriel Vargas and Julia Diaz discussed verification processes, with Jose Duran providing updates concerning Daniel. Furthermore, Diego Diaz was identified and discussed in the context of taking on a team leader role.
+
+Driver Status and Salesforce Contact: Diego Diaz and Julia Diaz noted that status updates for B drivers were still pending. Cristian Arizmendi and Julia Diaz coordinated regarding driver contacts and Salesforce integration, referencing communication through WhatsApp.
+
+Driver Suspensions and Background Checks: Julia Diaz and Cristian Arizmendi discussed driver suspensions stemming from background check evaluations. Camila Flores also raised a manager request concerning engaged drivers.
+
+Lab Photo Issues and Scheduling: Camila Flores and Julia Diaz addressed a problem involving a lab photo issue, while Cristian Arizmendi and Julia Diaz reviewed the related documentation. Uriel Vargas proposed continuing the work on Monday, and Jose Duran noted they were almost finished as the meeting drew to a close.
