@@ -935,6 +935,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "610c6cdd1013": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-73",
+  "counterparty": "turbofin",
+  "created": "2026-10-06T23:46:44+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Por este medio les comparto el machote del contrato que ha sido revisado por nuestra área legal para continuar con el proceso de formalización entre nuestras compañías.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a1139134857d456",
+  "status": "open",
+  "task_id": "610c6cdd1013",
+  "title": "CONTRATO DRAIVER",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "66b07ad876c9": {
   "action": null,
   "applied": false,
