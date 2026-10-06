@@ -1,8 +1,8 @@
 {"decisiones": [
- {"task_id": "298dd95c5797", "clase": "ninguna", "evidencia": "Lo único que hay es tu queja de que el seguimiento a Borusan faltaba en el tablero. Eso pide abrirla, no dice que esté resuelta."},
- {"task_id": "a2d1a4a31300", "clase": "ninguna", "evidencia": "La conexión EDI con JDEJA salió en una junta, pero la evidencia no dice que se cerrara. Coinciden 2 palabras y no hay más detalle."},
- {"task_id": "04cd547913a3", "clase": "ninguna", "evidencia": "La cotización Pachuca–Zumpango salió en una junta (2 palabras coinciden), pero nada dice que se haya enviado o cerrado."},
- {"task_id": "703b0bca2d85", "clase": "ninguna", "evidencia": "El tema de Artur y los conductores en Command Center salió en una junta de España (9 palabras coinciden), pero no hay registro de que se haya resuelto."},
- {"task_id": "94bb3ad23d4f", "clase": "ninguna", "evidencia": "El concentrado de Driverdo de septiembre salió en una junta (2 palabras coinciden). La evidencia no confirma que se haya entregado ni cerrado."},
- {"task_id": "201f925406d6", "clase": "ninguna", "evidencia": "El reclamo 1849 de Kavak salió en una junta (4 palabras coinciden), pero nada indica que se haya resuelto."}
+  {"task_id": "298dd95c5797", "clase": "ninguna", "evidencia": "T-49 Borusan: lo único que hay es tu queja de que faltaba el seguimiento a Borusan; eso abre la tarea, no la cierra."},
+  {"task_id": "a2d1a4a31300", "clase": "ninguna", "evidencia": "T-56 EDI JDEJA: solo coincide con una junta (2 tokens) sin detalle; que se haya tocado no dice que la conexión SFTP quedó."},
+  {"task_id": "04cd547913a3", "clase": "ninguna", "evidencia": "T-59 cotización Pachuca–Zumpango: coincidencia débil con una junta (2 tokens), nada indica que se mandó o cerró la cotización."},
+  {"task_id": "703b0bca2d85", "clase": "ninguna", "evidencia": "T-66 conductores de Artur en Command Center: se habló en junta (9 tokens), pero sin registro de que el problema de asignación quedara resuelto."},
+  {"task_id": "94bb3ad23d4f", "clase": "ninguna", "evidencia": "T-68 Concentrado Driverdo septiembre: coincidencia débil con una junta (2 tokens), sin señal de que el concentrado se cerró o se mandó."},
+  {"task_id": "201f925406d6", "clase": "ninguna", "evidencia": "T-69 reclamo Kavak 1849: se mencionó en junta (4 tokens), pero no hay registro de que el reclamo se resolviera."}
 ]}

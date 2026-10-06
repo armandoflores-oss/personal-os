@@ -1,0 +1,41 @@
+Diaria Spain Launch - 2026/10/06 08:31 CST - Notes by Gemini
+oct 6, 2026
+Invitados: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
+
+### Resumen
+Integración con Eurotransport Car y sincronización de órdenes y prospección comercial con Arval
+
+Integración con Eurotransport Car
+Planificación de inicio con SITS y resolución de complejidad técnica para facturación directa al cliente.
+
+Prospección y cuentas Arval
+Análisis de complejidad para dar de alta a Arval utilizando Salesforce con cuentas principales e hijas.
+
+Automatización y telefonía
+Creación de cuentas estándar para agilizar ventas y revisión pendiente de integración con HubSpot.
+
+### Decisiones
+Acordada
+- Prueba piloto de integración con Sirsa: Se acordó utilizar a Sirsa como el primer cliente para realizar las pruebas iniciales de integración con Eurotransport Car.
+- Procedimiento de alta con autorización del cliente: Se estableció enviar un correo electrónico a Eurotransport Car con el cliente en copia para obtener su autorización y gestionar directamente el alta.
+- Creación de cuentas con configuración estándar: Se estableció crear cuentas con precios y configuraciones estándar en el sistema para agilizar el proceso de alta de los clientes.
+
+### Próximos pasos
+- [Daniel Escribano, Artur Morais] Realizar piloto: Realizar el piloto de integración técnica con el cliente Sirsa para validar los casos de uso y detectar errores en la comunicación entre sistemas.
+- [Daniel Escribano] Gestionar altas: Solicitar la documentación necesaria y gestionar las altas de nuevos clientes en el sistema para facilitar integraciones futuras.
+- [Artur Morais] Crear cuentas: Crear las cuentas necesarias en el sistema Driver para las empresas pendientes de integración con Eurotransport Car.
+- [Daniel Escribano] Integrar telefonía: Configurar la integración entre el sistema HubSpot y la telefonía.
+- [Artur Morais] Organizar entrenamiento: Coordinar una sesión de entrenamiento sobre el uso de la telefonía en la nube para resolver los problemas técnicos reportados por el equipo.
+
+### Detalles
+Integración con Eurotransport Car y sincronización de órdenes de servicio: Artur Morais informó que la reunión con el equipo de Eurotransport Car fue positiva y que se planificó iniciar con SITS. El problema principal radica en la complejidad técnica para vincular un único identificador de orden de Eurotransport Car con múltiples movimientos de vehículos generados en el sistema propio. Artur Morais explicó que los clientes crean una orden de servicio con matrículas y ubicaciones, la cual se recibe como un movimiento en el sistema para planificar el viaje, comunicando cada evento a Eurotransport Car mediante webhooks. Se acordó facturar directamente al cliente sin la intermediación de Eurotransport Car.
+
+Comercialización y prospección de clientes con Eurotransport Car: Daniel Escribano explicó las características comerciales de Eurotransport Car, destacando que funciona como un buscador práctico sin competencia directa, aunque con una interfaz antigua. Se discutió el avance con el cliente Sirsa, a quien Daniel Escribano envió la documentación para el alta como proveedor, y la situación de Autocaravanas Norte, propiedad en un 50% de Flexicar, donde se busca agendar una llamada a través de Markel tras el contacto inicial de Lucía. Daniel Escribano señaló que el proceso de alta en empresas medianas y grandes suele ser lento.
+
+Gestión de cuentas y estructura para Arval: Daniel Escribano y Artur Morais analizaron la complejidad de dar de alta a Arval, recordando el modelo previo utilizado en Dimi con cuentas separadas para vehículos nuevos y de ocasión debido a las restricciones de kilometraje por concesionario. Artur Morais indicó que el sistema actual permite manejar cuentas principales e hijas con identificadores únicos en Salesforce para conectarse con Eurotransport Car. Se acordó realizar pruebas iniciales con un cliente piloto para validar los flujos antes de implementarlos de forma general.
+
+Automatización en la creación de cuentas estándar: Artur Morais detalló que se crearon cuentas bajo la configuración "Driver Standard" con precios estándar para agilizar el proceso con el equipo de ventas y reducir los tiempos de alta ante solicitudes de movimiento. Artur Morais mencionó que este flujo planificado permitirá gestionar un volumen mayor de cuentas semanalmente y evaluar mejoras en las herramientas de producto.
+
+Integración de HubSpot con telefonía y problemas técnicos de audio: Armando Flores consultó sobre la integración pendiente de HubSpot con la telefonía, a lo cual Daniel Escribano respondió que no la ha realizado debido a la carga de trabajo y prometió atenderla próximamente. Adicionalmente, Daniel Escribano expuso inconvenientes con el software Cloud Talk, señalando que las personas colaboradoras experimentan problemas de audio con los clientes a pesar de contar con auriculares nuevos. Ante esto, Artur Morais indicó que consultará con Larissa y Paula para organizar una sesión de entrenamiento sobre el manejo de la nube.
+
+[Transcripción literal disponible en el documento de Drive; no incluida en este depósito.]
