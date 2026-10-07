@@ -1334,3 +1334,11 @@
 {"detail": "", "item_id": "1I8nDF_mIcQhz0LcZtwpcJk2Cl7w0vRl2b-w6v36lRAE", "reason": "sin_compromiso", "source": "drive", "subject": "Diaria Spain Launch - 2026/10/07 08:27 CST - Notes by Gemini", "ts": "2026-10-07T20:51:11+00:00"}
 {"detail": "", "item_id": "1GNJ8vxc6j-AHBgFUB63jchLpi1hahTnmvDsQMQ4XT_Q", "reason": "sin_compromiso", "source": "drive", "subject": "Daily Huddle - Ops MX - 2026/10/07 09:14 CST - Notes by Gemini", "ts": "2026-10-07T20:51:11+00:00"}
 {"detail": "", "item_id": "1a11839db4bd9409", "reason": "sin_compromiso", "source": "gmail", "subject": "Fwd: El recibo de tu pedido de Google Play del 5 oct 2026", "ts": "2026-10-07T21:46:21+00:00"}
+{"detail": "", "item_id": "1a118b3e56791ce9", "reason": "sin_compromiso", "source": "gmail", "subject": "COMPLEMENTOS DE PAGO SUBASTA SEGURA", "ts": "2026-10-07T23:46:55+00:00"}
+{"detail": "", "item_id": "1a118847da2274b9", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Tesla - Dravier - Mexico City Region Q4 2026 Oct", "ts": "2026-10-07T23:46:55+00:00"}
+{"detail": "", "item_id": "1a1187f947be6949", "reason": "sin_compromiso", "source": "gmail", "subject": "Tesla - Draiver - LARMEX Monterrey to Punto Valle Q4 2026 Oct", "ts": "2026-10-07T23:46:55+00:00"}
+{"detail": "", "item_id": "1a1187bc4749f93c", "reason": "sin_compromiso", "source": "gmail", "subject": "Tesla - Dravier - Mexico City Region Q4 2026 Oct", "ts": "2026-10-07T23:46:55+00:00"}
+{"detail": "", "item_id": "1a1187bd53620be7", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: RANGER | BLANCO NIEVE | AFAHR6LJ4TP146922", "ts": "2026-10-07T23:46:55+00:00"}
+{"action": "otro", "counterparty": "zapata", "detail": "ya abierto en T-51", "item_id": "1a118793e40afd14", "reason": "duplicado", "source": "gmail", "subject": "Re: RANGER | GRIS CARBONO | AFAHR6MB0VP148872", "ts": "2026-10-07T23:46:55+00:00"}
+{"detail": "", "item_id": "1a118757576e3b53", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: MUSTANG | GRIS CARBONO | 1FA6P8CF6T5408892", "ts": "2026-10-07T23:46:55+00:00"}
+{"detail": "^\\s*updated invitation:", "item_id": "1a118610ef5b0a0f", "reason": "meta", "source": "gmail", "subject": "Updated invitation: Draiver <> CEO Cuernaca @ Wed Oct 7, 2026 4:30pm - 6pm (CST)", "ts": "2026-10-07T23:46:55+00:00"}
