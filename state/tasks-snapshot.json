@@ -343,11 +343,17 @@
   "domain": "operacion-kavak",
   "due_date": null,
   "evidence": "De: Diaz Puga Moises <moises.diaz@segurossura.com.mx> Estimado Juan, buen día Te envío los formatos...",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-10-07T21:06:02Z a kavak: «Re: Fiscal Address in Mexico»",
+    "ts": "2026-10-07T21:46:21+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0f3560bc67b6c5",
-  "status": "open",
+  "status": "done",
   "task_id": "201f925406d6",
   "title": "RV: Draiver reclamo 1849, 5-201-2026M13, unidad 3HGGK5874HM008202 Kavak Mexico",
   "vetoed": false,

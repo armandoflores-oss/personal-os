@@ -15,9 +15,6 @@
 - **T-72** Cierre de mes – septiembre 2026
 - **T-73** CONTRATO DRAIVER
 
-## Operación Kavak
-- **T-69** RV: Draiver reclamo 1849, 5-201-2026M13, unidad 3HGGK5874HM008202 Kavak Mexico
-
 ## Reuniones España
 - **T-66** Artur creó todos los conductores en Command Center y asignó viajes para el lunes, pero solo los dos conductores iniciale
 
