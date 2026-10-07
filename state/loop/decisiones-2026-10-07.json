@@ -1,0 +1,6 @@
+{"decisiones": [
+ {"task_id": "298dd95c5797", "clase": "ninguna", "evidencia": "Lo único que hay es tu queja de que no te pusieron el seguimiento a Borusan. Eso es lo que creó la tarea, no algo que diga que ya se cerró."},
+ {"task_id": "a73407884bc6", "clase": "blanda", "evidencia": "El hilo 'Re: Facturas pendientes de pago' lleva 14 días sin movimiento. Puede que ya se haya resuelto, pero nadie lo confirmó."},
+ {"task_id": "4eef98d452a7", "clase": "blanda", "evidencia": "El hilo del Explorer blanco Oxford (VIN …C24416) lleva 14 días sin movimiento. Puede que ya se haya resuelto, pero nadie lo confirmó."},
+ {"task_id": "a2d1a4a31300", "clase": "ninguna", "evidencia": "La conexión EDI con JDEJA se trató en una junta, pero el registro no dice si quedó cerrada. Tratarlo no es lo mismo que resolverlo."}
+]}
