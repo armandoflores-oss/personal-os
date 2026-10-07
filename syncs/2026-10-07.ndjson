@@ -1,2 +1,3 @@
 {"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-10-07T15:06:13+00:00"}
 {"leg": "heartbeat", "stage": "start", "task": "brief-personal-os", "ts": "2026-10-07T15:06:13+00:00"}
+{"leg": "heartbeat", "stage": "end", "task": "brief-personal-os", "ts": "2026-10-07T16:07:34+00:00"}
