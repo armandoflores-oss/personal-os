@@ -1,6 +1,6 @@
 Diaria Spain Launch - 2026/10/06 08:31 CST - Notes by Gemini
 oct 6, 2026
-Invitados: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
+Invitado: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
 
 ### Resumen
 Integración con Eurotransport Car y sincronización de órdenes y prospección comercial con Arval
@@ -16,9 +16,9 @@ Creación de cuentas estándar para agilizar ventas y revisión pendiente de int
 
 ### Decisiones
 Acordada
-- Prueba piloto de integración con Sirsa: Se acordó utilizar a Sirsa como el primer cliente para realizar las pruebas iniciales de integración con Eurotransport Car.
-- Procedimiento de alta con autorización del cliente: Se estableció enviar un correo electrónico a Eurotransport Car con el cliente en copia para obtener su autorización y gestionar directamente el alta.
-- Creación de cuentas con configuración estándar: Se estableció crear cuentas con precios y configuraciones estándar en el sistema para agilizar el proceso de alta de los clientes.
+- Prueba piloto de integración con Sirsa. Se acordó utilizar a Sirsa como el primer cliente para realizar las pruebas iniciales de integración con Eurotransport Car.
+- Procedimiento de alta con autorización del cliente. Se estableció enviar un correo electrónico a Eurotransport Car con el cliente en copia para obtener su autorización y gestionar directamente el alta.
+- Creación de cuentas con configuración estándar. Se estableció crear cuentas con precios y configuraciones estándar en el sistema para agilizar el proceso de alta de los clientes.
 
 ### Próximos pasos
 - [Daniel Escribano, Artur Morais] Realizar piloto: Realizar el piloto de integración técnica con el cliente Sirsa para validar los casos de uso y detectar errores en la comunicación entre sistemas.
@@ -36,6 +36,6 @@ Gestión de cuentas y estructura para Arval: Daniel Escribano y Artur Morais ana
 
 Automatización en la creación de cuentas estándar: Artur Morais detalló que se crearon cuentas bajo la configuración "Driver Standard" con precios estándar para agilizar el proceso con el equipo de ventas y reducir los tiempos de alta ante solicitudes de movimiento. Artur Morais mencionó que este flujo planificado permitirá gestionar un volumen mayor de cuentas semanalmente y evaluar mejoras en las herramientas de producto.
 
-Integración de HubSpot con telefonía y problemas técnicos de audio: Armando Flores consultó sobre la integración pendiente de HubSpot con la telefonía, a lo cual Daniel Escribano respondió que no la ha realizado debido a la carga de trabajo y prometió atenderla próximamente. Adicionalmente, Daniel Escribano expuso inconvenientes con el software Cloud Talk, señalando que las personas colaboradoras experimentan problemas de audio con los clientes a pesar de contar con auriculares nuevos. Ante esto, Artur Morais indicó que consultará con Larissa y Paula para organizar una sesión de entrenamiento sobre el manejo de la nube.
+Integración de HubSpot con telefonía y problemas técnicos de audio: Armando Flores consultó sobre la integración pendiente de HubSpot con la telefonía, a lo cual Daniel Escribano respondió que no la ha realizado debido a la carga de trabajo y prometió atenderla próximamente. Adicionalmente, Daniel Escribano expuso inconvenientes con el software Clotol, señalando que las personas colaboradoras experimentan problemas de audio con los clientes a pesar de contar con auriculares nuevos. Ante esto, Artur Morais indicó que consultará con Larissa y Paula para organizar una sesión de entrenamiento sobre el manejo de la nube.
 
-[Transcripción literal disponible en el documento de Drive; no incluida en este depósito.]
+[Transcripción literal omitida en este depósito; completa en el doc de Drive.]
