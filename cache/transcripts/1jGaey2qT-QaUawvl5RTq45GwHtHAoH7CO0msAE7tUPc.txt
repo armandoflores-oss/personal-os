@@ -1,6 +1,6 @@
 Diaria Spain Launch - 2026/10/05 08:27 CST - Notes by Gemini
 oct 5, 2026
-Invitados: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
+Invitado: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
 
 ### Resumen
 Revisión de métricas de llamadas y problemas de soporte en España con integración técnica
@@ -16,7 +16,7 @@ Propuesta de célula de soporte exclusiva. Operatividad de Clicar confirmada.
 
 ### Decisiones
 Acordada
-- Integración obligatoria de Cloud Talk en Hubspot: Se establece que el equipo debe integrar Cloud Talk directamente en Hubspot para centralizar el registro y la gestión de las llamadas.
+- Integración obligatoria de Cloud Talk en Hubspot. Se establece que el equipo debe integrar Cloud Talk directamente en Hubspot para centralizar el registro y la gestión de las llamadas.
 
 ### Próximos pasos
 - [Daniel Escribano] Integrar Cloud Talk: Explicar a las integrantes del equipo de Hunters la integración de esta herramienta con Hubspot.
@@ -31,6 +31,6 @@ Integración de Cloud Talk en HubSpot y problemas con la línea de Lucía: Arman
 
 Desacuerdo sobre la asignación de personal de soporte para España: Artur Morais comentó que había conversado con Larisa y el equipo para incorporar a una persona de soporte dedicada a España, pero Larisa indicó por escrito el viernes que, dado que se canceló la contratación general, no ven la necesidad de sumar a nadie a dicho equipo de soporte. Armando Flores criticó la postura de esa área y anunció que hablaría directamente con Dan para solucionarlo, argumentando que con la caída de demanda en España (con 17 transportes registrados y una proyección de 300) en comparación con México (que maneja miles), debería existir suficiente capacidad de sobra. Artur Morais aclaró que la intención era contar con apoyo para entender la operativa y mejorar los materiales, y Armando Flores aconsejó a Artur Morais no discutir por chat con el equipo de soporte para evitar confrontaciones innecesarias.
 
-Propuesta de célula de soporte independiente y estado de Clicar: Artur Morais sugirió que, como solución interna, se podría estructurar una célula de soporte exclusiva para España separada del equipo general. Por otra parte, Armando Flores confirmó que la integración de Clicar (Deca) ya se encuentra operando y Artur Morais añadió que está gestionando los comentarios al respecto con Isaí del área de tecnología. Finalmente, Armando Flores comunicó que se pondría en contacto inmediato con Dan y que coordinaría las reuniones y objetivos pendientes con Nico para el día siguiente.
+Propuesta de célula de soporte independiente y estado de Clicar: Artur Morais sugirió que, como solución interna, se podría estructurar una célula de soporte exclusiva para España separada del equipo general. Por otra parte, Armando Flores confirmó que la integración de Clicar (Deca) ya se encuentra operando y Artur Morais añadió que está gestionando los comentarios al respecto con Isaí del área de tecnología. Finalmente, Armando Flores comunicó que se pondría en contacto inmediato con Dan y que coordinaría las reuniones y objetivos pendientes con Ico para el día siguiente.
 
-[Transcripción literal disponible en el documento de Drive; no incluida en este depósito.]
+[Transcripción literal omitida en este depósito; completa en el doc de Drive.]
