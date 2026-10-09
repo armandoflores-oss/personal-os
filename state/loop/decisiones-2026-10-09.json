@@ -1,0 +1,9 @@
+{"decisiones": [
+  {"task_id": "3414689d651a", "clase": "ninguna", "evidencia": "Hilo de la operación Ford MX 2A: solo hay 14 días sin movimiento. En un frente estratégico, que nadie escriba no significa que se cerró."},
+  {"task_id": "207c6a5f5690", "clase": "ninguna", "evidencia": "Hilo REPSE / plataformas digitales: solo hay 14 días sin movimiento. Una duda regulatoria sin respuesta no se resuelve sola."},
+  {"task_id": "298dd95c5797", "clase": "ninguna", "evidencia": "Lo único que dijiste de Borusan fue 'no me pusiste dar seguimiento a borusan', o sea que pediste abrirla. No hay nada que indique que ya quedó."},
+  {"task_id": "a73407884bc6", "clase": "ninguna", "evidencia": "Hilo de facturas pendientes de pago: solo hay 16 días sin movimiento. Que nadie escriba no prueba que ya pagaron."},
+  {"task_id": "4eef98d452a7", "clase": "blanda", "evidencia": "Hilo de una sola unidad (Explorer blanco Oxford, VIN ...C24416): 16 días sin movimiento. Probablemente ya se movió, pero nadie lo confirmó."},
+  {"task_id": "a2d1a4a31300", "clase": "ninguna", "evidencia": "Solicitud de conexión EDI/SFTP (REQGTPCM2026000128): solo hay 16 días sin movimiento. Una integración no se cierra sola, así que el silencio puede ser un atasco."},
+  {"task_id": "04cd547913a3", "clase": "blanda", "evidencia": "Cotización Pachuca–Zumpango: 14 días sin movimiento. Lo normal es que ya se haya contestado o que el cliente no siguió, pero no hay confirmación."}
+]}

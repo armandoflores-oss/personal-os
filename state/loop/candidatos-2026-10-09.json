@@ -1,0 +1,91 @@
+{
+ "fecha": "2026-10-09",
+ "abiertas": 17,
+ "candidatos": [
+  {
+   "task_id": "3414689d651a",
+   "code": "T-31",
+   "titulo": "Re: FORD MX -DRAIVER -MEXICO OPERATION 2A",
+   "dominio": "pipeline-estrategico",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 14
+    }
+   ]
+  },
+  {
+   "task_id": "207c6a5f5690",
+   "code": "T-34",
+   "titulo": "Re: REPSE and digital platforms",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 14
+    }
+   ]
+  },
+  {
+   "task_id": "298dd95c5797",
+   "code": "T-49",
+   "titulo": "Dar seguimiento a Borusan (hilo Borusan/Draiver)",
+   "dominio": "grandes-deals",
+   "evidencia": [
+    {
+     "tipo": "armando_lo_dijo",
+     "detalle": "no me pusiste dar seguimiento a borusan Borusan no es ruido: el clasificador suprimió 3 veces el hilo 'Borusan/Draiver' (gmail, 21 y 22 sep 2026) como sin_compromiso y por eso nunc",
+     "tokens": 2
+    }
+   ]
+  },
+  {
+   "task_id": "a73407884bc6",
+   "code": "T-50",
+   "titulo": "Re: Facturas pendientes de pago",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 16
+    }
+   ]
+  },
+  {
+   "task_id": "4eef98d452a7",
+   "code": "T-52",
+   "titulo": "Re: EXPLORER | BLANCO OXFORD | 1FM5K8AWXSGC24416",
+   "dominio": "pipeline-estrategico",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 16
+    }
+   ]
+  },
+  {
+   "task_id": "a2d1a4a31300",
+   "code": "T-56",
+   "titulo": "Fwd: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128",
+   "dominio": "pipeline-estrategico",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 16
+    }
+   ]
+  },
+  {
+   "task_id": "04cd547913a3",
+   "code": "T-59",
+   "titulo": "Re: COTIZACION PACHUCA A ZUMPANGO",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 14
+    }
+   ]
+  }
+ ]
+}

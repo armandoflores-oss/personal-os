@@ -2220,6 +2220,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "f5da88853c14": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-74",
+  "counterparty": "tesla",
+  "created": "2026-10-09T18:36:22+00:00",
+  "domain": "pipeline-estrategico",
+  "due_date": null,
+  "evidence": "Re: Tesla - Dravier - Mexico City Region Q4 2026 Oct\n@Uriel Vargas buen día, como lo conversamos te paso la programación de hoy en la tarde.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a1219b099e8ed18",
+  "status": "open",
+  "task_id": "f5da88853c14",
+  "title": "Re: Tesla - Dravier - Mexico City Region Q4 2026 Oct",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "f68cbc15aa53": {
   "action": "enviar",
   "applied": false,
