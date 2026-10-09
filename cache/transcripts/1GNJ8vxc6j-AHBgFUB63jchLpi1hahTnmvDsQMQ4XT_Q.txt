@@ -1,27 +1,19 @@
 Daily Huddle - Ops MX - 2026/10/07 09:14 CST - Notes by Gemini
 Oct 7, 2026
-Invited: Uriel Vargas, Cristian Arizmendi, Julia Diaz, Armando Flores, Diego Diaz, Camila Flores, Jose Duran, Gerardo Acosta (gerardo.acosta@kavak.com)
+Invited: Uriel Vargas, Cristian Arizmendi, Julia Diaz, Armando Flores, Diego Diaz, Camila Flores, Jose Duran, Gerardo Acosta
 
-### Summary
+Summary
 Driver updates and command center coordination with Salesforce integration details
 
-Driver Group Updates
-Updates on drivers raised coordination concerns among participants.
+Driver Group Updates: Updates on drivers raised coordination concerns among participants.
+Command Center Coordination: Command center discussion highlighted Tesla holders and system training requirements.
+Salesforce Integration Review: Administrative formatting focused on Salesforce tax labor payments.
 
-Command Center Coordination
-Command center discussion highlighted Tesla holders and system training requirements.
-
-Salesforce Integration Review
-Administrative formatting focused on Salesforce tax labor payments.
-
-### Next steps
+Next steps
 No suggested next steps were found for this meeting.
 
-### Details
-Opening and Initial Remarks: Uriel Vargas, Julia Diaz, Camila Flores, and Jose Duran begin the session with introductory remarks and audio checks, though the exchange largely consists of conversational filler and untranslated speech fragments.
-
+Details
+Opening and Initial Remarks: Uriel Vargas, Julia Diaz, Camila Flores, and Jose Duran begin the session with introductory remarks and audio checks.
 Group Updates Concerning Drivers: Jose Duran shares news regarding Cristian and Roberto within the group. Diego Diaz queries the discussion context and raises concerns regarding drivers, prompting coordination from Julia Diaz.
-
 Command Center Coordination and Driver Training: Diego Diaz opens a command center discussion, and Camila Flores touches upon reporting. Cristian Arizmendi and Julia Diaz discuss Tesla holders, additional drivers, and the requirement for system training.
-
 Salesforce Integration and Tax Labor Payments: Camila Flores discusses administrative center formatting using Salesforce, while Jose Duran specifies that the data involves Salesforce tax labor payments on the platform before the participants conclude the meeting.

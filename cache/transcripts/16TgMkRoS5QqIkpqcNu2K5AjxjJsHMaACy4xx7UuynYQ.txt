@@ -1,0 +1,32 @@
+Back office Spain - 2026/10/09 09:59 EDT - Notes by Gemini
+Oct 9, 2026
+Invited: Daniel Escribano, Armando Flores, Paulo Ferrato, Rafael Pagliuso De Andrade, Cristhian Herrera (Jaqueline Sanches declined)
+
+Summary
+Transport logistics and performance bonuses with financial reporting and corporate compliance
+
+Transport and Performance Bonuses
+Transport logistics showed no takers while employee bonuses are determined based on performance and results.
+
+Financial Reporting and Compliance
+Financial reporting updates involved consolidation and dashboard drivers alongside business partner roles and Sarbanes-Oxley compliance.
+
+Financial Operations and Payroll
+Financial operations covered Airbase usage and regional driver structures while payroll services and data concerns were reviewed.
+
+Next steps
+- [Rafael Pagliuso De Andrade] Obtain Key: Retrieve the necessary access key.
+- [Paulo Ferrato] Verify Compliance: Conduct a check on Sox compliance protocols.
+
+Details
+Performance-Based Bonuses and Transport Updates: During the initial discussion regarding transport logistics, Armando Flores noted that EK transport had no takers. Rafael Pagliuso De Andrade mentioned Jackie Canelo Lian in connection with the operations. Additionally, Armando Flores stated that employee bonuses are determined based on performance and results (00:00:18).
+
+Financial Reporting and Dashboard Management: Armando Flores brought up Carlos reporting, while Cristhian Herrera discussed Victor consolidation for October. Paulo Ferrato addressed setup commitments, driver files, and quality control measures for hand processes, emphasizing the focus on dashboard drivers (00:04:58).
+
+Corporate Compliance, HR, and Background Checks: Rafael Pagliuso De Andrade outlined business partner roles for Jackie in Spain and touched upon initial public offering preparations alongside Sarbanes-Oxley compliance. Paulo Ferrato reviewed business-as-usual human resources practices, emphasizing corporate guidelines such as implementing Chinese walls and conducting background checks (00:12:19).
+
+Financial Operations, Airbase, and Regional Driver Structures: Paulo Ferrato discussed Airbase usage for local suppliers and pointed out the absence of a playbook for running a country using driver guidelines. They outlined outsourced finance for Spain and detailed regional driver structures including Grande Driver, Driver Brazil, Driver Mexico, Driver Canada, and Driver US, alongside Netsuite roll-ups and inter-company costs. Furthermore, Paulo Ferrato and Rafael Pagliuso De Andrade discussed artificial intelligence finance applications, chief financial officer oversight, and Victor Man's role as a finance driver employee (00:18:28).
+
+Payroll Services, Documentation, and Regional Data Concerns: Paulo Ferrato reviewed payroll service fees, Martin's transport card management, and Pokemon light references. The team discussed recording meeting session notes, agreements, booking processes, the Spain finance management book, and transcripts for the data knowledge base. Towards the end of the session, Rafael Pagliuso De Andrade raised concerns regarding a lack of data for Brazil before the participants concluded the meeting (00:26:07).
+
+[Transcript omitted: machine transcription was largely unintelligible fragments.]
