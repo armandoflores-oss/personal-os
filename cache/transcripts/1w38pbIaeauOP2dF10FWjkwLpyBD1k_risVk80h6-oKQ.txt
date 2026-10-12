@@ -1,0 +1,55 @@
+Diaria Spain Launch - 2026/10/09 08:34 CST - Notes by Gemini
+
+oct 9, 2026
+Diaria Spain Launch
+Invitado: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
+
+Resumen
+Revisión de gastos y desarrollo de inteligencia artificial y estrategia comercial.
+
+Gestión de gastos corporativos
+Evaluación de alternativas locales para tarjetas con el fin de cumplir estándares contables y mantener el flujo de efectivo.
+
+Estrategia comercial y Clicars
+Discusión sobre volúmenes de transporte y cobro por generación de documentos DECA.
+
+Decisiones
+Requiere más debate
+- Implementación de tarjeta de gastos en España: Se aplazó la adopción de una tarjeta de gastos local en España hasta que se establezca un sistema financiero más claro.
+- Tarifa por generación externa de DECA: Se propuso un cobro de 50 a 75 céntimos por cada documento DECA generado externamente por Clicars, pendiente de inclusión en contrato.
+
+Próximos pasos
+- [Daniel Escribano, Artur Morais] Preparar puntos para Town Hall: Preparar los puntos clave para las diapositivas de la reunión Town Hall sobre el desempeño, resultados, nuevos clientes y proyecciones de España.
+- [Armando Flores] Crear presentación Town Hall: Integrar los puntos recibidos en las diapositivas y validar la información con el equipo antes de generar la presentación final.
+- [Artur Morais] Enviar información Clicars: Consolidar las informaciones sobre Clicars y enviarlas por Slack para incluirlas en la presentación.
+- [Daniel Escribano] Cerrar contrato Clicars: Reunirse con Eder el próximo viernes para cerrar el contrato, establecer los precios del documento de declaración de conformidad y tratar otros asuntos burocráticos pendientes.
+- [Artur Morais] Desarrollar herramienta DUA: Desarrollar una herramienta web para que el cliente genere sus propios documentos de declaración de conformidad y contabilizar su uso para la facturación.
+- [Artur Morais] Completar formulario conflicto: Llenar el formulario sobre conflicto de intereses de Rafa.
+
+Detalles
+Gestión de gastos corporativos y cumplimiento contable en España: Daniel Escribano plantea que actualmente adelanta los gastos de mobiliario de oficina y comidas con clientes utilizando una tarjeta personal y la tarjeta Gibs. Armando Flores argumenta que esta práctica afecta el flujo de efectivo y que, al ser Driver una empresa estadounidense, se deben cumplir los estándares contables internacionales Sarbanes-Oxley exigidos por Paulo y Rafa. Armando Flores sugiere evaluar alternativas locales como tarjetas Gibs o Mendel, consultando a Paulo para evitar mezclar los gastos de España y México. Daniel Escribano acuerda mantener la modalidad temporal hasta que se establezca un sistema financiero formal en España.
+
+Desarrollo de agentes de inteligencia artificial para logística y ventas: Armando Flores informa sobre las reuniones sostenidas con Kevin para definir el funcionamiento de agentes de inteligencia artificial orientados a la logística, operando de manera similar a un gerente de área para coordinar entregas y acceder a herramientas de marketplace. Adicionalmente, Daniel Escribano y Nico discuten la posibilidad de realizar pruebas con agentes de inteligencia artificial enfocados en el área de ventas. Armando Flores indica que esperarán los avances liderados por Kevin para iniciar estas pruebas.
+
+Preparación de contenidos para la reunión general de la empresa (Town Hall): Armando Flores propone la estructura para el próximo Town Hall, incluyendo un resumen de los resultados de México, la bienvenida al equipo de conductoras en Driver, el plan estratégico y la perspectiva para los meses de octubre, noviembre y diciembre. Artur Morais sugiere presentar los avances con el cliente Clicars, el volumen estimado de software como servicio y el estado del pipeline comercial. Daniel Escribano se ofrece a preparar una intervención breve en inglés si es necesario. Armando Flores utilizará una herramienta para redactar un borrador de diapositivas y validará los datos con Daniel Escribano y Artur Morais antes de generarlas.
+
+Estrategia comercial y volúmenes de transporte con Clicars y otros clientes: Daniel Escribano informa que ha cerrado contratos con Flexicar (enviando tarifas a Eurotransport Car), Taes Motor en Cataluña y Safa Motor en Málaga. Artur Morais y Daniel Escribano discuten la operativa con Clicars, señalando que las recogidas de vehículos en localidades remotas implican un desafío para asignar conductores de un día para otro. Daniel Escribano estima un volumen mensual de entre 20 y 50 transportes para recogidas, y entre 50 y 100 si se incluyen entregas a clientes finales. Armando Flores propone desarrollar un agente de inteligencia artificial para gestionar las citas, replicando el modelo utilizado en Estados Unidos. Artur Morais enviará la información de Clicars por Slack, y Daniel Escribano se reunirá con Gina y Pablo el próximo viernes para cerrar el contrato de Flexicar.
+
+Gestión de proveedores externos de Clicars y cobro por generación de documentos DECA: Artur Morais señala que el proveedor Onero presenta alta rotación de conductores y problemas para utilizar la aplicación de manera adecuada, lo que lleva a Clicars a solicitar la capacidad de crear documentos DECA de forma externa en el sistema. Daniel Escribano propone cobrar entre 0.50 y 0.75 euros por cada DECA generado externamente, basándose en los costos de mercado de herramientas como Docuten. Artur Morais se compromete a desarrollar una herramienta de conteo en su nube, y Daniel Escribano negociará la inclusión de esta tarifa de 0.50 a 0.75 euros en la reunión contractual programada con Clicars para el próximo viernes.
+
+Exploración de oportunidades comerciales con Renault España y Gabilondo: Daniel Escribano detalla una reunión sostenida con la fábrica de Renault España en Valladolid, donde se determinó que implementar software como servicio es complejo debido a su torre de control propia, aunque existe la posibilidad de conectar con toda su red de vehículos de ocasión. Daniel Escribano propone aprovechar una visita a Valladolid para contactar a Gabilondo, el mayor distribuidor de vehículos de ocasión de la zona. Artur Morais planea viajar a Madrid el próximo jueves para trabajar en la oficina, y Armando Flores recuerda a Artur Morais que deben completar el formulario de conflicto de interés de Rafa para el registro de autónomo.
+
+Transcripción (resumen del contenido hablado; ver documento original para el verbatim completo)
+00:00:02 Daniel: gastos y tarjeta española no urgen; paga con su tarjeta y lo pasa los viernes. Armando: "Sí, eso sí se necesita ya"; no es lo ideal.
+00:02:02 Armando: el flujo de efectivo se ve afectado; ideal una tarjeta local en España (como Gibs) o Mendel como en México; no mezclar gastos España/México; preguntará a Paulo.
+00:03:02 Armando: Driver es empresa americana, debe cumplir Sarbanes-Oxley; preocupación de Paulo y Rafa.
+00:04:30-00:05:47 Armando: cerró con Kevin ideas de agentes de IA tipo area manager de logística; Command Center como herramienta; posibles pruebas de ventas con agentes (Dani/Nico).
+00:06:57-00:10:20 Town Hall: Armando pide 5 bullets a Dani y 5 a Artur; bienvenida a las dos chicas del equipo; resultados de septiembre y perspectiva oct-dic; Artur propone Clicars, SaaS, driveaway y pipeline avanzado; Dani ofrece discurso corto en inglés; Armando armará slides con Claude y validará texto con ellos; Julia presenta la parte operativa de México.
+00:11:28-00:12:39 Dani: 5-6 clientes de 20-30 transportes mensuales; Flexicar cerrado con Eder (tarifas a Eurotransport Car); reunión el viernes con Gina y Pablo; Taes Motor (Cataluña) y Safa Motor (Málaga) cerrados.
+00:13:59-00:19:19 Clicars: dan la recogida en pueblos remotos, de un día para otro, conductor asignado antes de que acabe el día; volumen 20-50/mes recogidas, 50-100/mes con entregas a cliente final.
+00:20:22 Armando: agente de citas como el de Estados Unidos (hablado con Kevin).
+00:21:47-00:25:35 Artur: proveedor Onero rota conductores; Clicars quiere generar DECA ellos mismos; Dani propone cobrar 0.50-0.75 EUR por DECA externo (Docuten 0.75-0.85); Artur hará herramienta web que contabilice; Dani lo meterá en contrato el viernes (contraparte en Francia toda la semana).
+00:26:53 Dani: reunión con Renault España (Valladolid); SaaS difícil por torre de control propia, pero conectarán con red VO de Renault.
+00:28:22 Armando: Artur debe llenar el form de conflicto de interés de Rafa. Dani propone visitar Gabilondo en Valladolid.
+00:29:36 Artur irá a Madrid el jueves. Armando: mándenme 3-4 bullets por Slack; un slide de España, mitad Clicars (Artur) y mitad ventas/clientes/proyección (Dani).
+La transcripción finalizó después de 00:31:23

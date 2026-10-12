@@ -1,0 +1,54 @@
+All Hands - Ops MX - 2026/10/09 11:27 CST - Notes by Gemini
+
+Oct 9, 2026
+All Hands - Ops MX
+Invited: Gerardo Acosta, Uriel Vargas, Cristian Arizmendi, Julia Diaz, Armando Flores, Diego Diaz, Camila Flores, Jose Duran
+
+Summary
+Marketplace operations reviewed with logistics updates and financial metrics examined.
+
+Marketplace Logistics And Inventory
+Discussion covered marketplace employee drivers and inventory management processes for transport models.
+
+Driver Paychecks And Tracking
+Review of digital service provider collections alongside Salesforce data for lost drivers.
+
+Q3 Profitability And Transport
+Analysis of gross profitability metrics and system data sources for transport revenue.
+
+Next steps
+No suggested next steps were found for this meeting.
+
+Details
+Marketplace Drivers and Delivery Logistics: Julia Diaz and Armando Flores discuss marketplace employee drivers and deliveries, referencing Continental and noting Diego's involvement with Central.
+
+Inventory Management and Transport Models: Armando Flores outlines inventory management processes intended for Claudia or Libya, referencing Mike photos, driver marketplace integrations with Tesla and Ford, and WhatsApp models for transport. Armando Flores also highlights self-service trading options and transport mechanisms during the discussion.
+
+WhatsApp Command Center Implementation: Armando Flores and Jose Duran review different skill sets and the deployment of a WhatsApp command center specifically tailored for Mexico. Jose Duran notes that there is an architectural complication involved in the setup, while Armando Flores discusses command center options and gas addresses with input from the group.
+
+Driver Assignment and Financial Metrics: Armando Flores and Camila Flores address legal considerations and the engagement of daily marketplace drivers through direct assignment versus self-assignment options. Armando Flores outlines key financial metrics, detailing earnings per driver calculated per hour and per day, alongside the cost per mile.
+
+Chase Revenue and Legal Review: Uriel Vargas discusses revenue and legal considerations involving Chase, noting various elements and speech components during the initial meeting segment. They are joined by Armando Flores, Camila Flores, and Julia Diaz in the dialogue regarding these operational reviews.
+
+DSP Collections and Driver Paychecks: Uriel Vargas and Armando Flores discuss collections from Digital Service Provider systems and specific controls for their driver paychecks measured in pesos. They review component elements and collection processes alongside Camila Flores and Julia Diaz.
+
+Manufacturing, Vehicle Drivers, and Location Tracking: Cristian Arizmendi, Armando Flores, Julia Diaz, and Uriel Vargas discuss manufacturing topics, referencing Tesla, Netflix content, and Mazda drivers. Cristian Arizmendi notes a resume system for exact location tracking concerning liners, with further updates scheduled for September.
+
+Driver Tracking, Salesforce Data, and Trip Metrics: Cristian Arizmendi addresses estimates regarding lost drivers and evaluates driver data using Salesforce. They review artificial intelligence trips and driver engagement across specific locations including Chihuahua and Cancun, noting instances where drivers have no recent trips. Armando Flores, Julia Diaz, and Uriel Vargas also participate in evaluating these driver statuses.
+
+Marketplace and Driver Operations: Cristian Arizmendi, Julia Diaz, Diego Diaz, and Armando Flores discuss driver management, marketplace tools, Sheets, and Salesforce integration, highlighting operational control and continental scope.
+
+Q3 Delivery and Profitability Metrics: Jose Duran reviews Q3 performance indicators, including on-time delivery, dry runs, recollection data, reduction per mile, and gross profitability, with Armando Flores noting financial figures in pesos.
+
+Transport Revenue and System Data Sources: Jose Duran presents the transport revenue and profitability slide, detailing payment per mile for dry runs, integration priorities for Stambian, WhatsApp drivers, Wendy, and Herz, and gross profitability. Armando Flores and Cristian Arizmendi discuss Salesforce versus MCP analytics, and Jose Duran establishes that LMC is the sole source of truth.
+
+Operational Pipeline and Traffic Guidance: Armando Flores outlines pipeline and marketplace dynamics, while Uriel Vargas introduces traffic considerations. Jose Duran provides guidance parameters, and Armando Flores discusses transport driver parameters.
+
+Transcript
+(Transcripción automática ilegible en su mayoría — 2h46m, mal reconocimiento de idioma. Fragmentos con contenido:)
+00:48:21 Armando: "direct assignment" ... "earnings per driver... per driver, per hour, per day. Cost per mile." Camila: "marketplace drivers engaged. Daily drivers." "dry runs" "self assign."
+01:11:43 Uriel: "collection from DSP." Armando: "Driver paycheck" "with those pesos."
+01:35:46 Cristian: "lost drivers" "Salesforce" "AI trips" "drivers in Chihuahua" "Drivers in Cancun" "No recent trips."
+02:04:31 Jose: "Q3 the on time delivery. Dry runs." "Force closed. The recollection." "The reduction per mile." "Gross profitability."
+02:19:10 Jose: "Transport is the Revenue slide." "Payment per mile. for dry runs." "Stambian is the priority. WhatsApp drivers." Armando: "Revenue superset." "MCP, the Analytics the the claim analytics." "Salesforce inst MCP." Jose: "The only source of truth is LMC."
+Transcription ended after 02:46:33

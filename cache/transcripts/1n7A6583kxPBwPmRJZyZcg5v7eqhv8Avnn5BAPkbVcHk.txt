@@ -1,0 +1,28 @@
+Daily Huddle - Ops MX - 2026/10/09 09:28 CST - Notes by Gemini
+
+Oct 9, 2026
+Daily Huddle - Ops MX
+Invited: Uriel Vargas, Cristian Arizmendi, Julia Diaz, Armando Flores, Diego Diaz, Camila Flores, Jose Duran, Gerardo Acosta
+
+Summary
+Computer setup review with regional operations and driver management details
+
+Computer setup and location
+Setup requirements and regional locations reviewed.
+
+Operations checklists for regions
+Checklist systems established for facilities.
+
+Vehicle and driver management
+Tesla assigned and driver status confirmed.
+
+Next steps
+- [Jose Duran] Collect Photos: Capture interior photos and identify drop off locations.
+- [The group] Extend Contracts: Update records to extend employee contractors.
+
+Details
+Computer Setup and Location Details: Cristian Arizmendi stated that they needed the computer. Cristian and Julia Diaz discussed a location in Mexico while reviewing a snow image. Additionally, Diego Diaz discussed matters relating to drivers during this initial phase.
+
+Operations Checklists in Canada and Mexico: Jose Duran discussed operations spanning Canada and Mexico, highlighting the use of a checklist system. Furthermore, Jose Duran and Camila Flores detailed specific facility locations, noting that operational requirements include interior pickup photos, drop-off procedures, and checklist documentation.
+
+Vehicle Assignment and Driver Management: Uriel Vargas stated that the Tesla functions as the conductor. In addition, Camila Flores addressed driver management, specifically identifying Carlos Hernandez as a complete driver, and touched upon employee contractors associated with the facility locations.

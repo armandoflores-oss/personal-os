@@ -3,3 +3,5 @@
 {"creados": [], "leg": "inbound", "source": "drive", "suprimidos": [{"detail": "", "item_id": "1WrTDslk7HQ9CuGFE0OcEbUHivC35oOpmHDrnOHKHi4c", "reason": "sin_compromiso", "source": "drive", "subject": "Diaria Spain Launch - 2026/10/12 08:32 CST - Notes by Gemini", "ts": "2026-10-12T14:46:58+00:00"}], "tope_alcanzado": 0, "ts": "2026-10-12T14:46:58+00:00", "vistos": 1, "watermark": "2026-10-12T14:41:12Z", "ya_vistos": 0}
 {"casi": [], "cerrados": [], "leg": "outbound", "revisados": 3, "ts": "2026-10-12T14:46:58+00:00"}
 {"cambiadas": 0, "cards": 117, "huerfanas": 0, "leg": "tejido", "ts": "2026-10-12T14:47:00+00:00"}
+{"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-10-12T14:47:04+00:00"}
+{"leg": "heartbeat", "stage": "start", "task": "brief-personal-os", "ts": "2026-10-12T15:04:23+00:00"}
