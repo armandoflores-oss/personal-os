@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-09",
- "abiertas": 17,
+ "abiertas": 18,
  "candidatos": [
   {
    "task_id": "3414689d651a",
@@ -10,7 +10,7 @@
    "evidencia": [
     {
      "tipo": "sin_movimiento",
-     "dias": 14
+     "dias": 15
     }
    ]
   },
@@ -22,7 +22,7 @@
    "evidencia": [
     {
      "tipo": "sin_movimiento",
-     "dias": 14
+     "dias": 15
     }
    ]
   },
@@ -83,7 +83,19 @@
    "evidencia": [
     {
      "tipo": "sin_movimiento",
-     "dias": 14
+     "dias": 15
+    }
+   ]
+  },
+  {
+   "task_id": "f5da88853c14",
+   "code": "T-74",
+   "titulo": "Re: Tesla - Dravier - Mexico City Region Q4 2026 Oct",
+   "dominio": "pipeline-estrategico",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 2
     }
    ]
   }

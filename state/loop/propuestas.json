@@ -1,4 +1,22 @@
 {
+ "04cd547913a3": {
+  "code": "T-59",
+  "creada": "2026-10-10T01:11:43+00:00",
+  "degradada": null,
+  "evidencia": "La cotización Pachuca→Zumpango lleva 15 días sin respuesta; lo más probable es que ya se contestó o que murió, pero no hay confirmación.",
+  "firewalled": false,
+  "titulo": "Re: COTIZACION PACHUCA A ZUMPANGO",
+  "vence": "2026-10-13T01:11:43+00:00"
+ },
+ "4eef98d452a7": {
+  "code": "T-52",
+  "creada": "2026-10-10T01:11:43+00:00",
+  "degradada": null,
+  "evidencia": "El hilo del traslado de la Explorer blanca (VIN ...24416) lleva 16 días sin movimiento; un traslado puntual tan quieto probablemente ya se hizo, pero nadie lo confirmó.",
+  "firewalled": false,
+  "titulo": "Re: EXPLORER | BLANCO OXFORD | 1FM5K8AWXSGC24416",
+  "vence": "2026-10-13T01:11:43+00:00"
+ },
  "6ec8e2f70a98": {
   "code": "T-57",
   "creada": "2026-09-26T00:42:54+00:00",
