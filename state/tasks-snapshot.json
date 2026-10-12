@@ -1625,11 +1625,17 @@
   "domain": "pipeline-estrategico",
   "due_date": null,
   "evidence": "Can you send me the production credentials?",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-10-12T21:39:31Z a ford: «Re: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128»",
+    "ts": "2026-10-12T21:46:13+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0ceef200f10fc4",
-  "status": "open",
+  "status": "done",
   "task_id": "a2d1a4a31300",
   "title": "Fwd: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128",
   "vetoed": false,

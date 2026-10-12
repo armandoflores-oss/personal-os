@@ -24,7 +24,6 @@
 ## Pipeline estratégico
 - **T-31** Re: FORD MX -DRAIVER -MEXICO OPERATION 2A · esperando a Uriel
 - **T-52** Re: EXPLORER | BLANCO OXFORD | 1FM5K8AWXSGC24416
-- **T-56** Fwd: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128
 - **T-64** Propuesta de entrega
 - **T-74** Re: Tesla - Dravier - Mexico City Region Q4 2026 Oct
 

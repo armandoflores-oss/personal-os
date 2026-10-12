@@ -1462,3 +1462,10 @@
 {"detail": "", "item_id": "1a13138dab1fca35", "reason": "sin_compromiso", "source": "gmail", "subject": "Notes: “DRAIVER:Ven Pot Tu Auto” Oct 12, 2026", "ts": "2026-10-12T19:46:20+00:00"}
 {"detail": "", "item_id": "1a1310ea18fae00a", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Onboarding Mendel <> DriverDo", "ts": "2026-10-12T19:46:20+00:00"}
 {"detail": "", "item_id": "1a1310bdef7429c7", "reason": "sin_compromiso", "source": "gmail", "subject": "RV: Cita Registrada para la fecha 13/10/2026 11:55:00", "ts": "2026-10-12T19:46:20+00:00"}
+{"detail": "^\\s*invitation:", "item_id": "1a131ad7e3a041a9", "reason": "meta", "source": "gmail", "subject": "Invitation: Autosur - Check del piloto @ Mon Oct 12, 2026 4pm - 4:30pm (CST) (Armando Flores)", "ts": "2026-10-12T21:46:13+00:00"}
+{"detail": "", "item_id": "1a131baf5b45b107", "reason": "sin_compromiso", "source": "gmail", "subject": "A simpler way for dealerships to get paid", "ts": "2026-10-12T21:46:13+00:00"}
+{"detail": "", "item_id": "1a131dd054a8cd52", "reason": "sin_compromiso", "source": "gmail", "subject": "RE: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128", "ts": "2026-10-12T21:46:13+00:00"}
+{"detail": "", "item_id": "1a131e5910f7848c", "reason": "sin_compromiso", "source": "gmail", "subject": "RE: REPSE and digital platforms", "ts": "2026-10-12T21:46:13+00:00"}
+{"detail": "", "item_id": "1a131e99d0397866", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128", "ts": "2026-10-12T21:46:13+00:00"}
+{"detail": "", "item_id": "1a131edbb4754520", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128", "ts": "2026-10-12T21:46:13+00:00"}
+{"detail": "", "item_id": "1a131fc42a19d2de", "reason": "sin_compromiso", "source": "gmail", "subject": "RE: FACTURACION AVASA", "ts": "2026-10-12T21:46:13+00:00"}
