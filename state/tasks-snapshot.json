@@ -1512,6 +1512,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "978f66935969": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-75",
+  "counterparty": "mendel",
+  "created": "2026-10-12T19:46:20+00:00",
+  "domain": "operacion-semanal",
+  "due_date": null,
+  "evidence": "Les comparto comentarios.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a131279e438bfb3",
+  "status": "open",
+  "task_id": "978f66935969",
+  "title": "Re: Onboarding Mendel <> DriverDo",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "9825023893fb": {
   "action": "enviar",
   "applied": false,

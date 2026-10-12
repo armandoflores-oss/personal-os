@@ -28,3 +28,6 @@
 - **T-64** Propuesta de entrega
 - **T-74** Re: Tesla - Dravier - Mexico City Region Q4 2026 Oct
 
+## Operación semanal y márgenes
+- **T-75** Re: Onboarding Mendel <> DriverDo
+

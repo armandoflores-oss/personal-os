@@ -11,7 +11,7 @@ atención. Está aquí por si algún día quieres ver cómo creció._
 
 ## 2026-10-12
 
-  - Tamaño: 33 proyectos · 32 reglas · 16 contexto · 11 gente · 1 fuentes
+  - Tamaño: 33 proyectos · 33 reglas · 16 contexto · 11 gente · 1 fuentes
   - Sin cards nuevas.
 
 ## 2026-10-09
