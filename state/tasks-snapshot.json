@@ -64,11 +64,17 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Te comparto la cotización solicitada.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:loop:propuesta",
+    "note": "evidencia: propuesta vencida sin objeción · La cotización Pachuca→Zumpango lleva 15 días sin respuesta; lo más probable es que ya se contestó o que murió, pero no hay confirmación.",
+    "ts": "2026-10-13T15:09:10+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0d4620d2225784",
-  "status": "open",
+  "status": "done",
   "task_id": "04cd547913a3",
   "title": "Re: COTIZACION PACHUCA A ZUMPANGO",
   "vetoed": false,
@@ -791,11 +797,17 @@
   "domain": "pipeline-estrategico",
   "due_date": null,
   "evidence": "Quedo en espera de su apoyo, por favor.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:loop:propuesta",
+    "note": "evidencia: propuesta vencida sin objeción · El hilo del traslado de la Explorer blanca (VIN ...24416) lleva 16 días sin movimiento; un traslado puntual tan quieto probablemente ya se hizo, pero nadie lo confirmó.",
+    "ts": "2026-10-13T15:09:10+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0ca67c5c9baa08",
-  "status": "open",
+  "status": "done",
   "task_id": "4eef98d452a7",
   "title": "Re: EXPLORER | BLANCO OXFORD | 1FM5K8AWXSGC24416",
   "vetoed": false,

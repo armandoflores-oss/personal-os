@@ -1490,3 +1490,14 @@
 {"detail": "", "item_id": "1a13282f3ed908ba", "reason": "sin_compromiso", "source": "gmail", "subject": "[DriverDO LLC] Invoice #FA1173 from PORFIRIO ALBERTO LUNA LEAL was approved for payment", "ts": "2026-10-13T14:46:31+00:00"}
 {"detail": "", "item_id": "1a13282ebf5bdc7c", "reason": "sin_compromiso", "source": "gmail", "subject": "[DriverDO LLC] Invoice #1421 from AUREN was approved for payment", "ts": "2026-10-13T14:46:31+00:00"}
 {"detail": "", "item_id": "1a13282dfa69b8e0", "reason": "sin_compromiso", "source": "gmail", "subject": "[DriverDO LLC] Invoice #1429 from AUREN was approved for payment", "ts": "2026-10-13T14:46:31+00:00"}
+{"detail": "^\\s*canceled event\\b", "item_id": "1a1362ecafbb48f4", "reason": "meta", "source": "gmail", "subject": "Canceled event with note: PYLC x Draiver connect - bisemanal @ Wed Oct 14, 2026 1pm - 2pm (CST) (Armando Flores)", "ts": "2026-10-13T16:54:45+00:00"}
+{"detail": "^\\s*invitation:", "item_id": "1a1362e6e925a152", "reason": "meta", "source": "gmail", "subject": "Invitation: Quick Catch Mexico @ Tue Oct 13, 2026 1:30pm - 2pm (CST) (Armando Flores)", "ts": "2026-10-13T16:54:45+00:00"}
+{"detail": "^\\s*declined:", "item_id": "1a1360efe1b1be48", "reason": "meta", "source": "gmail", "subject": "Declined: Weekly Kavak / Draiver Leaders @ Tue Oct 13, 2026 11am - 12pm (CST) (Armando Flores)", "ts": "2026-10-13T16:54:45+00:00"}
+{"detail": "", "item_id": "1a13601616413272", "reason": "sin_compromiso", "source": "gmail", "subject": "Escritorio Virtual IMSS", "ts": "2026-10-13T16:54:45+00:00"}
+{"detail": "", "item_id": "1a135fc1112c808d", "reason": "sin_compromiso", "source": "gmail", "subject": "RE: COTIZACION", "ts": "2026-10-13T16:54:45+00:00"}
+{"detail": "", "item_id": "1a135d594a5e5847", "reason": "sin_compromiso", "source": "gmail", "subject": "Signature Needed - NDA (CONSULTING AND ACCOUNTING MB, S.C. and Draiver)", "ts": "2026-10-13T16:54:45+00:00"}
+{"detail": "", "item_id": "1a135d113ff0fcf6", "reason": "sin_compromiso", "source": "gmail", "subject": "Welcome Louyse Scheutzow to DRAIVER!", "ts": "2026-10-13T16:54:45+00:00"}
+{"detail": "", "item_id": "1a135ce044c9e634", "reason": "sin_compromiso", "source": "gmail", "subject": "Notes: “Diaria Spain Launch” Oct 13, 2026", "ts": "2026-10-13T16:54:45+00:00"}
+{"detail": "", "item_id": "1a135c9413acaf0d", "reason": "sin_compromiso", "source": "gmail", "subject": "Welcome Lucas Cabral to DRAIVER!", "ts": "2026-10-13T16:54:45+00:00"}
+{"detail": "", "item_id": "1a135c8e4773d406", "reason": "sin_compromiso", "source": "gmail", "subject": "Welcome Vitor Sousa to DRAIVER!", "ts": "2026-10-13T16:54:45+00:00"}
+{"detail": "", "item_id": "1j3IulidHkqLElJKMOrnj2xpjj150gBxGPVI2u5TQeIA", "reason": "sin_compromiso", "source": "drive", "subject": "Diaria Spain Launch - 2026/10/13 08:30 CST - Notes by Gemini", "ts": "2026-10-13T16:54:45+00:00"}

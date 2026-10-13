@@ -7,7 +7,6 @@
 - **T-50** Re: Facturas pendientes de pago
 - **T-51** Re: MUSTANG | GRIS CARBONO | 1FA6P8CF6T5408892
 - **T-53** Re: RANGER | GRIS CARBONO | AFAHR6MB0VP148872
-- **T-59** Re: COTIZACION PACHUCA A ZUMPANGO
 - **T-67** RE: POLIZA : 5 - 201 - M - 46169 REPORTE 5-201-2025-R-101 SERIE WMWX9108KTF04806//MINI COOPER MODELO 2003 COLOR ROJO PLA
 - **T-68** RE: Concentrado Driverdo Septiembre 2026
 - **T-70** Re: COTIZACIÓN || CASO EL 5304 || ATOTONILCO,JAL
@@ -23,7 +22,6 @@
 
 ## Pipeline estratégico
 - **T-31** Re: FORD MX -DRAIVER -MEXICO OPERATION 2A · esperando a Uriel
-- **T-52** Re: EXPLORER | BLANCO OXFORD | 1FM5K8AWXSGC24416
 - **T-64** Propuesta de entrega
 - **T-74** Re: Tesla - Dravier - Mexico City Region Q4 2026 Oct
 
