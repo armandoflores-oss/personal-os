@@ -10,7 +10,7 @@
    "evidencia": [
     {
      "tipo": "sin_movimiento",
-     "dias": 17
+     "dias": 18
     }
    ]
   },
@@ -22,7 +22,7 @@
    "evidencia": [
     {
      "tipo": "sin_movimiento",
-     "dias": 17
+     "dias": 18
     }
    ]
   },
@@ -92,18 +92,6 @@
    ]
   },
   {
-   "task_id": "a2d1a4a31300",
-   "code": "T-56",
-   "titulo": "Fwd: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128",
-   "dominio": "pipeline-estrategico",
-   "evidencia": [
-    {
-     "tipo": "sin_movimiento",
-     "dias": 19
-    }
-   ]
-  },
-  {
    "task_id": "04cd547913a3",
    "code": "T-59",
    "titulo": "Re: COTIZACION PACHUCA A ZUMPANGO",
@@ -111,7 +99,19 @@
    "evidencia": [
     {
      "tipo": "sin_movimiento",
-     "dias": 17
+     "dias": 18
+    }
+   ]
+  },
+  {
+   "task_id": "83736b6acee1",
+   "code": "T-64",
+   "titulo": "Propuesta de entrega",
+   "dominio": "pipeline-estrategico",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 14
     }
    ]
   },
@@ -144,6 +144,18 @@
    "code": "T-74",
    "titulo": "Re: Tesla - Dravier - Mexico City Region Q4 2026 Oct",
    "dominio": "pipeline-estrategico",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 2
+    }
+   ]
+  },
+  {
+   "task_id": "978f66935969",
+   "code": "T-75",
+   "titulo": "Re: Onboarding Mendel <> DriverDo",
+   "dominio": "operacion-semanal",
    "evidencia": [
     {
      "tipo": "se_trato_en_junta",

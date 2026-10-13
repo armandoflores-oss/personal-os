@@ -1,0 +1,15 @@
+{"decisiones": [
+  {"task_id": "3414689d651a", "clase": "ninguna", "evidencia": "T-31 Ford MX operación 2A: el hilo lleva 18 días quieto, pero en un frente estratégico el silencio no quiere decir que se resolvió."},
+  {"task_id": "207c6a5f5690", "clase": "ninguna", "evidencia": "T-34 REPSE y plataformas digitales: 18 días sin movimiento. Es un tema regulatorio y no hay ninguna señal de que se haya cerrado."},
+  {"task_id": "298dd95c5797", "clase": "ninguna", "evidencia": "T-49 Borusan: tú pediste explícitamente darle seguimiento (\"no me pusiste dar seguimiento a borusan\"). 14 días quieto apunta a que sigue pendiente, no a que se resolvió."},
+  {"task_id": "a73407884bc6", "clase": "ninguna", "evidencia": "T-50 Facturas pendientes de pago: 19 días sin movimiento. Que nadie conteste no prueba que ya se pagó."},
+  {"task_id": "4b087a8a484f", "clase": "blanda", "evidencia": "T-51 Mustang 1FA6P8CF6T5408892: hilo operativo de una sola unidad, sin respuesta en 14 días. Lo más probable es que la unidad ya se movió, pero nada lo confirma."},
+  {"task_id": "4eef98d452a7", "clase": "blanda", "evidencia": "T-52 Explorer 1FM5K8AWXSGC24416: hilo de una sola unidad, sin respuesta en 19 días. Parece un traslado ya terminado, pero nada lo confirma."},
+  {"task_id": "73f11825b541", "clase": "blanda", "evidencia": "T-53 Ranger AFAHR6MB0VP148872: hilo de una sola unidad, sin respuesta en 14 días. Parece un traslado ya terminado, pero nada lo confirma."},
+  {"task_id": "04cd547913a3", "clase": "blanda", "evidencia": "T-59 Cotización Pachuca–Zumpango: 18 días sin movimiento. Lo más probable es que la cotización ya se mandó o se cayó; nada lo confirma."},
+  {"task_id": "83736b6acee1", "clase": "ninguna", "evidencia": "T-64 Propuesta de entrega: 14 días quieto. Es una propuesta estratégica y no hay ninguna señal de que se haya cerrado."},
+  {"task_id": "703b0bca2d85", "clase": "ninguna", "evidencia": "T-66 Conductores de Artur en Command Center: solo coincide con una junta por palabras sueltas (4 tokens). No hay registro de que se haya resuelto."},
+  {"task_id": "94bb3ad23d4f", "clase": "ninguna", "evidencia": "T-68 Concentrado DriverDo septiembre: se mencionó en una junta (2 tokens), pero nada dice que se haya cerrado."},
+  {"task_id": "f5da88853c14", "clase": "ninguna", "evidencia": "T-74 Tesla CDMX Q4 octubre: se mencionó en una junta (2 tokens). Es un frente activo de este mes y no hay cierre."},
+  {"task_id": "978f66935969", "clase": "ninguna", "evidencia": "T-75 Onboarding Mendel: se mencionó en una junta (2 tokens), pero no hay registro de que el onboarding haya terminado."}
+]}
