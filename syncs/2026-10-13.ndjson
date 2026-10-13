@@ -15,3 +15,7 @@
 {"creados": [], "leg": "inbound", "source": "drive", "suprimidos": [{"detail": "", "item_id": "12RikE7_0Xt6uRhO0pcAQWwJYorr8wxaKTymG_xNDTRI", "reason": "sin_compromiso", "source": "drive", "subject": "Weekly Kavak / Draiver Leaders - 2026/10/13 11:00 CST - Notes by Gemini", "ts": "2026-10-13T19:46:20+00:00"}], "tope_alcanzado": 0, "ts": "2026-10-13T19:46:20+00:00", "vistos": 1, "watermark": "2026-10-13T17:36:11Z", "ya_vistos": 0}
 {"casi": [], "cerrados": [], "leg": "outbound", "revisados": 1, "ts": "2026-10-13T19:46:20+00:00"}
 {"cambiadas": 0, "cards": 118, "huerfanas": 0, "leg": "tejido", "ts": "2026-10-13T19:46:21+00:00"}
+{"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-10-13T19:46:24+00:00"}
+{"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-10-13T21:49:13+00:00"}
+{"creados": [], "leg": "inbound", "source": "gmail", "suprimidos": [{"detail": "", "item_id": "1a136fa24460f81a", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Onboarding Mendel <> DriverDo", "ts": "2026-10-13T21:49:37+00:00"}, {"detail": "", "item_id": "1a136ff7fcf4b281", "reason": "sin_compromiso", "source": "gmail", "subject": "\"The Psychology of People Who Never Chase and Always Attract\" and 4 more", "ts": "2026-10-13T21:49:37+00:00"}], "tope_alcanzado": 0, "ts": "2026-10-13T21:49:37+00:00", "vistos": 2, "watermark": "2026-10-13T20:41:14Z", "ya_vistos": 0}
+{"cambiadas": 0, "cards": 118, "huerfanas": 0, "leg": "tejido", "ts": "2026-10-13T21:49:37+00:00"}
