@@ -1974,6 +1974,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "db57f9c2c8c4": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-76",
+  "counterparty": "diego.diaz",
+  "created": "2026-10-13T19:46:20+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Buenas tardes: te comparto los cierres de mes de la cuenta Continental.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a136b13a6b3ef22",
+  "status": "open",
+  "task_id": "db57f9c2c8c4",
+  "title": "Cierres de mes cuenta continental",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "db621e54c2c5": {
   "action": null,
   "applied": false,
