@@ -572,6 +572,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "37c33b0af763": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-77",
+  "counterparty": "garrigues",
+  "created": "2026-10-14T19:47:07+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Could you please send me the Teams invite?",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a13bd90aa92aa0b",
+  "status": "open",
+  "task_id": "37c33b0af763",
+  "title": "Re: REPSE and digital platforms",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "3ca495d3259a": {
   "action": "otro",
   "applied": false,
