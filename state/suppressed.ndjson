@@ -1569,3 +1569,5 @@
 {"detail": "", "item_id": "1a13c07a274bd2ac", "reason": "sin_compromiso", "source": "gmail", "subject": "[diio] Recordatorio próxima reunión DriverDo <> Mendel: Travel", "ts": "2026-10-14T21:46:46+00:00"}
 {"detail": "", "item_id": "1a13bfac865f8631", "reason": "sin_compromiso", "source": "gmail", "subject": "Provisional: Draiver / Edenred — Reunión en oficinas Edenred", "ts": "2026-10-14T21:46:46+00:00"}
 {"detail": "", "item_id": "1a13bf99182fe89f", "reason": "sin_compromiso", "source": "gmail", "subject": "Provisional: Draiver / Edenred — Reunión en oficinas Edenred", "ts": "2026-10-14T21:46:46+00:00"}
+{"action": "enviar", "counterparty": "element", "detail": "ya abierto en T-64", "item_id": "1a13c617d8377a78", "reason": "duplicado", "source": "gmail", "subject": "Re: Entregas 10 a 17 de octubre", "ts": "2026-10-14T23:46:11+00:00"}
+{"detail": "", "item_id": "1a13c6b3dbfab17d", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Tesla - Draiver - LARMEX Monterrey to Punto Valle Q4 2026 Oct", "ts": "2026-10-14T23:46:11+00:00"}
