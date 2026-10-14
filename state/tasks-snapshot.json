@@ -920,6 +920,33 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "5853840ebf4e": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-78",
+  "counterparty": "kavak",
+  "created": "2026-10-14T21:46:46+00:00",
+  "domain": "operacion-kavak",
+  "due_date": null,
+  "evidence": "Fwd: Aperturas TAS nov–dic 2026: 10 células con fecha compromiso\nBuen día Armando, te comparto roadmap proximos 60 días.",
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-10-14T20:53:48Z a kavak: «Re: Aperturas TAS nov–dic 2026: 10 células con fecha compromiso»",
+    "ts": "2026-10-14T21:46:46+00:00"
+   }
+  ],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a13c30305535d8b",
+  "status": "done",
+  "task_id": "5853840ebf4e",
+  "title": "Fwd: Aperturas TAS nov–dic 2026: 10 células con fecha compromiso",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "59d3e5240359": {
   "action": null,
   "applied": false,
@@ -944,6 +971,27 @@
   "status": "done",
   "task_id": "59d3e5240359",
   "title": "Confirmar con Fede que Dan o Ryan firmaron el corrections history de Penske antes de mostrarlo a BCA",
+  "vetoed": false,
+  "waiting_on": null
+ },
+ "59e4f21412d6": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-79",
+  "counterparty": "ford",
+  "created": "2026-10-14T21:46:46+00:00",
+  "domain": "pipeline-estrategico",
+  "due_date": null,
+  "evidence": "Les comparto el desglose de lo que veo pendiente de pago de nuestro lado.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a13c04a641e6746",
+  "status": "open",
+  "task_id": "59e4f21412d6",
+  "title": "Re: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128",
   "vetoed": false,
   "waiting_on": null
  },
