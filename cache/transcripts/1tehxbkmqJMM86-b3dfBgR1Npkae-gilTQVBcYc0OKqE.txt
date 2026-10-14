@@ -1,25 +1,28 @@
 Daily Huddle - Ops MX - 2026/10/12 09:15 CST - Notes by Gemini
 
-## Daily Huddle - Ops MX
 Oct 12, 2026
+
+Daily Huddle - Ops MX
+
 Invited: Uriel Vargas (uriel.vargas@driverdo.com), Cristian Arizmendi (cristian.arizmendi@driverdo.com), Julia Diaz (julia.diaz@draiver.com), Armando Flores (armando.flores@draiver.com), Diego Diaz (diego.diaz@draiver.com), Camila Flores (camila.flores@draiver.com), Jose Duran (jose.duran@driverdo.com), Gerardo Acosta (gerardo.acosta@kavak.com)
 
-### Summary
+Summary
 Marketplace drivers reviewed with Salesforce real estate presentation and Measure Z1 updates.
 
-Marketplace Drivers Review: Marketplace drivers and testimonials examined via regional team context.
-Salesforce Real Estate Presentation: Salesforce discussed during real estate company presentation slides review.
-Driver Updates and Measure Z1: Driver situations analyzed alongside Measure Z1 introduction.
+Marketplace Drivers Review
+Marketplace drivers and testimonials examined via regional team context.
 
-## Presentation updates and project discussion
-- Camila suggested pushing testimonials.
-- Jose identified Salesforce as a real estate company during the presentation.
-- Diego referenced Measure Z1 during the discussion.
+Salesforce Real Estate Presentation
+Salesforce discussed during real estate company presentation slides review.
 
-## Next steps
+Driver Updates and Measure Z1
+Driver situations analyzed alongside Measure Z1 introduction.
+
+Next steps
 No suggested next steps were found for this meeting.
 
-### Details
+Details
+
 Marketplace Drivers and Regional Team Review: Camila Flores and Julia Diaz review marketplace drivers and testimonials while looking at the screen. Jose Duran notes that Rachel is on the team, accompanied by references to California and Mexico.
 
 Salesforce Real Estate Presentation: Jose Duran discusses Salesforce in the context of a real estate company presentation as they review the final slides.

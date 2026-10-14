@@ -1,0 +1,63 @@
+Weekly Kavak / Draiver Leaders - 2026/10/13 11:00 CST - Notes by Gemini
+
+oct 13, 2026
+
+Weekly Kavak / Draiver Leaders
+
+Invitado: Julia Diaz (julia.diaz@draiver.com), Armando Flores (armando.flores@driverdo.com), josue.luevano@kavak.com, Gerardo Acosta (gerardo.acosta@kavak.com), Diego Diaz (diego.diaz@draiver.com), aristides.calvani@kavak.com, Fede Ranero (fede.ranero@driverdo.com, declinó)
+
+Resumen
+Reporte de unidades y bloqueos viales con estrategias de Monterrey y gestión en el Bajío
+
+Recolección y bloqueos viales
+Informe de unidades recolectadas en varias ciudades junto con reportes de incidentes en la carretera a Toluca.
+
+Demanda en Monterrey
+Crecimiento de agencias en Monterrey requiere más unidades y rotación activa de conductores.
+
+Restricción de transporte
+Instrucción de realizar traslados de conductores estrictamente en autobús desde la terminal de Tasqueña.
+
+Decisiones (Acordada)
+- Establecer corredores y costos de traslado desde Monterrey: Se acordó establecer y activar costos estandarizados para los corredores rodando de Monterrey a Guadalajara, Querétaro y Ciudad de México.
+- Uso obligatorio de autobús en traslados de drivers: Se estableció como norma obligatoria que los traslados de drivers se realicen en autobús y no en avión.
+- Compra directa de tickets de autobús por la empresa: Se determinó que los tickets de autobús de ida para los drivers sean comprados directamente por la empresa para garantizar el horario de arribo.
+
+Próximos pasos
+- [Julia Diaz] Diseñar volante: Crear un volante digital con un código QR que redirija a la aplicación para el reclutamiento de nuevos conductores.
+- [Josue Vader Luevano Medina] Definir costos Monterrey: Enviar los detalles de los corredores logísticos desde Monterrey hacia Guadalajara, Querétaro y Ciudad de México para calcular costos.
+- [Gerardo Acosta Romero] Gestionar seguridad: Contactar a Max para revisar los detalles operativos y de seguridad sobre el inventario tercerizado tras la reunión.
+- [Diego Diaz] Transporte conductores: Asegurar que el traslado de los conductores se realice exclusivamente mediante autobús en lugar de vuelos para optimizar los gastos operativos.
+- [Josue Vader Luevano Medina] Conciliar agosto: Realizar el seguimiento con Pepe para recibir la conciliación correspondiente al mes de agosto.
+- [Julia Diaz] Conciliar septiembre: Presionar a las áreas correspondientes para gestionar la recepción y conciliación de los registros de septiembre.
+- [Gerardo Acosta Romero] Gestionar acceso IT: Finalizar la configuración de permisos y acceso a Slack y Minerva para los conductores, resolviendo las fallas en la autenticación de dos pasos.
+- [Gerardo Acosta Romero] Crear correo Julia: Tramitar el ticket y la solicitud para la creación del correo electrónico y extensiones de Julia Diaz.
+- [Julia Diaz] Informar tiempos espera: Compartir con el equipo la información actualizada sobre los tiempos de espera y el estado de los hops logísticos clave.
+
+Detalles
+
+Recolección de unidades y reporte meteorológico: Diego Diaz informa que se recolectaron tres unidades en Culiacán, dos en Mazatlán, dos en San Luis Potosí, una en Aguascalientes y dos en Pachuca, con una persona conductora realizando dos vueltas. Adicionalmente, Julia Diaz comenta sobre el descenso de la temperatura a 10 u 11 grados y menciona que saldrá de viaje el lunes.
+
+Incidencias viales en la ruta hacia Toluca: Armando Flores reporta un bloqueo en la carretera entre La Champa y la autopista de cuota a Toluca, lo cual obligó a retornar por Cuajimalpa e Interlomas para asistir a la junta. Josue Vader Luevano Medina revisa la situación ante posibles afectaciones operativas.
+
+Garantía de conductores en Monterrey ante incremento de agencias: Josue Vader Luevano Medina comunica que Aristides reporta un incremento estimado del 30% en Monterrey, requiriendo más de 100 unidades adicionales debido al crecimiento de agencias. Julia Diaz y Josue Vader Luevano Medina acuerdan mantener la rotación activa y asegurar a personas conductoras identificadas para atender este volumen.
+
+Backlog de unidades y corredores rodantes desde Monterrey: Gerardo Acosta Romero señala que Max reporta un retraso acumulado de 100 unidades para el día siguiente, las cuales se manejarán en bloques de 25, y menciona la contratación de la persona conductora Rodrigo Ávalos con ganancia garantizada. Josue Vader Luevano Medina solicita a Julia Diaz establecer costos para corredores rodantes desde Monterrey hacia Guadalajara, Querétaro y Ciudad de México para optimizar el traslado del inventario tercerizado de HP ante la proximidad del Buen Fin.
+
+Estrategia de reclutamiento presencial en Monterrey: Armando Flores propone enviar a personal como Uriel o Cristian a Monterrey la siguiente semana para instalarse en el centro de operaciones (hub), captar y capacitar a personas conductoras locales, y distribuir volantes con códigos QR para el registro en la aplicación.
+
+Gestión de traslados y tiempos en la región del Bajío: Josue Vader Luevano Medina indica que el Bajío registra 130 compras mensuales que se trasladarán hacia San Ángel debido a la saturación en Querétaro, implicando trayectos largos desde San Luis Potosí, Aguascalientes, León e Irapuato. Gerardo Acosta Romero y Armando Flores debaten sobre el uso de vehículos rentados o transporte público para optimizar costos y tiempos de entrega.
+
+Estado de conciliaciones financieras y órdenes de compra: Josue Vader Luevano Medina informa que Pepe se compromete a enviar la conciliación de agosto el mismo día, mientras que Julia Diaz señala que finanzas enviará las de junio y julio con órdenes de compra pendientes y espera que septiembre sea enviado por Marcelo. Cristian Arizmendi se integra para verificar volúmenes en San Luis, Monterrey y Aguascalientes.
+
+Apertura de agencias en Puebla y manejo de traslados a Oaxaca: Josue Vader Luevano Medina y Gerardo Acosta Romero discuten la integración de la agencia local en Puebla y las foráneas (Tlaxcala, Oaxaca, Tabasco), mencionando una incidencia previa con la dirección y el envío erróneo de una unidad en Oaxaca.
+
+Restricción en el uso de transporte aéreo para conductores: Armando Flores instruye firmemente a Diego Diaz que los traslados de personas conductoras se realicen estrictamente en autobús desde la terminal de Tasqueña (con un costo aproximado de 600 pesos), prohibiendo el uso de vuelos y taxis que incrementan los costos a más de 2000 pesos. Diego Diaz acepta la instrucción para aplicarla en adelante.
+
+Compra anticipada de boletos de autobús para control de horarios: Josue Vader Luevano Medina y Diego Diaz señalan que comprar previamente los boletos de autobús a las personas conductoras permite garantizar la hora de llegada a las agencias (como en Aguascalientes), evitando retrasos causados cuando la tripulación adquiere los boletos por cuenta propia.
+
+Revisión de procedimientos logísticos en Mérida: Josue Vader Luevano Medina anuncia una reunión con Mérida y el equipo de seguridad liderado por Julio Sulaica para estandarizar los procesos de códigos QR, tras detectar falta de procedimientos claros en las operaciones locales.
+
+Otorgamiento de accesos a sistemas y canales de comunicación: Josue Vader Luevano Medina y Gerardo Acosta Romero abordan la asignación de extensiones para Minerva y Slack a integrantes del equipo como Durán, Diego Diaz y Julia Diaz, encontrando problemas con la verificación en dos pasos de correo electrónico. Gerardo Acosta Romero detalla las pruebas realizadas para resolver las notificaciones con el soporte de Kevin.
+
+Tiempos de espera en centros de operaciones: Julia Diaz comparte información sobre el incremento en los tiempos de espera en los centros de operaciones de Lerma, Arts, San Ángel y Rosario (este último con un aumento de 53 minutos), cerrando la sesión con agradecimientos mutuos.

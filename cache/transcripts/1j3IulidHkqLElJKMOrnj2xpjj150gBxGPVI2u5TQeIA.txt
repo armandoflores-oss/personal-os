@@ -1,24 +1,31 @@
 Diaria Spain Launch - 2026/10/13 08:30 CST - Notes by Gemini
 
-# Las notas
 oct 13, 2026
-## Diaria Spain Launch
+
+Diaria Spain Launch
+
 Invitado: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
 
-### Resumen
+Resumen
 Baja adopción de aplicación y fricciones operativas con propuestas de adaptación y estrategia SaaS
 
-Baja adopción de aplicación: Baja adopción de la aplicación demostró resistencia de proveedores de Clicars.
-Fricciones operativas del transporte: Problemas con actualización de vehículos y uso de sistemas DECA alternativos.
-Propuestas y estrategia SaaS: Adaptación de pantallas propuesta y cobro SaaS analizado para vehículos.
+Baja adopción de aplicación
+Baja adopción de la aplicación demostró resistencia de proveedores de Clicars.
 
-### Próximos pasos
+Fricciones operativas del transporte
+Problemas con actualización de vehículos y uso de sistemas DECA alternativos.
+
+Propuestas y estrategia SaaS
+Adaptación de pantallas propuesta y cobro SaaS analizado para vehículos.
+
+Próximos pasos
 - [Artur Morais] Analizar adopción: Recopilar datos sobre los viajes cancelados y los niveles de adopción de la plataforma en los últimos días. Presentar esta información para analizar las fallas en el uso de la aplicación por parte de los conductores.
 - [Artur Morais] Reunión seguimiento: Realizar la reunión de seguimiento con Samuel para discutir las dificultades operativas y los problemas de adopción de la plataforma. Evaluar posibles soluciones para integrar los procesos de los proveedores al sistema.
 - [Daniel Escribano] Revisar rodado: Reunirse con Pablo y Gina este viernes para tratar los temas relacionados con el rodado. Discutir las causas de la baja adopción del sistema y definir acciones correctivas.
 - [El grupo] Estrategia Clicars: Coordinar una sesión estratégica con Samuel y Pablo para resolver los problemas estructurales del sistema de carga. Establecer un plan de acción definitivo para asegurar el uso obligatorio de la plataforma.
 
-### Detalles
+Detalles
+
 Baja adopción de la aplicación por parte de les conductores en Clicars: Artur Morais informó que de 13 viajes creados para la jornada, solamente dos conductores utilizaron la aplicación, lo que demuestra una baja adopción y resistencia por parte de los proveedores de Clicars, quienes operan de forma independiente y cuentan con sus propios sistemas de DECA (00:06:24) (00:15:06). Armando Flores indicó que dicha resistencia es normal en este tipo de negociaciones corporativas y que les proveedores prefieren mantener alternativas o negociar bajo esquemas tradicionales (00:09:52).
 
 Fricciones operativas y uso del DECA reportadas por les transportistas: Armando Flores leyó los comentarios de Samuel sobre los problemas que enfrentan les transportistas, tales como la falta de actualización de los vehículos el día anterior, la dificultad para realizar entradas manuales y la exigencia en las campas de presentar el DECA antes de finalizar la carga (00:18:37). Artur Morais y Daniel Escribano discutieron que les transportistas a menudo no tienen las matrículas y modelos el día previo, lo que les lleva a utilizar sus propios DECA más ágiles en lugar de la plataforma centralizada (00:15:06) (00:24:13).
@@ -27,165 +34,28 @@ Propuestas de adaptación de pantallas y gestión de negociaciones: Artur Morais
 
 Estrategia de cobro SaaS y pruebas de alertas con producto: Armando Flores y Artur Morais analizaron la dificultad de cobrar tarifas de SaaS sobre los 16 vehículos o transportes cuando les transportistas no utilizan la plataforma por completo, dado que la información se extrae de archivos Excel hacia el Command Center de manera manual y sin automatización (00:25:36). Armando Flores planteó permitir que utilicen su DECA si lo desean, pero enfatizó la necesidad de rediseñar el proceso de raíz con Samuel y Pablo, mientras que Artur Morais confirmó que las pruebas de alertas se realizarán durante la semana a la espera de Paul, responsable de producto (00:27:01).
 
-# Transcripción
-oct 13, 2026
-## Diaria Spain Launch - Transcripción
+Transcripción (extractos relevantes)
 
-### 00:00:09 – 00:06:24
-(Conversación personal: fin de semana de Artur en Burgos, festivo del 12 de octubre en México y Brasil, elecciones en Brasil. Sin temas de trabajo.)
+00:06:24 Armando Flores: Oye, ¿y con Clicars, ¿cómo cómo vas? / Artur Morais: Bien, así acabo de reportar ahí también dentro del Slack porque hoy solo tenemos dos conductores haciendo los viajes que creamos ayer para hoy.
 
-### 00:06:24
-Armando Flores: Oye, ¿y con Clicars, ¿cómo cómo vas?
-Artur Morais: Bien, así acabo de reportar ahí también dentro del Slack porque hoy solo tenemos dos conductores haciendo los viajes que creamos ayer para hoy.
-Armando Flores: Mhm.
-Artur Morais: Entonces estoy intentando entender que podemos hacer más para que bien los conductores puedan estar utilizando la aplicación y que tengan todo ahí. centralizado dentro de la plataforma, ¿no?
+00:11:01 Artur Morais: Ah, mañana tengo otra reunión con Samu... creo que algo top down tal vez sea necesario... no lo sé hasta dónde debo, puedo ir en termos de exigir algo del cliente. / Armando Flores: No, a ti no te conviene exigir eso. Eso le toca a Dani... creo que te toca levantar la mano, decir, "Esto es lo que yo veo, esto es lo que está pasando." Pero la negociación yo sugeriría que la hiciera Dani en ese lado.
 
-### 00:08:12
-Artur Morais: Pero bien, creo que para viernes podemos a ver con Nico y Dani que van a estar ahí con ellos para que tenga una conversación más ah, no lo sé, entender mejor que está pasando, ¿vale?
-Armando Flores: Mhm.
-Artur Morais: Porque al final si no están haciendo los viajes, no están generando los dec, no lo sé cómo están manejando eso, si hay otro proveedor o que es eso que es Samuel de decar a mi dicho que los propios proveedores están tienen ahí sus sus tecas, pero no lo saben cuán correcto, cuán de acuerdo con las normas está y por lo que me dije dijo, "Gostaría que que estuviera estuviera todo concentrado en driver, ¿sabes?
-Armando Flores: Mhm.
-Artur Morais: Pero sí hay un porque entiendo que no es simplemente como los proveedores no están, no lo sé, como Cavac, por ejemplo, que los emploíes están 100% a servicio de de Cavase como empleados ahí que Kavc los dije que hacer, ¿no? Eh, Clicars me parece que es un poco como un poco más independiente, ¿sabes? y bien que están ahí más difícil de implementar porque ellos no están tan como no me parece ser algo como clicar un hace un una regla que sea así pronto, ¿sabes?
+00:12:22 Armando Flores: yo creo que de tu lado hiciste la implementación. Creo que a lo mejor es pedirles un espacio con los proveedores, Arthur, y explicarles qué es driver y por qué está lo deca y cómo lo estás generando.
 
-### 00:09:52
-Artur Morais: Entonces y listo.
-Armando Flores: Hm.
-Artur Morais: No lo sé, pero es eso. Es lo que intento de sacar de informaciones, pero no lo sé si es solo si hay algo más. por detrás que no están nos dejiendo, ¿sabes?
-Armando Flores: Pues siempre. Bueno, o sea, yo creo que es normal esa resistencia, Arturo,
-Artur Morais: Sí.
-Armando Flores: este, y más por los proveedores, porque no saben quién se metió y por qué y y y cómo fue. Y entonces, Clickers y y Clickers lo que yo he visto es que juega mucho también mentalmente, ¿no? Este, de ah, no, tengo otro proveedor más barato, tengo esto, tengo, o sea, no es este, o sea, es un modo de negociación muy común, ¿no?
-Artur Morais: Sí.
-Armando Flores: en empresas como familiares o grandes y entonces, o sea, va a ser resistencia, partnership, confianza y y nunca nunca te van a decir que eres el gran proveedor o que eres el mejor o que, o sea, siempre van a mantenerte ahí, ¿no?
-Artur Morais: Sí,
-Armando Flores: Entonces este es por ahí el
+00:13:59 Daniel Escribano: Yo el viernes con Pablo y Gina para el tema del rodado.
 
-### 00:11:01
-Artur Morais: pero bien es eso.
-Armando Flores: tema.
-Artur Morais: Ah, mañana tengo otra reunión con Samu. A ver, estamos haciendo ahí algunas de followup y bien, estoy tratando ahí de mejor manera, pero creo que algo top down tal vez sea ah necesario, ¿sabes? para que si las conversaciones van bien y quea definido el precio, estamos todos de acuerdo que sea un algo más hay de ser así y vamos a intentar de verdad por al menos un tiempo, ¿sabes?
-Armando Flores: Hm.
-Artur Morais: Porque si no eh si queda ahí una relación un poco bien. Yo estoy haciendo todo que está a mi alcance hacerlo,
-Armando Flores: ¿Dónde está?
-Artur Morais: pero también lo quiero que logren y que sabes y que tengamos ahí los movimientos garantizados Sí. y todo, pero no lo sé hasta dónde debo, puedo ir en termos de de exigir algo del del cliente, ¿sabes?
-Armando Flores: No,
-Artur Morais: Entonces,
-Armando Flores: a ti no te conviene exigir eso. Eso le toca a Dani. O sea,
-Artur Morais: perfecto.
-Armando Flores: creo que te toca levantar la mano, decir, "Esto es lo que yo veo, esto es lo que está pasando." Pero la negociación yo sugeriría que la hiciera Dani en ese lado.
+00:15:06 Artur Morais: hoy, por ejemplo, tenemos ahí 13 viajes criados y solo dos conductores están haciendo por la aplicación. Las otras 11 no arrancaron... aparentemente tiene sus propios deca.
 
-### 00:12:22
-Armando Flores: Este, o sea,
-Artur Morais: Vale.
-Armando Flores: yo creo que de tu lado hiciste la implementación. Creo que a lo mejor es es pedirles un espacio con los proveedores, Arthur, y explicarles qué es driver y por qué está lo deca y cómo lo estás generando. Para ellos, yo creo que pudiera ser hasta más fácil.
-Artur Morais: Sí, yo entiendo también, pero bien. Ah, es como todo, ¿no? están acostumbrados a hacer de una manera hace tiempo y ahora cambiar siempre la resistencia ahí de de de Dios es natural también, pero es eso. Aparentemente no necesariamente todos están ahí clicas y hay una relación tan directa con los proveedores y bien, pero Sí.
-Daniel Escribano: Buenas tardes, chicos.
-Armando Flores: Hola, Dani, ¿qué tal?
-Daniel Escribano: Perdonad que estaba bien,
-Armando Flores: ¿Cómo seguiste de tu de de tu garganta?
-Daniel Escribano: bien, mucho mejor. Ya. Sí, sí, muchas gracias. Mucho mejor. Perdonad que estaba reunido con Nico y ahora tengo que hacer una modificación a un viaje.
-Armando Flores: Dale, dale.
-Daniel Escribano: ¿Vosotros bien?
-Armando Flores: Bien, vamos nada más terminando de discutir unas cosas con Arthur.
+00:16:34 Armando Flores: ¿Cómo podríamos tener visibilidad de esto...? tener el nivel de adopción. / Artur Morais: Sí, puedo ver cuántos viajes cancelados tenemos en los últimos días. Puedo traer ahí la información. / Armando Flores: Sí, saca la información y a lo mejor que Dani se lleve eso el viernes y les enseñe.
 
-### 00:13:59
-Armando Flores: Se está explicando un poco de de la situación que ve ahí con Clickars. A lo mejor para que cuándo ustedes tienen reunión con con ellos, ¿no? Este, Dani.
-Daniel Escribano: Yo el viernes con Pablo y Gina para el tema del rodado.
-Armando Flores: Sí, lo que trae ahí Arthur es un poco de, o sea, más bien con los proveedores, o sea, parece que hoy nada más, o sea, lo han no adoptado algunos cuantos, o sea, no está adoptado al 100 y y necesitamos discutir esa parte.
-Daniel Escribano: como que que no lo están utilizando todos.
-Armando Flores: Sí, si quieres explica Artur. No.
-Artur Morais: Sí, los conductores y los proveedores están haciendo como dificultando la implementación, ¿sabes? que no se quejan ahí, que hay muchas pantallas en la app y que no no se quieren hacerlo por ahí. Que bien. Ah.
-Daniel Escribano: O sea, los problemas que pensábamos que nos iban a poner al principio En vez de ponerlos al principio, lo están poniendo ahora a medio plazo.
-Artur Morais: Sí,
-Daniel Escribano: Contábamos con ello.
+00:20:31 Armando Flores (leyendo a Samuel): Necesitaríamos poder actualizar nosotros las cargas cuando las necesitamos de una manera más rápida... los transportistas necesitarían tener el DECA antes de confirmar que han cargado todo... nos interesa tener el ejemplo de diseño nuevo de las cargas para poder exigirles el 100% que tiene que usar solo esta plataforma.
 
-### 00:15:06
-Artur Morais: bien.
-Daniel Escribano: Es normal, son animales de costumbres.
-Artur Morais: Sí, es eso. Y ahí bien,
-Armando Flores: A lo
-Artur Morais: estamos creando los viajes todos los días por la noche y hoy, por ejemplo, tenemos ahí 13 viajes criados y solo dos conductores están haciendo por la aplicación. Las otras 11 no arrancaron, ¿sabes? no pensaron hacerlo por por por la API. Entonces estamos ahí bien dando vueltas y criando los viajes, pero los conductores no se bien no se engajan ahí, no se comprometen con hacerlo. Y bien,
-Armando Flores: M.
-Artur Morais: aparentemente tiene sus propios decedores. Entonces, mi y mi entendimiento sería como cuando empezase a a hacer obligatorio el deca sería como el el punto de de vuelta de de de de que serían algo para que los conductores arrancase con la aplicación. Pero me parece que los proveedores como la que es quien quien tiene los que tienen los conductores y son los proveedores, tienen su propio deca, ¿sabes? Entonces, bien. A ver,
-Armando Flores: O sea, pero el SAS no lo están usando y tampoco la parte de Deca.
+00:21:50 Artur Morais: ya tenemos una propuesta con el team de producto para adaptar y cambiar esta pantalla de recogida y entrega... mínimamente dos semanas.
 
-### 00:16:34
-Artur Morais: sí, los que están haciendo los viajes, sí, pero no es todo día que hacen y el deca está funcionando bien en cuando cuando hacen
-Armando Flores: ¿Cómo cómo podríamos tener visibilidad de esto que dices, Artur? Eh, o sea, lo que me refiero es, oye, la semana pasada de de tantos viajes, tantos se ejecutaron, o sea, como tener el nivel de adopción o el nivel de
-Artur Morais: Sí, puedo ver cuántos viajes cancelados tenemos en los últimos días. Puedo traer ahí la información.
-Armando Flores: Sí, o sea, si quieres saca la información y a lo mejor que Dani se lleve eso el viernes y les enseñe, oye, ¿qué qué está pasando? No, o sea, ¿por qué no lo están usando o o entender un poco de ese lado? O a lo mejor se necesita otra implementación, Arthur, de ir con ellos y sentarse y este y revisar ese punto, Hm.
-Artur Morais: Sí, estoy leendo acá que respondió Samuel. Pero Bien. Bien, en el peor de escenarios vamos tener que esperar hasta que tengamos la solución para la aplicación de cargar todos al mismo tiempo.
+00:25:36 Artur Morais: estamos extrayendo las informaciones del Excel y poniendo dentro de Command Center, no hay una lectura o automatización. / Armando Flores: no le podemos cobrar SAS por los otros transportes si no lo usan. / Daniel Escribano: 16
 
-### 00:18:37
-Artur Morais: Y bien, ahora todo momento críanse nuevas entraves, ¿sabes? Como comentando los transportistas que necesitan tener el beca, antes de que den los coches necesiten demostrar en la oficina los vehículos que cargan y no tienen pasarlos ningún década hasta que terminen la carga.
-Armando Flores: Hm. Pero no, no coincide, ¿no? O a ver, déjame revisar lo que ponen ellos.
-Artur Morais: Ahora es eso,
-Artur Morais: tienen muchos problemas también y tener todas las informaciones en los días anterior también.
-Armando Flores: Oye, pero a ver, lo aquí no le podemos omitir desde sistema. Dice vehículo, vehículo omitiendo las pestañas que no aportan nada les cuesta mucho. Entonces, como tienen sus propios décadas y son más ágiles, lo hacen directamente ellos la mayoría. Otro problema es cuando un vehículo de listado no está o no lo puede cargar. Me comentan que la gestión en la aplicación funciona muy mal y no saben cómo hacerlo o se genera mal el deca.
-Daniel Escribano: Vale.
-Armando Flores: Otro problema es que no están bien actualizados, como muchas de nuestras cargas no tenemos los vehículos el día anterior, al no aparecerles a ellos, los vehículos bien lo quieren perder, lo quieren perder el tiempo generándolo en vacío.
+00:27:01 Artur Morais (alertas): Debemos probar esta semana... estamos aguardando a Paul, responsable de producto. / Armando Flores: quieren usar el deca de su proveedor, que lo usen si quieren. Pero el SAS no entiendo por qué no lo usarían... creo que sí vale la pena tener una junta con Samuel y Pablo.
 
-### 00:20:31
-Armando Flores: Necesitaríamos poder actualizar nosotros las cargas cuando las necesitamos de una manera más rápida. El otro problema es poner toda la información correcta el día antes. Bien, como vamos con el tiempo justo, muchas veces el equipo no nos da no nos da tiempo o se nos olvida poner los datos al ser una nueva tarea.
-Armando Flores: Otra cosa que nos están comentando los transportistos que necesitarían tener el DECA antes de confirmar que han cargado todo, porque en las campas antes de que den los coches, necesitan poder demostrar en la oficina los vehículos que cargan y no tienen cómo pasarles ningún deca hasta que terminan de cargar. Lo están haciendo con los suyos. nos interesa tener el ejemplo que me enseñaste de diseño nuevo de las cargas para poder exigirles el 100% que tiene que usar solo esta plataforma. E no hay forma de ocultar,
-Artur Morais: Pero es eso como cómo
-Armando Flores: o sea, ¿qué les qué les están pidiendo que no se necesita Arturo?
-Artur Morais: son las dos pantallas que ahora no tenemos como quitar, son obligatorias y son las fotos adicionales y notas de recogidas, pero honestamente se toma como 3 segundos cada para pasar, ¿sabes?
+00:28:13 Armando Flores: no podemos lidiar nada más con las objeciones sin entender a fondo cómo cambiar el proceso de raíz con ellos... hay que enseñarles: esto es la aplicación, esto tarda.
 
-### 00:21:50
-Artur Morais: No, no debería ser un problema. Entonces, no lo sé en cuánto están manejando, si están ahí dentro de la campa y pueden ir pasando, pero bien, ya tenemos una propuesta con el team de producto para adaptar y cambiar esta pantalla de recogida y entrega,
-Armando Flores: Mhm.
-Artur Morais: pero es una es un cambio significativo en las etapas que hoy ya están establecidas, ¿sabes? Entonces, ah, creo que mínimamente dos semanas o algo así para quedar a listo y hasta ya ah tenemos que tener otras oportunidades. Pero que no lo entiendo es que necesitan generar el deca antes de cargar para que muestren, pero el decaí genera mal.
-Armando Flores: No es antes de salir, o sea, necesitan tener el deca antes de confirmar que han cargado todo, porque en las campas antes de que los coches necesitan poder demostrar en la oficina los vehículos que cargan, o sea, usan el deca como como pase de
-Artur Morais: como el estaje de cuál cuáles van recoger, ¿no? ¿Qué me parece?
-Armando Flores: mm y no tienen cómo pasarles ningún deca hasta que terminen de cargar.
-
-### 00:23:03
-Armando Flores: Entonces, o sea,
-Daniel Escribano: Pero el deca tienen que tenerlo en el último momento por si modifican la carga, porque el problema era que a lo mejor modificaban la carga.
-Armando Flores: eso era lo que habían dicho originalmente,
-Artur Morais: este es el punto.
-Armando Flores: pero ahora lo que están diciendo es que les piden el DK antes de cargar los vehículos.
-Artur Morais: ¿Quieren un deca antes de cargar? Pero el mismo Deca no puede ser con vehículos distintos. Luego de que luego de que carga M.
-Armando Flores: Es que eso es porque ahí te va. Ellos modifican la carga. O sea, lo que están diciendo es otro problema es que los que no están actualizados, como muchas de nuestras cargas no tenemos los vehículos el día anterior, al no aparecerles a ellos los vehículos bien lo quieren perder el tiempo generando en vacío.
-Daniel Escribano: Oh.
-Armando Flores: Necesitamos poder actualizar nosotros las cargas cuando las necesitemos de manera más rápida. El otro problema es poner toda la información correcta el día antes. Bien, como vamos con el tiempo justo, muchas veces el equipo no nos da tiempo o se nos olvida poner los datos al ser una nueva tarea.
-
-### 00:24:13
-Armando Flores: Entonces, como no tienen la el problema aquí es no tienen, o sea, la información que te pasan la información final, ¿no?
-Artur Morais: No,
-Armando Flores: Entonces llega el chóer.
-Artur Morais: que pasa es que la listaje de coches ni todo ni siquiera todos hay como el matrícula y modelo en el día anterior. Entonces, ¿qué hacen? Muchas veces saben que van a movimentar ocho cortes de A para B, pero no tienen cuáles son las matrículas. Y ahí yo lo crío como a definir, pero en el día siguiente cuando tengan las matrículas ellos gustarían de cambiar la información para que tengan los conductores las informaciones de los coches. Pero eso hoy es un poco manual, a depender de la cantidad de coches es un trabajo lento, ¿sabes? Pero al final para para el deca no es necesario tener la matrícula y el modelo del coche, solo el peso. Pero para los conductores si creo que necesitan saber cuáles son los coches que
-Armando Flores: Sí. Pero, ¿cómo lo?, o sea, lo que voy es, o sea, creo que el punto que tienen es que ellos sí actualizan su Excel y a lo mejor el proveedor se guía en el Excel y es más
-
-### 00:25:36
-Daniel Escribano: No.
-Armando Flores: fácil porque si hay cambios o algo no los tienen que cargar de manera manual en la aplicación, sino lo que ellos buscan es que los cambios que se hagan en el Excel que o en los viajes que te dan que se hagan de manera automática. es lo que estoy entendiendo,
-Artur Morais: Sí, sí, sería eso. Eso que yo pensé que podría ser una solución, pero por ahora estamos como extraayendo las informaciones del Excel y poniendo dentro de Command Center, no hay un una lectura o algo, alguna automación para hacerlo hacerlo, ¿sabes? Entonces, o vamos a cambiar unidad por unidad ah separadamente o no lo sé, encontrar al menos una manera de enviar a los conductores por dentro de la aplicación una lista de cuáles son los coches que van a recoger, mismo que dentro de la aplicación no tenga las las matrículas, ¿sabes?
-Armando Flores: Sí, pues está sí está complicado porque dos transportes son cuántos vehículos realmente, o sea, porque no lo podemos cobrar.
-Daniel Escribano: 16
-Armando Flores: SAS por no le podemos cobrar SAS por los otros. transportes si no lo usan.
-
-### 00:27:01
-Artur Morais: Sí,
-Armando Flores: O sea, creo que ahí sí
-Artur Morais: está dependiendo día a día. No lo sé. tenemos que ver cuántos, pero había otros conductores que estaban haciendo y que por ejemplo hoy no están, no lo sé cómo va a ser mañana, pero bien. Ah, a ver ahí cuáles son los puedo traer los números generales, pero sí creo que pero vamos a cobrar por unidad hecha y bien, no sé cómo quieren hacer, pero sí.
-Armando Flores: y la parte de las alertas y demás. Artur.
-Artur Morais: Debemos probar a esta semana. Ah, tenemos ya el canal y pero estamos aguardando Paul, que es el responsable de producto para tenerlo y ahí bien
-Armando Flores: Porque también,
-Artur Morais: aguardando No.
-Armando Flores: o sea, lo que estaba pensando es, bueno, quieren usar el deca de su proveedor, que lo usen si quieren, ¿no?
-Armando Flores: Pero el SAS no entiendo por qué no lo usarían. es es porque es es manual el subir los coches, o sea, realmente es el problema. O sea, creo que sí vale la pena tener una junta con con Samuel y Pablo.
-
-### 00:28:13
-Armando Flores: Este,
-Daniel Escribano: trabajado antes con laado
-Artur Morais: Sí, pero estoy haciendo estoy haciendo el follow. Es eso.
-Armando Flores: sí, no, no me queda claro que lo estás haciendo,
-Artur Morais: Las informaciones quedan ahí.
-Armando Flores: pero a lo que voy es no podemos lidiar,
-Armando Flores: Arthur, nada más con las objeciones y sin entender a fondo, o sea, cómo, ¿cómo te diré? cómo cambiar el proceso de raíz con ellos, ¿no? O sea,
-Artur Morais: Bien.
-Armando Flores: porque como que creo que ellos no lo conocían muy bien cómo lo ejecutaban sus proveedores y ahora que lo están ejecutando, o sea, hay cierta resistencia ahí y ellos dijeron, "No, pues lo usan porque lo usan, pero pues en realidad no, no, no, o sea, o sea, creo que más bien hay que enseñarles, oye, a ver, esto es la aplicación, esto tarda, o sea, para que vean que no es tan grave el modificar o a lo mejor cuando veamos que le tienen que poner los datos de manera manual y tardan mucho ahí los los conductores, pues podríamos revisar ese punto, ¿no? Este,
-Armando Flores: tenemos la otra reunión. Bueno, vamos a la otra.
-
-### La transcripción finalizó después de 00:29:19
+La transcripción finalizó después de 00:29:19
