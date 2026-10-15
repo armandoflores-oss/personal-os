@@ -2316,6 +2316,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "ec8ecca446b4": {
+  "action": "otro",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-81",
+  "counterparty": "kavak",
+  "created": "2026-10-15T21:46:49+00:00",
+  "domain": "pipeline-estrategico",
+  "due_date": null,
+  "evidence": "Para los próximos meses voy a desarrollar un sistema de automatización para que puedas recibir esto semanalmente y mensualmente, en el caso de los clientes.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a14167abcaaad25",
+  "status": "open",
+  "task_id": "ec8ecca446b4",
+  "title": "Re: FACTURAS EMITIDAS Y CONDUCTORES",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "f0960cc11322": {
   "action": "enviar",
   "applied": false,
