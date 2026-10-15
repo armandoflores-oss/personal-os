@@ -1627,3 +1627,13 @@
 {"detail": "", "item_id": "1a1413e1379031a0", "reason": "sin_compromiso", "source": "gmail", "subject": "RE: domicilio fiscal Driverdo", "ts": "2026-10-15T21:46:49+00:00"}
 {"detail": "^\\s*updated invitation:", "item_id": "1a1412a17eccdc97", "reason": "meta", "source": "gmail", "subject": "Updated invitation: Preparación Reunión Flexicar  @ Mon Oct 19, 2026 12pm - 12:30pm (CST) (armando.flores@driverdo.com)", "ts": "2026-10-15T21:46:49+00:00"}
 {"detail": "^\\s*invitation:", "item_id": "1a141243e34c3883", "reason": "meta", "source": "gmail", "subject": "Invitation: Preparación Reunión Flexicar  @ Wed Oct 21, 2026 11:30am - 12pm (CST) (Armando Flores)", "ts": "2026-10-15T21:46:49+00:00"}
+{"detail": "", "item_id": "1a141f04c2d99565", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: domicilio fiscal Driverdo", "ts": "2026-10-15T23:46:43+00:00"}
+{"detail": "", "item_id": "1a141e8e47353209", "reason": "sin_compromiso", "source": "gmail", "subject": "Implementación licitación traslados DRIVER", "ts": "2026-10-15T23:46:43+00:00"}
+{"detail": "", "item_id": "1a141ccc7d8fced4", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: MUSTANG | GRIS CARBONO | 1FA6P8CF6T5408892", "ts": "2026-10-15T23:46:43+00:00"}
+{"detail": "", "item_id": "1a141cc90ef137de", "reason": "sin_compromiso", "source": "gmail", "subject": "COMPROBANTE DE RETIRO SPEI No.: 135259745", "ts": "2026-10-15T23:46:43+00:00"}
+{"detail": "", "item_id": "1a141ca0315fc6c8", "reason": "sin_compromiso", "source": "gmail", "subject": "Claim 1943 payment request, Zapata MX, trip 3903917.1 VIN 1FA6P8CF6T5408892", "ts": "2026-10-15T23:46:43+00:00"}
+{"action": "enviar", "counterparty": "element", "detail": "ya abierto en T-64", "item_id": "1a141c2d9163530a", "reason": "duplicado", "source": "gmail", "subject": "Re: Entregas 10 a 17 de octubre", "ts": "2026-10-15T23:46:43+00:00"}
+{"detail": "", "item_id": "1a141be3e9cf44bd", "reason": "sin_compromiso", "source": "gmail", "subject": "Spreadsheet shared with you: \"Kavak MX Aging 9/2026.xlsx\"", "ts": "2026-10-15T23:46:43+00:00"}
+{"detail": "", "item_id": "1a141be1a9a102e7", "reason": "sin_compromiso", "source": "gmail", "subject": "Aceptado: Draiver / Edenred — Reunión en oficinas Edenred", "ts": "2026-10-15T23:46:43+00:00"}
+{"detail": "", "item_id": "1a1419356968c991", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Tesla - Dravier - Mexico City Region Q4 2026 Oct", "ts": "2026-10-15T23:46:43+00:00"}
+{"detail": "", "item_id": "1a1418fcfd0ab3a7", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Tesla - Draiver - LARMEX Monterrey to Punto Valle Q4 2026 Oct", "ts": "2026-10-15T23:46:43+00:00"}
