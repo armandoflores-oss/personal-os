@@ -15,6 +15,7 @@
 - **T-73** CONTRATO DRAIVER
 - **T-76** Cierres de mes cuenta continental
 - **T-77** Re: REPSE and digital platforms
+- **T-80** RV: Propuesta y seguimiento Reunion Hertz México | Driver Do
 
 ## Reuniones España
 - **T-66** Artur creó todos los conductores en Command Center y asignó viajes para el lunes, pero solo los dos conductores iniciale

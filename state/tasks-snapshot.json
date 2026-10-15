@@ -338,6 +338,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "1ceb8dc9e9e7": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-80",
+  "counterparty": "avasa",
+  "created": "2026-10-15T16:46:45+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "RV: Propuesta y seguimiento Reunion Hertz México | Driver Do\nBuenas tardes Armando, Te comparto información acordada.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a1405d16ce16f8c",
+  "status": "open",
+  "task_id": "1ceb8dc9e9e7",
+  "title": "RV: Propuesta y seguimiento Reunion Hertz México | Driver Do",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "201f925406d6": {
   "action": "enviar",
   "applied": false,
