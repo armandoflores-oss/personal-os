@@ -24,3 +24,4 @@
 {"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-10-14T23:45:47+00:00"}
 {"creados": [], "leg": "inbound", "source": "gmail", "suprimidos": [{"action": "enviar", "counterparty": "element", "detail": "ya abierto en T-64", "item_id": "1a13c617d8377a78", "reason": "duplicado", "source": "gmail", "subject": "Re: Entregas 10 a 17 de octubre", "ts": "2026-10-14T23:46:11+00:00"}, {"detail": "", "item_id": "1a13c6b3dbfab17d", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Tesla - Draiver - LARMEX Monterrey to Punto Valle Q4 2026 Oct", "ts": "2026-10-14T23:46:11+00:00"}], "tope_alcanzado": 0, "ts": "2026-10-14T23:46:11+00:00", "vistos": 2, "watermark": "2026-10-14T21:56:55Z", "ya_vistos": 0}
 {"cambiadas": 0, "cards": 118, "huerfanas": 0, "leg": "tejido", "ts": "2026-10-14T23:46:12+00:00"}
+{"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-10-14T23:46:14+00:00"}
