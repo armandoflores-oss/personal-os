@@ -1,24 +1,14 @@
 Weekly Kavak / Draiver Leaders - 2026/10/13 11:00 CST - Notes by Gemini
 
-oct 13, 2026
-
-Weekly Kavak / Draiver Leaders
-
-Invitado: Julia Diaz (julia.diaz@draiver.com), Armando Flores (armando.flores@driverdo.com), josue.luevano@kavak.com, Gerardo Acosta (gerardo.acosta@kavak.com), Diego Diaz (diego.diaz@draiver.com), aristides.calvani@kavak.com, Fede Ranero (fede.ranero@driverdo.com, declinó)
+Invitados: Julia Diaz, Armando Flores, josue.luevano@kavak.com, Gerardo Acosta, Diego Diaz, aristides.calvani@kavak.com, Fede Ranero (declinó)
 
 Resumen
 Reporte de unidades y bloqueos viales con estrategias de Monterrey y gestión en el Bajío
+- Recolección y bloqueos viales: Informe de unidades recolectadas en varias ciudades junto con reportes de incidentes en la carretera a Toluca.
+- Demanda en Monterrey: Crecimiento de agencias en Monterrey requiere más unidades y rotación activa de conductores.
+- Restricción de transporte: Instrucción de realizar traslados de conductores estrictamente en autobús desde la terminal de Tasqueña.
 
-Recolección y bloqueos viales
-Informe de unidades recolectadas en varias ciudades junto con reportes de incidentes en la carretera a Toluca.
-
-Demanda en Monterrey
-Crecimiento de agencias en Monterrey requiere más unidades y rotación activa de conductores.
-
-Restricción de transporte
-Instrucción de realizar traslados de conductores estrictamente en autobús desde la terminal de Tasqueña.
-
-Decisiones (Acordada)
+Decisiones (acordadas)
 - Establecer corredores y costos de traslado desde Monterrey: Se acordó establecer y activar costos estandarizados para los corredores rodando de Monterrey a Guadalajara, Querétaro y Ciudad de México.
 - Uso obligatorio de autobús en traslados de drivers: Se estableció como norma obligatoria que los traslados de drivers se realicen en autobús y no en avión.
 - Compra directa de tickets de autobús por la empresa: Se determinó que los tickets de autobús de ida para los drivers sean comprados directamente por la empresa para garantizar el horario de arribo.
@@ -35,7 +25,6 @@ Próximos pasos
 - [Julia Diaz] Informar tiempos espera: Compartir con el equipo la información actualizada sobre los tiempos de espera y el estado de los hops logísticos clave.
 
 Detalles
-
 Recolección de unidades y reporte meteorológico: Diego Diaz informa que se recolectaron tres unidades en Culiacán, dos en Mazatlán, dos en San Luis Potosí, una en Aguascalientes y dos en Pachuca, con una persona conductora realizando dos vueltas. Adicionalmente, Julia Diaz comenta sobre el descenso de la temperatura a 10 u 11 grados y menciona que saldrá de viaje el lunes.
 
 Incidencias viales en la ruta hacia Toluca: Armando Flores reporta un bloqueo en la carretera entre La Champa y la autopista de cuota a Toluca, lo cual obligó a retornar por Cuajimalpa e Interlomas para asistir a la junta. Josue Vader Luevano Medina revisa la situación ante posibles afectaciones operativas.

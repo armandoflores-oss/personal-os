@@ -3,3 +3,5 @@
 {"creados": [], "leg": "inbound", "source": "drive", "suprimidos": [{"detail": "", "item_id": "1RWPenPTmnWSM-wdq_mKQystcUvVk7VQlMAuW1rKJMtM", "reason": "sin_compromiso", "source": "drive", "subject": "Draiver-Clicars - FUP - 2026/10/06 12:00 CEST - Notes by Gemini (Spanish)", "ts": "2026-10-15T14:46:50+00:00"}], "tope_alcanzado": 0, "ts": "2026-10-15T14:46:50+00:00", "vistos": 1, "watermark": "2026-10-15T10:26:36Z", "ya_vistos": 0}
 {"casi": [], "cerrados": [], "leg": "outbound", "revisados": 1, "ts": "2026-10-15T14:46:50+00:00"}
 {"cambiadas": 0, "cards": 118, "huerfanas": 0, "leg": "tejido", "ts": "2026-10-15T14:46:51+00:00"}
+{"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-10-15T14:46:54+00:00"}
+{"leg": "heartbeat", "stage": "start", "task": "brief-personal-os", "ts": "2026-10-15T15:09:03+00:00"}

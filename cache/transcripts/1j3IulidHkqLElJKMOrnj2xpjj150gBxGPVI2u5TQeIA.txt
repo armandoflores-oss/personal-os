@@ -1,22 +1,12 @@
 Diaria Spain Launch - 2026/10/13 08:30 CST - Notes by Gemini
 
-oct 13, 2026
-
-Diaria Spain Launch
-
-Invitado: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
+Invitados: Daniel Escribano, Armando Flores, Artur Morais
 
 Resumen
 Baja adopción de aplicación y fricciones operativas con propuestas de adaptación y estrategia SaaS
-
-Baja adopción de aplicación
-Baja adopción de la aplicación demostró resistencia de proveedores de Clicars.
-
-Fricciones operativas del transporte
-Problemas con actualización de vehículos y uso de sistemas DECA alternativos.
-
-Propuestas y estrategia SaaS
-Adaptación de pantallas propuesta y cobro SaaS analizado para vehículos.
+- Baja adopción de aplicación: Baja adopción de la aplicación demostró resistencia de proveedores de Clicars.
+- Fricciones operativas del transporte: Problemas con actualización de vehículos y uso de sistemas DECA alternativos.
+- Propuestas y estrategia SaaS: Adaptación de pantallas propuesta y cobro SaaS analizado para vehículos.
 
 Próximos pasos
 - [Artur Morais] Analizar adopción: Recopilar datos sobre los viajes cancelados y los niveles de adopción de la plataforma en los últimos días. Presentar esta información para analizar las fallas en el uso de la aplicación por parte de los conductores.
@@ -25,37 +15,12 @@ Próximos pasos
 - [El grupo] Estrategia Clicars: Coordinar una sesión estratégica con Samuel y Pablo para resolver los problemas estructurales del sistema de carga. Establecer un plan de acción definitivo para asegurar el uso obligatorio de la plataforma.
 
 Detalles
+Baja adopción de la aplicación por parte de les conductores en Clicars: Artur Morais informó que de 13 viajes creados para la jornada, solamente dos conductores utilizaron la aplicación, lo que demuestra una baja adopción y resistencia por parte de los proveedores de Clicars, quienes operan de forma independiente y cuentan con sus propios sistemas de DECA. Armando Flores indicó que dicha resistencia es normal en este tipo de negociaciones corporativas y que les proveedores prefieren mantener alternativas o negociar bajo esquemas tradicionales.
 
-Baja adopción de la aplicación por parte de les conductores en Clicars: Artur Morais informó que de 13 viajes creados para la jornada, solamente dos conductores utilizaron la aplicación, lo que demuestra una baja adopción y resistencia por parte de los proveedores de Clicars, quienes operan de forma independiente y cuentan con sus propios sistemas de DECA (00:06:24) (00:15:06). Armando Flores indicó que dicha resistencia es normal en este tipo de negociaciones corporativas y que les proveedores prefieren mantener alternativas o negociar bajo esquemas tradicionales (00:09:52).
+Fricciones operativas y uso del DECA reportadas por les transportistas: Armando Flores leyó los comentarios de Samuel sobre los problemas que enfrentan les transportistas, tales como la falta de actualización de los vehículos el día anterior, la dificultad para realizar entradas manuales y la exigencia en las campas de presentar el DECA antes de finalizar la carga. Artur Morais y Daniel Escribano discutieron que les transportistas a menudo no tienen las matrículas y modelos el día previo, lo que les lleva a utilizar sus propios DECA más ágiles en lugar de la plataforma centralizada.
 
-Fricciones operativas y uso del DECA reportadas por les transportistas: Armando Flores leyó los comentarios de Samuel sobre los problemas que enfrentan les transportistas, tales como la falta de actualización de los vehículos el día anterior, la dificultad para realizar entradas manuales y la exigencia en las campas de presentar el DECA antes de finalizar la carga (00:18:37). Artur Morais y Daniel Escribano discutieron que les transportistas a menudo no tienen las matrículas y modelos el día previo, lo que les lleva a utilizar sus propios DECA más ágiles en lugar de la plataforma centralizada (00:15:06) (00:24:13).
+Propuestas de adaptación de pantallas y gestión de negociaciones: Artur Morais señaló que las pantallas obligatorias de fotos adicionales y notas de recogida toman aproximadamente 3 segundos cada una, aunque el equipo de producto tiene una propuesta para adaptarlas en un plazo mínimo de dos semanas. Ante esto, Armando Flores sugirió que sea Daniel Escribano quien encabece las negociaciones con Samuel y Pablo en la reunión programada para el viernes, mientras Artur Morais continúa apoyando con la implementación y la extracción de datos de cancelación.
 
-Propuestas de adaptación de pantallas y gestión de negociaciones: Artur Morais señaló que las pantallas obligatorias de fotos adicionales y notas de recogida toman aproximadamente 3 segundos cada una, aunque el equipo de producto tiene una propuesta para adaptarlas en un plazo mínimo de dos semanas (00:21:50). Ante esto, Armando Flores sugirió que sea Daniel Escribano quien encabece las negociaciones con Samuel y Pablo en la reunión programada para el viernes, mientras Artur Morais continúa apoyando con la implementación y la extracción de datos de cancelación (00:11:01) (00:13:59).
+Estrategia de cobro SaaS y pruebas de alertas con producto: Armando Flores y Artur Morais analizaron la dificultad de cobrar tarifas de SaaS sobre los 16 vehículos o transportes cuando les transportistas no utilizan la plataforma por completo, dado que la información se extrae de archivos Excel hacia el Command Center de manera manual y sin automatización. Armando Flores planteó permitir que utilicen su DECA si lo desean, pero enfatizó la necesidad de rediseñar el proceso de raíz con Samuel y Pablo, mientras que Artur Morais confirmó que las pruebas de alertas se realizarán durante la semana a la espera de Paul, responsable de producto.
 
-Estrategia de cobro SaaS y pruebas de alertas con producto: Armando Flores y Artur Morais analizaron la dificultad de cobrar tarifas de SaaS sobre los 16 vehículos o transportes cuando les transportistas no utilizan la plataforma por completo, dado que la información se extrae de archivos Excel hacia el Command Center de manera manual y sin automatización (00:25:36). Armando Flores planteó permitir que utilicen su DECA si lo desean, pero enfatizó la necesidad de rediseñar el proceso de raíz con Samuel y Pablo, mientras que Artur Morais confirmó que las pruebas de alertas se realizarán durante la semana a la espera de Paul, responsable de producto (00:27:01).
-
-Transcripción (extractos relevantes)
-
-00:06:24 Armando Flores: Oye, ¿y con Clicars, ¿cómo cómo vas? / Artur Morais: Bien, así acabo de reportar ahí también dentro del Slack porque hoy solo tenemos dos conductores haciendo los viajes que creamos ayer para hoy.
-
-00:11:01 Artur Morais: Ah, mañana tengo otra reunión con Samu... creo que algo top down tal vez sea necesario... no lo sé hasta dónde debo, puedo ir en termos de exigir algo del cliente. / Armando Flores: No, a ti no te conviene exigir eso. Eso le toca a Dani... creo que te toca levantar la mano, decir, "Esto es lo que yo veo, esto es lo que está pasando." Pero la negociación yo sugeriría que la hiciera Dani en ese lado.
-
-00:12:22 Armando Flores: yo creo que de tu lado hiciste la implementación. Creo que a lo mejor es pedirles un espacio con los proveedores, Arthur, y explicarles qué es driver y por qué está lo deca y cómo lo estás generando.
-
-00:13:59 Daniel Escribano: Yo el viernes con Pablo y Gina para el tema del rodado.
-
-00:15:06 Artur Morais: hoy, por ejemplo, tenemos ahí 13 viajes criados y solo dos conductores están haciendo por la aplicación. Las otras 11 no arrancaron... aparentemente tiene sus propios deca.
-
-00:16:34 Armando Flores: ¿Cómo podríamos tener visibilidad de esto...? tener el nivel de adopción. / Artur Morais: Sí, puedo ver cuántos viajes cancelados tenemos en los últimos días. Puedo traer ahí la información. / Armando Flores: Sí, saca la información y a lo mejor que Dani se lleve eso el viernes y les enseñe.
-
-00:20:31 Armando Flores (leyendo a Samuel): Necesitaríamos poder actualizar nosotros las cargas cuando las necesitamos de una manera más rápida... los transportistas necesitarían tener el DECA antes de confirmar que han cargado todo... nos interesa tener el ejemplo de diseño nuevo de las cargas para poder exigirles el 100% que tiene que usar solo esta plataforma.
-
-00:21:50 Artur Morais: ya tenemos una propuesta con el team de producto para adaptar y cambiar esta pantalla de recogida y entrega... mínimamente dos semanas.
-
-00:25:36 Artur Morais: estamos extrayendo las informaciones del Excel y poniendo dentro de Command Center, no hay una lectura o automatización. / Armando Flores: no le podemos cobrar SAS por los otros transportes si no lo usan. / Daniel Escribano: 16
-
-00:27:01 Artur Morais (alertas): Debemos probar esta semana... estamos aguardando a Paul, responsable de producto. / Armando Flores: quieren usar el deca de su proveedor, que lo usen si quieren. Pero el SAS no entiendo por qué no lo usarían... creo que sí vale la pena tener una junta con Samuel y Pablo.
-
-00:28:13 Armando Flores: no podemos lidiar nada más con las objeciones sin entender a fondo cómo cambiar el proceso de raíz con ellos... hay que enseñarles: esto es la aplicación, esto tarda.
-
-La transcripción finalizó después de 00:29:19
+[Nota del depósito: se guardaron las secciones de notas; la transcripción literal de la conversación (≈29 min) se omitió por tamaño.]
