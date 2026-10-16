@@ -1654,3 +1654,13 @@
 {"detail": "", "item_id": "1a141fe519020e3e", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: JAC 4 VM009491 PARABRISAS ESTRELLADO", "ts": "2026-10-16T14:46:46+00:00"}
 {"detail": "", "item_id": "1a141fa8517bed3b", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: JAC 4 VM009491 PARABRISAS ESTRELLADO", "ts": "2026-10-16T14:46:46+00:00"}
 {"detail": "", "item_id": "1a141f9df7bd916b", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Claim 1921 payment request Zapata MX, trip 3856045.3 VIN 3GABAC227VM009491", "ts": "2026-10-16T14:46:46+00:00"}
+{"detail": "", "item_id": "1a145933d4fd7304", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Mejoras al proceso de recolección", "ts": "2026-10-16T16:47:25+00:00"}
+{"detail": "", "item_id": "1a14576c17035ba4", "reason": "sin_compromiso", "source": "gmail", "subject": "Carga de facturas en Vendor HUB", "ts": "2026-10-16T16:47:25+00:00"}
+{"detail": "", "item_id": "1a14575fd193b76d", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Concentrado Driverdo Septiembre 2026", "ts": "2026-10-16T16:47:25+00:00"}
+{"detail": "", "item_id": "1a14562f9ab05956", "reason": "sin_compromiso", "source": "gmail", "subject": "Consulting opportunity on Gestión de flotas", "ts": "2026-10-16T16:47:25+00:00"}
+{"detail": "", "item_id": "1a145606d014204b", "reason": "sin_compromiso", "source": "gmail", "subject": "Notes: “Diaria Spain Launch” Oct 16, 2026", "ts": "2026-10-16T16:47:25+00:00"}
+{"detail": "", "item_id": "1a1454e1f9a9ca9b", "reason": "sin_compromiso", "source": "gmail", "subject": "Notes: “Back office Spain” Oct 16, 2026", "ts": "2026-10-16T16:47:25+00:00"}
+{"detail": "", "item_id": "1a1453dc804da9da", "reason": "sin_compromiso", "source": "gmail", "subject": "Claim 1946 payment request, Zapata MX trip 3983810.2 VIN 3FTTW8S34TRA45884", "ts": "2026-10-16T16:47:25+00:00"}
+{"detail": "", "item_id": "1a1453a57a15d4ed", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: RANGER | GRIS CARBONO | AFAHR6MB0VP148872", "ts": "2026-10-16T16:47:25+00:00"}
+{"detail": "^\\s*invitation:", "item_id": "1a14535e06d9c83d", "reason": "meta", "source": "gmail", "subject": "Invitation: Mx Kavak @ Fri Oct 16, 2026 10:30am - 11am (CST) (Armando Flores)", "ts": "2026-10-16T16:47:25+00:00"}
+{"detail": "\\bpodria\\b", "item_id": "1ynt6NuaMOZ4KitWQwGbz4BEjZuLeiAHAP7HWMVktWwA", "reason": "exploratorio", "source": "drive", "subject": "Diaria Spain Launch - 2026/10/16 08:32 CST - Notes by Gemini", "ts": "2026-10-16T16:47:25+00:00"}
