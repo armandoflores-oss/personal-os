@@ -1,0 +1,61 @@
+Mexico - Back Office - 2026/10/15 16:00 EDT - Notes by Gemini
+
+Oct 15, 2026
+Invited: Jaqueline Sanches, Juliana Turin, Armando Flores, Rafael Pagliuso De Andrade, Cristhian Herrera, Julia Diaz
+
+Summary
+Offer updates and party logistics with contract negotiations and platform evaluations concluding major fleet acquisition.
+- Offers and Party Planning: Offer revisions planned for November 2nd and Christmas party scheduled for December 1st.
+- Contract and System Updates: Legal contracts drafted and Ramp integration prioritized over Mendel for travel management.
+- Fleet Management Win: Major fleet management RFP won, securing significant growth and margin potential.
+
+Kavak offer and vacation updates
+- Kavak offer updates are targeted for completion by November 2nd based on new vacation information.
+Weekend and holiday staffing models
+- The team evaluated both part-time and full-time staffing models for weekend and holiday coverage.
+Christmas party planning and end-of-year events
+- Armando provides 1,000 dollars in merchandise for raffles while attendees cover their travel expenses.
+- Rafael and Armando explored hosting next year's end-of-year party in Spain with a themed wrestling match.
+- Late November was suggested as the optimal timeframe for scheduling the Mexico operations Christmas party.
+IMS registration and compliance updates
+- Abraham updated the fiscal address and completed initial IMS registrations and portal validations.
+- Cristhian confirmed that retroactive registrations for remaining employees will proceed online next week.
+- Juliana requested updated tax ID and fiscal address documents to configure active driver payments.
+Software integrations and financial reporting tools
+- Cristhian advanced RAMP API integrations to automate workflows and ensure expense deductibility in Mexico.
+- Armando determined that Mendel's platform is unsuitable for corporate travel, prioritizing PEX integration instead.
+- Moa completed the aging report dashboard to provide updated client and country tracking metrics.
+Fleet management RFP win and growth impact
+- Armando announced winning an RFP with a major fleet management company in Mexico.
+- The new fleet contract yields a 35% to 37% gross margin and covers 10% growth.
+
+Next steps
+- [Jaqueline Sanches] Rearrange Offers: Rearrange the offers following vacation time updates. Send the updated offers to the team.
+- [Jaqueline Sanches] Consult Lawyer: Consult the labor lawyer about hiring part-time staff for weekends and holidays.
+- [Armando Flores] Send Party Details: Send the details for the Mexico Christmas party.
+- [Julia Diaz] Schedule Party: Define the date for the Mexico operations Christmas party.
+- [Cristhian Herrera] Confirm Registration: Confirm the completion of the IMSS registration process once notified by Abraham.
+- [Juliana Turin] Update Contract: Update the draft contract with the correct fiscal address.
+- [Cristhian Herrera] Review Contract: Review the limitations sent by the legal team for the CAM contract.
+- [Armando Flores] Discuss Integration: Discuss the Mendel platform integration with Kevin.
+- [Cristhian Herrera, Marcel] Test Aging Tool: Conduct internal testing of the aging report tool.
+- [Cristhian Herrera] Review Data: Review the provided employee information and request any additional items required for registration.
+
+Details
+Kavak Offer Updates and Weekend Staffing: Jaqueline Sanches stated that they received information from Kavak regarding vacation time and will rearrange offers to send back by November 2nd. Additionally, Jaqueline Sanches and Armando Flores discussed evaluating part-time or full-time staffing options for weekends and festive days, with Jaqueline Sanches planning to consult David, the labor lawyer, regarding this matter.
+
+Kavak Christmas Party Logistics: Armando Flores announced that the Kavak Christmas party is scheduled for December 1st in Mexico City, with Mexico-based employees invited. Armando Flores mentioned that they must pay approximately $1,000 in merchandise for raffles, while travel expenses for attendees are not covered by the company. The team also discussed operational details, cultural norms around open bars and large company celebrations in Mexico compared to other regions, and potential future events.
+
+IMSS Registrations and Address Updates: Cristhian Herrera and Jaqueline Sanches discussed the status of employee registrations and address updates handled by Abraham through Outend. Cristhian Herrera noted that the final step is validation with the IMSS (referred to as IMS), which Abraham was expected to complete. Jaqueline Sanches highlighted that once the address is set, Abraham must perform retroactive registrations for unregistered employees, with Armando Flores available to step in physically next week if online processing fails.
+
+Fiscal Address and Contract for Kavak Office: Juliana Turin and Armando Flores addressed the fiscal address and office measurements involving a facilities contact and hub leader. Juliana Turin noted that a lawyer was drafting the corresponding contract, while Armando Flores pointed out the challenges of obtaining exact geolocation and perimeter data, agreeing that reference points would be provided to update the draft.
+
+CAM Contract Negotiations and Tax ID Updates: Cristhian Herrera reported on CAM contract negotiations, noting that legal teams reviewed the proposal while raising concerns regarding the IMSS scheme due to recurring portal and registration issues. Meanwhile, Juliana Turin stated that Santiago indicated the new address must be updated in their tax ID (SAT) to process payments for active drivers, which Armando Flores confirmed was updated by Abraham.
+
+Ramp Integration and Travel Platform Evaluation: Cristhian Herrera stated that they are negotiating integrations with Ramp via API to reduce manual work and handle VAT deductions and expenses for both US and Mexico entities. In parallel, Armando Flores and Cristhian Herrera reviewed Mendel for travel management, concluding that Mendel functions as a corporate travel platform unsuitable for drivers because it requires creating individual user profiles for every trip, leading the team to prioritize the Ramp integration instead.
+
+Aging Dashboard Development: Cristhian Herrera provided an update on the aging dashboard, stating that Moa completed the tool and that Marcel and Cristhian Herrera will conduct internal testing before rolling out the report for client and country tracking no later than the following week.
+
+Fleet Management RFP Win and Closing Updates: Armando Flores announced that they won the RFP with a major fleet management company in Mexico, which is expected to cover 10 percent of next year's growth and yield a 35 to 37 percent gross margin. Depending on the awarded percentage, they may need to hire an additional staff member or set up an implant under facilities. Additionally, Jaqueline Sanches and Cristhian Herrera coordinated to ensure Abraham completes employee registrations the following day.
+
+[Transcripción literal omitida en esta captura; ver el doc en Drive.]

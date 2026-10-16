@@ -1,0 +1,41 @@
+Back office Spain - 2026/10/16 09:58 EDT - Notes by Gemini
+
+Oct 16, 2026
+Invited: Daniel Escribano, Jaqueline Sanches, Armando Flores, Rafael Pagliuso De Andrade, Cristhian Herrera
+
+Summary
+Operational alignment and financial management via strategic planning and risk mitigation
+- Meeting Coordination and Scheduling: Discussion covered meeting attendance and scheduled financial alignment calls.
+- Financial Silos and Fraud Risks: Concerns regarding financial silos highlighted risks of outsourcing processes.
+- Regional Operations and Support: Regional support structures were reviewed alongside upcoming staffing transitions.
+
+Financial operations and back-office alignment
+- Cristhian scheduled a 1-hour Finout meeting on Thursday at 9:00 a.m. to review processes.
+- Rafael flagged 100% outsourced financial processes as a high risk for potential fraud.
+- Rafael emphasized avoiding silos and coordinating the back office as a unified voice.
+
+Employee benefits and international tax alignment
+- Rafael and Jackie scheduled a Monday meeting for employee benefits and non-tax resident transfers.
+
+Operations support and regional structure
+- The team reviewed operational support management across Argentina, Colombia, and Costa Rica.
+- Operations support includes night shift coverage and UAT in Argentina.
+- US operations handle low volume.
+
+Next steps
+- [Cristhian Herrera] Distribute Onboarding Document: Send the drafted material to all team members before the upcoming meeting. Incorporate input from other departments to ensure a comprehensive scope.
+- [Rafael Pagliuso De Andrade, Jaqueline Sanches] Align Benefits and Taxes: Meet with the finance team to coordinate on employee benefits. Resolve tax issues regarding international transfers.
+- [Rafael Pagliuso De Andrade] Send Meeting Notes: Distribute the outcomes of the Monday meeting to the group. Update the team on discussions regarding HR processes and international transfers.
+
+Details
+Leadership and Meeting Coordination: Cristhian Herrera noted the absence of Paulo from the call, prompting Rafael Pagliuso De Andrade to clarify that Paulo was merely an invitee who might not join. Rafael Pagliuso De Andrade then directed the group to discuss operational downfalls and management responsibilities.
+
+Financial Alignment Meetings and Onboarding Documentation: Rafael Pagliuso De Andrade and Jaqueline Sanches scheduled a call for the following Monday to align on employee benefits and tax issues related to the transfer of non-tax residents. Cristhian Herrera stated that an onboarding document had been prepared and a one-hour meeting booked for the following Thursday at 9:00 a.m. Central with Finout, featuring Pablo and Victor from Kavak. Cristhian Herrera planned to cover processes, systems, team management, vendors, integrations, and cross-country flows, and committed to distributing the document beforehand so attendees could review it and arrive with questions.
+
+Departmental Silos and Outsourcing Fraud Risks: Rafael Pagliuso De Andrade expressed concern regarding financial silos and emphasized the necessity for the team to act as a unified voice when coordinating with Finout. Rafael Pagliuso De Andrade highlighted that completely outsourcing financial processes creates vulnerability to fraud. To improve alignment, Rafael Pagliuso De Andrade agreed to share notes from the Monday meeting—which covered international transfers and human resources processes—with the wider team.
+
+Regional Operations and Support Management: The participants discussed regional support structures spanning Colombia, Argentina, and Costa Rica. Rafael Pagliuso De Andrade discussed turning over support responsibilities to Jaqueline Sanches, while Daniel Escribano was noted as engaging in support management training.
+
+Support Operations, Staffing, and Conclusion: The meeting concluded with brief discussions regarding movement coaches, transport, night shift staffing involving Bruno, and operations support related to low US volume.
+
+[Transcripción cruda omitida: el audio de esta junta quedó ininteligible en su mayor parte.]

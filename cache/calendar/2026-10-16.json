@@ -1,0 +1,10 @@
+[
+  {"start": "08:00", "summary": "Back office Spain", "attendees": ["daniel.escribano@draiver.com", "jaqueline.sanches@draiver.com", "armando.flores@driverdo.com", "rafael.andrade@driverdo.com", "cristhian.herrera@draiver.com"]},
+  {"start": "08:30", "summary": "Diaria Spain Launch", "attendees": ["daniel.escribano@draiver.com", "armando.flores@driverdo.com", "artur.morais@draiver.com"]},
+  {"start": "09:30", "summary": "Daily Huddle - Ops MX", "attendees": ["uriel.vargas@driverdo.com", "cristian.arizmendi@driverdo.com", "julia.diaz@draiver.com", "armando.flores@driverdo.com", "diego.diaz@draiver.com", "camila.flores@draiver.com", "jose.duran@driverdo.com"]},
+  {"start": "10:00", "summary": "MX Marketplace", "attendees": ["rodrigo.trevino@draiver.com", "armando.flores@driverdo.com", "paulo.ferrato@driverdo.com", "alinefidencio@draiver.com", "camila.flores@driverdo.com", "julia.diaz@draiver.com", "cristian.arizmendi@driverdo.com", "julia.ivonne@live.com.mx"]},
+  {"start": "10:00", "summary": "Draiver / Edenred — Reunión en oficinas Edenred", "attendees": ["juan.goncalves@edenred.com", "fede.ranero@driverdo.com", "lucas.pithan@edenred.com", "armando.flores@driverdo.com", "leonardo.viotto@draiver.com", "pablo.chiappettaporras@edenred.com", "clara.veloza@edenred.com", "juan.jimenez-olivares@edenred.com"]},
+  {"start": "10:30", "summary": "Mx Kavak", "attendees": ["armando.flores@driverdo.com", "marcelo.trevino@driverdo.com", "cristhian.herrera@draiver.com"]},
+  {"start": "12:00", "summary": "catch up Julia", "attendees": ["julia.diaz@draiver.com", "armando.flores@driverdo.com"]},
+  {"start": "15:00", "summary": "Implementación licitación traslados DRIVER", "attendees": ["armando.flores@driverdo.com", "jahdai.alanis@ayvens.com"]}
+]
