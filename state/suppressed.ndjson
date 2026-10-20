@@ -1789,3 +1789,10 @@
 {"detail": "", "item_id": "1a15ae9cba4da0fb", "reason": "sin_compromiso", "source": "gmail", "subject": "INVENTARIO DE UNIDADES FORD EN PATIO BARRAGÁN 21-10-2026", "ts": "2026-10-20T21:45:49+00:00"}
 {"detail": "", "item_id": "1a15b1e727770986", "reason": "sin_compromiso", "source": "gmail", "subject": "Aceptado: Draiver / Edenred — Planeación del piloto", "ts": "2026-10-20T21:45:49+00:00"}
 {"detail": "^\\s*accepted:", "item_id": "1a15b1e956932e61", "reason": "meta", "source": "gmail", "subject": "Accepted: Draiver / Edenred — Planeación del piloto @ Thu Oct 22, 2026 11am - 11:45am (CST) (armando.flores@driverdo.com", "ts": "2026-10-20T21:45:49+00:00"}
+{"detail": "^\\s*declined:", "item_id": "1a15b946bf9a56c8", "reason": "meta", "source": "gmail", "subject": "Declined: Weekly Kavak / Draiver Leaders @ Tue Oct 27, 2026 11am - 12pm (CST) (Armando Flores)", "ts": "2026-10-20T23:46:45+00:00"}
+{"detail": "", "item_id": "1a15b84309044f3a", "reason": "sin_compromiso", "source": "gmail", "subject": "TERRITORY | ROJO RUBI | LJXBS5A35VYF17364", "ts": "2026-10-20T23:46:45+00:00"}
+{"detail": "", "item_id": "1a15b621b4a58ce5", "reason": "sin_compromiso", "source": "gmail", "subject": "Aceptada: Draiver / Edenred — Planeación del piloto", "ts": "2026-10-20T23:46:45+00:00"}
+{"detail": "", "item_id": "1a15b61b965c4e3a", "reason": "sin_compromiso", "source": "gmail", "subject": "Aceptada: Draiver / Edenred — Planeación del piloto", "ts": "2026-10-20T23:46:45+00:00"}
+{"detail": "", "item_id": "1a15b4d4139a970f", "reason": "sin_compromiso", "source": "gmail", "subject": "Welcome DSM", "ts": "2026-10-20T23:46:45+00:00"}
+{"detail": "", "item_id": "1a15b4c5e8267b36", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Tesla - Draiver - LARMEX Monterrey to Punto Valle Q4 2026 Oct", "ts": "2026-10-20T23:46:45+00:00"}
+{"detail": "^\\s*accepted:", "item_id": "1a15b48216d1eca4", "reason": "meta", "source": "gmail", "subject": "Accepted: Draiver / Edenred — Planeación del piloto @ Thu Oct 22, 2026 11am - 11:45am (CST) (Armando Flores)", "ts": "2026-10-20T23:46:45+00:00"}
