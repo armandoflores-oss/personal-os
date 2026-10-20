@@ -26,6 +26,33 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "0252fb3181c5": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-82",
+  "counterparty": "edenred",
+  "created": "2026-10-20T17:07:12+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Y anexo te comparto la constancia de situación fiscal y te busco en un rato para que definamos los detalles del NDA Saludos, Clara V.",
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-10-20T01:08:17Z a edenred: «Re: Meeting: Draiver / Edenred — Siguientes pasos»",
+    "ts": "2026-10-20T17:07:12+00:00"
+   }
+  ],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a1599e97004a139",
+  "status": "done",
+  "task_id": "0252fb3181c5",
+  "title": "RE: Meeting: Draiver / Edenred — Siguientes pasos",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "03d1d2313b80": {
   "action": "otro",
   "applied": false,
@@ -1040,6 +1067,27 @@
   "status": "done",
   "task_id": "5ad8571e3c7e",
   "title": "Confirmar con Clicars cómo mandarán shipper, carrier y peso por vehículo (bloqueante del MVP levantado por Deca/Paloma); propuesta: misma sábana en columnas separadas",
+  "vetoed": false,
+  "waiting_on": null
+ },
+ "5da29525d8e2": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-83",
+  "counterparty": "ayvens",
+  "created": "2026-10-20T17:07:12+00:00",
+  "domain": "grandes-deals",
+  "due_date": null,
+  "evidence": "RE: Implementación licitación traslados DRIVER\nExcelente tarde equipo Driver, Les comparto en amarillo solo los documentos que me faltarían para poder avanzar con su alta, cuando tengan llenados el fo",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a1560532dd90971",
+  "status": "open",
+  "task_id": "5da29525d8e2",
+  "title": "RE: Implementación licitación traslados DRIVER",
   "vetoed": false,
   "waiting_on": null
  },
