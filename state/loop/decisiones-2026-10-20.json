@@ -1,0 +1,16 @@
+{"decisiones": [
+  {"task_id": "3414689d651a", "clase": "ninguna", "evidencia": "Hilo Ford MX operación 2A: 26 días sin movimiento, pero es un frente estratégico; el silencio no indica que se haya resuelto."},
+  {"task_id": "207c6a5f5690", "clase": "ninguna", "evidencia": "REPSE y plataformas digitales: 26 días sin movimiento; es un tema regulatorio que no se cierra solo y no hay nada que diga que quedó."},
+  {"task_id": "298dd95c5797", "clase": "ninguna", "evidencia": "Borusan: tú mismo pediste el seguimiento ('no me pusiste dar seguimiento a borusan'); 22 días sin movimiento indica pendiente, no cierre."},
+  {"task_id": "a73407884bc6", "clase": "ninguna", "evidencia": "Facturas pendientes de pago: 27 días sin movimiento, pero no hay confirmación de pago; un cobro no se da por hecho solo por silencio."},
+  {"task_id": "4b087a8a484f", "clase": "blanda", "evidencia": "Hilo de una unidad (Mustang 1FA6P8CF6T5408892): 22 días sin movimiento; parece que el traslado ya se hizo, pero no hay confirmación."},
+  {"task_id": "73f11825b541", "clase": "blanda", "evidencia": "Hilo de una unidad (Ranger AFAHR6MB0VP148872): 22 días sin movimiento; parece que el traslado ya se hizo, pero no hay confirmación."},
+  {"task_id": "83736b6acee1", "clase": "ninguna", "evidencia": "Propuesta de entrega (pipeline estratégico): 22 días sin movimiento; una propuesta sin respuesta no está resuelta."},
+  {"task_id": "703b0bca2d85", "clase": "ninguna", "evidencia": "Conductores de Artur en Command Center (España): 21 días sin movimiento, pero nada confirma que se arreglara la asignación."},
+  {"task_id": "bd8371d3b589", "clase": "blanda", "evidencia": "Reporte de póliza 5-201-2025-R-101 (Mini Cooper): 20 días sin movimiento en el hilo; parece que el siniestro ya se resolvió, pero no hay confirmación."},
+  {"task_id": "94bb3ad23d4f", "clase": "blanda", "evidencia": "Concentrado DriverDo septiembre 2026: 20 días sin movimiento y el mes ya cerró; parece entregado, pero no hay confirmación."},
+  {"task_id": "eb1bc98cd22b", "clase": "blanda", "evidencia": "Cotización caso EL 5304 Atotonilco: 18 días sin movimiento; parece que ya se contestó o se perdió, pero no hay confirmación."},
+  {"task_id": "e1985c9c701d", "clase": "ninguna", "evidencia": "Autosur - Draiver: apenas 14 días sin movimiento y es una relación comercial; no basta para suponer que se resolvió."},
+  {"task_id": "c61b94aeeeb7", "clase": "ninguna", "evidencia": "Cierre de mes septiembre: 14 días sin movimiento; no hay registro de que el cierre haya quedado."},
+  {"task_id": "610c6cdd1013", "clase": "ninguna", "evidencia": "Contrato Draiver: 14 días sin movimiento; un contrato no se da por firmado sin evidencia."}
+]}
