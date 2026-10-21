@@ -1102,11 +1102,17 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Por este medio les comparto el machote del contrato que ha sido revisado por nuestra área legal para continuar con el proceso de formalización entre nuestras compañías.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-10-21T15:11:34Z a turbofin: «Re: CONTRATO DRAIVER»",
+    "ts": "2026-10-21T16:48:26+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a1139134857d456",
-  "status": "open",
+  "status": "done",
   "task_id": "610c6cdd1013",
   "title": "CONTRATO DRAIVER",
   "vetoed": false,

@@ -12,7 +12,6 @@
 - **T-70** Re: COTIZACIÓN || CASO EL 5304 || ATOTONILCO,JAL
 - **T-71** RV: Autosur - Draiver
 - **T-72** Cierre de mes – septiembre 2026
-- **T-73** CONTRATO DRAIVER
 - **T-76** Cierres de mes cuenta continental
 - **T-77** Re: REPSE and digital platforms
 - **T-80** RV: Propuesta y seguimiento Reunion Hertz México | Driver Do
