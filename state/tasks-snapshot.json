@@ -1033,11 +1033,17 @@
   "domain": "pipeline-estrategico",
   "due_date": null,
   "evidence": "Les comparto el desglose de lo que veo pendiente de pago de nuestro lado.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-10-21T21:54:42Z a ford: «Re: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128»",
+    "ts": "2026-10-21T23:47:09+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a13c04a641e6746",
-  "status": "open",
+  "status": "done",
   "task_id": "59e4f21412d6",
   "title": "Re: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128",
   "vetoed": false,
@@ -1679,11 +1685,17 @@
   "domain": "operacion-semanal",
   "due_date": null,
   "evidence": "Les comparto comentarios.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-10-21T23:25:35Z a mendel: «Re: Onboarding Mendel <> DriverDo»",
+    "ts": "2026-10-21T23:47:09+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a131279e438bfb3",
-  "status": "open",
+  "status": "done",
   "task_id": "978f66935969",
   "title": "Re: Onboarding Mendel <> DriverDo",
   "vetoed": false,
