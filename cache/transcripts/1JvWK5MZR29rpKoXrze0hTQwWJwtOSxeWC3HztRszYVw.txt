@@ -1,0 +1,57 @@
+Diaria Spain Launch - 2026/10/20 08:35 CST - Notes by Gemini
+
+oct 20, 2026
+
+## Diaria Spain Launch
+
+Invitado: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
+
+### Resumen
+
+Revisión de errores del sistema y configuraciones con debate sobre notificaciones
+
+**Errores y cuentas configuradas**
+Corrección de cotizaciones y solución de errores al guardar ubicaciones.
+
+**Automatización de seguros**
+Implementación de emisión automática de pólizas ligada a la recogida.
+
+**Debate sobre notificaciones**
+Discusión sobre el envío de correos en tiempo real.
+
+### Decisiones
+
+## Acordada
+
+  - **Integración de cuentas para Autocaravanas Norte** Se establece alojar a Autocaravanas Norte como cuenta hija dentro de la cuenta general de Flexicar manteniendo configuraciones de precios diferenciadas.
+  - **Condición de emisión para seguros de viaje** Se determina que la emisión del seguro de viaje se realice únicamente al momento en que el conductor efectúa la recogida para evitar costos por cancelaciones.
+  - **Flexibilidad en notificaciones por correo electrónico** Se acuerda implementar preferencias de notificación configurables para que los clientes puedan elegir recibir o no las alertas por correo electrónico en tiempo real.
+
+### Próximos pasos
+
+  - [Artur Morais] Añadir campo matrícula: Solicitar a Bruno la inclusión de un campo específico para la matrícula en los detalles del viaje.
+  - [Daniel Escribano] Obtener datos conductor: Contactar al conductor sin validar (línea 133) para solicitar nombre completo, apellidos, DNI y número de teléfono.
+
+### Detalles
+
+**Errores de guardado de ubicación y corrección de cotizaciones**: Daniel Escribano señaló que al intentar guardar una ubicación en el sistema se genera un error, lo cual obliga a repetir el movimiento desde el principio al no haberse guardado previamente. Por su parte, Artur Morais explicó que las cotizaciones no aparecían en la cuenta maestra debido a que las cuentas hijas se configuraban de manera individual, pero confirmó que dicho problema ya fue corregido y que la cuenta general de Autocaravanas Norte ya se encuentra conectada correctamente a través de ETC.
+
+-----
+
+**Estructura de cuentas de Flexicard y Autocaravanas Norte**: Artur Morais indicó que se utilizará una sola cuenta general de Flexicard con múltiples cuentas hijas, incluyendo a Autocaravanas Norte, con configuraciones de precios y facturación distintas para evitar problemas con los identificadores en Salesforce. Ante la mención de Daniel Escribano de que Eder no desea que Autocaravanas Norte tenga acceso a los elementos de Flexicard, Artur Morais aclaró que la visibilidad se puede restringir adecuadamente configurando los permisos al crear los usuarios dentro de la cuenta hija correspondiente.
+
+-----
+
+**Automatización y emisión de seguros**: Artur Morais informó que la emisión de seguros para los próximos viajes ya está automatizada y cuenta con valores predeterminados para los casos en los que el conductor no tenga la dirección guardada en el usuario, implementando un canal de Slack para monitorear el éxito o los errores de emisión. Daniel Escribano manifestó su preocupación porque una póliza generada recientemente no llegó por correo electrónico, señalando que los clientes nuevos suelen solicitar copias de las pólizas. En respuesta, Artur Morais aclaró que el correo de la póliza siempre se enviará a conductores de forma independiente al conductor del viaje, y confirmó que el seguro solo se emite cuando se realiza la recogida, evitando costos por viajes cancelados según lo solicitado por Daniel Escribano. Armando Flores cuestionó la efectividad del flujo automatizado debido a experiencias previas, aunque Artur Morais garantizó, respaldado por el equipo técnico, que el sistema se encuentra operativo.
+
+-----
+
+**Revisión y estatus de la base de datos de conductores**: Daniel Escribano detalló que actualmente existen 159 conductores activos, 214 registros pendientes de revisión y 875 en la fase inicial, estimando unos 800 registros reales tras depurar duplicados. Daniel Escribano explicó que los perfiles omitidos durante las revisiones rápidas se debieron principalmente a documentos caducados como el DNI, antecedentes penales o la baja como autónomos. Asimismo, Artur Morais señaló que un conductor con documentos aprobados carecía de su información de contacto, por lo que Daniel Escribano se comprometió a enviarle un correo electrónico para solicitarle su nombre completo, DNI y teléfono con el fin de crear el usuario.
+
+-----
+
+**Inclusión de la matrícula en los detalles del viaje**: Artur Morais indicó que, aunque actualmente las matrículas se pueden colocar en las notas del viaje, se evaluará añadir un campo específico junto a los nombres y contactos solicitándoselo a Bruno. Daniel Escribano expresó su inconformidad señalando que el dato de la matrícula es indispensable porque las campas llaman con anticipación para solicitarlo. Ante esto, Artur Morais acordó solicitar el cambio en el sistema y añadió que los problemas con el campo para agregar documentos por parte de los conductores quedarán resueltos al finalizar la semana.
+
+-----
+
+**Debate sobre el envío de notificaciones por correo electrónico**: Artur Morais propuso crear una automatización que envíe un resumen diario por la mañana y por la tarde con el estatus de todas las solicitudes para evitar saturar las bandejas de entrada de los clientes, o sugerirles el uso del Command Center. Daniel Escribano rechazó la idea argumentando que los clientes pequeños y medianos prefieren correos en tiempo real al asignar, iniciar y finalizar un viaje para tener la tranquilidad de que el proceso va bien. Por su parte, Armando Flores cuestionó la utilidad de recibir decenas de correos diarios para clientes con alto volumen, indicando que sus propios clientes rechazarían ese formato. Daniel Escribano replicó que los clientes con gran volumen cuentan con personal de logística exclusivo y propuso que las notificaciones sean opcionales según la preferencia de cada cliente. La discusión finalizó debido a que los participantes debían atender otra reunión programada.

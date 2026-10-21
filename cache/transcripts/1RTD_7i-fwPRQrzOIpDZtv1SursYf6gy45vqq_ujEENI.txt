@@ -1,0 +1,81 @@
+Weekly Kavak / Draiver Leaders - 2026/10/20 11:00 CST - Notes by Gemini
+
+oct 20, 2026
+
+## Weekly Kavak / Draiver Leaders
+
+Invitado: Fede Ranero (fede.ranero@driverdo.com), Julia Diaz (julia.diaz@draiver.com), Armando Flores (armando.flores@driverdo.com), josue.luevano@kavak.com, Gerardo Acosta (gerardo.acosta@kavak.com), Diego Diaz (diego.diaz@draiver.com), aristides.calvani@kavak.com
+
+### Resumen
+
+Aperturas evaluadas con abastecimiento vehicular y gestión logística mejorada.
+
+**Planes y abastecimiento vehicular**
+Planes de apertura activados con campañas preventivas. Abastecimiento de vehículos impulsado desde Monterrey y Querétaro.
+
+**Demanda y sistema Minerva**
+Demanda semanal aumentada con duplicación de cancelaciones. Sistema Minerva implementado con seguimiento diario.
+
+**Indicadores y pagos financieros**
+Rendimiento operativo evaluado con almacenamiento alto. Pagos financieros priorizados para liquidación.
+
+### Decisiones
+
+## Acordada
+
+  - **Estrategia de traslado vehicular desde Monterrey** Se acordó iniciar el abastecimiento de vehículos desde Monterrey con conductores y placas de traslado, incorporando madrinas de forma fija si el volumen lo justifica.
+  - **Protocolo de recepción en el centro Herma** Se estableció designar al centro Herma como el hub exclusivo para la recepción de madrinas, aplicando un protocolo de descarga y recolección inmediata de vehículos.
+  - **Calendario de pagos y facturación pendiente** Se acordó liquidar los pagos pendientes de junio a septiembre antes del 31 de octubre y evaluar el esquema de pagos quincenales a partir de la primera quincena de octubre.
+
+### Próximos pasos
+
+  - [Armando Flores] Planear expansión: Crear un plan y una presentación detallada para la expansión de Monterrey y Querétaro y compartirla con el equipo.
+  - [Armando Flores, Julia Diaz] Analizar madrinas: Evaluar la logística y viabilidad de implementar madrinas para las rutas de transporte fijo.
+  - [Josue Vader Luevano Medina] Gestionar accesos: Proporcionar la lista de los tres usuarios con problemas de acceso a canales de Slack para que Arístides Calvani pueda revisarlos con el equipo de ciberseguridad.
+  - [Arístides Calvani] Gestionar pagos: Solicitar al departamento de finanzas que priorice los pagos de junio y julio, gestionar los pagos de agosto hoy y atender los de septiembre el próximo viernes.
+  - [Gerardo Acosta Romero] Revisar cancelaciones: Analizar y verificar cómo se visualizan las cancelaciones en el sistema después de los cambios realizados el domingo.
+  - [Josue Vader Luevano Medina] Crear dashboard: Desarrollar el día de hoy un panel de control conectado directamente con la API para monitorear las métricas de la aplicación Minerva.
+
+### Detalles
+
+**Planes de apertura y campañas preventivas**: Armando Flores indicó que el plan de aperturas recibido por parte del equipo de Villa mantiene lo activado previamente, señalando la necesidad de reforzar Puebla y Monterrey y mencionando que ya se activaron campañas preventivas en negociación con agencias o locatarios. Arístides Calvani coincidió en que el costo de iniciar dichas campañas es bajo y se activarán según se requiera.
+
+-----
+
+**Estrategia de abastecimiento de vehículos desde Monterrey y Querétaro**: Arístides Calvani propuso impulsar el abastecimiento de compras desde Monterrey y Querétaro hacia Ciudad de México ofreciendo mejores precios de compra para atraer mayor volumen a la capital. Armando Flores recordó un proyecto previo de trasladar 120 vehículos mensuales desde Monterrey, acordando que se evaluarán las placas de traslado necesarias y la logística requerida según el avance del volumen.
+
+-----
+
+**Evaluación de opciones logísticas para el transporte de alto volumen**: Armando Flores planteó que, ante un flujo constante y alto volumen de vehículos desde Monterrey, resultaría más conveniente logísticamente utilizar madrinas con renta fija mensual y chófer en lugar de conductores individuales o autobuses. Arístides Calvani y Gerardo Acosta Romero evaluaron la viabilidad de esta alternativa y la posibilidad de asistir a la Expo de Logística en noviembre para concretar contratos con proveedores, aunque Armando Flores señaló que los costos de entrada a la expo eran elevados.
+
+-----
+
+**Capacidad del centro de Lerma como centro de distribución**: Armando Flores y Arístides Calvani analizaron si el centro de Lerma (Herma 5) cuenta con el espacio suficiente para recibir los vehículos transportados por madrina desde Monterrey. Se determinó que Lerma tiene un poco más de espacio que Fashion Drive y, para optimizar el proceso, se acordó implementar un flujo de descarga inmediata similar al operado con Tesla, donde los automóviles se retiran en cuanto llega la madrina.
+
+-----
+
+**Aumento de la demanda semanal y duplicación de cancelaciones**: Gerardo Acosta Romero y Armando Flores informaron que la demanda aumentó un 18% durante la semana, lo que mejoró la cobertura y mantuvo ocupados a los conductores, pero provocó que el porcentaje de cancelaciones se duplicara debido a que numerosos viajes enviados al pool no fueron ejecutados o tomados por los operadores. Gerardo Acosta Romero explicó que el mayor número de cancelaciones se concentró en Monterrey a raíz de la creación imprevista de aproximadamente 100 servicios logísticos para envíos a taller.
+
+-----
+
+**Ajuste de tarifas horarias para conductores en el área metropolitana de Monterrey**: Gerardo Acosta Romero y Armando Flores señalaron que las tarifas actuales de los conductores en Monterrey podrían requerir un ajuste para evitar el rechazo de viajes, proponiendo elevar la tarifa de 70 a 90 pesos por hora en el área metropolitana. Asimismo, se destacó que ya se cuenta con conductores fijos y la incorporación de nuevos operadores para mitigar los problemas de servicio en la región.
+
+-----
+
+**Impacto del nuevo sistema Minerva en el registro de cancelaciones**: Gerardo Acosta Romero y Josue Vader Luevano Medina advirtieron que el cambio al nuevo sistema Minerva, que entra en operación al día siguiente, registrará automáticamente como cancelación cada vez que un conductor reporte un fallo operativo desde la aplicación sin adjuntar un motivo específico. Arístides Calvani, Armando Flores y Josue Vader Luevano Medina concluyeron que, aunque esto elevará las métricas de cancelación en el sistema, se implementará un seguimiento diario y una subclasificación manual para mantener la precisión en los indicadores operativos.
+
+-----
+
+**Resultados operativos sobresalientes durante el domingo**: Gerardo Acosta Romero y Josue Vader Luevano Medina compartieron que el domingo anterior se completaron 145 movimientos, lo que representa un aumento del 45% en comparación con el domingo previo, impulsado por un incremento del 10% en operadores activos. Atribuyeron este rendimiento a la publicación anticipada de rutas el sábado, la confirmación de asistencia de los conductores y el seguimiento puntual y directo proporcionado por Gerardo Acosta Romero.
+
+-----
+
+**Gestión de accesos y permisos para canales de comunicación**: Armando Flores y Josue Vader Luevano Medina reportaron que tres integrantes del equipo continúan experimentando problemas para acceder a canales específicos de Slack utilizando sus nuevas cuentas corporativas, lo que limita la agilidad operativa ante la transición de usuarios de Kavak. Arístides Calvani se comprometió a revisar los reportes y gestionar directamente con el equipo de ciberseguridad la asignación de los permisos requeridos.
+
+-----
+
+**Indicadores de rendimiento en almacenamiento y movimientos interestatales**: Josue Vader Luevano Medina detalló las métricas operativas vigentes, señalando que el almacenamiento se encuentra cerca del 90%, los movimientos hacia el cuartel general superan el 80% en menos de 24 horas, y los movimientos interestatales alcanzan el 100% en menos del 50% del tiempo establecido con el área comercial (reduciendo de 14 a 7 días el traslado de Monterrey a Ciudad de México). Añadió que el único indicador con menor rendimiento es el TAS local en Querétaro y Monterrey, ubicado en un 76% en menos de 24 horas.
+
+-----
+
+**Cronograma de pagos y conciliación financiera con proveedores**: Arístides Calvani, Armando Flores y Josue Vader Luevano Medina revisaron el estatus financiero con Pepe, confirmando que los pagos correspondientes a junio y julio están siendo priorizados por finanzas para liquidarse esa semana, los de agosto se enviarían el mismo día y los de septiembre el viernes. Se acordó generar las órdenes de compra la próxima semana para asegurar que todos los pagos pendientes queden cubiertos antes del 31 de octubre, evaluando además la opción de adelantar los pagos quincenales a partir de octubre.
