@@ -1728,6 +1728,33 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "9afc753088c9": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-84",
+  "counterparty": "mendel",
+  "created": "2026-10-22T14:47:02+00:00",
+  "domain": "operacion-semanal",
+  "due_date": null,
+  "evidence": "Re: Onboarding Mendel <> DriverDo\nHola, Armando: Te comparto algunos horarios disponibles de Leo para la sesión técnica.",
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-10-22T02:14:27Z a mendel: «Re: Onboarding Mendel <> DriverDo»",
+    "ts": "2026-10-22T14:47:02+00:00"
+   }
+  ],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a16124793c4f3df",
+  "status": "done",
+  "task_id": "9afc753088c9",
+  "title": "Re: Onboarding Mendel <> DriverDo",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "9eae31ab4f4f": {
   "action": "confirmar",
   "applied": false,
