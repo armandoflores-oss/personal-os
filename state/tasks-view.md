@@ -15,6 +15,8 @@
 - **T-76** Cierres de mes cuenta continental
 - **T-77** Re: REPSE and digital platforms
 - **T-80** RV: Propuesta y seguimiento Reunion Hertz México | Driver Do
+- **T-85** Re: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128
+- **T-86** RE: Meeting: Draiver / Edenred — Siguientes pasos
 
 ## Reuniones España
 - **T-66** Artur creó todos los conductores en Command Center y asignó viajes para el lunes, pero solo los dos conductores iniciale
