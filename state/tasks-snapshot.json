@@ -1087,11 +1087,17 @@
   "domain": "grandes-deals",
   "due_date": null,
   "evidence": "RE: Implementación licitación traslados DRIVER\nExcelente tarde equipo Driver, Les comparto en amarillo solo los documentos que me faltarían para poder avanzar con su alta, cuando tengan llenados el fo",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-10-23T20:02:14Z a ayvens: «Re: Implementación licitación traslados DRIVER»",
+    "ts": "2026-10-23T21:47:48+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a1560532dd90971",
-  "status": "open",
+  "status": "done",
   "task_id": "5da29525d8e2",
   "title": "RE: Implementación licitación traslados DRIVER",
   "vetoed": false,
