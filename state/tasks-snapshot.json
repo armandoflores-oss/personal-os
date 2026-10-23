@@ -2285,11 +2285,17 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "RV: Autosur - Draiver\nBuenos días Como acordamos en la reunión les comparto la liga donde se encuentra el Excel en donde registrarán los traslados que necesitan File Piloto Autosur-Draiver También es ",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-10-23T19:24:13Z a autosur: «Grupo Autosur x Draiver – Resultados del piloto y propuesta comercial»",
+    "ts": "2026-10-23T19:46:29+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a111e21e749e15d",
-  "status": "open",
+  "status": "done",
   "task_id": "e1985c9c701d",
   "title": "RV: Autosur - Draiver",
   "vetoed": false,

@@ -10,7 +10,6 @@
 - **T-67** RE: POLIZA : 5 - 201 - M - 46169 REPORTE 5-201-2025-R-101 SERIE WMWX9108KTF04806//MINI COOPER MODELO 2003 COLOR ROJO PLA
 - **T-68** RE: Concentrado Driverdo Septiembre 2026
 - **T-70** Re: COTIZACIÓN || CASO EL 5304 || ATOTONILCO,JAL
-- **T-71** RV: Autosur - Draiver
 - **T-72** Cierre de mes – septiembre 2026
 - **T-76** Cierres de mes cuenta continental
 - **T-77** Re: REPSE and digital platforms
