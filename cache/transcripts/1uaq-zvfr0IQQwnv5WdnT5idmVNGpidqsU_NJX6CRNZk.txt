@@ -1,0 +1,41 @@
+Mexico - Back Office - 2026/10/22 16:01 EDT - Notes by Gemini (Spanish)
+oct 22, 2026
+Invitados: Jaqueline Sanches, Juliana Turin, Armando Flores, Rafael Pagliuso De Andrade, Cristhian Herrera, Julia Diaz
+
+Resumen
+Revisión contractual con gestión del IMSS y análisis de licitaciones y cobranza de Cabak
+Subida de contrato y IMSS: Contrato subido a Cloud. Trámite pendiente en el IMSS.
+Cobranza de Cabak y finanzas: Ingreso de pagos recientes por 2800000 pesos. Deuda pendiente de 18000000 pesos.
+Automatización financiera y RAM: Integración de la plataforma RAM. Reducción de la carga de trabajo manual.
+
+Decisiones
+Requiere más debate
+- Evaluación de entidad alterna para requisitos de transporte: Se acordó evaluar la creación de una entidad legal separada o una empresa asociada para cumplir con los requerimientos de REPSE y transporte de licitaciones.
+Acordada
+- Implementación de RAM y facturación masiva: Se acordó ejecutar los proyectos de integración de RAM y facturación masiva para reducir la carga de trabajo en finanzas.
+
+Próximos pasos
+- [Cristhian Herrera] Subir Contrato: Cargar el documento en la plataforma Cloud.
+- [Rafael Pagliuso De Andrade, Julia Diaz] Revisar Altas IMSS: Verificar el estatus actual de los registros de los conductores ante el Instituto Mexicano del Seguro Social.
+- [Cristhian Herrera] Coordinar Reunión: Gestionar el encuentro con Camp para mañana a las 13 horas.
+- [Cristhian Herrera] Distribuir Constancia: Identificar y enviar el documento fiscal actualizado a todos los proveedores pertinentes.
+- [Cristhian Herrera] Presentar Michael: Introducir al nuevo responsable de pagos y facturación ante el equipo.
+
+Detalles
+Subida de contrato a Cloud y estatus de alta de personas: Cristhian Herrera se compromete a subir el contrato a Cloud el mismo día. El grupo de personas ya está dado de alta desde el 2 de septiembre; sólo falta el trámite en el IMSS para actualizar la fecha, que Cristhian gestiona con Abraham usando los comprobantes de retención.
+
+Gestión del IMSS para conductores y definición de alcances con Camp: Armando Flores expone la preocupación sobre el alta y baja mensual de conductores en el IMSS según montos acumulados (threshold). Rafael y Armando sugieren que Camp se encargue de todo; Cristhian aclara que Camp sólo hace cálculos, retenciones y pagos, no gestiones presenciales. Cristhian solicitará reunión con Carlos Muñoz (Camp) para clarificar alcance; Armando debe estar en esa primera reunión.
+
+Actualización de constancias de situación fiscal para proveedores: Armando advierte que el cambio de datos fiscales en el SAT bloquea la emisión de facturas de proveedores sin constancia actualizada. Armando la compartió con placas de traslado, Continental (daño) y Sura; Cristhian revisará el resto de proveedores.
+
+Incorporación de Michael para finanzas en México y Brasil: Michael reemplaza a Regie; responsable de pagos, conciliaciones y facturación en México y Brasil. Se integrará a la reunión con Camp.
+
+Rechazo de licitación de Ford y análisis de requisitos contractuales: Armando declinó un RFP de Ford por plazos y por conflicto con el objeto REPSE (Ford exigía conductores empleados directos). Rafael y Armando discuten la exigencia de employers liability y pólizas grandes; evaluar otra entidad o socio para futuras licitaciones, y posiblemente una junta con Ford para entender qué necesitan.
+
+Amenazas a conductor y control de fraude de combustible: Uriel recibe nuevas amenazas de un ex conductor que busca su dirección a través de otros compañeros; revisar el caso. El equipo de monitoreo de fraude de combustible llega a conclusiones precipitadas; Julia y Armando implementan un filtro para evitar desactivaciones innecesarias.
+
+Estatus de cobranza, pagos recientes y morosidad de Cabak: Julia tiene reunión con Marcelo. Cabak pagó ~2.8 millones de pesos; deuda pendiente ~18 millones. Se propone weekly para estabilizar cobranza y facturación con Cabak. Armando menciona que ya se perdió un cliente pequeño por falta de respuesta de Marcelo en facturación y no quiere perder a Ford por eso.
+
+Proyectos de automatización financiera: Michael (perfil finance+tech) y proyectos con Marcelo para reducir 50% de carga manual: integración RAM y facturación masiva. Problema en la integración con Uber que obliga asignación manual de viajes en México y Brasil; riesgo de no facturar a clientes.
+
+Coordinación de reunión con Camp: Junta con Carlos Muñoz (Camp) al día siguiente a la 1 pm con Michael. Julia enviará base de datos de conductores con regímenes fiscales para Camp. Armando estará fuera la siguiente semana.

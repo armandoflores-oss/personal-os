@@ -1,28 +1,27 @@
 Diaria Spain Launch - 2026/10/20 08:35 CST - Notes by Gemini
+oct 20, 2026
 Invitados: Daniel Escribano, Armando Flores, Artur Morais
 
 Resumen
-Revisión de errores del sistema y configuraciones con debate sobre notificaciones.
+Revisión de errores del sistema y configuraciones con debate sobre notificaciones
 Errores y cuentas configuradas: Corrección de cotizaciones y solución de errores al guardar ubicaciones.
 Automatización de seguros: Implementación de emisión automática de pólizas ligada a la recogida.
 Debate sobre notificaciones: Discusión sobre el envío de correos en tiempo real.
 
 Decisiones
 Acordada
-- Integración de cuentas para Autocaravanas Norte: Se establece alojar a Autocaravanas Norte como cuenta hija dentro de la cuenta general de Flexicar manteniendo configuraciones de precios diferenciadas.
-- Condición de emisión para seguros de viaje: La emisión del seguro de viaje se realiza únicamente al momento en que el conductor efectúa la recogida para evitar costos por cancelaciones.
-- Flexibilidad en notificaciones por correo electrónico: Se acuerda implementar preferencias de notificación configurables para que los clientes puedan elegir recibir o no las alertas por correo en tiempo real.
+- Integración de cuentas para Autocaravanas Norte: Alojar a Autocaravanas Norte como cuenta hija dentro de la cuenta general de Flexicar manteniendo configuraciones de precios diferenciadas.
+- Condición de emisión para seguros de viaje: La emisión del seguro de viaje se realiza únicamente al momento de la recogida para evitar costos por cancelaciones.
+- Flexibilidad en notificaciones por correo electrónico: Implementar preferencias de notificación configurables para que los clientes elijan recibir o no alertas por correo en tiempo real.
 
 Próximos pasos
 - [Artur Morais] Añadir campo matrícula: Solicitar a Bruno la inclusión de un campo específico para la matrícula en los detalles del viaje.
 - [Daniel Escribano] Obtener datos conductor: Contactar al conductor sin validar (línea 133) para solicitar nombre completo, apellidos, DNI y número de teléfono.
 
 Detalles
-Errores de guardado de ubicación y corrección de cotizaciones: Daniel Escribano señaló que al guardar una ubicación se genera un error que obliga a repetir el movimiento. Artur Morais explicó que las cotizaciones no aparecían en la cuenta maestra porque las cuentas hijas se configuraban individualmente; ya corregido, y la cuenta general de Autocaravanas Norte ya está conectada vía ETC.
-Estructura de cuentas de Flexicar y Autocaravanas Norte: Se usará una sola cuenta general de Flexicar con múltiples cuentas hijas, con precios y facturación distintos, para evitar problemas con identificadores en Salesforce. Eder no desea que Autocaravanas Norte vea lo de Flexicar; la visibilidad se restringe con permisos al crear usuarios en la cuenta hija.
-Automatización y emisión de seguros: La emisión de seguros ya está automatizada con valores predeterminados y un canal de Slack para monitorear éxito/errores. Daniel se preocupó porque una póliza reciente no llegó por correo; los clientes nuevos piden copias. Artur aclaró que el correo de la póliza siempre irá a conductores@ y que el seguro solo se emite en la recogida. Armando cuestionó la efectividad del flujo por experiencias previas ("¿cómo sabemos que ya funciona?"); Artur dijo que el equipo técnico garantiza que está operativo y que dará seguimiento cercano a los viajes del día siguiente con casos reales.
-Base de datos de conductores: 159 conductores activos, 214 registros pendientes de revisión, 875 en fase inicial (~800 reales tras duplicados). Perfiles omitidos por documentos caducados (DNI, antecedentes penales, baja de autónomos). Daniel enviará correo al conductor sin datos de contacto.
-Matrícula en detalles del viaje: Hoy se puede poner en notas; Artur pedirá a Bruno un campo específico. Daniel insistió en que es indispensable porque las campas llaman antes para pedirla. El problema del campo de documentos para conductores se resolverá al final de la semana.
-Debate sobre notificaciones por correo: Artur propuso un resumen diario mañana/tarde o usar el Command Center. Daniel prefiere correos en tiempo real (asignar, iniciar, finalizar) para clientes pequeños y medianos. Armando cuestionó la utilidad para clientes de alto volumen (sus clientes lo rechazarían). Se acordó que las notificaciones sean opcionales por cliente. La discusión terminó por otra reunión.
-
-[Transcripción literal omitida en este depósito; disponible en el doc de Drive.]
+Errores de guardado de ubicación y cotizaciones: Guardar ubicación genera error y obliga a repetir el movimiento. Cotizaciones no aparecían en cuenta maestra; ya corregido. Autocaravanas Norte conectada vía ETC.
+Estructura de cuentas Flexicar y Autocaravanas Norte: una cuenta general con hijas, precios y facturación distintos; visibilidad restringida por permisos de usuario (Eder no quiere que Autocaravanas Norte vea lo de Flexicar).
+Automatización de seguros: emisión automatizada con valores default, canal de Slack para monitorear éxito/errores. Póliza manual reciente no llegó por correo; el correo de póliza siempre irá a conductores@. Seguro sólo se emite en el pickup. Armando cuestionó cómo se sabe que funciona; Artur dio seguimiento a viajes del día siguiente.
+Base de conductores: 159 activos, 214 pendientes de revisión, 875 en fase inicial (~800 reales). Omitidos por DNI caducado, antecedentes penales o baja de autónomos.
+Matrícula en detalles del viaje: hoy en notas; se pedirá a Bruno un campo específico. Dani: indispensable porque las campas llaman antes. Campo para agregar documentos por conductores se corrige al final de la semana.
+Notificaciones por correo: Artur propone resumen diario o Command Center; Dani prefiere correos en tiempo real (asignación, inicio, fin) para pymes; Armando cuestiona utilidad para clientes de alto volumen. Se propone que sean opcionales por cliente. Discusión cortada por otra reunión.

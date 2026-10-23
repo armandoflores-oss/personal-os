@@ -1,4 +1,5 @@
 Diaria Spain Launch - 2026/10/22 08:32 CST - Notes by Gemini
+oct 22, 2026
 Invitados: Daniel Escribano, Armando Flores, Artur Morais
 
 Resumen
@@ -21,12 +22,10 @@ Próximos pasos
 - [Artur Morais] Invitar a comer: Proponer a Jesús una comida informal con los chóferes previa a la reunión presencial.
 
 Detalles
-Formación presencial en Madrid: Artur Morais informó que existen dificultades con algunos conductores y programó una sesión de formación presencial en Madrid para el jueves a las 5 de la tarde, notificando previamente a Jesús sobre la visita.
-Logística de vuelos para el viaje a Madrid: Artur Morais detalló los planes de viaje indicando que su vuelo despegará a las 8:15, saliendo de Clickars pasadas las 6 para llegar al aeropuerto de Barajas alrededor de las 7. Armando Flores comentó que los trámites aeroportuarios en España son bastante ágiles.
-Revisiones de la aplicación y validación de documentos: Artur Morais explicó que se encuentra revisando las actualizaciones de la aplicación con el equipo y validando el flujo de registro, lo cual incluye probar la función de vales para fotos y documentos, además de crear un flujo para auditar dichos documentos en lugar de solo archivar formularios. Artur Morais señaló que sigue esperando actualizaciones del equipo técnico sobre los correos automatizados, ante lo cual Armando Flores sugirió evaluar el uso de WhatsApp como canal alternativo.
-Desarrollo del sistema de notificaciones: Artur Morais aclaró que la función de notificaciones en la configuración de cuentas presenta un problema intermedio, y que este mismo desarrollo se empleará para integrar Slack en Clickars. Se definieron cuatro activadores: recogida (pickup), entrega (drop-off), viaje en curso (trip in progress) y problemas (issues), acordando priorizar inicialmente recogida y entrega para señalizar a los clientes.
-Integración de la base de conocimientos de IA: Juliana, del equipo de Tiago, informó que las bases de conocimientos de IA están prácticamente listas. Artur Morais propuso una junta conjunta con Dani para repasar las especificidades operativas de España e incluir a Juliana; Armando Flores accedió.
-Propuesta de tareas operativas y seguimiento de paneles con Moa: Armando Flores solicitó estructurar un plan claro que defina las responsabilidades de cada participante. Artur Morais acordó preparar una propuesta preliminar con tareas mínimas (auditoría de documentos, respuesta a tickets, validación de facturas y recibos de combustible) y medir el volumen actual de viajes semanales. Artur envió un recordatorio a Moa sobre paneles y conexiones MCP, tras dos semanas sin respuesta.
-Planificación de agenda y encuentro con conductores en Madrid: Armando Flores confirmó que saldrá de viaje el domingo para llegar el lunes. Sugirió organizar un almuerzo informal antes de la formación e invitar a los conductores; Artur acordó proponérselo a Jesús.
-
-[Transcripción literal omitida en este depósito; disponible en el doc de Drive.]
+Formación presencial en Madrid: Artur Morais informó dificultades con algunos conductores y programó una formación presencial en Madrid el jueves a las 5 de la tarde, avisando a Jesús.
+Logística de vuelos: Vuelo de Artur a las 8:15, saliendo de Clickars pasadas las 6 hacia Barajas.
+Revisiones de la aplicación y validación de documentos: Artur revisa actualizaciones de la app, flujo de registro, función vouched para fotos y documentos, y creará flujo para auditar documentos. Sigue esperando al equipo técnico sobre correos automatizados; Armando sugirió WhatsApp como alternativa.
+Desarrollo del sistema de notificaciones: Problema intermedio en la función de notificaciones; el mismo desarrollo servirá para integrar Slack en Clickars. Cuatro activadores: pickup, drop-off, trip in progress, issues; priorizar pickup y entrega.
+Base de conocimientos de IA: Juliana (equipo de Tiago) tiene las knowledge bases casi listas; se incluirá en la junta de soporte con Dani.
+Propuesta de tareas operativas y paneles con Moa: Armando pidió un plan claro con responsabilidades. Artur preparará propuesta con tareas mínimas (auditoría de documentos, tickets, validación de facturas y recibos de combustible) y volumen semanal de viajes. Artur envió recordatorio a Moa (dashboards, MCP) tras dos semanas sin respuesta.
+Agenda en Madrid: Armando sale el domingo y llega el lunes. Sugirió comida informal con Jesús y los chóferes antes de la formación.

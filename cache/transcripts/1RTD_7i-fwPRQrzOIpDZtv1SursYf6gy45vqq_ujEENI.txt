@@ -1,4 +1,5 @@
 Weekly Kavak / Draiver Leaders - 2026/10/20 11:00 CST - Notes by Gemini
+oct 20, 2026
 Invitados: Fede Ranero, Julia Diaz, Armando Flores, josue.luevano@kavak.com, Gerardo Acosta, Diego Diaz, aristides.calvani@kavak.com
 
 Resumen
@@ -10,26 +11,26 @@ Indicadores y pagos financieros: Rendimiento operativo evaluado con almacenamien
 Decisiones
 Acordada
 - Estrategia de traslado vehicular desde Monterrey: Iniciar el abastecimiento de vehículos desde Monterrey con conductores y placas de traslado, incorporando madrinas de forma fija si el volumen lo justifica.
-- Protocolo de recepción en el centro Herma: Designar al centro Herma como hub exclusivo para recepción de madrinas, con protocolo de descarga y recolección inmediata.
+- Protocolo de recepción en el centro Herma: Designar al centro Herma como hub exclusivo para la recepción de madrinas, con protocolo de descarga y recolección inmediata.
 - Calendario de pagos y facturación pendiente: Liquidar los pagos pendientes de junio a septiembre antes del 31 de octubre y evaluar pagos quincenales a partir de la primera quincena de octubre.
 
 Próximos pasos
 - [Armando Flores] Planear expansión: Crear un plan y una presentación detallada para la expansión de Monterrey y Querétaro y compartirla con el equipo.
 - [Armando Flores, Julia Diaz] Analizar madrinas: Evaluar la logística y viabilidad de implementar madrinas para las rutas de transporte fijo.
-- [Josue Vader Luevano Medina] Gestionar accesos: Proporcionar la lista de los tres usuarios con problemas de acceso a canales de Slack para que Arístides Calvani lo revise con ciberseguridad.
-- [Arístides Calvani] Gestionar pagos: Pedir a finanzas priorizar pagos de junio y julio, gestionar agosto hoy y septiembre el próximo viernes.
-- [Gerardo Acosta Romero] Revisar cancelaciones: Verificar cómo se visualizan las cancelaciones en el sistema tras los cambios del domingo.
-- [Josue Vader Luevano Medina] Crear dashboard: Desarrollar hoy un panel conectado a la API para monitorear métricas de Minerva.
+- [Josue Vader Luevano Medina] Gestionar accesos: Proporcionar la lista de los tres usuarios con problemas de acceso a canales de Slack para que Arístides Calvani los revise con ciberseguridad.
+- [Arístides Calvani] Gestionar pagos: Solicitar a finanzas priorizar pagos de junio y julio, gestionar los de agosto hoy y atender los de septiembre el próximo viernes.
+- [Gerardo Acosta Romero] Revisar cancelaciones: Verificar cómo se visualizan las cancelaciones en el sistema después de los cambios del domingo.
+- [Josue Vader Luevano Medina] Crear dashboard: Desarrollar hoy un panel conectado a la API para monitorear las métricas de la aplicación Minerva.
 
 Detalles
-Planes de apertura y campañas preventivas: El plan de aperturas del equipo de Villa mantiene lo activado; reforzar Puebla y Monterrey; campañas preventivas activadas con agencias o locatarios. Arístides: costo bajo, se activan según se requiera.
-Abastecimiento desde Monterrey y Querétaro: Arístides propuso impulsar compras desde MTY y QRO hacia CDMX con mejores precios. Armando recordó proyecto previo de 120 vehículos/mes desde Monterrey; se evaluarán placas de traslado y logística según volumen.
-Opciones logísticas de alto volumen: Armando planteó madrinas con renta fija mensual y chofer en vez de conductores individuales o autobuses. Se evaluó asistir a la Expo de Logística en noviembre; Armando señaló costos de entrada elevados.
-Capacidad de Lerma (Herma 5): Algo más de espacio que Fashion Drive; flujo de descarga inmediata similar al de Tesla.
-Demanda y cancelaciones: Demanda +18% en la semana; cancelaciones se duplicaron por viajes en pool no tomados; concentradas en Monterrey por ~100 servicios logísticos imprevistos a taller.
-Tarifas Monterrey: Proponer subir de 70 a 90 pesos/hora en área metropolitana; ya hay conductores fijos y nuevos operadores.
-Minerva: El nuevo sistema (arranca al día siguiente) registrará como cancelación cada fallo operativo reportado sin motivo; seguimiento diario y subclasificación manual.
-Domingo: 145 movimientos (+45% vs domingo previo), +10% operadores activos, por rutas publicadas el sábado, confirmación de asistencia y seguimiento de Gerardo.
-Accesos Slack: Tres integrantes sin acceso a canales con nuevas cuentas corporativas; Arístides lo gestiona con ciberseguridad.
-Indicadores: Almacenamiento ~90%; movimientos a HQ >80% en <24h; interestatales 100% en <50% del tiempo (MTY-CDMX de 14 a 7 días); TAS local QRO/MTY 76% en <24h.
-Pagos: Junio y julio priorizados esta semana, agosto el mismo día, septiembre el viernes; órdenes de compra la próxima semana para cubrir todo antes del 31 de octubre; evaluar adelantar quincenales desde octubre.
+Planes de apertura y campañas preventivas: El plan de aperturas del equipo de Villa mantiene lo activado; reforzar Puebla y Monterrey; campañas preventivas activadas con agencias o locatarios.
+Abastecimiento desde Monterrey y Querétaro: Arístides propone mejores precios de compra para atraer volumen a CDMX. Armando recordó proyecto previo de 120 vehículos mensuales desde Monterrey; evaluar placas de traslado y logística.
+Opciones logísticas de alto volumen: Armando plantea madrinas con renta fija mensual y chófer. Se evaluó asistir a la Expo de Logística en noviembre; Armando señaló costos de entrada elevados.
+Capacidad del centro de Lerma: Lerma (Herma 5) tiene un poco más de espacio que Fashion Drive; flujo de descarga inmediata similar a Tesla.
+Demanda semanal +18% y cancelaciones duplicadas, concentradas en Monterrey por ~100 servicios logísticos imprevistos a taller.
+Tarifas en Monterrey: proponer subir de 70 a 90 pesos por hora en el área metropolitana.
+Minerva: entra en operación al día siguiente; registrará como cancelación cada fallo reportado sin motivo; seguimiento diario y subclasificación manual.
+Domingo: 145 movimientos, +45% vs domingo previo, +10% operadores activos.
+Accesos Slack: tres integrantes sin acceso a canales con nuevas cuentas corporativas.
+Indicadores: almacenamiento cerca del 90%; movimientos a HQ >80% en <24h; interestatales 100% en <50% del tiempo (Monterrey-CDMX de 14 a 7 días); TAS local Querétaro y Monterrey 76% en <24h.
+Pagos: junio y julio priorizados esa semana, agosto el mismo día, septiembre el viernes; órdenes de compra la próxima semana para cubrir todo antes del 31 de octubre; evaluar pagos quincenales desde octubre.
