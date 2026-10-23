@@ -21,3 +21,5 @@
 {"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-10-22T21:46:40+00:00"}
 {"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-10-22T23:45:39+00:00"}
 {"cambiadas": 0, "cards": 118, "huerfanas": 0, "leg": "tejido", "ts": "2026-10-22T23:45:55+00:00"}
+{"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-10-22T23:45:57+00:00"}
+{"fecha": "2026-10-22", "leg": "tendencia", "retiro": {"dias": 7, "estado": "juntando_datos", "faltan": 14}, "ts": "2026-10-23T00:16:48+00:00"}

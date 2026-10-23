@@ -1917,3 +1917,23 @@
 {"detail": "", "item_id": "1a1652e7f989a236", "reason": "sin_compromiso", "source": "gmail", "subject": "COMPROBANTE DE RETIRO SPEI No.: 135489301", "ts": "2026-10-22T21:46:36+00:00"}
 {"detail": "", "item_id": "1a1652e05f5584f1", "reason": "sin_compromiso", "source": "gmail", "subject": "Sesión de Alineación Operativa Driver-Edenred", "ts": "2026-10-22T21:46:36+00:00"}
 {"detail": "", "item_id": "1a1652a1d6fdece9", "reason": "sin_compromiso", "source": "gmail", "subject": "Funds transfer remittance advice", "ts": "2026-10-22T21:46:36+00:00"}
+{"detail": "^\\s*declined:", "item_id": "1a16938cd561b3a2", "reason": "meta", "source": "gmail", "subject": "Declined: Diaria Spain Launch @ Thu Oct 29, 2026 8:30am - 9:30am (CST) (Armando Flores)", "ts": "2026-10-23T14:47:44+00:00"}
+{"detail": "^\\s*declined:", "item_id": "1a1693857770f919", "reason": "meta", "source": "gmail", "subject": "Declined: Diaria Spain Launch @ Wed Oct 28, 2026 8:30am - 9:30am (CST) (Armando Flores)", "ts": "2026-10-23T14:47:44+00:00"}
+{"detail": "", "item_id": "1a169267baa06902", "reason": "sin_compromiso", "source": "gmail", "subject": "Notes: “Back office Spain” Oct 23, 2026", "ts": "2026-10-23T14:47:44+00:00"}
+{"detail": "", "item_id": "1a1692673f9a7a32", "reason": "sin_compromiso", "source": "gmail", "subject": "Order Confirmation for Madrid Autonomous Mobility Summit 2026 (MAMS)", "ts": "2026-10-23T14:47:44+00:00"}
+{"detail": "", "item_id": "1a1692370b24d3a5", "reason": "sin_compromiso", "source": "gmail", "subject": "Payment received", "ts": "2026-10-23T14:47:44+00:00"}
+{"detail": "", "item_id": "1a16922fc909f4e3", "reason": "sin_compromiso", "source": "gmail", "subject": "One Time Passcode for 3D Secure", "ts": "2026-10-23T14:47:44+00:00"}
+{"detail": "", "item_id": "1a1692788509b3a8", "reason": "sin_compromiso", "source": "gmail", "subject": "One Time Passcode for 3D Secure", "ts": "2026-10-23T14:47:44+00:00"}
+{"detail": "", "item_id": "1a16914267460d82", "reason": "sin_compromiso", "source": "gmail", "subject": "INVENTARIO DE UNIDADES FORD EN PATIO BARRAGÁN 23-10-2026", "ts": "2026-10-23T14:47:44+00:00"}
+{"detail": "^\\s*accepted:", "item_id": "1a16908c8b660a7c", "reason": "meta", "source": "gmail", "subject": "Accepted: Sesión técnica integración Mendel <> DriverDo @ Wed Oct 28, 2026 11am - 12pm (CST) (armando.flores@driverdo.co", "ts": "2026-10-23T14:47:44+00:00"}
+{"detail": "", "item_id": "1a168a2065fafd03", "reason": "sin_compromiso", "source": "gmail", "subject": "[Data]  Yesterday Trip Source Creation", "ts": "2026-10-23T14:47:44+00:00"}
+{"detail": "", "item_id": "1a1688d2cec721cf", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: ¡Nos vemos en MAMS2026! 😉 Madrid Autonomous Mobility Summit 2026", "ts": "2026-10-23T14:47:44+00:00"}
+{"detail": "", "item_id": "1a168bc9e9415f09", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: ¡Nos vemos en MAMS2026! 😉 Madrid Autonomous Mobility Summit 2026", "ts": "2026-10-23T14:47:44+00:00"}
+{"detail": "", "item_id": "1a168cc2bcc1cee4", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: ¡Nos vemos en MAMS2026! 😉 Madrid Autonomous Mobility Summit 2026", "ts": "2026-10-23T14:47:44+00:00"}
+{"detail": "", "item_id": "1a16802c93c73186", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Seguro conductores y RC", "ts": "2026-10-23T14:47:44+00:00"}
+{"detail": "", "item_id": "1a1675e4a730a6e1", "reason": "sin_compromiso", "source": "gmail", "subject": "You have a message from Holiday Inn Express Madrid-San Sebastian de los Reyes by IHG", "ts": "2026-10-23T14:47:44+00:00"}
+{"detail": "", "item_id": "1a16707251b04f9e", "reason": "sin_compromiso", "source": "gmail", "subject": "Explora a xxxtentacion, nizafernanda2 y otras personas en tu feed", "ts": "2026-10-23T14:47:44+00:00"}
+{"detail": "", "item_id": "1a16688a647ac355", "reason": "sin_compromiso", "source": "gmail", "subject": "Your past customers are your easiest sale", "ts": "2026-10-23T14:47:44+00:00"}
+{"detail": "^\\s*invitation:", "item_id": "1a1660d6b16483dc", "reason": "meta", "source": "gmail", "subject": "Invitation: Onboarding Camb Mx @ Tue Oct 27, 2026 9am - 10am (CST) (Armando Flores)", "ts": "2026-10-23T14:47:44+00:00"}
+{"detail": "^\\s*canceled event\\b", "item_id": "1a1660c576b5854e", "reason": "meta", "source": "gmail", "subject": "Canceled event: Onboarding Camb Mexico @ Fri Oct 23, 2026 1pm - 2pm (CST) (Armando Flores)", "ts": "2026-10-23T14:47:44+00:00"}
+{"action": "enviar", "counterparty": "element", "detail": "ya abierto en T-64", "item_id": "1a166099f1e05a71", "reason": "duplicado", "source": "gmail", "subject": "Re: Entregas 17 a  23 de octubre", "ts": "2026-10-23T14:47:44+00:00"}
