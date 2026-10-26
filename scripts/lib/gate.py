@@ -76,6 +76,75 @@ EXPLORATORY_MARKERS = [
     r"\bexploring\b", r"\bbrainstorm\b",
 ]
 
+# 4. A client or prospect asking Armando something is a task even when nobody
+#    wrote a promise. Without this gate the Borusan thread was suppressed three
+#    times as sin_compromiso (sep 2026) and the drop in created tasks from
+#    week 40 on came from the same hole: a client's question is not a
+#    commitment, so only Draiver's own promises ever became tasks.
+#    Rules it honours (memory/rules/correo-pendiente-*.md): it only counts if
+#    it asks Armando, not the team.
+OWN_DOMAINS = ("driverdo.com", "draiver.com")
+GENERIC_DOMAINS = ("gmail.com", "hotmail.com", "outlook.com", "live.com", "live.com.mx",
+                   "yahoo.com", "yahoo.com.mx", "icloud.com")
+AUTOMATED_SENDER = re.compile(
+    r"^(no-?reply|do-?not-?reply|notifica\w*|notification\w*|alerts?|news\w*|"
+    r"marketing|mailer\w*|bounce\w*|info|hello|support|soporte|calendar\w*|"
+    r"drive-shares\w*|billing|receipts?|team)\b")
+AUTOMATED_SUBJECT = [r"\brecibo\b", r"\breceipt\b", r"\bpayment confirmation\b",
+                     r"\bpedido\b", r"\border\b", r"\bnewsletter\b", r"\bunsubscribe\b",
+                     r"\bwebinar\b", r"\bnotes by gemini\b"]
+REQUEST_PATTERNS = [
+    r"\b(nos|me) (puedes|podrias|pueden|podrian|ayudas|ayudarias)\b",
+    r"\bpodrias\b", r"\bpodrian\b", r"\bfavor de\b", r"\bte pido\b", r"\ble pido\b",
+    r"\bagradecere\w*\b", r"\bagradeceria\w*\b", r"\bsolicit(o|amos)\b",
+    r"\b(necesitamos|requerimos) (que|tu|su|de)\b",
+    r"\b(quedo|quedamos) (atent[oa]s?|pendientes?) (a|de) (tu|su|vuestra) "
+    r"(respuesta|propuesta|confirmacion|comentarios|cotizacion|retroalimentacion)\b",
+    r"\ben espera de (tu|su|vuestra)\b",
+    r"\b(esperamos|espero) (tu|su|vuestra) (respuesta|propuesta|confirmacion|comentarios|cotizacion)\b",
+    r"\b(could|can|would) you\b", r"\blet (me|us) know\b", r"\bplease (send|share|confirm|advise|review|let)\b",
+    r"\blooking forward to (your|hearing)\b", r"\bawaiting your\b", r"\bwe need your\b",
+]
+GREETING_QUESTION = re.compile(r"\b(como (estas|estan|esta|te va|les va)|how are you|que tal)\b")
+
+
+def _external_sender(sender: str) -> bool:
+    if "@" not in sender:
+        return False
+    local, dom = sender.lower().split("@", 1)
+    return (dom not in OWN_DOMAINS and dom not in GENERIC_DOMAINS
+            and not AUTOMATED_SENDER.match(local))
+
+
+def _asks_armando(item: dict, text: str) -> bool:
+    """The ask is his if he is a recipient AND either the only Draiver one or
+    named in the opening of the body. A question to a team list is the team's."""
+    recips = [r.lower() for r in item.get("recipients") or []]
+    if not any("armando" in r.split("@")[0] for r in recips):
+        return False
+    internal = [r for r in recips if r.split("@")[-1] in OWN_DOMAINS]
+    return len(internal) <= 1 or "armando" in norm(item.get("text", ""))[:300]
+
+
+def client_request(item: dict):
+    """The sentence where an outside party asks Armando for something, or None."""
+    if not _external_sender(item.get("sender", "")):
+        return None
+    if _hits(norm(item.get("subject", "")), AUTOMATED_SUBJECT):
+        return None
+    if not _asks_armando(item, item.get("text", "")):
+        return None
+    for s in sentences(item.get("text", "")):
+        n = norm(s)
+        if _hits(n, EXPLORATORY_MARKERS):
+            continue   # a floated idea stays a floated idea, even from a client
+        if _hits(n, REQUEST_PATTERNS):
+            return s
+        if "?" in s and len(s.split()) >= 4 and not GREETING_QUESTION.search(n):
+            return s
+    return None
+
+
 CLIENTS = ["kavak", "clicars", "uber", "element", "tesla", "ford", "cemex",
            "vemo", "tip", "draiver", "driverdo"]
 
@@ -170,6 +239,17 @@ def evaluate(item: dict) -> dict:
 
     commit_sentences = [s for s in sentences(text) if _hits(norm(s), COMMITMENT_PATTERNS)]
     if not commit_sentences:
+        ask = client_request(item)
+        if ask:
+            action = extract_action(ask)
+            return {
+                "accept": True,
+                "reason": "cliente_espera_respuesta",
+                "sentence": ask[:200],
+                "action": action if action != "otro" else "responder",
+                "counterparty": extract_counterparty(text, item.get("sender", ""), item.get("recipients")),
+                "domain": classify_domain(text, item.get("sender", "")),
+            }
         # Distinguish "nothing was promised" from "something was floated".
         hedges = _hits(t, EXPLORATORY_MARKERS)
         if hedges:

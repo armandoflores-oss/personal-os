@@ -62,6 +62,59 @@ class OnlyExplicitCommitments(unittest.TestCase):
         self.assertEqual(v["domain"], "operacion-kavak")
 
 
+class ClientAsksArmando(unittest.TestCase):
+    """Gate 4: a client or prospect asking Armando something is a task even
+    without a promise. Borusan was suppressed three times for lack of this."""
+
+    def test_prospect_asking_armando_is_accepted(self):
+        for text, sender in [
+            ("Hi Armando, thanks for the call. Could you share the pricing for the Monterrey lanes?",
+             "mehmet.yilmaz@borusan.com"),
+            ("Armando, adjunto los resultados del piloto. Quedamos atentos a su propuesta comercial.",
+             "direccion@grupoautosur.com"),
+            ("Buen día. ¿Cuándo nos confirman los conductores de Mérida?",
+             "logistica@cliente-nuevo.mx"),
+        ]:
+            v = gate.evaluate(item(text, subject="Re: Borusan / Draiver", sender=sender))
+            self.assertTrue(v["accept"], text)
+            self.assertEqual(v["reason"], "cliente_espera_respuesta", text)
+
+    def test_counterparty_is_the_prospect(self):
+        v = gate.evaluate(item("Could you send us the proposal by email?",
+                               sender="mehmet.yilmaz@borusan.com"))
+        self.assertEqual(v["counterparty"], "borusan")
+        self.assertEqual(v["action"], "enviar")
+
+    def test_question_to_the_team_is_not_armandos(self):
+        # Tesla dispatch threads go to the whole ops list; the ask is theirs.
+        team = ["armando.flores@driverdo.com", "uriel.vargas@driverdo.com",
+                "julia.diaz@draiver.com", "jose.duran@driverdo.com"]
+        v = gate.evaluate(item("Can you confirm the drivers for tomorrow's dispatch?",
+                               sender="dispatch@tesla.com", recipients=team))
+        self.assertFalse(v["accept"])
+        v = gate.evaluate(item("Armando, can you confirm the drivers for tomorrow?",
+                               sender="dispatch@tesla.com", recipients=team))
+        self.assertTrue(v["accept"])
+
+    def test_noise_stays_out(self):
+        cases = [
+            ("Your weekly recommendations are ready. Could you rate them?", "noreply@linkedin.com", ""),
+            ("Tu recibo está disponible. ¿Tienes dudas sobre tu viaje?", "uber.mexico@uber.com", "Tu recibo #R59"),
+            ("¿Cómo estás? Saludos a todos por allá.", "amigo@gmail.com", ""),
+            ("Hola Armando, ¿cómo estás?", "ana@cliente.com", ""),
+            ("Gracias, quedo atento.", "ana@cliente.com", ""),
+            ("Maybe we could look at Q1 together, what do you think?", "ana@cliente.com", ""),
+        ]
+        for text, sender, subject in cases:
+            v = gate.evaluate(item(text, subject=subject, sender=sender))
+            self.assertFalse(v["accept"], text)
+
+    def test_internal_sender_never_uses_this_gate(self):
+        v = gate.evaluate(item("¿Me ayudas a revisar la tarifa de Cemex?",
+                               sender="julia.diaz@draiver.com"))
+        self.assertFalse(v["accept"])
+
+
 class DedupeAtCreation(unittest.TestCase):
     def test_same_action_same_counterparty_suppressed(self):
         open_tasks = [{"status": "open", "archived": False, "code": "T-7",
