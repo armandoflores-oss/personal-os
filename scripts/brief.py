@@ -132,31 +132,98 @@ def calendar_today(now):
     return sorted(json.loads(f.read_text()), key=lambda e: e.get("start", "99:99"))
 
 
-def prep_notes(event) -> list:
-    """Qué dice la wiki sobre esta junta: gente, organizaciones, reglas.
+# Dominios de correo que no dicen nada de la organización del asistente.
+OWN_MAIL = {"draiver.com", "driverdo.com"}
+GENERIC_MAIL = {"gmail.com", "hotmail.com", "outlook.com", "live.com", "live.com.mx",
+                "yahoo.com", "yahoo.com.mx", "icloud.com"}
+PREP_MAX = 4
 
-    Usa el MISMO buscador que `consultar.py`, para que la preparación de una
-    junta y la consulta previa a redactar no den respuestas distintas sobre los
-    mismos hechos. Las reglas salen primero: son restricciones, no color.
+
+def _person_card(email):
+    """La ficha de people/ de este correo, por slug nombre-apellido. Nunca por
+    parecido: una ficha de otra persona es peor que ninguna."""
+    slug = email.split("@")[0].lower().replace(".", "-").replace("_", "-")
+    f = constants.MEMORY_ROOT / "people" / f"{slug}.md"
+    return f if f.exists() else None
+
+
+def _card_title(card):
+    m = re.search(r"^titulo:\s*(.+)$", card.read_text(errors="ignore"), re.M)
+    return m.group(1).strip() if m else card.stem.replace("-", " ").title()
+
+
+def _last_fact(card, by_code):
+    """El último renglón de la ficha que siga vigente: si habla de una tarea
+    que ya no está abierta, ya no es un dato útil."""
+    for l in reversed(card.read_text(errors="ignore").split("<!-- weave:inicio")[0].splitlines()):
+        l = l.strip()
+        if not l.startswith("- "):
+            continue
+        codes = re.findall(r"\bT-\d+\b", l)
+        if any(c not in by_code for c in codes):
+            continue
+        l = re.sub(r"\s*—\s*\[\[[^\]]+\]\]\s*$", "", l[2:]).lstrip("— ").strip()
+        l = re.sub(r"\[\[[^\]|]+\|([^\]]+)\]\]", r"\1", l)
+        return re.sub(r"\[\[([^\]]+)\]\]", r"\1", l)
+    return None
+
+
+def _task_line(t):
+    extra = f" · esperando a {t['waiting_on']}" if t.get("waiting_on") else ""
+    return f"{t['code']} {t['title']}{extra}"
+
+
+def prep_notes(event) -> list:
+    """Por cada asistente: su pendiente abierto con Armando, o el último dato
+    útil de su ficha. Nada más.
+
+    Nunca reglas internas del sistema ni gente que no está en la invitación:
+    Armando dijo que eso no le aporta (memory/rules/personas-sistema-pone-juntas.md).
+    Las organizaciones externas salen una vez, por el dominio de su correo.
+    Si no hay nada que decir de alguien, no se dice nada.
     """
-    import subprocess as _sp
-    asistentes = ",".join(a for a in event.get("attendees", []) if "armando" not in a.lower())
-    cmd = [sys.executable, str(constants.REPO_ROOT / "scripts" / "consultar.py"),
-           "--evento", event.get("summary", "")]
-    if asistentes:
-        cmd += ["--asistentes", asistentes]
-    r = _sp.run(cmd, capture_output=True, text=True)
-    hits, seccion = [], ""
-    for linea in r.stdout.splitlines():
-        if linea.startswith("## "):
-            seccion = linea[3:].strip()
-        m = re.match(r"\s*\[([a-z0-9\-]+)\]\s*(.*)", linea)
-        if m:
-            etiqueta = {"REGLAS QUE APLICAN": "regla", "GENTE": "quién",
-                        "QUÉ ESTÁ PASANDO": "abierto", "CONTEXTO": "contexto"}.get(seccion)
-            if etiqueta:
-                hits.append(f"{etiqueta}: [[{m.group(1)}]] {m.group(2)[:70]}")
-    return hits[:3]
+    abiertas = [t for t in open_items() if t["domain"] not in constants.FIREWALLED_DOMAINS]
+    by_code = {t["code"]: t for t in abiertas}
+    notes, used = [], set()
+
+    def tasks_for(*needles, fields):
+        out = []
+        for t in abiertas:
+            if t["code"] in used:
+                continue
+            blob = gate.norm(" ".join(str(t.get(f) or "") for f in fields))
+            if any(re.search(rf"(?<![\w-]){re.escape(gate.norm(n))}(?![\w-])", blob) for n in needles):
+                out.append(t)
+        return out
+
+    seen_orgs = set()
+    for email in event.get("attendees", []):
+        email = email.lower()
+        if "armando" in email.split("@")[0]:
+            continue
+        domain = email.split("@")[-1]
+        card = _person_card(email)
+        if card:
+            name = _card_title(card)
+            first = name.split()[0]
+            # El nombre de pila solo cuenta donde el log guarda personas
+            # (waiting_on, owner); en el texto libre hace falta el nombre completo.
+            hit = (tasks_for(first, name, fields=("waiting_on", "owner"))
+                   or tasks_for(name, fields=("title", "evidence", "counterparty")))
+            if hit:
+                used.add(hit[0]["code"])
+                notes.append(f"{name} — {_task_line(hit[0])}")
+            else:
+                fact = _last_fact(card, by_code)
+                if fact:
+                    notes.append(f"{name} — {fact}")
+        if domain not in OWN_MAIL | GENERIC_MAIL and domain not in seen_orgs:
+            seen_orgs.add(domain)
+            org = domain.split(".")[0]
+            for t in tasks_for(org, fields=("counterparty", "title"))[:1]:
+                used.add(t["code"])
+                notes.append(f"{org.capitalize()} — {_task_line(t)}")
+    return notes[:PREP_MAX]
 
 
 def _prep_notes_viejo(event) -> list:
