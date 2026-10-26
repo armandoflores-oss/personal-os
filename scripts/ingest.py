@@ -101,7 +101,8 @@ def cmd_run(args):
             log_suppression(rec); suppressed.append(rec)
             continue
 
-        dup = gate.is_duplicate(verdict["action"], verdict["counterparty"], index)
+        dup = gate.is_duplicate(verdict["action"], verdict["counterparty"], index,
+                                subject=item.get("subject") or "")
         if dup:
             rec = {"ts": _now(), "source": args.source, "item_id": item.get("id"),
                    "reason": "duplicado", "detail": f"ya abierto en {dup}",
@@ -114,10 +115,12 @@ def cmd_run(args):
             capped += 1
             continue
 
-        # Para un correo el asunto es un buen título. Para una transcripción NO:
-        # "Notes by Gemini" describe el archivo, no lo que hay que hacer.
+        # Para un correo, la acción y con quién, más el asunto limpio: el asunto
+        # solo ("Re: MUSTANG | GRIS CARBONO | 1FA6…") no dice qué hacer y así el
+        # tablero se volvió imposible de cerrar. Para una transcripción, la
+        # frase: "Notes by Gemini" describe el archivo, no lo que hay que hacer.
         if args.source == "gmail":
-            title = (item.get("subject") or verdict["sentence"])[:120]
+            title = gate.task_title(verdict, item) if item.get("subject") else verdict["sentence"][:120]
         else:
             title = verdict["sentence"][:120]
         ev = append_event({
@@ -131,7 +134,7 @@ def cmd_run(args):
         code = ev["payload"]["code"]
         created.append({"code": code, "title": title, "domain": verdict["domain"],
                         "counterparty": verdict["counterparty"], "action": verdict["action"]})
-        index.append({"status": "open", "archived": False, "code": code,
+        index.append({"status": "open", "archived": False, "code": code, "title": title,
                       "action": verdict["action"], "counterparty": verdict["counterparty"]})
 
     # Una marca de agua NUNCA puede quedar en el futuro. Un solo item con un

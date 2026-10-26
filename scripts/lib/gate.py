@@ -273,14 +273,51 @@ def evaluate(item: dict) -> dict:
     }
 
 
-def is_duplicate(action: str, counterparty: str, open_tasks) -> str:
+VERBS = {"enviar": "Enviar", "confirmar": "Confirmar", "cotizar": "Cotizar",
+         "agendar": "Agendar", "revisar": "Revisar", "preparar": "Preparar",
+         "responder": "Responder"}
+REPLY_PREFIX = re.compile(r"^\s*((re|rv|fw|fwd|r)\s*:\s*)+", re.I)
+
+
+def _who(counterparty: str) -> str:
+    if not counterparty or counterparty == "interno":
+        return "el equipo"
+    # Una parte local de correo (diego.diaz) es una persona; lo demás, una marca.
+    if "." in counterparty:
+        return " ".join(w.capitalize() for w in counterparty.split("."))
+    return counterparty.capitalize()
+
+
+def task_title(verdict: dict, item: dict) -> str:
+    """Qué hay que hacer y con quién, no el asunto del correo. El asunto queda
+    al final, limpio de Re:/RV:, porque es lo que se busca en el buzón.
+
+    Si el compromiso es de Armando o un cliente le pide algo, el verbo es suyo.
+    Si el que prometió fue otro, a Armando le toca darle seguimiento."""
+    subject = REPLY_PREFIX.sub("", item.get("subject") or "").strip()
+    who = _who(verdict.get("counterparty", ""))
+    mine = "armando" in (item.get("sender") or "").lower().split("@")[0]
+    if verdict.get("reason") == "cliente_espera_respuesta" or mine:
+        lead = f"{VERBS.get(verdict.get('action'), 'Responder')} a {who}"
+    else:
+        lead = f"Seguimiento con {who}"
+    return f"{lead}: {subject}"[:120] if subject else lead
+
+
+def is_duplicate(action: str, counterparty: str, open_tasks, subject: str = "") -> str:
     """Same action + same counterparty as something already open -> suppress.
+    Also the same thread with the same counterparty, whatever the action: T-34
+    and T-77 were one REPSE thread split by "confirm" vs "send".
     Returns the colliding code, or ''."""
     if not action or not counterparty:
         return ""   # nothing to compare on; absence is not a match
+    thread = norm(REPLY_PREFIX.sub("", subject).strip())
     for t in open_tasks:
         if t.get("status") != "open" or t.get("archived"):
             continue
+        if (len(thread) > 8 and t.get("counterparty") == counterparty
+                and thread in norm(t.get("title") or "")):
+            return t.get("code", "?")
         if not t.get("action") or not t.get("counterparty"):
             continue   # ditto: two unknowns are not each other's duplicate
         if t["action"] == action and t["counterparty"] == counterparty:

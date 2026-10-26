@@ -126,10 +126,37 @@ class DedupeAtCreation(unittest.TestCase):
                        "action": "enviar", "counterparty": "kavak"}]
         self.assertEqual(gate.is_duplicate("enviar", "clicars", open_tasks), "")
 
+    def test_same_thread_other_action_suppressed(self):
+        # T-34 (confirmar) y T-77 (enviar): un solo hilo REPSE con Garrigues.
+        open_tasks = [{"status": "open", "archived": False, "code": "T-34",
+                       "action": "confirmar", "counterparty": "garrigues",
+                       "title": "Seguimiento con Garrigues: REPSE and digital platforms"}]
+        self.assertEqual(gate.is_duplicate("enviar", "garrigues", open_tasks,
+                                           subject="Re: REPSE and digital platforms"), "T-34")
+        self.assertEqual(gate.is_duplicate("enviar", "kavak", open_tasks,
+                                           subject="Re: REPSE and digital platforms"), "")
+
     def test_closed_task_does_not_block(self):
         open_tasks = [{"status": "done", "archived": False, "code": "T-7",
                        "action": "enviar", "counterparty": "kavak"}]
         self.assertEqual(gate.is_duplicate("enviar", "kavak", open_tasks), "")
+
+
+class TitlesSayWhatToDo(unittest.TestCase):
+    def test_client_ask_leads_with_the_verb(self):
+        it = item("Could you send us the proposal?", subject="RE: Borusan / Draiver",
+                  sender="mehmet.yilmaz@borusan.com")
+        self.assertEqual(gate.task_title(gate.evaluate(it), it), "Enviar a Borusan: Borusan / Draiver")
+
+    def test_someone_elses_promise_is_a_follow_up(self):
+        it = item("Les envío la prefactura para que nos apoyen con el pago.",
+                  subject="Re: RANGER | GRIS CARBONO", sender="pagos@zapata.com")
+        self.assertEqual(gate.task_title(gate.evaluate(it), it), "Seguimiento con Zapata: RANGER | GRIS CARBONO")
+
+    def test_armandos_own_promise(self):
+        it = item("Te mando la cotización de Kavak antes del 5.", subject="RV: Cotización CDMX",
+                  sender="armando.flores@driverdo.com", recipients=["ana@kavak.com"])
+        self.assertEqual(gate.task_title(gate.evaluate(it), it), "Enviar a Kavak: Cotización CDMX")
 
 
 class Classification(unittest.TestCase):

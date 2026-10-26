@@ -1,0 +1,211 @@
+{
+ "fecha": "2026-10-26",
+ "abiertas": 19,
+ "candidatos": [
+  {
+   "task_id": "3414689d651a",
+   "code": "T-31",
+   "titulo": "Re: FORD MX -DRAIVER -MEXICO OPERATION 2A",
+   "dominio": "pipeline-estrategico",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 31
+    }
+   ]
+  },
+  {
+   "task_id": "207c6a5f5690",
+   "code": "T-34",
+   "titulo": "Re: REPSE and digital platforms",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 31
+    }
+   ]
+  },
+  {
+   "task_id": "298dd95c5797",
+   "code": "T-49",
+   "titulo": "Dar seguimiento a Borusan (hilo Borusan/Draiver)",
+   "dominio": "grandes-deals",
+   "evidencia": [
+    {
+     "tipo": "armando_lo_dijo",
+     "detalle": "no me pusiste dar seguimiento a borusan Borusan no es ruido: el clasificador suprimió 3 veces el hilo 'Borusan/Draiver' (gmail, 21 y 22 sep 2026) como sin_compromiso y por eso nunc",
+     "tokens": 2
+    },
+    {
+     "tipo": "sin_movimiento",
+     "dias": 27
+    }
+   ]
+  },
+  {
+   "task_id": "a73407884bc6",
+   "code": "T-50",
+   "titulo": "Re: Facturas pendientes de pago",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 33
+    }
+   ]
+  },
+  {
+   "task_id": "4b087a8a484f",
+   "code": "T-51",
+   "titulo": "Re: MUSTANG | GRIS CARBONO | 1FA6P8CF6T5408892",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 27
+    }
+   ]
+  },
+  {
+   "task_id": "73f11825b541",
+   "code": "T-53",
+   "titulo": "Re: RANGER | GRIS CARBONO | AFAHR6MB0VP148872",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 27
+    }
+   ]
+  },
+  {
+   "task_id": "83736b6acee1",
+   "code": "T-64",
+   "titulo": "Propuesta de entrega",
+   "dominio": "pipeline-estrategico",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 27
+    }
+   ]
+  },
+  {
+   "task_id": "703b0bca2d85",
+   "code": "T-66",
+   "titulo": "Artur creó todos los conductores en Command Center y asignó viajes para el lunes, pero solo los dos conductores iniciale",
+   "dominio": "reuniones-espana",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 5
+    },
+    {
+     "tipo": "sin_movimiento",
+     "dias": 27
+    }
+   ]
+  },
+  {
+   "task_id": "bd8371d3b589",
+   "code": "T-67",
+   "titulo": "RE: POLIZA : 5 - 201 - M - 46169 REPORTE 5-201-2025-R-101 SERIE WMWX9108KTF04806//MINI COOPER MODELO 2003 COLOR ROJO PLA",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 26
+    }
+   ]
+  },
+  {
+   "task_id": "94bb3ad23d4f",
+   "code": "T-68",
+   "titulo": "RE: Concentrado Driverdo Septiembre 2026",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 26
+    }
+   ]
+  },
+  {
+   "task_id": "eb1bc98cd22b",
+   "code": "T-70",
+   "titulo": "Re: COTIZACIÓN || CASO EL 5304 || ATOTONILCO,JAL",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 23
+    }
+   ]
+  },
+  {
+   "task_id": "c61b94aeeeb7",
+   "code": "T-72",
+   "titulo": "Cierre de mes – septiembre 2026",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 20
+    }
+   ]
+  },
+  {
+   "task_id": "f5da88853c14",
+   "code": "T-74",
+   "titulo": "Re: Tesla - Dravier - Mexico City Region Q4 2026 Oct",
+   "dominio": "pipeline-estrategico",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 2
+    },
+    {
+     "tipo": "sin_movimiento",
+     "dias": 16
+    }
+   ]
+  },
+  {
+   "task_id": "1ceb8dc9e9e7",
+   "code": "T-80",
+   "titulo": "RV: Propuesta y seguimiento Reunion Hertz México | Driver Do",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 3
+    }
+   ]
+  },
+  {
+   "task_id": "ec8ecca446b4",
+   "code": "T-81",
+   "titulo": "Re: FACTURAS EMITIDAS Y CONDUCTORES",
+   "dominio": "pipeline-estrategico",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 2
+    }
+   ]
+  },
+  {
+   "task_id": "d4241357b769",
+   "code": "T-86",
+   "titulo": "RE: Meeting: Draiver / Edenred — Siguientes pasos",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 2
+    }
+   ]
+  }
+ ]
+}

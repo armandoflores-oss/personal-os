@@ -231,3 +231,23 @@
 {"actor": "system:ingest:gmail", "kind": "create", "payload": {"action": "enviar", "code": "T-86", "counterparty": "edenred", "domain": "cotizaciones-operativo", "due_date": null, "evidence": "RE: Meeting: Draiver / Edenred — Siguientes pasos\nHola Armando, te comparto la documentación como RL.", "source": "gmail:1a1649bcf4789331", "title": "RE: Meeting: Draiver / Edenred — Siguientes pasos"}, "task_id": "d4241357b769", "ts": "2026-10-22T19:47:15+00:00"}
 {"actor": "system:ingest:outbound", "kind": "set_status", "payload": {"evidence": "enviado 2026-10-23T19:24:13Z a autosur: «Grupo Autosur x Draiver – Resultados del piloto y propuesta comercial»", "status": "done"}, "task_id": "e1985c9c701d", "ts": "2026-10-23T19:46:29+00:00"}
 {"actor": "system:ingest:outbound", "kind": "set_status", "payload": {"evidence": "enviado 2026-10-23T20:02:14Z a ayvens: «Re: Implementación licitación traslados DRIVER»", "status": "done"}, "task_id": "5da29525d8e2", "ts": "2026-10-23T21:47:48+00:00"}
+{"actor": "user", "kind": "archive", "payload": {"reason": "duplicada de T-77"}, "task_id": "207c6a5f5690", "ts": "2026-10-26T19:48:23+00:00"}
+{"actor": "system:loop:quietas", "kind": "archive", "payload": {"reason": "quieta: 31 días sin movimiento"}, "task_id": "3414689d651a", "ts": "2026-10-26T19:48:24+00:00"}
+{"actor": "system:loop:quietas", "kind": "archive", "payload": {"reason": "quieta: 33 días sin movimiento"}, "task_id": "a73407884bc6", "ts": "2026-10-26T19:48:24+00:00"}
+{"actor": "system:loop:quietas", "kind": "archive", "payload": {"reason": "quieta: 28 días sin movimiento"}, "task_id": "4b087a8a484f", "ts": "2026-10-26T19:48:24+00:00"}
+{"actor": "system:loop:quietas", "kind": "archive", "payload": {"reason": "quieta: 28 días sin movimiento"}, "task_id": "73f11825b541", "ts": "2026-10-26T19:48:24+00:00"}
+{"actor": "system:loop:quietas", "kind": "archive", "payload": {"reason": "quieta: 27 días sin movimiento"}, "task_id": "83736b6acee1", "ts": "2026-10-26T19:48:24+00:00"}
+{"actor": "system:loop:quietas", "kind": "archive", "payload": {"reason": "quieta: 27 días sin movimiento"}, "task_id": "703b0bca2d85", "ts": "2026-10-26T19:48:24+00:00"}
+{"actor": "system:loop:quietas", "kind": "archive", "payload": {"reason": "quieta: 26 días sin movimiento"}, "task_id": "bd8371d3b589", "ts": "2026-10-26T19:48:24+00:00"}
+{"actor": "system:loop:quietas", "kind": "archive", "payload": {"reason": "quieta: 26 días sin movimiento"}, "task_id": "94bb3ad23d4f", "ts": "2026-10-26T19:48:24+00:00"}
+{"actor": "system:loop:quietas", "kind": "archive", "payload": {"reason": "quieta: 23 días sin movimiento"}, "task_id": "eb1bc98cd22b", "ts": "2026-10-26T19:48:24+00:00"}
+{"actor": "system:limpieza", "kind": "set_waiting_on", "payload": {"who": "Juliana / Garrigues"}, "task_id": "37c33b0af763", "ts": "2026-10-26T19:48:58+00:00"}
+{"actor": "system:limpieza", "kind": "add_note", "payload": {"note": "Junta el hilo de T-34 (31 días quieto, esperando a Juliana / Garrigues): mismo hilo REPSE and digital platforms."}, "task_id": "37c33b0af763", "ts": "2026-10-26T19:48:58+00:00"}
+{"actor": "system:limpieza", "kind": "set_title", "payload": {"title": "Revisar el cierre de septiembre que mandó Continental"}, "task_id": "c61b94aeeeb7", "ts": "2026-10-26T19:48:58+00:00"}
+{"actor": "system:limpieza", "kind": "set_title", "payload": {"title": "Seguimiento con Tesla: programación CDMX Q4 octubre (va con Uriel)"}, "task_id": "f5da88853c14", "ts": "2026-10-26T19:48:58+00:00"}
+{"actor": "system:limpieza", "kind": "set_title", "payload": {"title": "Revisar los cierres de mes de la cuenta Continental (de Diego Díaz)"}, "task_id": "db57f9c2c8c4", "ts": "2026-10-26T19:48:58+00:00"}
+{"actor": "system:limpieza", "kind": "set_title", "payload": {"title": "Mandar la invitación de Teams a Garrigues: REPSE y plataformas digitales"}, "task_id": "37c33b0af763", "ts": "2026-10-26T19:48:58+00:00"}
+{"actor": "system:limpieza", "kind": "set_title", "payload": {"title": "Revisar la propuesta de Avasa tras la reunión con Hertz México"}, "task_id": "1ceb8dc9e9e7", "ts": "2026-10-26T19:48:58+00:00"}
+{"actor": "system:limpieza", "kind": "set_title", "payload": {"title": "Seguimiento con Kavak: facturas emitidas y conductores (automatización semanal)"}, "task_id": "ec8ecca446b4", "ts": "2026-10-26T19:48:58+00:00"}
+{"actor": "system:limpieza", "kind": "set_title", "payload": {"title": "Seguimiento con Ford: conexión EDI/SFTP JDEJA (espera a Katricia)"}, "task_id": "c0eaae81950d", "ts": "2026-10-26T19:48:58+00:00"}
+{"actor": "system:limpieza", "kind": "set_title", "payload": {"title": "Revisar la documentación de RL que mandó Edenred"}, "task_id": "d4241357b769", "ts": "2026-10-26T19:48:58+00:00"}

@@ -32,5 +32,14 @@
   "vence": "2026-09-29T00:42:54+00:00",
   "vetada": true,
   "vetada_el": "2026-09-29T15:08:38+00:00"
+ },
+ "c61b94aeeeb7": {
+  "code": "T-72",
+  "creada": "2026-10-26T18:05:56+00:00",
+  "degradada": null,
+  "evidencia": "Cierre de mes septiembre 2026: 20 días sin movimiento y ya va a cerrar octubre; parece hecho, sin confirmación explícita.",
+  "firewalled": false,
+  "titulo": "Cierre de mes – septiembre 2026",
+  "vence": "2026-10-29T18:05:56+00:00"
  }
 }

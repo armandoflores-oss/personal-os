@@ -3,29 +3,17 @@
 <!-- Vista generada — NO editar a mano. Regenerar: python3 scripts/task.py rebuild -->
 
 ## Cotizaciones y pendientes operativos
-- **T-34** Re: REPSE and digital platforms · esperando a Juliana / Garrigues
-- **T-50** Re: Facturas pendientes de pago
-- **T-51** Re: MUSTANG | GRIS CARBONO | 1FA6P8CF6T5408892
-- **T-53** Re: RANGER | GRIS CARBONO | AFAHR6MB0VP148872
-- **T-67** RE: POLIZA : 5 - 201 - M - 46169 REPORTE 5-201-2025-R-101 SERIE WMWX9108KTF04806//MINI COOPER MODELO 2003 COLOR ROJO PLA
-- **T-68** RE: Concentrado Driverdo Septiembre 2026
-- **T-70** Re: COTIZACIÓN || CASO EL 5304 || ATOTONILCO,JAL
-- **T-72** Cierre de mes – septiembre 2026
-- **T-76** Cierres de mes cuenta continental
-- **T-77** Re: REPSE and digital platforms
-- **T-80** RV: Propuesta y seguimiento Reunion Hertz México | Driver Do
-- **T-85** Re: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128
-- **T-86** RE: Meeting: Draiver / Edenred — Siguientes pasos
-
-## Reuniones España
-- **T-66** Artur creó todos los conductores en Command Center y asignó viajes para el lunes, pero solo los dos conductores iniciale
+- **T-72** Revisar el cierre de septiembre que mandó Continental
+- **T-76** Revisar los cierres de mes de la cuenta Continental (de Diego Díaz)
+- **T-77** Mandar la invitación de Teams a Garrigues: REPSE y plataformas digitales · esperando a Juliana / Garrigues
+- **T-80** Revisar la propuesta de Avasa tras la reunión con Hertz México
+- **T-85** Seguimiento con Ford: conexión EDI/SFTP JDEJA (espera a Katricia)
+- **T-86** Revisar la documentación de RL que mandó Edenred
 
 ## Grandes deals / RFPs
 - **T-49** Dar seguimiento a Borusan (hilo Borusan/Draiver)
 
 ## Pipeline estratégico
-- **T-31** Re: FORD MX -DRAIVER -MEXICO OPERATION 2A · esperando a Uriel
-- **T-64** Propuesta de entrega
-- **T-74** Re: Tesla - Dravier - Mexico City Region Q4 2026 Oct
-- **T-81** Re: FACTURAS EMITIDAS Y CONDUCTORES
+- **T-74** Seguimiento con Tesla: programación CDMX Q4 octubre (va con Uriel)
+- **T-81** Seguimiento con Kavak: facturas emitidas y conductores (automatización semanal)
 

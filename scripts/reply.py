@@ -92,7 +92,8 @@ def classify(code, rest):
     if head in NOT_DONE:
         if "aplica" in words:
             return "archive", {"reason": "no aplica"}, "descartada (no aplica)"
-        return "set_status", {"status": "open", "evidence": "Armando dice que no está hecha"}, "reabierta"
+        return "set_status", {"status": "open", "unarchive": True,
+                              "evidence": "Armando dice que no está hecha"}, "reabierta"
     if head in DONE:
         return "set_status", {"status": "done", "evidence": tail or "Armando dijo que está listo"}, "cerrada"
     if head in WAITING:

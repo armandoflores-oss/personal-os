@@ -382,7 +382,7 @@
   "source": "gmail:1a1405d16ce16f8c",
   "status": "open",
   "task_id": "1ceb8dc9e9e7",
-  "title": "RV: Propuesta y seguimiento Reunion Hertz México | Driver Do",
+  "title": "Revisar la propuesta de Avasa tras la reunión con Hertz México",
   "vetoed": false,
   "waiting_on": null
  },
@@ -416,7 +416,7 @@
  "207c6a5f5690": {
   "action": "confirmar",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-34",
   "counterparty": "garrigues",
@@ -439,6 +439,11 @@
     "actor": "system:limpieza",
     "note": "evidencia: revertido: prueba del vencimiento de propuestas",
     "ts": "2026-09-24T20:01:49+00:00"
+   },
+   {
+    "actor": "user",
+    "note": "archivado: duplicada de T-77",
+    "ts": "2026-10-26T19:48:23+00:00"
    }
   ],
   "owner": null,
@@ -549,7 +554,7 @@
  "3414689d651a": {
   "action": "confirmar",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-31",
   "counterparty": "ford",
@@ -577,6 +582,11 @@
     "actor": "system:limpieza",
     "note": "La nota anterior con actor=user fue una prueba del veto, no la escribió Armando.",
     "ts": "2026-09-24T20:01:49+00:00"
+   },
+   {
+    "actor": "system:loop:quietas",
+    "note": "archivado: quieta: 31 días sin movimiento",
+    "ts": "2026-10-26T19:48:24+00:00"
    }
   ],
   "owner": "Kevin",
@@ -631,15 +641,21 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Could you please send me the Teams invite?",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:limpieza",
+    "note": "Junta el hilo de T-34 (31 días quieto, esperando a Juliana / Garrigues): mismo hilo REPSE and digital platforms.",
+    "ts": "2026-10-26T19:48:58+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a13bd90aa92aa0b",
   "status": "open",
   "task_id": "37c33b0af763",
-  "title": "Re: REPSE and digital platforms",
+  "title": "Mandar la invitación de Teams a Garrigues: REPSE y plataformas digitales",
   "vetoed": false,
-  "waiting_on": null
+  "waiting_on": "Juliana / Garrigues"
  },
  "3ca495d3259a": {
   "action": "otro",
@@ -777,7 +793,7 @@
  "4b087a8a484f": {
   "action": "otro",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-51",
   "counterparty": "zapata",
@@ -790,6 +806,11 @@
     "actor": "user",
     "note": "Es de Zapata. Accionable: Cristian da seguimiento a este pago.",
     "ts": "2026-09-28T18:46:11+00:00"
+   },
+   {
+    "actor": "system:loop:quietas",
+    "note": "archivado: quieta: 28 días sin movimiento",
+    "ts": "2026-10-26T19:48:24+00:00"
    }
   ],
   "owner": "Cristian",
@@ -1293,7 +1314,7 @@
  "703b0bca2d85": {
   "action": "otro",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-66",
   "counterparty": "clicars",
@@ -1301,7 +1322,13 @@
   "domain": "reuniones-espana",
   "due_date": null,
   "evidence": "Artur creó todos los conductores en Command Center y asignó viajes para el lunes, pero solo los dos conductores iniciales del piloto usaron la aplicación.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:loop:quietas",
+    "note": "archivado: quieta: 27 días sin movimiento",
+    "ts": "2026-10-26T19:48:24+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "drive:161VTipyDFjmloNGRF5ab_gw5A6ulUidlmUkzQzqoIvI",
@@ -1373,7 +1400,7 @@
  "73f11825b541": {
   "action": "enviar",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-53",
   "counterparty": "zapata",
@@ -1386,6 +1413,11 @@
     "actor": "user",
     "note": "Es de Zapata. Accionable: Cristian da seguimiento a este pago.",
     "ts": "2026-09-28T18:46:11+00:00"
+   },
+   {
+    "actor": "system:loop:quietas",
+    "note": "archivado: quieta: 28 días sin movimiento",
+    "ts": "2026-10-26T19:48:24+00:00"
    }
   ],
   "owner": "Cristian",
@@ -1518,7 +1550,7 @@
  "83736b6acee1": {
   "action": "enviar",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-64",
   "counterparty": "element",
@@ -1526,7 +1558,13 @@
   "domain": "pipeline-estrategico",
   "due_date": null,
   "evidence": "Espero se encuentren bien, les comparto la lista preliminar de unidades para entrega de la siguiente semana y subsecuente, esto para que puedan empezar a preparar a los drivers y lo necesario para cum",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:loop:quietas",
+    "note": "archivado: quieta: 27 días sin movimiento",
+    "ts": "2026-10-26T19:48:24+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0e9bbd4a403f73",
@@ -1630,7 +1668,7 @@
  "94bb3ad23d4f": {
   "action": "enviar",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-68",
   "counterparty": "pylc",
@@ -1638,7 +1676,13 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "RE: Concentrado Driverdo Septiembre 2026\nBuen Día Harrison TE comparto lo solicitado Saludos",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:loop:quietas",
+    "note": "archivado: quieta: 26 días sin movimiento",
+    "ts": "2026-10-26T19:48:24+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0f31bef5a3745b",
@@ -1872,7 +1916,7 @@
  "a73407884bc6": {
   "action": "enviar",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-50",
   "counterparty": "gruhaber",
@@ -1880,7 +1924,13 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Vamos a continuar nuestra conciliación para enviar los demás pagos pendientes.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:loop:quietas",
+    "note": "archivado: quieta: 33 días sin movimiento",
+    "ts": "2026-10-26T19:48:24+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0cb518c03ecb24",
@@ -1962,7 +2012,7 @@
  "bd8371d3b589": {
   "action": "enviar",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-67",
   "counterparty": "tip",
@@ -1970,7 +2020,13 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "RE: POLIZA : 5 - 201 - M - 46169 REPORTE 5-201-2025-R-101 SERIE WMWX9108KTF04806//MINI COOPER MODELO 2003 COLOR ROJO PLACAS CG03126//52012025M34\nBuen Día Te comparto soporte MAESTRO TIPO POLIZA Oficin",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:loop:quietas",
+    "note": "archivado: quieta: 26 días sin movimiento",
+    "ts": "2026-10-26T19:48:24+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0f313717940c66",
@@ -1997,7 +2053,7 @@
   "source": "gmail:1a16508bad4e6fa9",
   "status": "open",
   "task_id": "c0eaae81950d",
-  "title": "Re: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128",
+  "title": "Seguimiento con Ford: conexión EDI/SFTP JDEJA (espera a Katricia)",
   "vetoed": false,
   "waiting_on": null
  },
@@ -2099,7 +2155,7 @@
   "source": "gmail:1a10f22a9080e52d",
   "status": "open",
   "task_id": "c61b94aeeeb7",
-  "title": "Cierre de mes – septiembre 2026",
+  "title": "Revisar el cierre de septiembre que mandó Continental",
   "vetoed": false,
   "waiting_on": null
  },
@@ -2147,7 +2203,7 @@
   "source": "gmail:1a1649bcf4789331",
   "status": "open",
   "task_id": "d4241357b769",
-  "title": "RE: Meeting: Draiver / Edenred — Siguientes pasos",
+  "title": "Revisar la documentación de RL que mandó Edenred",
   "vetoed": false,
   "waiting_on": null
  },
@@ -2222,7 +2278,7 @@
   "source": "gmail:1a136b13a6b3ef22",
   "status": "open",
   "task_id": "db57f9c2c8c4",
-  "title": "Cierres de mes cuenta continental",
+  "title": "Revisar los cierres de mes de la cuenta Continental (de Diego Díaz)",
   "vetoed": false,
   "waiting_on": null
  },
@@ -2391,7 +2447,7 @@
  "eb1bc98cd22b": {
   "action": "confirmar",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-70",
   "counterparty": "subastasegura",
@@ -2399,7 +2455,13 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Te confirmo que contamos con disponibilidad para el martes 06 de",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:loop:quietas",
+    "note": "archivado: quieta: 23 días sin movimiento",
+    "ts": "2026-10-26T19:48:24+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a0fe6ae9f985464",
@@ -2480,7 +2542,7 @@
   "source": "gmail:1a14167abcaaad25",
   "status": "open",
   "task_id": "ec8ecca446b4",
-  "title": "Re: FACTURAS EMITIDAS Y CONDUCTORES",
+  "title": "Seguimiento con Kavak: facturas emitidas y conductores (automatización semanal)",
   "vetoed": false,
   "waiting_on": null
  },
@@ -2555,7 +2617,7 @@
   "source": "gmail:1a1219b099e8ed18",
   "status": "open",
   "task_id": "f5da88853c14",
-  "title": "Re: Tesla - Dravier - Mexico City Region Q4 2026 Oct",
+  "title": "Seguimiento con Tesla: programación CDMX Q4 octubre (va con Uriel)",
   "vetoed": false,
   "waiting_on": null
  },

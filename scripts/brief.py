@@ -471,6 +471,10 @@ def render(now, since):
                 if topes:
                     L.append(f"- _{len(topes)} cierre(s) no aplicados: se alcanzó el tope de "
                              f"{r.get('tope')} por noche._")
+        elif r.get("leg") == "quietas":
+            for c in r.get("archivadas", []):
+                L.append(f"- **{c['code']}** archivada por quieta ({c['dias']} días sin movimiento) · "
+                         f"{cap(c.get('titulo',''))}\n  ↩︎ regrésala con `{c['code']} no`")
         elif r.get("leg") == "propuestas":
             for c in r.get("vencidas", []):
                 L.append(f"- **{c['code']}** cerrada al vencer su propuesta · {cap(c.get('evidencia',''))}"

@@ -33,6 +33,7 @@ EVENT_KINDS = {
     "set_waiting_on",
     "set_blocked",
     "add_note",
+    "set_title",       # el asunto del correo no dice qué hacer; el título sí
     "archive",
     "veto",            # permanent: never propose this again (rule 5)
     "apply_proposal",  # accept a P- item now instead of waiting out its 72h

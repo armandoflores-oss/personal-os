@@ -48,6 +48,11 @@ def _apply(tasks: dict, ev: dict, line_no: int) -> None:
         if status not in constants.STATUSES:
             raise ValueError(f"event #{line_no}: bad status {status!r}")
         t["status"] = status
+        # Reabrir algo archivado (p.ej. archivado por quieto) lo devuelve al
+        # tablero. Solo eventos que lo piden: el historial viejo no cambia de
+        # significado. Un veto es para siempre y no se deshace así.
+        if p.get("unarchive") and not t["vetoed"]:
+            t["archived"] = False
         if p.get("evidence"):
             t["notes"].append({"ts": ev["ts"], "note": f"evidencia: {p['evidence']}", "actor": ev["actor"]})
     elif kind == "set_due_date":
@@ -60,6 +65,8 @@ def _apply(tasks: dict, ev: dict, line_no: int) -> None:
         t["waiting_on"] = p.get("who")
     elif kind == "set_blocked":
         t["blocked"] = p.get("reason")
+    elif kind == "set_title":
+        t["title"] = p.get("title") or t["title"]
     elif kind == "add_note":
         t["notes"].append({"ts": ev["ts"], "note": p.get("note", ""), "actor": ev["actor"]})
     elif kind == "veto":

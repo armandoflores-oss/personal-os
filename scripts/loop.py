@@ -39,6 +39,11 @@ SYNCS = constants.REPO_ROOT / "syncs"
 MAX_MUTACIONES = 6
 VENTANA_PROPUESTA_H = 72
 
+# Tres semanas sin un solo evento: la tarea ya no es un pendiente, es ruido que
+# tapa los pendientes. Se archiva con aviso en el brief y `T-N no` la regresa.
+# Armando lo pidió (26 oct 2026): el tablero tenía 13 de 19 con más de 20 días.
+QUIETA_DIAS = 21
+
 
 def hoy():
     return datetime.date.today().isoformat()
@@ -52,12 +57,62 @@ def tokens(texto):
     return {w for w in gate.norm(texto).split() if len(w) > 4}
 
 
+# ---------------------------------------------------------------- QUIETAS
+def archivar_quietas():
+    """Archiva lo que lleva QUIETA_DIAS sin ningún evento. Determinista.
+
+    Nunca toca: lo que Armando creó a mano (si lo anotó él, él decide cuándo
+    muere), lo firewalled (nunca se auto-procesa) ni lo vetado. Deja recibo
+    con la forma de deshacerlo, porque un archivado invisible es fatal (regla 11).
+    """
+    ultimo, creador = {}, {}
+    for e in read_events():
+        ultimo[e["task_id"]] = max(ultimo.get(e["task_id"], ""), e["ts"])
+        if e["kind"] == "create":
+            creador[e["task_id"]] = e["actor"]
+    ahora = datetime.datetime.now(datetime.timezone.utc)
+    props = cargar_propuestas()
+    archivadas = []
+    for t in abiertas():
+        if creador.get(t["task_id"]) == "user" or t["domain"] in constants.FIREWALLED_DOMAINS:
+            continue
+        try:
+            dias = (ahora - datetime.datetime.fromisoformat(ultimo[t["task_id"]])).days
+        except (KeyError, ValueError):
+            continue
+        if dias < QUIETA_DIAS:
+            continue
+        append_event({"kind": "archive", "actor": "system:loop:quietas", "task_id": t["task_id"],
+                      "payload": {"reason": f"quieta: {dias} días sin movimiento"}})
+        # Su propuesta de cierre, si tenía, ya no aplica: un solo aviso, no dos.
+        props.pop(t["task_id"], None)
+        archivadas.append({"code": t["code"], "titulo": t["title"][:120], "dias": dias})
+    if archivadas:
+        guardar_propuestas(props)
+        SYNCS.mkdir(exist_ok=True)
+        with open(SYNCS / f"{hoy()}.ndjson", "a", encoding="utf-8") as fh:
+            fh.write(json.dumps({"ts": ahora.isoformat(timespec="seconds"), "fecha": hoy(),
+                                 "leg": "quietas", "archivadas": archivadas,
+                                 "umbral_dias": QUIETA_DIAS}, ensure_ascii=False, sort_keys=True) + "\n")
+    return archivadas
+
+
+def cmd_quietas(args):
+    if esta_retirado():
+        print(json.dumps({"estado": "retirado", "nota": "el loop se retiro; esta corrida no hace nada"}))
+        return
+    print(json.dumps({"archivadas": archivar_quietas()}, ensure_ascii=False, indent=1))
+
+
 # ---------------------------------------------------------------- PREPARE
 def cmd_prepare(args):
     if esta_retirado():
         print(json.dumps({"estado": "retirado", "nota": "el loop se retiro; esta corrida no hace nada"}))
         return
     """Junta evidencia para cada item abierto. Sin juicio, sin modelo."""
+    # Primero se barre lo quieto: una tarea muerta no es candidata a cierre,
+    # es candidata a salir del tablero.
+    archivar_quietas()
     eventos = read_events()
     por_tarea = collections.defaultdict(list)
     for e in eventos:
@@ -392,6 +447,7 @@ def main():
     sub = ap.add_subparsers(dest="cmd", required=True)
     sub.add_parser("prepare").set_defaults(fn=cmd_prepare)
     sub.add_parser("ledger").set_defaults(fn=cmd_ledger)
+    sub.add_parser("quietas").set_defaults(fn=cmd_quietas)
     a = sub.add_parser("apply"); a.add_argument("--decisiones", required=True); a.set_defaults(fn=cmd_apply)
     g = sub.add_parser("grade"); g.add_argument("--fecha"); g.set_defaults(fn=cmd_grade)
     args = ap.parse_args(); args.fn(args)
