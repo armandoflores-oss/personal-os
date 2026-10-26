@@ -1,0 +1,18 @@
+{"decisiones": [
+{"task_id": "3414689d651a", "clase": "ninguna", "evidencia": "Ford MX operación 2A: 31 días sin movimiento, pero es un frente estratégico de largo plazo; el silencio no indica que se haya resuelto."},
+{"task_id": "207c6a5f5690", "clase": "ninguna", "evidencia": "REPSE y plataformas digitales: 31 días sin movimiento; es un tema regulatorio que puede seguir abierto, nada indica cierre."},
+{"task_id": "298dd95c5797", "clase": "ninguna", "evidencia": "Borusan: tú mismo pediste que se le diera seguimiento ('Borusan no es ruido'); los 27 días sin movimiento apuntan a pendiente, no a resuelto."},
+{"task_id": "a73407884bc6", "clase": "ninguna", "evidencia": "Facturas pendientes de pago: 33 días sin movimiento, pero un cobro pendiente no se resuelve por silencio; sin confirmación de pago."},
+{"task_id": "4b087a8a484f", "clase": "blanda", "evidencia": "Hilo del Mustang gris carbono (VIN ...5408892): 27 días sin movimiento en un hilo operativo de una unidad; probablemente ya se entregó, sin confirmación explícita."},
+{"task_id": "73f11825b541", "clase": "blanda", "evidencia": "Hilo de la Ranger gris carbono (VIN ...VP148872): 27 días sin movimiento en un hilo operativo de una unidad; probablemente ya se movió, sin confirmación explícita."},
+{"task_id": "83736b6acee1", "clase": "ninguna", "evidencia": "Propuesta de entrega (pipeline estratégico): 27 días sin movimiento; una propuesta sin respuesta no equivale a cerrada."},
+{"task_id": "703b0bca2d85", "clase": "blanda", "evidencia": "Arranque de conductores de Artur en Command Center (España): se trató en junta y lleva 27 días sin movimiento; el problema de arranque del piloto parece superado, la junta no lo confirma."},
+{"task_id": "bd8371d3b589", "clase": "ninguna", "evidencia": "Póliza/reporte del Mini Cooper rojo: 26 días sin movimiento, pero un siniestro con aseguradora puede tardar meses; nada indica cierre."},
+{"task_id": "94bb3ad23d4f", "clase": "blanda", "evidencia": "Concentrado Driverdo septiembre 2026: 26 días sin movimiento y el mes ya cerró; parece entregado, sin confirmación explícita."},
+{"task_id": "eb1bc98cd22b", "clase": "blanda", "evidencia": "Cotización caso EL 5304 Atotonilco, Jal.: 23 días sin movimiento en una cotización puntual; probablemente ya se respondió o se perdió, sin confirmación."},
+{"task_id": "c61b94aeeeb7", "clase": "blanda", "evidencia": "Cierre de mes septiembre 2026: 20 días sin movimiento y ya va a cerrar octubre; parece hecho, sin confirmación explícita."},
+{"task_id": "f5da88853c14", "clase": "ninguna", "evidencia": "Tesla región CDMX Q4: se mencionó en junta y lleva 16 días quieto, pero es un frente estratégico activo del trimestre; nada dice que quedó."},
+{"task_id": "1ceb8dc9e9e7", "clase": "ninguna", "evidencia": "Propuesta Hertz México: se trató en junta, pero la mención no dice que se haya cerrado."},
+{"task_id": "ec8ecca446b4", "clase": "ninguna", "evidencia": "Facturas emitidas y conductores: se trató en junta, sin indicio de que quedó resuelto."},
+{"task_id": "d4241357b769", "clase": "ninguna", "evidencia": "Edenred siguientes pasos: se trató en junta, pero 'siguientes pasos' indica que sigue en curso."}
+]}
