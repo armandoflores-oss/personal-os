@@ -368,7 +368,7 @@
  "1ceb8dc9e9e7": {
   "action": "enviar",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-80",
   "counterparty": "avasa",
@@ -376,7 +376,13 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "RV: Propuesta y seguimiento Reunion Hertz México | Driver Do\nBuenas tardes Armando, Te comparto información acordada.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "archivado: era una entrega, no un compromiso (lo dijo Armando)",
+    "ts": "2026-10-26T19:53:08+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a1405d16ce16f8c",
@@ -2039,7 +2045,7 @@
  "c0eaae81950d": {
   "action": "enviar",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-85",
   "counterparty": "ford",
@@ -2047,7 +2053,13 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Les comparto actualización de la última comunicación con Katricia el día de hoy: De acuerdo con los comentarios de Katricia, debemos esperar a tener...",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "archivado: era una entrega, no un compromiso (lo dijo Armando)",
+    "ts": "2026-10-26T19:53:08+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a16508bad4e6fa9",
@@ -2141,7 +2153,7 @@
  "c61b94aeeeb7": {
   "action": "enviar",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-72",
   "counterparty": "continental",
@@ -2149,7 +2161,13 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Te comparto la información correspondiente al cierre de mes de septiembre para su revisión y seguimiento.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "archivado: era una entrega, no un compromiso (lo dijo Armando)",
+    "ts": "2026-10-26T19:53:08+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a10f22a9080e52d",
@@ -2189,7 +2207,7 @@
  "d4241357b769": {
   "action": "enviar",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-86",
   "counterparty": "edenred",
@@ -2197,7 +2215,13 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "RE: Meeting: Draiver / Edenred — Siguientes pasos\nHola Armando, te comparto la documentación como RL.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "archivado: era una entrega, no un compromiso (lo dijo Armando)",
+    "ts": "2026-10-26T19:53:08+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a1649bcf4789331",
@@ -2264,7 +2288,7 @@
  "db57f9c2c8c4": {
   "action": "enviar",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-76",
   "counterparty": "diego.diaz",
@@ -2272,7 +2296,13 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Buenas tardes: te comparto los cierres de mes de la cuenta Continental.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "archivado: era una entrega, no un compromiso (lo dijo Armando)",
+    "ts": "2026-10-26T19:53:08+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a136b13a6b3ef22",

@@ -251,3 +251,8 @@
 {"actor": "system:limpieza", "kind": "set_title", "payload": {"title": "Seguimiento con Kavak: facturas emitidas y conductores (automatización semanal)"}, "task_id": "ec8ecca446b4", "ts": "2026-10-26T19:48:58+00:00"}
 {"actor": "system:limpieza", "kind": "set_title", "payload": {"title": "Seguimiento con Ford: conexión EDI/SFTP JDEJA (espera a Katricia)"}, "task_id": "c0eaae81950d", "ts": "2026-10-26T19:48:58+00:00"}
 {"actor": "system:limpieza", "kind": "set_title", "payload": {"title": "Revisar la documentación de RL que mandó Edenred"}, "task_id": "d4241357b769", "ts": "2026-10-26T19:48:58+00:00"}
+{"actor": "user", "kind": "archive", "payload": {"reason": "era una entrega, no un compromiso (lo dijo Armando)"}, "task_id": "c61b94aeeeb7", "ts": "2026-10-26T19:53:08+00:00"}
+{"actor": "user", "kind": "archive", "payload": {"reason": "era una entrega, no un compromiso (lo dijo Armando)"}, "task_id": "db57f9c2c8c4", "ts": "2026-10-26T19:53:08+00:00"}
+{"actor": "user", "kind": "archive", "payload": {"reason": "era una entrega, no un compromiso (lo dijo Armando)"}, "task_id": "1ceb8dc9e9e7", "ts": "2026-10-26T19:53:08+00:00"}
+{"actor": "user", "kind": "archive", "payload": {"reason": "era una entrega, no un compromiso (lo dijo Armando)"}, "task_id": "c0eaae81950d", "ts": "2026-10-26T19:53:08+00:00"}
+{"actor": "user", "kind": "archive", "payload": {"reason": "era una entrega, no un compromiso (lo dijo Armando)"}, "task_id": "d4241357b769", "ts": "2026-10-26T19:53:08+00:00"}

@@ -475,6 +475,12 @@ def render(now, since):
             for c in r.get("archivadas", []):
                 L.append(f"- **{c['code']}** archivada por quieta ({c['dias']} días sin movimiento) · "
                          f"{cap(c.get('titulo',''))}\n  ↩︎ regrésala con `{c['code']} no`")
+        elif r.get("leg") == "archivadas":
+            # Archivados con otro motivo que la quietud (p.ej. una limpieza que
+            # pidió Armando). Mismo contrato: motivo y forma de regresarla.
+            for c in r.get("archivadas", []):
+                L.append(f"- **{c['code']}** archivada · {c.get('motivo','')} · {cap(c.get('titulo',''))}"
+                         f"\n  ↩︎ regrésala con `{c['code']} no`")
         elif r.get("leg") == "propuestas":
             for c in r.get("vencidas", []):
                 L.append(f"- **{c['code']}** cerrada al vencer su propuesta · {cap(c.get('evidencia',''))}"
