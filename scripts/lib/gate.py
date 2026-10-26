@@ -64,6 +64,36 @@ COMMITMENT_PATTERNS = [
     r"\bcan you (send|share|get) me\b", r"\bplease (send|share|confirm)\b",
 ]
 
+# 2b. "Te comparto", "les envío", "adjunto" in the present tense is a DELIVERY:
+#     the thing already arrived, nothing is pending. Armando (26 oct 2026): most
+#     "enviar" tasks on the board were someone else's attachment. Only a future
+#     marker ("te lo envío el viernes") turns the same verb back into a promise.
+DELIVERY_COMMIT = COMMITMENT_PATTERNS[0]   # (te|le|les) (mando|envío|paso|comparto)
+DELIVERY_PATTERNS = [
+    DELIVERY_COMMIT, r"\badjunto\b", r"\b(te|le|les) anexo\b", r"\bles hago llegar\b",
+    r"\b(i am|i'm|we are|we're) (sending|sharing|attaching)\b",
+    r"\bplease find attached\b", r"\battached (is|are|please)\b", r"\bhere (is|are) the\b",
+]
+FUTURE_MARKERS = [
+    r"\b(manana|pasado manana|luego|mas tarde|al rato|en un rato|en cuanto|a mas tardar)\b",
+    r"\ben la (tarde|noche|manana)\b", r"\b(esta|la proxima|la siguiente) semana\b",
+    r"\bel (lunes|martes|miercoles|jueves|viernes|sabado|domingo)\b",
+    r"\bantes del?\b", r"\bpara el\b", r"\bcuando (tenga|tengamos|este|esten)\b",
+    r"\b(tomorrow|later|next week|this week|as soon as|once (i|we))\b",
+    r"\bby (monday|tuesday|wednesday|thursday|friday|eod|end of day)\b",
+    r"\bon (monday|tuesday|wednesday|thursday|friday)\b",
+]
+
+
+def _is_delivery(sentence_norm: str) -> bool:
+    """Present-tense handover with no promise left in it."""
+    if not _hits(sentence_norm, DELIVERY_PATTERNS) or _hits(sentence_norm, FUTURE_MARKERS):
+        return False
+    # Any OTHER commitment in the same sentence ("adjunto X y voy a revisar Y")
+    # is still a commitment.
+    return set(_hits(sentence_norm, COMMITMENT_PATTERNS)) <= {DELIVERY_COMMIT}
+
+
 # 3. Hedged language never becomes a task ON ITS OWN.
 EXPLORATORY_MARKERS = [
     r"\btal vez\b", r"\bquiza\b", r"\bquizas\b", r"\ba lo mejor\b",
@@ -238,6 +268,8 @@ def evaluate(item: dict) -> dict:
         return {"accept": False, "reason": "meta", "detail": meta[0]}
 
     commit_sentences = [s for s in sentences(text) if _hits(norm(s), COMMITMENT_PATTERNS)]
+    delivered = [s for s in commit_sentences if _is_delivery(norm(s))]
+    commit_sentences = [s for s in commit_sentences if s not in delivered]
     if not commit_sentences:
         ask = client_request(item)
         if ask:
@@ -250,6 +282,8 @@ def evaluate(item: dict) -> dict:
                 "counterparty": extract_counterparty(text, item.get("sender", ""), item.get("recipients")),
                 "domain": classify_domain(text, item.get("sender", "")),
             }
+        if delivered:
+            return {"accept": False, "reason": "entregado", "detail": delivered[0][:120]}
         # Distinguish "nothing was promised" from "something was floated".
         hedges = _hits(t, EXPLORATORY_MARKERS)
         if hedges:

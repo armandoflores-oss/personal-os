@@ -115,6 +115,41 @@ class ClientAsksArmando(unittest.TestCase):
         self.assertFalse(v["accept"])
 
 
+class DeliveryIsNotAPromise(unittest.TestCase):
+    """'Te comparto' / 'les envío' already arrived. Cases are the real evidence
+    of the tasks that cluttered the board in oct 2026."""
+
+    def test_present_tense_handover_is_suppressed(self):
+        for t in [
+            "Buenas tardes: te comparto los cierres de mes de la cuenta Continental.",      # T-76
+            "Hola Armando, te comparto la documentación como RL.",                          # T-86
+            "Les envío la prefactura para que nos apoyen en realizar el pago.",             # T-53
+            "Buen Día Harrison TE comparto lo solicitado Saludos",                          # T-68
+        ]:
+            v = gate.evaluate(item(t, sender="ana@cliente.com", recipients=["x@cliente.com"]))
+            self.assertFalse(v["accept"], t)
+            self.assertEqual(v["reason"], "entregado", t)
+        for t in ["Adjunto el reporte de unidades en patio.",
+                  "Please find attached the signed contract."]:
+            self.assertFalse(gate.evaluate(item(t)).get("accept"), t)
+
+    def test_future_marker_keeps_the_promise(self):
+        for t in ["Te mando la cotización de Kavak el viernes.",
+                  "Como lo conversamos te paso la programación de hoy en la tarde.",      # T-74
+                  "Les envío la prefactura mañana."]:
+            self.assertTrue(gate.evaluate(item(t)).get("accept"), t)
+
+    def test_another_promise_in_the_same_sentence_survives(self):
+        v = gate.evaluate(item("Te comparto el archivo y voy a revisar las tarifas con Uriel."))
+        self.assertTrue(v["accept"])
+
+    def test_delivery_with_a_question_to_armando_is_still_his(self):
+        v = gate.evaluate(item("Hola Armando, te comparto la prefactura. ¿Nos apoyas con la aprobación del pago?",
+                               sender="pagos@zapata.com"))
+        self.assertTrue(v["accept"])
+        self.assertEqual(v["reason"], "cliente_espera_respuesta")
+
+
 class DedupeAtCreation(unittest.TestCase):
     def test_same_action_same_counterparty_suppressed(self):
         open_tasks = [{"status": "open", "archived": False, "code": "T-7",
@@ -149,7 +184,7 @@ class TitlesSayWhatToDo(unittest.TestCase):
         self.assertEqual(gate.task_title(gate.evaluate(it), it), "Enviar a Borusan: Borusan / Draiver")
 
     def test_someone_elses_promise_is_a_follow_up(self):
-        it = item("Les envío la prefactura para que nos apoyen con el pago.",
+        it = item("Les envío la prefactura el viernes para que nos apoyen con el pago.",
                   subject="Re: RANGER | GRIS CARBONO", sender="pagos@zapata.com")
         self.assertEqual(gate.task_title(gate.evaluate(it), it), "Seguimiento con Zapata: RANGER | GRIS CARBONO")
 
