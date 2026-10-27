@@ -1,26 +1,18 @@
 Diaria Spain Launch - 2026/10/26 08:30 CST - Notes by Gemini
 
 oct 26, 2026
-Diaria Spain Launch
 Invitado: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
 
 ### Resumen
 Revisión de errores técnicos y gestión de tarifas y transporte
-
-Errores técnicos de caché
-Fallo en la opción de cotización persistió tras limpiar la caché. Bloqueo total al intentar iniciar sesión.
-
-Gestión de tarifas y Wati
-Propuesta de crear cuentas especiales para grandes clientes. Control de comunicaciones en Wati.
-
-Cancelación de transporte y viaje
-Cancelación de servicio por desacuerdo en la modalidad del vehículo. Coordinación de viaje a Madrid.
+Errores técnicos de caché: Fallo en la opción de cotización persistió tras limpiar la caché. Bloqueo total al intentar iniciar sesión.
+Gestión de tarifas y Wati: Propuesta de crear cuentas especiales para grandes clientes. Control de comunicaciones en Wati.
+Cancelación de transporte y viaje: Cancelación de servicio por desacuerdo en la modalidad del vehículo. Coordinación de viaje a Madrid.
 
 ### Decisiones
-Requiere más debate
+## Requiere más debate
 - Estructuración de cuentas para tarifas personalizadas: Se propuso crear cuentas generales separadas para gestionar las tarifas personalizadas, quedando pendiente de pruebas técnicas para verificar el funcionamiento de las cotizaciones.
-
-Acordada
+## Acordada
 - Modificación en el envío de listas de pago: Se acordó dejar de utilizar archivos adjuntos para enviar las listas de pago, sustituyéndolo por el reenvío directo del correo electrónico.
 
 ### Próximos pasos
@@ -48,3 +40,5 @@ Verificación de precios e impuestos y simplificación de notificaciones de pago
 Cancelación de transporte por desacuerdo en la modalidad del vehículo: Se discute la incidencia con el transporte de un coche antiguo en el que un conductor interesado no pudo realizar el servicio porque la ubicación de entrega estaba en el campo sin opciones de retorno. Al contactar al cliente final, se descubre que este último no deseaba un transporte rodado sino en grúa. Daniel Escribano consulta el caso con Beatriz y, tras confirmar que ni el cliente ni el cliente final aceptaban la modalidad rodada, Daniel procede a cancelar el servicio. Daniel valora positivamente la cancelación debido a que se trataba de una reliquia cuyo funcionamiento se desconoce, lo que habría generado reclamaciones y costes por cancelación si el conductor se hubiera presentado.
 
 Planificación del viaje a Madrid y logística de oficina: Artur Morais y Daniel Escribano coordinan los detalles para su presencia en la oficina de Madrid durante el miércoles y jueves de esa semana. Artur confirma la compra de sus billetes de tren para estar en Madrid todo el día y detalla su llegada a las 10:30 de la mañana del miércoles. Daniel confirma su disponibilidad para ambos días, especificando que el miércoles debe retirarse a las 18:30 a más tardar debido a un entrenamiento a las 19:15. Finalmente, discuten la logística de recogida en la estación de San Chamartín o encuentro directo en la oficina según el estado del tráfico.
+
+[Transcripción literal omitida en este depósito; disponible en el doc de Drive.]

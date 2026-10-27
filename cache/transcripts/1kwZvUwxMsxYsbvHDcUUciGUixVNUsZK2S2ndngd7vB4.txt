@@ -1,25 +1,18 @@
 Back office Spain - 2026/10/23 09:59 EDT - Notes by Gemini
 
 Oct 23, 2026
-Invited: Daniel Escribano, Jaqueline Sanches, Armando Flores, Rafael Pagliuso De Andrade, Cristhian Herrera, Dan Rizzo
+Invited: Daniel Escribano (daniel.escribano@draiver.com), Jaqueline Sanches (jaqueline.sanches@draiver.com), Armando Flores (armando.flores@driverdo.com), Rafael Pagliuso De Andrade (rafael.andrade@driverdo.com), Cristhian Herrera (cristhian.herrera@draiver.com), Dan Rizzo (dan.rizzo@draiver.com)
 
 ### Summary
 Spain support operations reviewed with volume capacity and staffing strategies and financial expense consolidation plans
-
-Spain Support Operations Volume
-Existing team handles inbound requests using current capacity and artificial intelligence tools while monitoring volume data.
-
-Staffing Schedule Salesforce Access
-Coverage aligns with operating hours while Salesforce redirection and artificial intelligence integration details require verification.
-
-Financial Expense Consolidation Plans
-Financial consolidation begins in November with expenses booked directly into the entity using NetSuite.
+Spain Support Operations Volume: Existing team handles inbound requests using current capacity and artificial intelligence tools while monitoring volume data.
+Staffing Schedule Salesforce Access: Coverage aligns with operating hours while Salesforce redirection and artificial intelligence integration details require verification.
+Financial Expense Consolidation Plans: Financial consolidation begins in November with expenses booked directly into the entity using NetSuite.
 
 ### Decisions
-Needs Further Discussion
+## Needs Further Discussion
 - Timeline for Finote financial consolidation: The group discussed whether financial consolidation with Finote should start in November or be rushed for the first month's closing, pending Cristhian's confirmation with Victor.
-
-Aligned
+## Aligned
 - Prioritization of SOP and AI tools: The team aligned to prioritize setting up documentation, SOPs, and AI tools for WhatsApp and the app to handle initial support for Spain.
 - Absorption of Spain support volume: The team agreed that the current support team capacity can absorb the low initial trip volume in Spain without hiring a full-time dedicated person at this stage.
 - Geographic location for future support: The participants agreed that if a support hire is needed in the future for Spain, the position should be located outside of Spain in regions like Argentina or Brazil to optimize costs and time zone differences.
@@ -39,3 +32,5 @@ Staffing Schedule and Salesforce Access for Spain Operations: The meeting addres
 Future Support Hiring Strategy and Location: Dan Rizzo inquired whether future support staff for Spain should be hired locally. Armando Flores argued that cost-wise, hiring outside of Spain would be more economical. Jaqueline Sanches suggested looking into candidates in Argentina or Brazil to minimize the time zone gap. The consensus was to prioritize setting up standard operating procedures and artificial intelligence tools first, monitor incoming volume data to assess local team coverage versus support hours, and defer new hiring until volume justifies a dedicated position.
 
 Financial Consolidation and Expense Booking with Finote: Rafael Pagliuso De Andrade announced a change to move the meeting to Wednesdays to include the Finote team for financial reviews. Cristhian Herrera explained that Finote will continue running independently for the current month, with financial consolidation scheduled to begin in November, pending confirmation from Victor. Cristhian Herrera stated that their plan for the current month is to book expenses directly into the entity using NetSuite. Dan Rizzo and Armando Flores discussed the need for cost allocations related to the support team and management for Spain. Armando Flores noted that Spain currently has no management allocation, and Cristhian Herrera agreed to confirm the exact steps for booking expenses, consolidation, and subsequent allocations with Victor before finalizing details.
+
+[Transcript omitted in this deposit; available in the Drive doc.]

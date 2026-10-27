@@ -1,0 +1,35 @@
+{
+ "fecha": "2026-10-27",
+ "abiertas": 4,
+ "candidatos": [
+  {
+   "task_id": "298dd95c5797",
+   "code": "T-49",
+   "titulo": "Dar seguimiento a Borusan (hilo Borusan/Draiver)",
+   "dominio": "grandes-deals",
+   "evidencia": [
+    {
+     "tipo": "armando_lo_dijo",
+     "detalle": "no me pusiste dar seguimiento a borusan Borusan no es ruido: el clasificador suprimió 3 veces el hilo 'Borusan/Draiver' (gmail, 21 y 22 sep 2026) como sin_compromiso y por eso nunc",
+     "tokens": 2
+    },
+    {
+     "tipo": "sin_movimiento",
+     "dias": 29
+    }
+   ]
+  },
+  {
+   "task_id": "f5da88853c14",
+   "code": "T-74",
+   "titulo": "Seguimiento con Tesla: programación CDMX Q4 octubre (va con Uriel)",
+   "dominio": "pipeline-estrategico",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 2
+    }
+   ]
+  }
+ ]
+}

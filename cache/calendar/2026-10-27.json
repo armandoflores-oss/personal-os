@@ -1,0 +1,9 @@
+[
+  {"start": "03:00", "summary": "Madrid Autonomous Mobility Summit 2026 (MAMS)", "attendees": []},
+  {"start": "03:00", "summary": "Madrid Autonomous Mobility Summit 2026 (MAMS)", "attendees": ["armando.flores@driverdo.com"]},
+  {"start": "09:00", "summary": "Sesión de Alineación Operativa Driver-Edenred", "attendees": ["juan.goncalves@edenred.com", "julia.diaz@draiver.com", "armando.flores@driverdo.com", "jose.duran@draiver.com", "randy.calzadilla@edenred.com", "clara.veloza@edenred.com"]},
+  {"start": "09:00", "summary": "Draiver-Hertz", "attendees": ["armando.flores@driverdo.com", "nicolas.ariza@kavak.com", "jesus.ortiz@hertz.com", "lgrinan@hertz.com"]},
+  {"start": "10:00", "summary": "Weekly Product & Ops Draiver Spain", "attendees": ["artur.morais@draiver.com", "gerardo.cabanas@draiver.com", "paloma.calderon@draiver.com", "kevin@draiver.com", "daniel.escribano@draiver.com", "fede.ranero@draiver.com", "armando.flores@driverdo.com", "nicolas.ariza@kavak.com", "rafael.andrade@draiver.com", "nicolas.ariza@draiver.com"]},
+  {"start": "10:00", "summary": "Daily Huddle - Ops MX", "attendees": ["uriel.vargas@driverdo.com", "cristian.arizmendi@driverdo.com", "julia.diaz@draiver.com", "armando.flores@driverdo.com", "diego.diaz@draiver.com", "camila.flores@draiver.com", "jose.duran@driverdo.com", "gerardo.acosta@kavak.com"]},
+  {"start": "11:00", "summary": "Onboarding Camb Mx", "attendees": ["carlos@camb.mx", "julia.diaz@draiver.com", "armando.flores@driverdo.com", "marcelo.trevino@driverdo.com", "michael.teixeira@draiver.com", "cristhian.herrera@draiver.com"]}
+]
