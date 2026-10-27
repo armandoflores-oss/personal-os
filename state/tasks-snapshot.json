@@ -1811,6 +1811,33 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "9eaa7cb658ce": {
+  "action": "responder",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-88",
+  "counterparty": "edenred",
+  "created": "2026-10-27T21:05:49+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Si gustas mañana 9 am ¿esta bien?",
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-10-26T17:12:34Z a edenred: «Sesión de Alineación Operativa Driver-Edenred»",
+    "ts": "2026-10-27T21:05:49+00:00"
+   }
+  ],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a1793a492f1eda5",
+  "status": "done",
+  "task_id": "9eaa7cb658ce",
+  "title": "Responder a Edenred: Sesión de Alineación Operativa Driver-Edenred",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "9eae31ab4f4f": {
   "action": "confirmar",
   "applied": false,
@@ -1975,6 +2002,27 @@
   "status": "done",
   "task_id": "a8f0c408501c",
   "title": "CARTA RESPONSIVA",
+  "vetoed": false,
+  "waiting_on": null
+ },
+ "b71bdc72bf53": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-87",
+  "counterparty": "element",
+  "created": "2026-10-27T21:05:49+00:00",
+  "domain": "pipeline-estrategico",
+  "due_date": null,
+  "evidence": "Re: Entregas 24- 26 de octubre\nHola Uri, Te comparto los cambios para esta semana.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a17a48004ef83ad",
+  "status": "open",
+  "task_id": "b71bdc72bf53",
+  "title": "Seguimiento con Element: Entregas 24- 26 de octubre",
   "vetoed": false,
   "waiting_on": null
  },

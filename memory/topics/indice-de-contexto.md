@@ -7,7 +7,7 @@ no_weave: true
 
 _Hechos durables que hay que tener presentes. Generado por `scripts/weave.py`; no editar a mano._
 
-**16 cards**
+**17 cards**
 
 - [[autosur|Autosur]]
 - [[bca-grid-ftl-n03|En la grid de BCA FTL, N03 (AI Pricing Engine) no tiene NINGUNA fila HAVE: 2 ADA]]
@@ -24,6 +24,7 @@ _Hechos durables que hay que tener presentes. Generado por `scripts/weave.py`; n
 - [[programa-nunca-pidas-editar|Armando no programa. Nunca le pidas editar JSON, YAML ni codigo a mano: dale un]]
 - [[temas-fiscales-constitucion|Los temas fiscales y de constitucion en Espana (COGESA, CNAE, razon social) no s]]
 - [[transcripciones-juntas-llegan|Transcripciones de juntas llegan por Drive, no por conector]]
+- [[unidad-util-hilo-respuesta|La unidad util es el hilo sin respuesta de Draiver]]
 - [[zapata-facturacion-maneja-marcelo|Facturación la maneja Marcelo]]
 
 ---

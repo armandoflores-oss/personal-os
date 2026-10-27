@@ -11,4 +11,5 @@
 ## Pipeline estratégico
 - **T-74** Seguimiento con Tesla: programación CDMX Q4 octubre (va con Uriel)
 - **T-81** Seguimiento con Kavak: facturas emitidas y conductores (automatización semanal)
+- **T-87** Seguimiento con Element: Entregas 24- 26 de octubre
 

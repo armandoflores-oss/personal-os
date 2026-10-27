@@ -7,13 +7,14 @@ no_weave: true
 
 _Todas las reglas que Armando ha dado. Se aplican solas; están aquí para discutirlas. Generado por `scripts/weave.py`; no editar a mano._
 
-**34 cards**
+**36 cards**
 
 - [[autorretiro-loop|Autorretiro del loop]]
 - [[avasa-monto-t-32|Corrige el monto de T-32, que quedó truncado por un error de captura: el pago de]]
 - [[borusan-ruido-clasificador|Borusan no es ruido: el clasificador suprimió 3 veces el hilo 'Borusan/Draiver']]
 - [[brief-maximo-lineas|Brief: máximo dos líneas por item]]
 - [[brief-recicla-tareas-perdio|El brief recicla tareas y perdió prioridades]]
+- [[comparto-envio-adjunto-presente|Un 'te comparto' / 'les envío' / 'adjunto' en presente es una entrega ya hecha,]]
 - [[confirmaciones-asistencia-evento|Las confirmaciones de asistencia a un evento no son accionables: no abrir tarea]]
 - [[confirmaciones-reserva-hotel|Confirmaciones de reserva (hotel, vuelo) son logística, no pendientes: no se con]]
 - [[consultar-antes-redactar|Consultar la wiki antes de redactar]]
@@ -35,6 +36,7 @@ _Todas las reglas que Armando ha dado. Se aplican solas; están aquí para discu
 - [[panel-llama-routines|El panel se llama Routines, no Scheduled]]
 - [[pase-semanal|Pase semanal]]
 - [[pedirle-aprobacion-cierre|No pedirle aprobacion en cada cierre de tarea: los comandos del Personal OS se c]]
+- [[personas-sistema-pone-juntas|Las personas que el sistema pone en juntas/comentarios no le aportan a Armando:]]
 - [[priorizar-rankings-operativos|Priorizar rankings operativos por unidades solicitadas/recolectadas, no por entr]]
 - [[quiere-avance-frenarlo-aprobaciones|Armando quiere que avance sin frenarlo con aprobaciones. Los diálogos que ve vie]]
 - [[repite-sistema-sirve|Armando repite que el sistema no sirve]]
