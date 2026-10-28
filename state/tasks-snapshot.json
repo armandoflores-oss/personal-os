@@ -1483,6 +1483,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "779ca9e71aca": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-91",
+  "counterparty": "vemo",
+  "created": "2026-10-28T16:58:58+00:00",
+  "domain": "reuniones-espana",
+  "due_date": null,
+  "evidence": "Voy a enviar mail a Charlotte Eisner/bolt y con ella hemos copnversado en ingles Te copio el mail Gerardo [snippet; hilo citado omitido]",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a183156ea582436",
+  "status": "open",
+  "task_id": "779ca9e71aca",
+  "title": "Seguimiento con Vemo: ¡Nos vemos en MAMS2026! Madrid Autonomous Mobility Summit 2026",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "7923801176a2": {
   "action": "enviar",
   "applied": false,

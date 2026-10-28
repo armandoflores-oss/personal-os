@@ -9,6 +9,9 @@
 ## Operación Kavak
 - **T-90** Enviar a Kavak: Hertz / Draiver: próximos pasos
 
+## Reuniones España
+- **T-91** Seguimiento con Vemo: ¡Nos vemos en MAMS2026! Madrid Autonomous Mobility Summit 2026
+
 ## Grandes deals / RFPs
 - **T-49** Dar seguimiento a Borusan (hilo Borusan/Draiver)
 
