@@ -4,6 +4,10 @@
 
 ## Cotizaciones y pendientes operativos
 - **T-77** Mandar la invitación de Teams a Garrigues: REPSE y plataformas digitales · esperando a Juliana / Garrigues
+- **T-89** Revisar a Pexcard: Alert: Suspicious activity for Jose Tiburcio Osorio
+
+## Operación Kavak
+- **T-90** Enviar a Kavak: Hertz / Draiver: próximos pasos
 
 ## Grandes deals / RFPs
 - **T-49** Dar seguimiento a Borusan (hilo Borusan/Draiver)
