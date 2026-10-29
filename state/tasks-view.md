@@ -6,17 +6,10 @@
 - **T-77** Mandar la invitación de Teams a Garrigues: REPSE y plataformas digitales · esperando a Juliana / Garrigues
 - **T-89** Revisar a Pexcard: Alert: Suspicious activity for Jose Tiburcio Osorio
 
-## Operación Kavak
-- **T-90** Enviar a Kavak: Hertz / Draiver: próximos pasos
-
-## Reuniones España
-- **T-91** Seguimiento con Vemo: ¡Nos vemos en MAMS2026! Madrid Autonomous Mobility Summit 2026
-
 ## Grandes deals / RFPs
 - **T-49** Dar seguimiento a Borusan (hilo Borusan/Draiver)
 
 ## Pipeline estratégico
 - **T-74** Seguimiento con Tesla: programación CDMX Q4 octubre (va con Uriel)
-- **T-81** Seguimiento con Kavak: facturas emitidas y conductores (automatización semanal)
 - **T-87** Seguimiento con Element: Entregas 24- 26 de octubre
 

@@ -295,11 +295,17 @@
   "domain": "operacion-kavak",
   "due_date": null,
   "evidence": "¿Podríais compartirnos alguna presentación con el detalle de la operativa, el enlace a la web desde la que se realiza el seguimiento de los servicios y los contactos de backoffice que darían soporte a",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-10-28T19:26:32Z a kavak: «RE: Hertz / Draiver: próximos pasos»",
+    "ts": "2026-10-29T10:05:22+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a18233c993aa243",
-  "status": "open",
+  "status": "done",
   "task_id": "190c96b2c094",
   "title": "Enviar a Kavak: Hertz / Draiver: próximos pasos",
   "vetoed": false,
@@ -1494,11 +1500,17 @@
   "domain": "reuniones-espana",
   "due_date": null,
   "evidence": "Voy a enviar mail a Charlotte Eisner/bolt y con ella hemos copnversado en ingles Te copio el mail Gerardo [snippet; hilo citado omitido]",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-10-28T19:26:32Z a vemo: «RE: Hertz / Draiver: próximos pasos»",
+    "ts": "2026-10-29T10:05:22+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a183156ea582436",
-  "status": "open",
+  "status": "done",
   "task_id": "779ca9e71aca",
   "title": "Seguimiento con Vemo: ¡Nos vemos en MAMS2026! Madrid Autonomous Mobility Summit 2026",
   "vetoed": false,
@@ -2677,11 +2689,17 @@
   "domain": "pipeline-estrategico",
   "due_date": null,
   "evidence": "Para los próximos meses voy a desarrollar un sistema de automatización para que puedas recibir esto semanalmente y mensualmente, en el caso de los clientes.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-10-28T19:26:32Z a kavak: «RE: Hertz / Draiver: próximos pasos»",
+    "ts": "2026-10-29T10:05:22+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a14167abcaaad25",
-  "status": "open",
+  "status": "done",
   "task_id": "ec8ecca446b4",
   "title": "Seguimiento con Kavak: facturas emitidas y conductores (automatización semanal)",
   "vetoed": false,
