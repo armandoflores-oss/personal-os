@@ -8,3 +8,4 @@
 {"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-10-29T10:05:26+00:00"}
 {"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-10-29T10:06:08+00:00"}
 {"cambiadas": 0, "cards": 122, "huerfanas": 0, "leg": "tejido", "ts": "2026-10-29T10:06:37+00:00"}
+{"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-10-29T10:06:40+00:00"}
