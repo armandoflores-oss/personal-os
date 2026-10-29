@@ -11,8 +11,8 @@ atención. Está aquí por si algún día quieres ver cómo creció._
 
 ## 2026-10-29
 
-  - Tamaño: 33 proyectos · 36 reglas · 17 contexto · 11 gente · 1 fuentes
-  - Sin cards nuevas.
+  - Tamaño: 33 proyectos · 37 reglas · 17 contexto · 11 gente · 1 fuentes
+  - **rules**: [[brief-llegar-dentro-app]]
 
 ## 2026-10-28
 

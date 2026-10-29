@@ -7,11 +7,12 @@ no_weave: true
 
 _Todas las reglas que Armando ha dado. Se aplican solas; están aquí para discutirlas. Generado por `scripts/weave.py`; no editar a mano._
 
-**36 cards**
+**37 cards**
 
 - [[autorretiro-loop|Autorretiro del loop]]
 - [[avasa-monto-t-32|Corrige el monto de T-32, que quedó truncado por un error de captura: el pago de]]
 - [[borusan-ruido-clasificador|Borusan no es ruido: el clasificador suprimió 3 veces el hilo 'Borusan/Draiver']]
+- [[brief-llegar-dentro-app|El brief tiene que llegar DENTRO de la app de Claude Code, no solo al DM de Slac]]
 - [[brief-maximo-lineas|Brief: máximo dos líneas por item]]
 - [[brief-recicla-tareas-perdio|El brief recicla tareas y perdió prioridades]]
 - [[comparto-envio-adjunto-presente|Un 'te comparto' / 'les envío' / 'adjunto' en presente es una entrega ya hecha,]]
