@@ -1,26 +1,21 @@
 Onboarding Camb Mx - 2026/10/27 10:58 CST - Notes by Gemini
-
 Oct 27, 2026
-Invited: carlos@camb.mx, Julia Diaz (julia.diaz@draiver.com), Armando Flores (armando.flores@draiver.com), Marcelo Trevino (marcelo.trevino@driverdo.com), Michael Teixeira (michael.teixeira@draiver.com), Cristhian Herrera (cristhian.herrera@draiver.com)
+Invited: carlos@camb.mx, Julia Diaz, Armando Flores, Marcelo Trevino, Michael Teixeira, Cristhian Herrera
 
-### Summary
+Summary
 Financial overview covered regional responsibilities and verified billing via Salesforce integration.
 Financial Overview and Regions: Financial overview established regional responsibilities for multiple countries and outlined operational driver onboarding steps.
 Billing and Pricing Verification: Billing entries were reviewed for correctness and fixed price structures were confirmed for transactions.
 System Integration and Processes: Administrative communication and financial documentation led to finalized system processes for connecting drivers.
 
-### Next steps
+Next steps
 - [Marcelo Trevino] Review Finance Documents: Review and process financial documents for the project. Ensure all documentation is correctly updated for the financial overview.
 - [Julia Diaz] Manage Driver Data: Manage the release records and trip data for drivers. Coordinate the necessary updates for driver accountability.
 - [The group] Sync Salesforce Data: Connect driver records and related information to the Salesforce platform. Ensure all relevant data is properly synchronized within the system.
 
-### Details
-Meeting Introductions and Language Settings: Cristhian Herrera opened the meeting and advised Michael Teixeira that they could adjust their language settings as needed. Michael Teixeira noted that they speak both English and Spanish. Following these introductory remarks, Cristhian Herrera asked Carlos Muñoz to provide a financial overview.
-
-Regional Responsibilities and Driver Onboarding: Cristhian Herrera outlined regional responsibilities for the Chief Business Officer covering the United States, Canada, Brazil, and Mexico. Armando Flores discussed operational steps starting in Cancun regarding driver management. Cristhian Herrera and Armando Flores discussed utilizing Salesforce to manage customer drivers and economy workers.
-
-Billing and Fixed Pricing Verification: Cristhian Herrera emphasized the importance of accurate billing. Marcelo Trevino and Carlos Muñoz reviewed Salesforce system entries for correctness, and Julia Diaz pointed out an incorrect entry. Cristhian Herrera and Armando Flores discussed and confirmed a fixed price structure for transactions.
-
-Administrative Communication, Financials, and System Integration: Armando Flores noted that WhatsApp is used for administrative tasks. Armando Flores and Cristhian Herrera discussed driver advances, referred to as anticipos. Marcelo Trevino provided financial documentation, while Julia Diaz discussed driver releases and trips. Carlos Muñoz and Cristhian Herrera addressed connecting drivers through Salesforce and finalizing system processes before Julia Diaz, Armando Flores, and Michael Teixeira concluded the meeting with farewells.
-
-[Transcript: machine transcription was largely unintelligible (mixed-language audio); omitted. Transcription ended after 00:48:17.]
+Details
+Meeting Introductions and Language Settings: Cristhian Herrera opened; Michael Teixeira speaks English and Spanish; Carlos Muñoz asked for a financial overview.
+Regional Responsibilities and Driver Onboarding: Chief Business Officer covering US, Canada, Brazil, Mexico. Armando Flores discussed operational steps starting in Cancun regarding driver management. Salesforce to manage customer drivers.
+Billing and Fixed Pricing Verification: Salesforce entries reviewed; Julia Diaz pointed out an incorrect entry; fixed price structure confirmed by Cristhian Herrera and Armando Flores.
+Administrative Communication, Financials, and System Integration: WhatsApp for administrative tasks; driver advances (anticipos); Marcelo Trevino provided financial documentation; Julia Diaz on driver releases and trips; connecting drivers through Salesforce.
+(Raw transcript mostly unintelligible due to mixed-language recognition; omitted.)

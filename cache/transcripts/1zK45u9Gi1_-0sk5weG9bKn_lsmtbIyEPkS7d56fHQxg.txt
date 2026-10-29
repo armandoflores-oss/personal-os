@@ -1,44 +1,33 @@
 Diaria Spain Launch - 2026/10/26 08:30 CST - Notes by Gemini
-
 oct 26, 2026
-Invitado: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
+Invitados: Daniel Escribano, Armando Flores, Artur Morais
 
-### Resumen
+Resumen
 Revisión de errores técnicos y gestión de tarifas y transporte
 Errores técnicos de caché: Fallo en la opción de cotización persistió tras limpiar la caché. Bloqueo total al intentar iniciar sesión.
 Gestión de tarifas y Wati: Propuesta de crear cuentas especiales para grandes clientes. Control de comunicaciones en Wati.
 Cancelación de transporte y viaje: Cancelación de servicio por desacuerdo en la modalidad del vehículo. Coordinación de viaje a Madrid.
 
-### Decisiones
-## Requiere más debate
-- Estructuración de cuentas para tarifas personalizadas: Se propuso crear cuentas generales separadas para gestionar las tarifas personalizadas, quedando pendiente de pruebas técnicas para verificar el funcionamiento de las cotizaciones.
-## Acordada
-- Modificación en el envío de listas de pago: Se acordó dejar de utilizar archivos adjuntos para enviar las listas de pago, sustituyéndolo por el reenvío directo del correo electrónico.
+Decisiones
+Requiere más debate
+- Estructuración de cuentas para tarifas personalizadas: crear cuentas generales separadas para gestionar las tarifas personalizadas, pendiente de pruebas técnicas para verificar cotizaciones.
+Acordada
+- Modificación en el envío de listas de pago: dejar de utilizar archivos adjuntos para enviar las listas de pago; reenvío directo del correo electrónico.
 
-### Próximos pasos
+Próximos pasos
 - [Daniel Escribano] Crear cuenta Sissa: Solicitar los datos de la cuenta de Sissa a Cristina para crearla en el sistema de ventas.
-- [Artur Morais] Revisar Wati: Revisar las conversaciones técnicas en Wati para identificar problemas operativas.
+- [Artur Morais] Revisar Wati: Revisar las conversaciones técnicas en Wati para identificar problemas operativos.
 - [Artur Morais] Confirmar precios: Revisar los movimientos realizados a principios de mes para confirmar la corrección de precios e impuestos antes de la facturación.
 - [Artur Morais] Automatizar pagos: Enviar correos directamente a Pablo y al equipo con la lista de pagos en lugar de utilizar archivos adjuntos.
 - [Daniel Escribano] Investigar error: Escuchar la llamada relacionada con el transporte cancelado para determinar si el error fue de Beatriz o del cliente.
 
-### Detalles
-Error en la opción de cotización y limpieza de caché: El problema analizado surge cuando un cliente experimenta un fallo al hacer clic en la opción de cotización, lo cual impide que el movimiento se guarde correctamente. Daniel Escribano señala que el fallo persiste con el cliente, mientras que Artur Morais sospecha de un problema de caché. Ante la dificultad de Daniel para usar el método habitual en Mac, Artur detalla el procedimiento correcto (hacer clic en cualquier parte, abrir el inspector y hacer clic derecho en el botón de recarga para forzar el vaciado de caché). Daniel ejecuta la acción siguiendo las indicaciones de Artur.
-
-Pruebas de movimiento e inicio de sesión: Tras limpiar la caché, Daniel Escribano realiza una prueba de movimiento de Madrid a Barcelona, pero la opción de cotización vuelve a fallar. Al intentar cerrar e iniciar sesión nuevamente, Daniel experimenta un bloqueo total que le impide acceder incluso mediante su cuenta de Google. Ante esta incidencia, Daniel decide grabar un vídeo de la pantalla para mostrárselo al equipo técnico.
-
-Gestión de tarifas exclusivas para clientes: El problema radica en la gestión de tarifas personalizadas y exclusivas para cuentas específicas como Sirsa y Flexicar desde la cuenta general. Daniel Escribano detalla que Sirsa cuenta con tarifas exclusivas renegociadas cuyo visto bueno fue enviado a Eurotransport Car, al igual que Flexicar y grandes cuentas. Artur Morais propone crear una cuenta general para grandes cuentas y otra especial para Flexicar. Asimismo, Artur indica que necesita los datos de Sirsa para crear la cuenta en el sistema, por lo que Daniel se compromete a solicitárselos a Cristina, junto con todos los números de identificación fiscal necesarios.
-
-Gestión de conversaciones de Wati y solicitudes de documentación de clientes: Se aborda el control de las comunicaciones de Wati y la falta de documentación urgente por parte de Clicars y Harman. Daniel Escribano se encarga de responder las consultas operativas y comerciales en Wati, mientras que las técnicas se derivan a Artur Morais. Respecto a Harman, el problema principal es la ausencia del justificante de pago del seguro de responsabilidad civil, el cual puede demorar hasta 30 días en reflejarse porque el recibo aún no ha sido cargado. Como solución temporal acordada con Harman, Daniel envía una póliza de seguro propia de la empresa para los vehículos, buscando tranquilizar a la contraparte mientras esperan el cobro oficial del recibo.
-
-Frustración por retrasos burocráticos y estado de Armando: Daniel Escribano expresa su frustración el 26 de octubre debido a los retrasos acumulados desde el 1 de octubre y el evento del 17 de octubre, los cuales obstaculizan el cumplimiento de los objetivos anuales en España por depender de factores externos y burocracia con grandes cuentas. Artur Morais coincide en que los procesos con grandes cuentas implican una burocracia inevitable antes de operar. Adicionalmente, Daniel menciona que Armando no ha respondido a los mensajes de WhatsApp, posiblemente debido a un retraso en el vuelo.
-
-Pruebas de registro de documentos y verificación fotográfica: Artur Morais plantea la necesidad de realizar pruebas de registro adicionales utilizando el proveedor de vales para validar correctamente el procesamiento de fotos y documentos de identidad. Artur señala que anteriormente algunas fotografías superaban el límite de megabytes reconocido por la aplicación. Daniel Escribano ofrece su apoyo para realizar dichas pruebas de validación.
-
-Verificación de precios e impuestos y simplificación de notificaciones de pago: Artur Morais planea dedicar medio día a revisar los movimientos de principios de mes para confirmar que la tarifación, los impuestos y los precios son correctos antes de la facturación a clientes a final de semana. Adicionalmente, para solucionar que Pablo no revisaba los archivos adjuntos, Artur propone enviar los correos con la lista de pagos y los datos de los conductores directamente como reenvío de correo electrónico a Pablo y al equipo, colocando a Daniel Escribano en copia para asegurar el seguimiento adecuado.
-
-Cancelación de transporte por desacuerdo en la modalidad del vehículo: Se discute la incidencia con el transporte de un coche antiguo en el que un conductor interesado no pudo realizar el servicio porque la ubicación de entrega estaba en el campo sin opciones de retorno. Al contactar al cliente final, se descubre que este último no deseaba un transporte rodado sino en grúa. Daniel Escribano consulta el caso con Beatriz y, tras confirmar que ni el cliente ni el cliente final aceptaban la modalidad rodada, Daniel procede a cancelar el servicio. Daniel valora positivamente la cancelación debido a que se trataba de una reliquia cuyo funcionamiento se desconoce, lo que habría generado reclamaciones y costes por cancelación si el conductor se hubiera presentado.
-
-Planificación del viaje a Madrid y logística de oficina: Artur Morais y Daniel Escribano coordinan los detalles para su presencia en la oficina de Madrid durante el miércoles y jueves de esa semana. Artur confirma la compra de sus billetes de tren para estar en Madrid todo el día y detalla su llegada a las 10:30 de la mañana del miércoles. Daniel confirma su disponibilidad para ambos días, especificando que el miércoles debe retirarse a las 18:30 a más tardar debido a un entrenamiento a las 19:15. Finalmente, discuten la logística de recogida en la estación de San Chamartín o encuentro directo en la oficina según el estado del tráfico.
-
-[Transcripción literal omitida en este depósito; disponible en el doc de Drive.]
+Detalles
+Error en la opción de cotización y limpieza de caché: al hacer clic en cotización el movimiento no se guarda; persiste tras vaciar caché.
+Pruebas de movimiento e inicio de sesión: prueba Madrid-Barcelona falla; Daniel queda bloqueado al iniciar sesión con Google; graba vídeo para el equipo técnico.
+Gestión de tarifas exclusivas para clientes: Sirsa y Flexicar con tarifas exclusivas; tarifas de grandes cuentas. Artur propone cuenta general de grandes cuentas y otra para Flexicar; necesita datos de Sirsa (Daniel los pide a Cristina, con CIFs). Sirsa: OK enviado, todo mandado a Eurotransport Car para empezar.
+Gestión de Wati y documentación de clientes: Daniel responde operativas/comerciales; técnicas a Artur. Falta documentación de Clicars y Harman (justificante de pago del seguro de RC; puede tardar hasta 30 días). Daniel envió póliza propia como solución temporal.
+Frustración por retrasos: Daniel frustrado por retrasos desde el 1 de octubre y el evento del 17; objetivo anual de España en riesgo. Daniel mencionó que Armando no había respondido WhatsApp (posible retraso de vuelo).
+Pruebas de registro de documentos: Artur necesita más pruebas de registro con el proveedor de verificación (fotos, documentos españoles, tamaño en MB).
+Verificación de precios e impuestos: Artur revisará movimientos de principios de mes antes de facturar a fin de semana; listas de pago por correo directo a Pablo con Daniel en copia.
+Cancelación de transporte: coche antiguo; cliente final lo quería en grúa, no rodado; cancelado.
+Viaje a Madrid: Artur en la oficina de Madrid miércoles y jueves (llega 10:30 el miércoles); Daniel disponible, sale miércoles a las 18:30; "a ver qué dice Armando".

@@ -1,36 +1,30 @@
 Back office Spain - 2026/10/23 09:59 EDT - Notes by Gemini
-
 Oct 23, 2026
-Invited: Daniel Escribano (daniel.escribano@draiver.com), Jaqueline Sanches (jaqueline.sanches@draiver.com), Armando Flores (armando.flores@driverdo.com), Rafael Pagliuso De Andrade (rafael.andrade@driverdo.com), Cristhian Herrera (cristhian.herrera@draiver.com), Dan Rizzo (dan.rizzo@draiver.com)
+Invited: Daniel Escribano, Jaqueline Sanches, Armando Flores, Rafael Pagliuso De Andrade, Cristhian Herrera, Dan Rizzo
 
-### Summary
-Spain support operations reviewed with volume capacity and staffing strategies and financial expense consolidation plans
-Spain Support Operations Volume: Existing team handles inbound requests using current capacity and artificial intelligence tools while monitoring volume data.
-Staffing Schedule Salesforce Access: Coverage aligns with operating hours while Salesforce redirection and artificial intelligence integration details require verification.
+Summary
+Spain support operations reviewed with volume capacity and staffing strategies and financial expense consolidation plans.
+Spain Support Operations Volume: Existing team handles inbound requests using current capacity and AI tools while monitoring volume data.
+Staffing Schedule Salesforce Access: Coverage aligns with operating hours while Salesforce redirection and AI integration details require verification.
 Financial Expense Consolidation Plans: Financial consolidation begins in November with expenses booked directly into the entity using NetSuite.
 
-### Decisions
-## Needs Further Discussion
-- Timeline for Finote financial consolidation: The group discussed whether financial consolidation with Finote should start in November or be rushed for the first month's closing, pending Cristhian's confirmation with Victor.
-## Aligned
-- Prioritization of SOP and AI tools: The team aligned to prioritize setting up documentation, SOPs, and AI tools for WhatsApp and the app to handle initial support for Spain.
-- Absorption of Spain support volume: The team agreed that the current support team capacity can absorb the low initial trip volume in Spain without hiring a full-time dedicated person at this stage.
-- Geographic location for future support: The participants agreed that if a support hire is needed in the future for Spain, the position should be located outside of Spain in regions like Argentina or Brazil to optimize costs and time zone differences.
-- Rescheduling of meeting to Wednesdays: Rafael agreed to change the recurring meeting schedule to Wednesdays in order to include the Finote team.
+Decisions
+Needs Further Discussion
+- Timeline for Finote financial consolidation: November vs rushed for first month's closing, pending Cristhian's confirmation with Victor.
+Aligned
+- Prioritization of SOP and AI tools for WhatsApp and the app to handle initial support for Spain.
+- Absorption of Spain support volume by current support team; no full-time dedicated hire at this stage.
+- Geographic location for future support: if a hire is needed, located outside Spain (Argentina or Brazil).
+- Rescheduling of meeting to Wednesdays to include the Finote team.
 
-### Next steps
+Next steps
 - [Dan Rizzo] Update Support Documentation: Facilitate the creation of standard operating procedures and implement AI tools for the Spain support team. Oversee the integration of support resources into the existing application and WhatsApp framework.
 - [Dan Rizzo] Consult Thiago: Verify with Thiago if the artificial intelligence activity can be directed to a separate Salesforce URL. Confirm the technical requirements for the Spain entity instance.
 - [Cristhian Herrera] Book Monthly Expenses: Record all financial expenses within the entity for the current month. Ensure the ledger accurately reflects the costs provided by the partner.
 - [Cristhian Herrera] Clarify Financial Plans: Confirm with Victor the timeline for financial consolidation and expense allocation steps. Provide an update once the details regarding the support team allocation are resolved.
 
-### Details
-Spain Support Operations and Current Volume: Dan Rizzo raised the immediate priority of establishing documentation and artificial intelligence tools within the app and via WhatsApp to handle incoming support. Armando Flores noted that Danny and part of Arthur currently handle inbound support. The underlying problem involved managing support requests for Spain given a low current volume of only a couple of trips per day. Armando Flores argued that the current support team could absorb this volume without needing a dedicated full-time employee, while Dan Rizzo expressed concern about maintaining service quality if volume spikes unexpectedly. Jaqueline Sanches confirmed that all support roles are currently filled except for one open position undergoing replacement with an in-house candidate. The consensus reached was that the existing team will handle inbound requests using current capacity, leveraging artificial intelligence tools to filter requests, while monitoring volume data to decide if future adjustments are necessary.
-
-Staffing Schedule and Salesforce Access for Spain Operations: The meeting addressed the operational challenges of a seven-hour time difference between the support team and Spain. Dan Rizzo noted that current staffing is heavily weighted toward United States and Mexico operating hours, with lighter coverage in early mornings and late evenings. Jaqueline Sanches stated that support coverage runs almost twenty-four-seven, operating until ten or eleven PM on weekdays, eight or nine PM on Saturdays, and five or six PM on some days. Armando Flores and Daniel Escribano noted that weekend volume is not anticipated, though Daniel Escribano confirmed trips are possible on Saturdays but not Sundays. Regarding systems, Dan Rizzo highlighted that a unique instance of Salesforce is used for Spain, requiring confirmation that the support team has proper access. Dan Rizzo agreed to verify Salesforce universal resource locator redirection and artificial intelligence integration details with Thiago.
-
-Future Support Hiring Strategy and Location: Dan Rizzo inquired whether future support staff for Spain should be hired locally. Armando Flores argued that cost-wise, hiring outside of Spain would be more economical. Jaqueline Sanches suggested looking into candidates in Argentina or Brazil to minimize the time zone gap. The consensus was to prioritize setting up standard operating procedures and artificial intelligence tools first, monitor incoming volume data to assess local team coverage versus support hours, and defer new hiring until volume justifies a dedicated position.
-
-Financial Consolidation and Expense Booking with Finote: Rafael Pagliuso De Andrade announced a change to move the meeting to Wednesdays to include the Finote team for financial reviews. Cristhian Herrera explained that Finote will continue running independently for the current month, with financial consolidation scheduled to begin in November, pending confirmation from Victor. Cristhian Herrera stated that their plan for the current month is to book expenses directly into the entity using NetSuite. Dan Rizzo and Armando Flores discussed the need for cost allocations related to the support team and management for Spain. Armando Flores noted that Spain currently has no management allocation, and Cristhian Herrera agreed to confirm the exact steps for booking expenses, consolidation, and subsequent allocations with Victor before finalizing details.
-
-[Transcript omitted in this deposit; available in the Drive doc.]
+Details
+Spain Support Operations and Current Volume: Dan Rizzo prioritized documentation and AI tools in the app and WhatsApp. Armando Flores noted Danny and part of Arthur handle inbound today and argued the current support team could absorb a couple of trips/day without a dedicated FTE. Jaqueline Sanches: one open position being replaced in-house.
+Staffing Schedule and Salesforce Access: 7-hour time difference; coverage ~until 10-11pm weekdays, 8-9pm Saturdays. Saturday trips possible, not Sundays. Unique Salesforce instance for Spain; Dan Rizzo to verify URL redirection and AI integration with Thiago.
+Future Support Hiring Strategy: Armando Flores: cost-wise hire outside Spain; Jaqueline suggested Argentina or Brazil. Defer hiring until volume justifies.
+Financial Consolidation with Finote: meeting moves to Wednesdays. Cristhian Herrera: book expenses directly into the entity in NetSuite; consolidation possibly November, pending Victor. Armando Flores noted Spain has no management allocation (confirmed with Pao); support allocation to Spain to be defined.

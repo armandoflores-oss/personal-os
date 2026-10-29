@@ -1,0 +1,49 @@
+Spain Support – Global Support team scope - 2026/10/28 15:00 CET - Notes by Gemini
+Oct 28, 2026
+Invitados: Artur Morais, Larissa Carvalho, Dan Rizzo, Paola Marin, Armando Flores, Juliana Coelho, Felipe Martini
+
+Summary
+Artificial intelligence knowledge base deployment and Spain operations expansion reviewed via infrastructure integration discussions.
+
+AI Knowledge Base and Infrastructure
+- Juliana completed the AI knowledge base and coordinated with the AI team.
+- The AI infrastructure integrates HubSpot and SuperSet, mirroring deployments in Brazil and Mexico.
+- Slack notification workflows and chat automations align with established international system standards.
+
+Spain Operations and Business Rules
+- Hartman and Hertz integrations project 200 to 400 transports per week locally.
+- Initial transports generate heavy support demand during a 2-hour window as drivers learn the app.
+- Juliana requires Spain-specific legal regulations, business rules, and client contracts to configure custom workflows.
+- Artur schedules a meeting with Danny to identify unmapped operational challenges in Spain.
+
+AI Deployment Timeline and Contingency Plan
+- Thiago estimated a 4 to 6-week development window for the AI chat feature on October 15.
+- Targeting an AI launch by the end of next month, pending sprint schedule confirmation.
+- Management will hire a local area manager if the AI deployment misses the customer launch window.
+
+Decisions
+Needs Further Discussion
+- Timeline for AI feature launch: launching the AI chat feature for Spain by late November, final schedule confirmation deferred pending verification with Thiago.
+Aligned
+- Replication of regional infrastructure for Spain: same HubSpot, Livia, and Slack notification infrastructure as Brazil and Mexico.
+
+Next steps
+- [Juliana Coelho] Send Knowledge Base: Provide the AI knowledge base link to the team.
+- [Juliana Coelho] Confirm AI Timeline: Consult with Thiago to establish a clear project development timeline.
+- [Juliana Coelho] Coordinate AI Meeting: Arrange a meeting with Thiago and the AI team to ensure proper alignment on client requirements.
+- [Juliana Coelho] Share HubSpot Documentation: Send documentation explaining ticket management and infrastructure processes.
+- [The group] Submit Spain Documentation: Send all available business rules, legal requirements, and client contracts regarding Spain operations to Juliana.
+- [Artur Morais] Review Business Rules: Analyze current documentation to identify additional requirements for the project.
+- [Artur Morais] Meet With Danny: Schedule a meeting with Danny to identify and document complex operational problems.
+
+Details
+AI Knowledge Base Status: Juliana Coelho finished the AI knowledge base and will send the link; talked to Thiago and Edu from the AI team. Artur Morais suggested a conversation with Danny about Spain operations, yard specifics and unmapped problems.
+Business Rules and Documentation for Spain Operations: Juliana Coelho requested documentation, legal specifics, business rules and client contracts (e.g. Kavak, Pinsky) to handle cases such as dry runs going to area managers vs support. Artur Morais agreed to review what they have and schedule a follow-up with Danny.
+Spain Transport Challenges and Volume Projections: initial transports in Spain require disproportionate problem-solving (new drivers, new customers, concentrated two-hour window). Armando Flores and Artur Morais said upcoming closures, including Hartman and Hertz, would push local volume to 200-400 transports per week via Flexiart. Armando Flores stated that if the AI could not resolve initial support needs, they would hire an area manager locally to handle level-two escalations.
+Technical Infrastructure and HubSpot Integration: AI voice and live chat synced with HubSpot; data in SuperSet; same infrastructure as Brazil and Mexico. Dan Rizzo clarified with Armando Flores that the system involves the AI hooking up through WhatsApp and a new Salesforce instance.
+Implementation Timeline Estimates: Thiago's Oct 15 estimate was 4-6 weeks; worst case end of November. Juliana Coelho could not give a hard date without checking Thiago's sprint.
+
+Transcript excerpts (Armando Flores):
+"processing that part. So that would be the only thing we need to agree with Thiago. Since we are closing a couple of large customers uh in the next couple of weeks, we do need that part sold. Uh else we will need to hire someone locally then."
+"Uh so we're planning to close right now Hartman. Uh Herz is also wanted to start here. So we we expect to do maybe uh yeah Flexiart maybe between 200 and 400 transports per week here locally."
+"If not we will get into into trouble and we will move then uh to hire an area manager uh perhaps locally on that side."
