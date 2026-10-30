@@ -7,7 +7,7 @@ no_weave: true
 
 _Hechos durables que hay que tener presentes. Generado por `scripts/weave.py`; no editar a mano._
 
-**17 cards**
+**18 cards**
 
 - [[autosur|Autosur]]
 - [[bca-grid-ftl-n03|En la grid de BCA FTL, N03 (AI Pricing Engine) no tiene NINGUNA fila HAVE: 2 ADA]]
@@ -16,6 +16,7 @@ _Hechos durables que hay que tener presentes. Generado por `scripts/weave.py`; n
 - [[brief-entrega-dm|El brief se entrega por DM de Slack]]
 - [[decision-permisos-rutinas|Decisión de permisos para rutinas desatendidas]]
 - [[dominios-correo-buzon|Los dos dominios de correo de Armando son un solo buzón]]
+- [[fuera-semana-2-6|Armando fuera la semana del 2 al 6 de noviembre de 2026; no agendar juntas esa s]]
 - [[jornada-laboral-08|Jornada laboral de Armando: 08:30–19:00 CDMX]]
 - [[jose-duran-clientes-resguardo-lleva|Clientes de resguardo los lleva José Durán]]
 - [[kavak-draiverdo-espana-estructura|DRAIVERDO España — estructura y modelo operativo]]

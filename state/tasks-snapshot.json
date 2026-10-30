@@ -1371,6 +1371,33 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "705d3174e005": {
+  "action": "responder",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-93",
+  "counterparty": "nrfm",
+  "created": "2026-10-30T09:47:16+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Cualquier asunto urgente favor de contactar a: Remarketing: Ana Libertad Vázquez, ana.vazquezmacias@nrfm.com.mx.",
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-10-30T09:41:19Z a nrfm: «RE: Draiver Logística NR Finance»",
+    "ts": "2026-10-30T09:47:16+00:00"
+   }
+  ],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a18c3234925744d",
+  "status": "done",
+  "task_id": "705d3174e005",
+  "title": "Responder a Nrfm: Respuesta automática: Draiver Logística NR Finance",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "71be9a163a47": {
   "action": "otro",
   "applied": false,
@@ -2459,6 +2486,27 @@
   "status": "done",
   "task_id": "db621e54c2c5",
   "title": "Sembrar datos en Mascot Spain antes del ensayo: lote de ordenes para el plan multi-movimiento, un proveedor aprobado dado de alta como operador, y un viaje de camion con VINs cargados",
+  "vetoed": false,
+  "waiting_on": null
+ },
+ "dfb9ace1e790": {
+  "action": "otro",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-92",
+  "counterparty": "iryo",
+  "created": "2026-10-30T09:47:16+00:00",
+  "domain": "reuniones-espana",
+  "due_date": null,
+  "evidence": "Desde iryo, vamos a proceder a la cancelación y devolución automática de todos los billetes afectados.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a18c0379e252f03",
+  "status": "open",
+  "task_id": "dfb9ace1e790",
+  "title": "Seguimiento con Iryo: Información importante sobre tu reserva 353ERM/Important information about your booking",
   "vetoed": false,
   "waiting_on": null
  },
