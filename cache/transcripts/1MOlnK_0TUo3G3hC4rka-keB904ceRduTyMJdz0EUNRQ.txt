@@ -1,19 +1,31 @@
 Daily Huddle - Ops MX - 2026/10/28 09:15 CST - Notes by Gemini
-Oct 28, 2026
-Invited: Uriel Vargas, Cristian Arizmendi, Julia Diaz, Armando Flores, Diego Diaz, Camila Flores, Jose Duran, Gerardo Acosta
 
-Summary
-Hotspot configuration review and application verification via driver checks.
-Hotspot and Driver Setup: Discussion on setting up hotspot configuration and initial setup process.
-Application and Report Review: Review of application details, platforms, and Google drivers report status.
-Profile and Insurance Verification: Examination of driver photos, profiles, and conclusion with insurance documents.
+Oct 28, 2026
+Invited: Uriel Vargas (uriel.vargas@driverdo.com), Cristian Arizmendi (cristian.arizmendi@driverdo.com), Julia Diaz (julia.diaz@draiver.com), Armando Flores (armando.flores@draiver.com), Diego Diaz (diego.diaz@draiver.com), Camila Flores (camila.flores@draiver.com), Jose Duran (jose.duran@driverdo.com), Gerardo Acosta (gerardo.acosta@kavak.com)
+
+Quick notes
+Hotspot configuration review and application verification via driver checks
+
+Document and platform references
+- WhatsApp and Facebook Marketplace were referenced during the session.
+- An insurance document was briefly mentioned.
 
 Next steps
 No suggested next steps were found for this meeting.
 
+Summary
+Hotspot configuration review and application verification via driver checks
+Hotspot and Driver Setup: Discussion on setting up hotspot configuration and initial setup process.
+Application and Report Review: Review of application details, platforms, and Google drivers report status.
+Profile and Insurance Verification: Examination of driver photos, profiles, and conclusion with insurance documents.
+
 Details
-Hotspot and Driver Configuration: Julia Diaz, Cristian Arizmendi, Camila Flores, and Jose Duran discuss setting up a hotspot configuration.
-Application and Contact Verification: review of application details, WhatsApp; references to Rodriguez and Sanchez.
-Google Drivers and VNA Report Review: Diego Diaz reports on the drivers; report details and status confirmed.
-Photo and Marketplace Profile Verification: Jose Duran and Julia Diaz examine driver photos and profiles (Brian Martinez, Facebook Marketplace, Vanessa).
-Tesla and Insurance Document Verification: Tesla vehicle, camera checks; Francisco and Oscar; review of insurance documents.
+Hotspot and Driver Configuration: Julia Diaz, Cristian Arizmendi, Camila Flores, and Jose Duran discuss setting up a hotspot configuration. Camila Flores mentions drivers and configuration settings, while Julia Diaz asks about thumbnails and configuration details. They work through the initial setup process together.
+
+Application and Contact Verification: Cristian Arizmendi, Julia Diaz, Camila Flores, and Jose Duran review application details, mentioning platforms like WhatsApp. Cristian Arizmendi and Julia Diaz reference specific names including Rodriguez and Sanchez while navigating the verification process on their screens. They coordinate to move forward with the application steps.
+
+Google Drivers and VNA Report Review: Diego Diaz joins the discussion with Julia Diaz, Cristian Arizmendi, Camila Flores, and Jose Duran to review Google drivers and a VNA report. Diego Diaz reports on the drivers, and they confirm the report details and status collaboratively.
+
+Photo and Marketplace Profile Verification: Jose Duran and Julia Diaz examine driver photos and profiles, explicitly mentioning Brian Martinez, Facebook Marketplace, and Vanessa. Jose Duran coordinates the photo verification steps while Julia Diaz reviews the voice and visual matches on WhatsApp, confirming details through the platform. They finalize this verification phase together.
+
+Tesla and Insurance Document Verification: Julia Diaz, Jose Duran, Cristian Arizmendi, Camila Flores, and Diego Diaz discuss a Tesla vehicle and coordinate camera checks. Camila Flores and Cristian Arizmendi mention verification steps involving individuals named Francisco and Oscar, and they conclude the meeting with the review of insurance documents.

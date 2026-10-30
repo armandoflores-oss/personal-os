@@ -1,6 +1,7 @@
 Sesión de Alineación Operativa Driver-Edenred - 2026/10/27 09:00 CST - Notes by Gemini
+
 oct 27, 2026
-Invitados: juan.goncalves@edenred.com, Julia Diaz, Armando Flores, randy.calzadilla@edenred.com, Jose Duran, clara.veloza@edenred.com
+Invitados: juan.goncalves@edenred.com, Julia Diaz (julia.diaz@draiver.com), Armando Flores (armando.flores@driverdo.com), randy.calzadilla@edenred.com, Jose Duran (jose.duran@draiver.com), clara.veloza@edenred.com
 
 Resumen
 Presentación de servicios con definición de logística y coordinación de prueba piloto.
@@ -10,10 +11,10 @@ Herramientas y prueba piloto: Acuerdos operativos mediante hojas de cálculo y v
 
 Decisiones
 Requiere más debate
-- Alcance del servicio de verificación vehicular: inclusión del trámite completo de verificación junto con el servicio de valet, pendiente de validación interna con los directivos.
-- Definición de fecha y zonas del piloto: sujeto a revisión interna de fechas y zonas con los directivos.
+- Alcance del servicio de verificación vehicular: La inclusión del trámite completo de verificación vehicular junto con el servicio de ballet quedó pendiente de validación interna con los directivos.
+- Definición de fecha y zonas del piloto: El inicio formal de la prueba piloto quedó sujeto a la revisión interna de las fechas y zonas específicas con los directivos.
 Acordada
-- Gestión de servicios urgentes same-day en zonas de alta cobertura como Ciudad de México y Monterrey.
+- Gestión de servicios urgentes same-day: Se acordó que la plataforma cubrirá solicitudes de traslados urgentes el mismo día (same-day) en zonas de alta cobertura como Ciudad de México y Monterrey.
 
 Próximos pasos
 - [Julia Diaz] Compartir Google Sheet: Enviar la plantilla del archivo con los requerimientos necesarios para las solicitudes de servicio.
@@ -22,11 +23,20 @@ Próximos pasos
 - [Randy Calzadilla] Enviar ubicaciones: Proporcionar el listado de las ubicaciones correspondientes a los centros operativos para la ejecución del servicio.
 
 Detalles
-Presentaciones: Randy Calzadilla (responsable de operación de mantenimiento), Arlet Tovar (atención a cliente, flota Telmex zona norte y filiales centro), Jose Duran (Area Manager Draiver).
-Plataforma Draiver: ~130,000 conductores, 24/7, marketplace; operaciones en EE.UU., Brasil, México y abriendo España (Armando lleva el proyecto). Se propone piloto para validar tiempos, protocolos y alcance con Telmex.
-Proceso operativo: solicitudes en Google Sheet + WhatsApp. Datos: VIN, marca, modelo, tipo, placas, origen/destino con contactos, fecha. Estándar: un día antes (antes de las 17h).
-Same day: operación reactiva de Telmex (tickets a las 9am para recolección a mediodía). Julia: ~60% de cobertura same day (como con Kavak, Tesla, Ford). Zonas urgentes: centro CDMX (Villa Longín, Parque Vía, Nicasio Zabaleta) y Monterrey.
-Causas de urgencia: unidades corporativas y sindicalizadas; preventivos y verificaciones de último momento. Verificación integral a evaluar con Juan y Clara; inicio solo con valet.
-Volumen: ~800 servicios/mes, ≥500 con algún tipo de valet (cifra por confirmar). Orígenes: ~7 puntos fijos (centro, Cuautitlán Izcalli, Ecatepec/Vía Morelos); destinos de lista de afiliados.
-Herramientas: tracker y BOL con fotos en el Google Sheet; Randy ya lo conocía por sesión previa con Armando.
-Siguientes pasos: Julia comparte Sheet; Randy compartió teléfonos (suyo y de Arlet) y cerrará zonas y fecha con Clara y Juan.
+Presentaciones y roles: Randy Calzadilla se presentó como responsable de operación en mantenimiento, encargándose de coordinar eventos y solicitudes de servicios preventivos y correctivos desde la plataforma hasta la entrega de unidades. Arlet Tovar participó como ejecutiva de atención al cliente, encargada del seguimiento y coordinación de la flota de Telmex en la zona norte y filiales de la zona centro. Jose Duran se presentó como Area Manager en Draiver con ocho meses en la empresa, apoyando cuentas como MZ, CABC y Cemex, así como en procesos de incorporación de nuevos usuarios.
+
+Descripción de la plataforma y servicios de Draiver: Julia Diaz explicó que Draiver se dedica a mover vehículos de un punto A a un punto B operando 24/7, con una red de aproximadamente 130,000 conductores validados, asegurados y con verificación de antecedentes. La plataforma utiliza un marketplace donde los conductores eligen los viajes disponibles, lo que permite reducir a la mitad el tiempo de traslado de las unidades y disminuir el inventario detenido. Draiver opera actualmente en Estados Unidos, Brasil, México y se encuentra expandiéndose a España bajo la coordinación de Armando, proponiendo un programa piloto para validar tiempos, protocolos y alcance operativo con Telmex.
+
+Proceso operativo y requisitos: El proceso operativo estándar para el piloto requiere registrar las solicitudes en un Google Sheet y mantener comunicación mediante WhatsApp. Los datos obligatorios incluyen VIN, marca, modelo, tipo de vehículo, requerimiento de placas, direcciones y teléfonos de origen y destino, y la fecha del servicio. Los requerimientos estándar deben solicitarse con un día de anticipación (antes de las 17:00 para el día siguiente) o con un margen de dos a tres días.
+
+Gestión de solicitudes urgentes (same day): Ante la preocupación de Randy Calzadilla sobre la naturaleza reactiva de su operación —tickets el mismo día a las 9 am para recolecciones al mediodía—, Julia Diaz confirmó que Draiver maneja servicios same day con una cobertura aproximada del 60%, como con Kavak, Tesla y Ford. Las zonas con mayor demanda urgente son la zona centro de CDMX (Villa Longín, Parque Vía, Nicasio Zabaleta) y Monterrey.
+
+Causas de los servicios urgentes y verificación vehicular: Los servicios urgentes corresponden principalmente a unidades corporativas y sindicalizadas de Telmex que no pueden permanecer detenidas, requiriendo mantenimientos preventivos o verificaciones de última hora. Draiver cuenta con convenios para realizar la verificación completa incluyendo trámites; Randy indicó que inicialmente comenzarían solo con el servicio de traslado (valet) y evaluarían con Juan y Clara si se contrata el paquete integral.
+
+Volumen y puntos geográficos: Randy estimó alrededor de 800 servicios mensuales, de los cuales al menos 500 involucran algún tipo de traslado (cifra por confirmar). Los destinos provienen de una lista definida de afiliados y los orígenes se concentran en unos siete puntos, principalmente zona centro y Estado de México (Cuautitlán Izcalli y Ecatepec / Vía Morelos). El piloto iniciaría probablemente con la zona centro. Jose Duran señaló que el same day representa más del 60% del volumen.
+
+Herramientas de seguimiento: Jose Duran presentó el tracker y el BOL con fotos e información del vehículo, integrados en el Google Sheet para visibilidad en tiempo real. Randy confirmó que ya conocían la herramienta por una sesión previa con Armando; su única inquietud era la falta de planeación anticipada, a abordar con SLAs.
+
+Acuerdos y siguientes pasos: Julia compartirá el Google Sheet con los requerimientos; Randy compartió los teléfonos suyos y de Arlet Tovar para crear el grupo de WhatsApp y se coordinará con Clara y Juan para definir zonas y fecha de inicio del piloto (~10 servicios). Al final del piloto se hará un wrap-up. Ubicaciones aclaradas: centro operativo en Cuautitlán Izcalli (cerca de la Universidad Mexicana / UNX) y punto central en Villa Longín.
+
+(Transcripción completa disponible en el documento original de Drive; aquí se guardan las notas de Gemini.)

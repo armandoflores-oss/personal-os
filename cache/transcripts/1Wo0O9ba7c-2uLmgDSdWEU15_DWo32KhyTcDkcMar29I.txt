@@ -1,19 +1,31 @@
 Daily Huddle - Ops MX - 2026/10/27 09:59 CST - Notes by Gemini
-Oct 27, 2026
-Invited: Uriel Vargas, Cristian Arizmendi, Julia Diaz, Armando Flores, Diego Diaz, Camila Flores, Jose Duran, Gerardo Acosta
 
-Summary
-Marketplace review and background checks with driver training operations.
-Driver Marketplace Overview: Discussion on marketplace dynamics and background check processes.
-Google Integration and Requests: Review of landing sheets and custom driver motives.
-Driver Training Operations: Coordination on completing training requirements and phone communications.
+Oct 27, 2026
+Invited: Uriel Vargas (uriel.vargas@driverdo.com), Cristian Arizmendi (cristian.arizmendi@driverdo.com), Julia Diaz (julia.diaz@draiver.com), Armando Flores (armando.flores@draiver.com), Diego Diaz (diego.diaz@draiver.com), Camila Flores (camila.flores@draiver.com), Jose Duran (jose.duran@driverdo.com), Gerardo Acosta (gerardo.acosta@kavak.com)
+
+Quick notes
+Marketplace review and background checks with driver training operations
+Driver marketplace and background checks
+- Explored driver marketplace and background check processes.
+- Mentioned Tesla in connection with driver operations.
+Driver training and platform components
+- Addressed driver training materials and landing sheet elements.
 
 Next steps
 No suggested next steps were found for this meeting.
 
+Summary
+Driver Marketplace Overview: Discussion on marketplace dynamics and background check processes.
+Google Integration and Requests: Review of landing sheets and custom driver motives.
+Driver Training Operations: Coordination on completing training requirements and phone communications.
+
 Details
-Driver Marketplace and Background Checks: Cristian Arizmendi, Jose Duran, Uriel Vargas, Julia Diaz, and Diego Diaz discuss a driver marketplace and background checks; Tesla, Marcel, Armando, and Jimmy mentioned.
-Personnel Background Checks: Robert Ramirez, Jamie, and Ashley mentioned; Cristian Arizmendi suggests removing certain items.
-Driver Requests, Google Integration, and Landing Sheets: Jose Duran on landing sheets and driver requests; Diego Diaz on custom driver motives; Uriel Vargas references the CEO.
-Driver Records, Confirmation, and Typing Tasks: confirming driver information.
-Driver Training and Phone Operations: Julia Diaz and Uriel Vargas discuss driver training, channels, phone operations, Tesla.
+Driver Marketplace and Background Checks: Cristian Arizmendi, Jose Duran, Uriel Vargas, Julia Diaz, and Diego Diaz discuss matters related to a driver marketplace and background checks. Specific entities and names such as Tesla, Marcel, Armando, and Jimmy are mentioned during the dialogue regarding the marketplace. Julia Diaz and Cristian Arizmendi touch upon background check processes for drivers.
+
+Personnel Background Checks for Robert Ramirez and Others: Jose Duran, Julia Diaz, and Cristian Arizmendi continue discussing background checks, specifically mentioning individuals named Robert Ramirez, Jamie, and Ashley. Cristian Arizmendi suggests removing or quitting certain items, while Uriel Vargas and Jose Duran coordinate on the review process.
+
+Driver Requests, Google Integration, and Landing Sheets: Julia Diaz, Jose Duran, and Diego Diaz discuss driver requests, Google integration, and a landing sheet. Jose Duran brings up landing sheets and driver requests, while Diego Diaz comments on custom driver motives and the current moment of the operation. Uriel Vargas references the CEO during this segment.
+
+Driver Records, Confirmation, and Typing Tasks: Julia Diaz, Diego Diaz, Cristian Arizmendi, and Uriel Vargas discuss recording and confirming driver information. Cristian Arizmendi states they are typing to confirm drivers. Diego Diaz initiates recording, and references are made to Monday and arrangements upstairs.
+
+Driver Training and Phone Operations: Julia Diaz and Uriel Vargas discuss driver training, canals, and phone-related operations, alongside mentions of Tesla. The participants coordinate on completing training requirements and handling phone communications related to drivers.

@@ -1,9 +1,13 @@
 Spain Support – Global Support team scope - 2026/10/28 15:00 CET - Notes by Gemini
+
 Oct 28, 2026
-Invitados: Artur Morais, Larissa Carvalho, Dan Rizzo, Paola Marin, Armando Flores, Juliana Coelho, Felipe Martini
+Invited: Artur Morais (artur.morais@draiver.com), Larissa Carvalho (larissa.carvalho@driverdo.com), Dan Rizzo (dan.rizzo@draiver.com), Paola Marin (paola.marin@driverdo.com), Armando Flores (armando.flores@driverdo.com), Juliana Coelho (juliana.coelho@driverdo.com), Felipe Martini (felipe.martini@driverdo.com)
 
 Summary
 Artificial intelligence knowledge base deployment and Spain operations expansion reviewed via infrastructure integration discussions.
+Knowledge Base Status: Artificial intelligence knowledge base finished configurations and linked for team review.
+Spain Operations Challenges: Spain transport volume projected to reach 400 weekly via Flexiart.
+Technical Infrastructure Timeline: Artificial intelligence voice and chat systems synchronized with HubSpot.
 
 AI Knowledge Base and Infrastructure
 - Juliana completed the AI knowledge base and coordinated with the AI team.
@@ -23,9 +27,9 @@ AI Deployment Timeline and Contingency Plan
 
 Decisions
 Needs Further Discussion
-- Timeline for AI feature launch: launching the AI chat feature for Spain by late November, final schedule confirmation deferred pending verification with Thiago.
+- Timeline for AI feature launch: The team discussed launching the AI chat feature for Spain by late November, but final schedule confirmation was deferred pending verification with Thiago.
 Aligned
-- Replication of regional infrastructure for Spain: same HubSpot, Livia, and Slack notification infrastructure as Brazil and Mexico.
+- Replication of regional infrastructure for Spain: The participants aligned on utilizing the same HubSpot, Livia, and Slack notification infrastructure in Spain that was established for Brazil and Mexico.
 
 Next steps
 - [Juliana Coelho] Send Knowledge Base: Provide the AI knowledge base link to the team.
@@ -37,13 +41,17 @@ Next steps
 - [Artur Morais] Meet With Danny: Schedule a meeting with Danny to identify and document complex operational problems.
 
 Details
-AI Knowledge Base Status: Juliana Coelho finished the AI knowledge base and will send the link; talked to Thiago and Edu from the AI team. Artur Morais suggested a conversation with Danny about Spain operations, yard specifics and unmapped problems.
-Business Rules and Documentation for Spain Operations: Juliana Coelho requested documentation, legal specifics, business rules and client contracts (e.g. Kavak, Pinsky) to handle cases such as dry runs going to area managers vs support. Artur Morais agreed to review what they have and schedule a follow-up with Danny.
-Spain Transport Challenges and Volume Projections: initial transports in Spain require disproportionate problem-solving (new drivers, new customers, concentrated two-hour window). Armando Flores and Artur Morais said upcoming closures, including Hartman and Hertz, would push local volume to 200-400 transports per week via Flexiart. Armando Flores stated that if the AI could not resolve initial support needs, they would hire an area manager locally to handle level-two escalations.
-Technical Infrastructure and HubSpot Integration: AI voice and live chat synced with HubSpot; data in SuperSet; same infrastructure as Brazil and Mexico. Dan Rizzo clarified with Armando Flores that the system involves the AI hooking up through WhatsApp and a new Salesforce instance.
-Implementation Timeline Estimates: Thiago's Oct 15 estimate was 4-6 weeks; worst case end of November. Juliana Coelho could not give a hard date without checking Thiago's sprint.
+AI Knowledge Base Status: Artur Morais initiated a discussion regarding support helping with standard operating procedures and artificial intelligence. Juliana Coelho stated that they finished the artificial intelligence knowledge base for configurations and planned to send the link to the team. Furthermore, Juliana Coelho mentioned that they talked to Chiago and Edu from the artificial intelligence team to ensure everything was functioning properly. Artur Morais noted that they were waiting for this implementation and suggested having a conversation with Danny later to address Spain operations, yard specifics, and unmapped problems.
 
-Transcript excerpts (Armando Flores):
-"processing that part. So that would be the only thing we need to agree with Thiago. Since we are closing a couple of large customers uh in the next couple of weeks, we do need that part sold. Uh else we will need to hire someone locally then."
-"Uh so we're planning to close right now Hartman. Uh Herz is also wanted to start here. So we we expect to do maybe uh yeah Flexiart maybe between 200 and 400 transports per week here locally."
-"If not we will get into into trouble and we will move then uh to hire an area manager uh perhaps locally on that side."
+Business Rules and Documentation for Spain Operations: Juliana Coelho requested that the team send any existing documentation, legal specifics, and business rules related to Spain to help them understand local procedures and client contexts similar to the United States setup. Juliana Coelho also emphasized the importance of receiving contracts and rules for specific clients like Kavak and Pinsky to handle distinct cases such as dry runs for area managers directly versus routing them to support. Artur Morais agreed to review what they had so far and scheduled a follow-up meeting with Danny in Spain to map out complex, unmapped problems.
+
+Spain Transport Challenges and Volume Projections: Artur Morais explained that initial transport services in Spain required a disproportionately higher amount of problem-solving compared to Latin America, Mexico, and Brazil because most transports involved new drivers and customers. These drivers were accustomed to competitor applications and required assistance with basic confirmations and finding plates within a concentrated two-hour window. Armando Flores and Artur Morais highlighted that upcoming large customer closures, including Hartman and Hertz, would push local transport volume to between 200 and 400 transports per week via Flexiart. Armando Flores stated that if the artificial intelligence could not resolve these initial support needs, they would be forced to hire an area manager locally to handle escalations at level two.
+
+Technical Infrastructure and HubSpot Integration: Juliana Coelho explained that the artificial intelligence voice and live chat systems would be fully synchronized with HubSpot, allowing tickets created by the artificial intelligence to route directly into HubSpot and data to be reviewed via SuperSet. Artur Morais asked if Slack notifications and channels could be built similarly, and Juliana Coelho confirmed that they would maintain the same overall infrastructure as used in Brazil and Mexico. Dan Rizzo later clarified with Armando Flores that the system involved the artificial intelligence hooking up through WhatsApp and a new Salesforce instance.
+
+Implementation Timeline Estimates: Artur Morais recalled that the last update from Thiago on October 15 estimated a timeline of four to six weeks to launch the artificial intelligence chat feature, projecting a worst-case scenario completion by the end of next month. Artur Morais pressed for specific dates, but Juliana Coelho stated that they could not provide a hard completion date without first checking Thiago's sprint. Dan Rizzo asked Juliana Coelho if they had spoken to Thiago regarding whether the implementation would be straightforward, to which Juliana Coelho reiterated that feasibility depended on current requirements and sprint capacity, promising to consult with Thiago to determine what could be achieved on time.
+
+Transcript (key Armando lines)
+Armando Flores: Since we are closing a couple of large customers in the next couple of weeks, we do need that part solved. Else we will need to hire someone locally then.
+Armando Flores: So we're planning to close right now Hartman. Hertz is also wanted to start here. So we expect to do maybe Flexiart maybe between 200 and 400 transports per week here locally.
+Armando Flores: If not we will get into trouble and we will move then to hire an area manager perhaps locally on that side. ... Put it at level two.
