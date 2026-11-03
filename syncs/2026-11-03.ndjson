@@ -5,3 +5,7 @@
 {"cambiadas": 0, "cards": 124, "huerfanas": 0, "leg": "tejido", "ts": "2026-11-03T08:41:23+00:00"}
 {"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-11-03T08:41:26+00:00"}
 {"leg": "heartbeat", "stage": "start", "task": "brief-personal-os", "ts": "2026-11-03T08:42:16+00:00"}
+{"leg": "heartbeat", "stage": "end", "task": "brief-personal-os", "ts": "2026-11-03T08:42:43+00:00"}
+{"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-11-03T09:45:34+00:00"}
+{"casi": [{"asunto": "Fwd: 2026 Q3 Bonus - Account Managers Mexico", "code": "T-95", "token": "mexico"}], "cerrados": [], "leg": "outbound", "revisados": 1, "ts": "2026-11-03T09:46:36+00:00"}
+{"cambiadas": 0, "cards": 124, "huerfanas": 0, "leg": "tejido", "ts": "2026-11-03T09:46:36+00:00"}
