@@ -3,3 +3,5 @@
 {"creados": [], "leg": "inbound", "source": "drive", "suprimidos": [{"detail": "", "item_id": "1q_HOoD-4qEBT4zQIdvSux9wg54QLuu0zh6l8mC6jrQc", "reason": "sin_compromiso", "source": "drive", "subject": "Daily Huddle - Ops MX - 2026/11/02 09:15 CST - Notes by Gemini", "ts": "2026-11-03T08:41:21+00:00"}], "tope_alcanzado": 0, "ts": "2026-11-03T08:41:21+00:00", "vistos": 1, "watermark": "2026-11-02T15:41:59Z", "ya_vistos": 0}
 {"casi": [{"asunto": "Re: Fw: Disponible", "code": "T-96", "token": "driverdo"}], "cerrados": [], "leg": "outbound", "revisados": 13, "ts": "2026-11-03T08:41:21+00:00"}
 {"cambiadas": 0, "cards": 124, "huerfanas": 0, "leg": "tejido", "ts": "2026-11-03T08:41:23+00:00"}
+{"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-11-03T08:41:26+00:00"}
+{"leg": "heartbeat", "stage": "start", "task": "brief-personal-os", "ts": "2026-11-03T08:42:16+00:00"}
