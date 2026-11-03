@@ -1,0 +1,5 @@
+{"mejoras":[
+  {"titulo":"Clasificador de compromisos: el presente es entrega, no pendiente","toca":"clasificador de compromisos (capture/task del loop)","por":"Armando corrigió que 'te comparto' / 'les envío' / 'adjunto' en presente es una entrega ya hecha y se estaba abriendo como compromiso. Solo con marcador de futuro ('el viernes', 'mañana') debe crearse tarea. Es un defecto del clasificador, no una regla nueva."},
+  {"titulo":"Entregar el brief dentro de la app de Claude Code, no solo por DM de Slack","toca":"rutina del brief de las 07:00 (canal de entrega)","por":"Armando señaló que un DM que uno se manda a sí mismo no notifica, así que el brief llegaba puntual pero no lo veía. El brief tiene que aparecer en la app de Claude Code además (o en vez) del DM."},
+  {"titulo":"Retomar y cerrar el diagnóstico del 12-oct sobre el objetivo del sistema","toca":"backlog del Personal OS / revisión del loop","por":"Es la segunda vez en 13 días que Armando dice que el sistema no cumple su objetivo; la primera (12-oct) quedó diagnosticada y sin arreglar. Propuesta: convertir ese diagnóstico en cambios concretos antes de agregar funcionalidad nueva."}
+]}

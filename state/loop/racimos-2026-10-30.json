@@ -1,0 +1,18 @@
+{
+ "desde": "2026-10-23",
+ "correcciones": 5,
+ "racimos": [
+  {
+   "n": 2,
+   "textos": [
+    "Las personas que el sistema pone en juntas/comentarios no le aportan a Armando: solo mostrar gente con un pendiente o dato accionable. Que el sistema deje de cr",
+    "Prep de juntas: por cada asistente, solo su pendiente abierto con Armando o el último dato útil; nunca reglas internas del sistema."
+   ]
+  }
+ ],
+ "sueltas": [
+  "Segunda vez en 13 dias que Armando dice que el sistema no cumple su objetivo. La primera (12-oct) quedo diagnosticada y SIN arreglar",
+  "Un 'te comparto' / 'les envío' / 'adjunto' en presente es una entrega ya hecha, no un compromiso pendiente; solo con un marcador de futuro ('el viernes', 'mañan",
+  "El brief tiene que llegar DENTRO de la app de Claude Code, no solo al DM de Slack: un DM que uno se manda a si mismo no notifica, asi que el brief llegaba puntu"
+ ]
+}
