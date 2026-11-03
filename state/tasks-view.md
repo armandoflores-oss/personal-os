@@ -6,9 +6,11 @@
 - **T-77** Mandar la invitación de Teams a Garrigues: REPSE y plataformas digitales · esperando a Juliana / Garrigues
 - **T-89** Revisar a Pexcard: Alert: Suspicious activity for Jose Tiburcio Osorio
 - **T-95** Seguimiento con Kavak: Fiscal Address in Mexico
+- **T-98** Revisar a Docs: Revenue Forecast ... - @armando.flores@draiver.com  please r...
 
 ## Reuniones España
 - **T-92** Seguimiento con Iryo: Información importante sobre tu reserva 353ERM/Important information about your booking
+- **T-97** Seguimiento con Gmail: Update
 
 ## Grandes deals / RFPs
 - **T-49** Dar seguimiento a Borusan (hilo Borusan/Draiver)
