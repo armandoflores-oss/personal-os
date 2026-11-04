@@ -1660,6 +1660,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "7e3cdbc0a51a": {
+  "action": "revisar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-99",
+  "counterparty": "turbofin",
+  "created": "2026-11-04T08:42:42+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Les agradeceré revisarlo y, de estar de acuerdo con los ajustes, proceder con la firma a la brevedad posible.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a1a3e65e08b01a9",
+  "status": "open",
+  "task_id": "7e3cdbc0a51a",
+  "title": "Revisar a Turbofin: CONTRATO DRAIVER",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "801555fa0c33": {
   "action": "otro",
   "applied": false,
