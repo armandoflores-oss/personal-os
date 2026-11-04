@@ -1,0 +1,85 @@
+Diaria Spain Launch - 2026/11/03 15:30 CET - Notes by Gemini
+
+Las notas
+nov 3, 2026
+
+Diaria Spain Launch
+
+Invitado: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
+
+Resumen
+Revisión operativa analizó procesos de matrículas y gestión de clientes con planificación presencial en Madrid.
+
+Automatización y gestión operativa
+El equipo revisó la automatización de matrículas y la configuración de notificaciones para nuevas solicitudes de transporte. Se establecieron franjas de disponibilidad para la herramienta Wati y se investigaron incidencias visuales en la aplicación.
+
+Incidencias y procedimientos comerciales
+Se analizaron los problemas de facturación de Auto Ignacio y las dificultades en campas con Hartman y Centauro. Acordaron desarrollar procedimientos operacionales estándar específicos por cliente durante la visita a Madrid.
+
+Estrategia de crecimiento y organización
+Debatieron un crecimiento gradual del volumen con grandes clientes para asegurar la capacidad operativa. Artur Morais se comprometió a reportar sus vacaciones con antelación para mejorar la planificación del equipo.
+
+Decisiones
+Acordada
+- Implementación de notificaciones de movimientos de cuentas: Se acordó configurar e implementar un sistema de notificaciones para los movimientos con el fin de agilizar la publicación de transportes.
+- Distribución operativa para WATI y tráfico directo: Se acordó repartir la cobertura de WATI y tráfico comunicándose mutuamente según la incidencia específica entre la aplicación y el tráfico directo.
+- Criterio comercial de cobro y pago único: Se acordó cobrar un solo viaje al cliente y pagar únicamente uno al conductor como gesto comercial y compensación por el error operativo.
+- Plazo estándar para emisión de facturas mensuales: Se acordó generar y emitir las facturas mensuales a los clientes entre el día 1 y 5 del mes siguiente, salvo requerimientos prioritarios.
+- Moderación en la incorporación de clientes grandes: Se acordó frenar temporalmente la apertura de grandes clientes pendientes para priorizar la consolidación del modelo con clientes pequeños.
+
+Próximos pasos
+- [Artur] Automatizar vehículos: Mostrar automáticamente marca, modelo y matrícula en el itinerario de la aplicación.
+- [Artur] Configurar notificaciones: Implementar alertas inmediatas para nuevos movimientos de transporte.
+- [Artur] Organizar turnos: Crear una plantilla de disponibilidad para gestionar el tráfico en WATI.
+- [Artur] Finalizar facturación: Revisar los viajes de octubre para emitir todas las facturas antes de terminar el día.
+- [Artur] Revisar Cliccards: Coordinar con Kevin la corrección de los cálculos de precios de Cliccards.
+- [Artur] Investigar errores app: Analizar la falta de visibilidad de viajes para algunos conductores en la aplicación.
+- [El grupo] Revisar reglas soporte: Reunirse en Madrid para validar el documento de procedimientos operacionales de soporte.
+- [El grupo] Crear procedimientos clientes: Desarrollar guías operacionales específicas para cada uno de los clientes.
+- [Daniel] Solucionar acceso SalesForce: Trabajar con Kevin para resolver el fallo de conexión entre SalesForce y Cloud.
+- [Daniel] Reservar cena: Realizar la reserva en un restaurante para la cena del equipo.
+- [Daniel Escribano] Confirmar información: Confirmar con Cristina de Sirsa si los datos se están volcando correctamente en la plataforma.
+- [Daniel Escribano] Consultar campos ETC: Preguntar a Cristina si existen campos para configurar la fecha de disponibilidad y la fecha límite en la plataforma ETC.
+- [Daniel Escribano] Verificar movimientos: Revisar el estado de los dos movimientos que ya tienen conductor asignado para verificar si aparecen en curso.
+- [Artur Morais] Notificar vacaciones: Informar a Daniel Escribano y Paloma sobre futuros días libres o periodos de vacaciones.
+
+Detalles
+Actualización automática de matrículas en notas: Daniel Escribano comentó que actualmente introduce las matrículas de forma manual en las notas para evitar errores, mientras que Artur Morais acordó revisar con el equipo la automatización de este proceso para mostrar la matrícula y el modelo debajo del itinerario (00:00:27).
+
+Quejas de conductores y adaptación a la aplicación: Daniel Escribano reportó que conductores procedentes de Draimy y gestionados a través de Sirsa (Cristina) se han manifestado sobre supuestos fallos en la aplicación respecto a las matrículas. Daniel Escribano aclaró que la herramienta funciona correctamente y envió capturas de pantalla para demostrarlo, mientras que Artur Morais sugirió tranquilizar al cliente dado que el personal conductor requiere un periodo natural de adaptación (00:03:03).
+
+Configuración de notificaciones para nuevas solicitudes de transporte: Ante la necesidad de subir nuevos transportes al mediodía de forma inmediata, Daniel Escribano destacó la utilidad de implementar un sistema de notificaciones. Artur Morais confirmó que ya cuenta con el procedimiento paso a paso y prevé implementarlo antes de finalizar la semana con el apoyo de Kevin y el equipo (00:03:59).
+
+Organización de turnos y disponibilidad para el servicio de Wati: Daniel Escribano señaló la necesidad de contar con apoyo en la herramienta Wati para gestionar el tráfico de manera simultánea sin descuidar otras tareas (00:05:08). Artur Morais propuso establecer franjas horarias y días de disponibilidad para repartir la responsabilidad, fijando que Daniel Escribano está disponible todo el día salvo de 8:30 a 9:30 por motivos escolares y las tardes de lunes, miércoles y viernes por entrenamientos de fútbol (00:06:28). Ambos acordaron avisarse mutuamente al atender reuniones para cubrirse en la atención al tráfico en directo o incidencias de la aplicación (00:07:40).
+
+Gestión de viajes y costes de Auto Ignacio: Tras un problema con cambios de vehículos y matrículas realizados por David, Artur Morais y Daniel Escribano discutieron la facturación y el pago de los trayectos (00:09:00). Acordaron cobrar al cliente solo un viaje como gesto comercial debido a un error en la aplicación por parte de la persona conductora, y pagar a David únicamente un trayecto, asumiendo que no reclamará porque no perdió la jornada laboral al realizar un servicio alternativo, quedando pendiente que Manuel recoja el otro vehículo (00:10:22).
+
+Revisión de viajes de octubre y emisión de facturas: Artur Morais indicó que está revisando los viajes de octubre para enviar las facturas a los clientes a más tardar al final del día, solicitando ayuda a Kevin para solucionar un cálculo incorrecto de Cliccars que aplicaba tarifas de rodado por error. Daniel Escribano sugirió establecer un plazo general de emisión entre el 1 y el 5 del mes siguiente para reducir la presión, aunque Artur Morais mantendrá la disponibilidad de emitirlas el primer día para clientes prioritarios que lo requieran por contabilidad (00:11:09). Asimismo, se informó a las personas conductoras que solicitaban sus facturas que estas se generarán posteriormente (00:12:19).
+
+Investigación de problemas de visibilidad de viajes en la aplicación para conductores: Artur Morais mencionó una incidencia anómala en la última versión de la aplicación donde ciertos conductores (como Carlos y otro usuario) no visualizan sus viajes, a pesar de que Artur Morais puede verlos correctamente al acceder a sus perfiles (00:13:25). Tras realizar pruebas, Artur Morais restableció con éxito la cuenta de Javier, mientras continúa investigando el problema con el soporte de Kevin (00:14:39).
+
+Revisión de reglas de soporte y creación de procedimientos operacionales por cliente: Artur Morais compartió un documento en Slack elaborado por el equipo con las reglas de soporte (00:14:39). Artur Morais y Daniel Escribano acordaron revisar este documento presencialmente durante su próxima estancia en Madrid en jueves o viernes, y comenzar a desarrollar procedimientos operacionales estándar (SOP) específicos por cliente (tomando como referencia ejemplos de Estados Unidos como IMS y clientes de campas) para dotar a los agentes de una base de conocimientos detallada (00:16:23).
+
+Incidencias operativas en campas con Hartman y Centauro: Se analizaron los problemas ocurridos el viernes en la campa con la subcontrata Hartman y el cliente Centauro, donde el personal conductor no pudo retirar los vehículos por falta de autorización previa y documentación (Bill of Lading), además de discrepancias en la ubicación de la campa (Soto del Real frente a otra situada a 10 kilómetros en Colmenar) (00:20:01) (00:28:03). Daniel Escribano denunció la falta de respuesta telefónica por parte de Hartman para clarificar el estado de los transportes (00:22:41).
+
+Procedimiento de cancelación de planes y gestión de movimientos en Command Center: Artur Morais guio paso a paso a Daniel Escribano en el Command Center para cancelar un plan manteniendo los movimientos en estado pendiente, de modo que no se eliminen y puedan ser replanificados posteriormente (00:23:33). Daniel Escribano ejecutó el proceso de prueba con éxito en la plataforma (00:26:19).
+
+Soluciones para futuras incidencias en campas y autorización de recogida: Como solución a los problemas en campas, Daniel Escribano propuso que los conductores puedan descargar el documento Bill of Lading directamente desde la aplicación para usarlo como autorización de recogida, y enfatizó la necesidad de exigir a los clientes mayor precisión sobre los requisitos específicos de cada campa durante la contratación del servicio (00:29:02).
+
+Coordinación de horarios de disponibilidad y días de oficina: Daniel Escribano y Artur Morais repasaron sus rutinas matutinas y presencialidad en la oficina de Madrid (00:31:57). Daniel Escribano indicó que acudirá provisionalmente el jueves o viernes para coincidir con el equipo y realizar labores de acondicionamiento de la oficina, mientras que Artur Morais ajustará su horario de gimnasio por las mañanas para mantener la flexibilidad operativa (00:32:59).
+
+Participación en reuniones con clientes y priorización operativa: Daniel Escribano explicó que ha delegado su asistencia a reuniones comerciales con clientes en Nico y Gerardo para centrarse en la operativa diaria, gestionando únicamente videollamadas puntuales en franjas horarias de 11:00 a 14:00. Artur Morais reconoció la importancia de mantener estas reuniones a medida que aumenten los clientes operativos para revisar flujos de procesos (00:35:00).
+
+Acceso a datos de Salesforce y Cloud para paneles de control: Daniel Escribano planteó su problema para conectar Salesforce Europa y Command Center a Cloud y así extraer datos de ventas y previsiones de facturación (00:36:04). Artur Morais explicó que en aproximadamente un mes estará disponible la plataforma Superset para crear cuadros de mando corporativos, y sugirió solicitar ayuda a Kevin para revisar los permisos de administrador en Salesforce necesarios para establecer la conexión en Cloud (00:37:11).
+
+Planificación de la visita presencial a la oficina de Madrid y cena de equipo: Artur Morais confirmó su llegada a Madrid en tren el jueves a las 10:30 (00:42:36). Se repasó la agenda que incluye reuniones de Uber, de producto y un Town Hall presencial el jueves por la tarde, seguido de una cena de equipo para la cual Daniel Escribano se encargará de realizar la reserva para un grupo estimado entre 7 y 10 personas (00:44:38). Asimismo, comentaron brevemente valoraciones sobre el rendimiento del equipo de soporte (00:47:04).
+
+Estrategia de crecimiento y escalado de volumen con grandes clientes: Daniel Escribano y Artur Morais debatieron sobre la conveniencia de frenar temporalmente la incorporación masiva de grandes cuentas (como Herz, Flexicar y Cliccars) para afianzar el modelo operativo con clientes pequeños (00:48:06). Artur Morais sugirió implementar un plan de crecimiento de volumen gradual con los grandes clientes (por ejemplo, iniciar con 20 movimientos semanales y escalar progresivamente hasta 100) para asegurar la capacidad operativa y el compromiso del personal conductor (00:49:16).
+
+Gestión de fechas límite y estados retrasados en Command Center con Sirsa: Daniel Escribano consultó el motivo por el cual ciertos transportes aparecían en color amarillo o retrasados en el Command Center. Artur Morais explicó que esto ocurre cuando la fecha límite (deadline) establecida por el cliente expira (00:53:20). Daniel Escribano indicó que consultará a Cristina de Sirsa si disponen de campos específicos para registrar las fechas de inicio y límite en el sistema ETC, o si es necesario establecer una regla de 48 horas de margen (00:56:12).
+
+Reporte de vacaciones y organización del equipo: Daniel Escribano planteó un problema operativo derivado de una consulta de Armando sobre el estado laboral de Artur Morais, indicando que las vacaciones deben ser reportadas tanto a Daniel Escribano como a Paloma para facilitar la planificación (00:59:22). Daniel Escribano solicitó formalmente que Artur Morais comunique sus días libres o vacaciones con antelación para prevenir coincidencia de ausencias (01:00:21). Como acuerdo final, Artur Morais se comprometió a avisar con anticipación cuando tenga previsto tomar tiempo libre (01:01:17).
+
+Flexibilidad laboral y disponibilidad del personal: Daniel Escribano y Artur Morais analizaron los criterios de disponibilidad y flexibilidad, señalando que Artur Morais mantiene una disponibilidad constante fuera del horario regular (como los martes por la noche). Daniel Escribano argumentó que, dado el volumen de horas que Artur Morais invierte habitualmente, tomarse un almuerzo prolongado un viernes o una tarde libre en ausencia de urgencias está permitido y no requiere justificaciones (01:00:21). Ambas partes concluyeron que existe total flexibilidad, siempre y cuando se atiendan las necesidades operativas indispensables (01:01:17).
+
+[Nota de la rutina: este archivo contiene las notas completas de Gemini. La transcripción literal de 01:03:26 no se copió aquí; está en el doc original, id 1T6bYIsWl6GMRNN5dJSzAs8QJZRLOCZB7RUaVdu7rwKw.]

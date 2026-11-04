@@ -1,0 +1,36 @@
+Daily Huddle - Ops MX - 2026/11/03 09:15 CST - Notes by Gemini
+
+Quick notes
+
+Daily Huddle - Ops MX
+Nov 3, 2026
+
+Uriel Vargas (uriel.vargas@driverdo.com), Cristian Arizmendi (cristian.arizmendi@driverdo.com), Julia Diaz (julia.diaz@draiver.com), Armando Flores (armando.flores@draiver.com), Diego Diaz (diego.diaz@draiver.com), camila.flores@draiver.com, Jose Duran (jose.duran@driverdo.com), Gerardo Acosta (gerardo.acosta@kavak.com)
+
+Opening Google and Apps Script mentions preceded drivers and communication bridge discussions.
+
+Technical tools and communication
+- Google and Appscript were briefly referenced during the brief exchange.
+- Drivers and a communication bridge were noted without further context.
+
+Next steps
+No suggested next steps were found for this meeting.
+
+Full notes
+Nov 3, 2026
+
+Daily Huddle - Ops MX
+
+Summary
+Opening Google and Apps Script mentions preceded drivers and communication bridge discussions.
+
+Google and Apps Script
+Participants briefly referenced Google and Apps Script during the opening portion of the conversation. The transcript contained no further context or underlying problems associated with these terms.
+
+Drivers and Communication Bridge
+Diego Diaz brought up drivers and a communication bridge during the latter part of the conversation. Participants did not elaborate on specific problems or reach a final consensus.
+
+Details
+Google and Apps Script Mention: Jose Duran and Julia Diaz briefly reference Google and App Script during the opening portion of the conversation. The transcript contains no further context, underlying problems, or decisions associated with these terms.
+
+Drivers and Communication Bridge: Diego Diaz brings up drivers and a communication bridge during the latter part of the conversation. The participants do not elaborate on any specific problems, present detailed arguments, or reach a final consensus regarding these matters.
