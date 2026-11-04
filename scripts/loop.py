@@ -7,7 +7,7 @@ talk itself into anything. Here it only gets to label evidence it did not
 choose, and the labels it produces run into guardrails it cannot argue with.
 
   loop.py prepare                     -> candidatos del día (determinista)
-  loop.py apply --decisiones <f>      -> aplica con guardarraíles (determinista)
+  loop.py apply [--decisiones <f>]    -> aplica con guardarraíles (determinista)
   loop.py grade [--fecha YYYY-MM-DD]  -> califica el día (determinista)
 """
 import argparse
@@ -179,6 +179,28 @@ def guardar_propuestas(d):
     (LOOP / "propuestas.json").write_text(json.dumps(d, indent=1, ensure_ascii=False, sort_keys=True) + "\n")
 
 
+def ruta_decisiones(dado):
+    """Resuelve el archivo de decisiones sin que la fecha viaje en el comando.
+
+    Por qué existe: lo que el sistema de permisos compara es la CADENA del
+    comando. Una ruta con la fecha dentro es una cadena nueva cada noche, así
+    que la aprobación que Armando dio una vez no vuelve a corresponder nunca, y
+    la corrida desatendida se queda colgada en un diálogo que nadie puede
+    contestar. Pasó exactamente eso: el loop se quedó trabado del 28-oct al
+    4-nov-2026, siete días sin juzgar ni calificar nada. La fecha va en el
+    código, donde no cuesta nada.
+    """
+    if dado:
+        return pathlib.Path(dado)
+    f = LOOP / f"decisiones-{hoy()}.json"
+    if f.exists():
+        return f
+    previos = sorted(LOOP.glob("decisiones-*.json"))
+    # Si no hay archivo de hoy, el más reciente: el sello de `aplicados.json`
+    # ya impide que algo se aplique dos veces, así que mirar atrás es seguro.
+    return previos[-1] if previos else f
+
+
 def cmd_apply(args):
     if esta_retirado():
         print(json.dumps({"estado": "retirado", "nota": "el loop se retiro; esta corrida no hace nada"}))
@@ -186,7 +208,11 @@ def cmd_apply(args):
     # Vetos y vencimientos primero: si Armando tocó algo, esa propuesta muere
     # antes de que se evalúe nada nuevo sobre ella.
     cmd_ledger(argparse.Namespace())
-    ruta = pathlib.Path(args.decisiones)
+    ruta = ruta_decisiones(args.decisiones)
+    if not ruta.exists():
+        print(json.dumps({"estado": "sin_decisiones", "esperaba": str(ruta)},
+                         ensure_ascii=False))
+        return
     crudo = ruta.read_text()
     sello = hashlib.sha256(crudo.encode()).hexdigest()[:16]
     aplicados = json.loads((LOOP / "aplicados.json").read_text()) if (LOOP / "aplicados.json").exists() else {}
@@ -448,7 +474,7 @@ def main():
     sub.add_parser("prepare").set_defaults(fn=cmd_prepare)
     sub.add_parser("ledger").set_defaults(fn=cmd_ledger)
     sub.add_parser("quietas").set_defaults(fn=cmd_quietas)
-    a = sub.add_parser("apply"); a.add_argument("--decisiones", required=True); a.set_defaults(fn=cmd_apply)
+    a = sub.add_parser("apply"); a.add_argument("--decisiones"); a.set_defaults(fn=cmd_apply)
     g = sub.add_parser("grade"); g.add_argument("--fecha"); g.set_defaults(fn=cmd_grade)
     args = ap.parse_args(); args.fn(args)
 
