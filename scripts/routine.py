@@ -156,6 +156,13 @@ def cmd_brief_pre():
 def cmd_brief_post():
     r = py("brief.py", "render", check=True)
     print(r.stdout if r.returncode == 0 else f"brief.py FALLÓ:\n{r.stderr[:600]}")
+    # La página va aquí dentro y no en un tercer comando: cada comando distinto
+    # que una rutina ejecuta es otra aprobación que se le pide a Armando.
+    h = py("brief_html.py")
+    if h.returncode == 0 and h.stdout.strip():
+        print(f"\n---\npagina_para_publicar: {h.stdout.strip()}")
+    else:
+        print(f"\n---\npagina_para_publicar: FALLÓ ({h.stderr.strip()[:160]})")
     commit("Brief del día")
     heartbeat("end", "brief-personal-os")
 

@@ -1,0 +1,122 @@
+<title>Brief diario</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@500;600&display=swap">
+<style>
+/* Una columna de lectura; los códigos y las horas en mono para que alineen. */
+:root {
+  --papel: #f7f8f8;
+  --tarjeta: #ffffff;
+  --tinta: #16201f;
+  --tenue: #5d6b69;
+  --linea: #dde3e2;
+  --acento: #0f6b63;
+  --ambar: #8a5a00;
+  --ambar-fondo: #fdf4e3;
+  --sans: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SF Mono", monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --papel: #101413; --tarjeta: #171d1c; --tinta: #e7edec; --tenue: #94a3a1;
+    --linea: #2a3332; --acento: #52bdb1; --ambar: #e0ac5c; --ambar-fondo: #241c0e;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --papel: #101413; --tarjeta: #171d1c; --tinta: #e7edec; --tenue: #94a3a1;
+  --linea: #2a3332; --acento: #52bdb1; --ambar: #e0ac5c; --ambar-fondo: #241c0e;
+  color-scheme: dark;
+}
+body {
+  background: var(--papel);
+  color: var(--tinta);
+  font-family: var(--sans);
+  font-size: 15px;
+  line-height: 1.55;
+}
+.hoja {
+  max-width: 44rem;
+  margin: 0 auto;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 2.5rem 4rem;
+}
+h1 {
+  font-size: 1.45rem;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  text-wrap: balance;
+  margin: 0 0 0.35rem;
+}
+.sello {
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--tenue);
+  margin: 0 0 2rem;
+}
+section { margin-block: 0 1.9rem; }
+h2 {
+  font-size: 0.72rem;
+  font-weight: 600;
+  font-family: var(--mono);
+  text-transform: uppercase;
+  letter-spacing: 0.11em;
+  color: var(--acento);
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--linea);
+  margin: 0 0 0.9rem;
+}
+h3 {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--tenue);
+  margin: 1.1rem 0 0.4rem;
+}
+ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.6rem; }
+li {
+  min-width: 0;
+  background: var(--tarjeta);
+  border: 1px solid var(--linea);
+  border-radius: 6px;
+  padding: 0.6rem 0.75rem;
+  overflow-wrap: anywhere;
+}
+.codigo {
+  font-family: var(--mono);
+  font-size: 0.82em;
+  font-weight: 600;
+  color: var(--acento);
+  font-variant-numeric: tabular-nums;
+}
+li strong { font-weight: 600; }
+.prep {
+  display: block;
+  font-size: 0.86rem;
+  color: var(--tenue);
+  border-left: 2px solid var(--linea);
+  padding-left: 0.6rem;
+  margin-top: 0.4rem;
+}
+/* La salud es lo único que cambia de color: el brief la muestra solo cuando
+   algo no está verde, así que su presencia ya es la señal. */
+.salud li {
+  background: var(--ambar-fondo);
+  border-color: color-mix(in srgb, var(--ambar) 35%, transparent);
+}
+.salud .codigo, .salud strong { color: var(--ambar); }
+.nota { color: var(--tenue); font-size: 0.86rem; margin: 0.7rem 0 0; }
+code {
+  font-family: var(--mono);
+  font-size: 0.85em;
+  background: color-mix(in srgb, var(--tinta) 7%, transparent);
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+}
+</style>
+<main class="hoja">
+<h1>Brief · miércoles 4 de noviembre de 2026</h1>
+<p class="sello">rendido por brief.py · 2026-11-04</p>
+<section class="salud"><h2>⚠️ Salud del sistema</h2><ul><li><strong>Brief diario</strong> · el brief se entrego por Slack: venció su parqueo (2026-11-01) · era: no deja rastro verificable; el envio vive en la respuesta de la rutina · ahora: sin la línea …</li><li><strong>Loop nocturno</strong> · el loop juzgo y aplico: sin la línea <code>loop</code> en los últimos días</li><li><strong>Loop nocturno</strong> · hay calificacion de ayer: la última es de 2026-10-27, hace 6 días hábiles</li></ul></section><section class="normal"><h2>Hoy</h2><ul><li><strong>08:30</strong> Diaria Spain Launch · daniel.escribano, armando.flores, artur.morais<span class="prep">prep: Daniel Escribano (Dani) — El arranque del piloto Centauro (9 sep 2026) no salió bien según Dani; queda duda de si se cubrieron las expectativas.</span></li><li><strong>09:00</strong> COR-MAD Car · paloma.calderon, gerardo.cabanas, kevin.burke, fede.ranero<span class="prep">prep: Fede Ranero — Fede y Nico piden &#x27;usar Penske&#x27; en la sesión BCA del 17-sep. Significa el caso como narrativa (chaining, distritos, millas muertas, tracking continuo), no entrar al tenant de producción de</span><span class="prep">prep: Kavak — <span class="codigo">T-95</span> Seguimiento con Kavak: Fiscal Address in Mexico</span></li><li><strong>09:00</strong> Back office Spain · daniel.escribano, jaqueline.sanches, armando.flores, rafael.andrade<span class="prep">prep: Daniel Escribano (Dani) — El arranque del piloto Centauro (9 sep 2026) no salió bien según Dani; queda duda de si se cubrieron las expectativas.</span><span class="prep">prep: Dan Rizzo — Armando ya tuvo la sesión con Dan Rizzo sobre el caso Penske (antes del 13-sep-2026); el contexto de Penske para la sesión BCA FTL del 17-sep ya no es un pendiente suyo.</span></li><li><strong>09:15</strong> Daily Huddle - Ops MX · uriel.vargas, cristian.arizmendi, julia.diaz, armando.flores<span class="prep">prep: Uriel Vargas — <span class="codigo">T-74</span> Seguimiento con Tesla: programación CDMX Q4 octubre (va con Uriel)</span><span class="prep">prep: José Durán — Los resguardos/clientes tipo CA2138 los controla José Durán; el seguimiento va con él, no con Armando.</span><span class="prep">prep: Kavak — <span class="codigo">T-95</span> Seguimiento con Kavak: Fiscal Address in Mexico</span></li><li><strong>10:30</strong> catch up Julia · julia.diaz, armando.flores</li></ul></section><section class="normal"><h2>Pendientes abiertos</h2><h3>Cotizaciones y pendientes operativos</h3><ul><li><strong><span class="codigo">T-77</span></strong> Mandar la invitación de Teams a Garrigues: REPSE y plataformas digitales · esperando a Juliana / Garrigues</li><li><strong><span class="codigo">T-89</span></strong> Revisar a Pexcard: Alert: Suspicious activity for Jose Tiburcio Osorio</li><li><strong><span class="codigo">T-95</span></strong> Seguimiento con Kavak: Fiscal Address in Mexico</li></ul><h3>Reuniones España</h3><ul><li><strong><span class="codigo">T-92</span></strong> Seguimiento con Iryo: Información importante sobre tu reserva 353ERM/Important information about your booking</li></ul><h3>Grandes deals / RFPs</h3><ul><li><strong><span class="codigo">T-49</span></strong> Dar seguimiento a Borusan (hilo Borusan/Draiver)</li></ul><h3>Pipeline estratégico</h3><ul><li><strong><span class="codigo">T-74</span></strong> Seguimiento con Tesla: programación CDMX Q4 octubre (va con Uriel)</li><li><strong><span class="codigo">T-87</span></strong> Seguimiento con Element: Entregas 24- 26 de octubre</li><li><strong><span class="codigo">T-96</span></strong> Seguimiento con Ford: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128</li></ul></section><section class="normal"><h2>Nuevo que te requiere</h2><ul><li><strong><span class="codigo">T-97</span></strong> Seguimiento con Gmail: Update</li><li><strong><span class="codigo">T-98</span></strong> Revisar a Docs: Revenue Forecast ... - @armando.flores@draiver.com please r...</li><li><strong><span class="codigo">T-99</span></strong> Revisar a Turbofin: CONTRATO DRAIVER</li></ul></section><section class="normal"><h2>Lo que hice mientras no estabas</h2><ul><li><strong><span class="codigo">T-99</span></strong> creada desde gmail · Revisar a Turbofin: CONTRATO DRAIVER</li><li><strong><span class="codigo">T-94</span></strong> cerrada · evidencia: RE: Draiver Logística NR Finance</li><li><strong><span class="codigo">T-97</span></strong> creada desde gmail · Seguimiento con Gmail: Update</li><li><strong><span class="codigo">T-98</span></strong> creada desde gmail · Revisar a Docs: Revenue Forecast ... - @armando.flores@draiver.com please r...</li></ul></section><section class="normal"><h2>Mejoras al sistema que propongo</h2><p class="nota"><em>Estructurales: no se aplican solas. Una línea basta.</em></p><ul><li><strong>2.</strong> reply.py debe entender &#x27;T-N no me toca&#x27; como reasignación, no como otra forma &#x27;<span class="codigo">T-57</span> no me toca a mi&#x27; se clasificó mal; la tarea era de Felipe. Hace falta una forma de reasignar/desasignar (con destinatario opcional) para que Armando no tenga que corregir el … toca: scripts/reply.py (formas del parser) · <code>aplica 2</code> · <code>mejora 2 nunca</code></li></ul></section><section class="normal"><h2>Ruido</h2><ul><li>2 duplicado · 1 entregado · 1 exploratorio · 2 firewalled (retenidos) · 5 meta · 34 sin_compromiso</li></ul><p class="nota"><em>Responde con el código: <code><span class="codigo">T-4</span> listo</code> · <code><span class="codigo">T-4</span> viernes</code> · <code><span class="codigo">T-4</span> qué</code> · <code>reply.py forms</code> para las diez.</em></p></section>
+</main>
