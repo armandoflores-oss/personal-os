@@ -12,8 +12,10 @@ and produces the same bytes from the same repo.
 """
 import argparse
 import json
+import os
 import re
 import sys
+from zoneinfo import ZoneInfo
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -22,7 +24,24 @@ from lib import constants, gate  # noqa: E402
 from lib.feedback import read_feedback  # noqa: E402
 from lib.replay import replay  # noqa: E402
 
-MX = timezone(timedelta(hours=-6))          # America/Mexico_City, no DST since 2022
+def zona():
+    """La zona en la que se rinde el brief: la del reloj de la máquina.
+
+    Estaba clavada en UTC-6, y el 5-nov-2026 Armando —trabajando desde
+    Madrid— recibió sus juntas corridas siete horas. Clavarla en Madrid sería
+    el mismo error al revés: viaja entre CDMX y España. macOS ya cambia la
+    zona al aterrizar, así que seguir al reloj hace que el brief lo siga a él
+    sin que nadie tenga que acordarse de nada. BRIEF_TZ la fuerza (una zona
+    IANA, p.ej. "America/Mexico_City") para rendir un brief de otro lugar.
+    """
+    forzada = os.environ.get("BRIEF_TZ", "").strip()
+    if forzada:
+        try:
+            return ZoneInfo(forzada)
+        except Exception:
+            print(f"BRIEF_TZ='{forzada}' no es una zona válida; uso el reloj local",
+                  file=sys.stderr)
+    return datetime.now().astimezone().tzinfo
 
 # Hardcoded rather than locale-dependent: the es_MX locale is not guaranteed on
 # every machine this may run on, and a brief that silently switches language is
@@ -124,12 +143,30 @@ def health(now) -> list:
 
 # --- section 2: calendar --------------------------------------------------
 
+def hora_local(ev):
+    """La hora del evento en la zona de Armando.
+
+    `start` llega en ISO 8601 con offset ("2026-11-05T09:00:00+01:00"), que es
+    un instante y no admite interpretación. Las entradas viejas traen un
+    "HH:MM" que alguien ya convirtió: se muestran tal cual, porque inventarles
+    una zona ahora sería peor que mostrarlas como quedaron.
+    """
+    crudo = str(ev.get("start", "")).strip()
+    if not crudo:
+        return ""
+    try:
+        t = datetime.fromisoformat(crudo)
+    except ValueError:
+        return crudo
+    return (t.astimezone(zona()) if t.tzinfo else t).strftime("%H:%M")
+
+
 def calendar_today(now):
-    f = CACHE / "calendar" / f"{now.date().isoformat()}.json"
+    f = CACHE / "calendar" / f"{now.astimezone(zona()).date().isoformat()}.json"
     if not f.exists():
         return None
     # Ordenado por hora: el brief se lee de arriba abajo como transcurre el día.
-    return sorted(json.loads(f.read_text()), key=lambda e: e.get("start", "99:99"))
+    return sorted(json.loads(f.read_text()), key=lambda e: hora_local(e) or "99:99")
 
 
 # Dominios de correo que no dicen nada de la organización del asistente.
@@ -370,7 +407,7 @@ def noise_counts(now, hours=24):
 
 def render(now, since):
     L = []
-    day = now.astimezone(MX)
+    day = now.astimezone(zona())
     L.append(f"# Brief · {DIAS[day.weekday()]} {day.day} de {MESES[day.month - 1]} de {day.year}")
     L.append("")
 
@@ -401,7 +438,7 @@ def render(now, since):
     else:
         for ev in cal:
             who = ", ".join(a.split("@")[0] for a in ev.get("attendees", [])[:4])
-            L.append(f"- **{ev.get('start','')}** {cap(ev.get('summary',''))}" + (f" · {who}" if who else ""))
+            L.append(f"- **{hora_local(ev)}** {cap(ev.get('summary',''))}" + (f" · {who}" if who else ""))
             for note in prep_notes(ev):
                 L.append(f"  ↳ prep: {note}")
     L.append("")
@@ -601,7 +638,7 @@ def main():
     print(text)
     if not args.dry_run:
         BRIEFS.mkdir(parents=True, exist_ok=True)
-        (BRIEFS / f"{now.astimezone(MX).date().isoformat()}.md").write_text(text + "\n")
+        (BRIEFS / f"{now.astimezone(zona()).date().isoformat()}.md").write_text(text + "\n")
         set_last_run(now.isoformat(timespec="seconds"))
 
 
