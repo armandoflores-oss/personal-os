@@ -11,8 +11,9 @@ atención. Está aquí por si algún día quieres ver cómo creció._
 
 ## 2026-11-05
 
-  - Tamaño: 33 proyectos · 39 reglas · 18 contexto · 11 gente · 1 fuentes
-  - Sin cards nuevas.
+  - Tamaño: 33 proyectos · 42 reglas · 20 contexto · 11 gente · 1 fuentes
+  - **context**: [[alertas-pex-actividad-sospechosa]], [[element-entregas-responsable-uriel]]
+  - **rules**: [[brief-rendia-horas-cdmx]], [[hizo-brief-sirviera-despues]], [[segunda-t-n-toca]]
 
 ## 2026-11-04
 

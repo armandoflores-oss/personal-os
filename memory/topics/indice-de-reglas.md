@@ -7,7 +7,7 @@ no_weave: true
 
 _Todas las reglas que Armando ha dado. Se aplican solas; están aquí para discutirlas. Generado por `scripts/weave.py`; no editar a mano._
 
-**39 cards**
+**42 cards**
 
 - [[autorretiro-loop|Autorretiro del loop]]
 - [[avasa-monto-t-32|Corrige el monto de T-32, que quedó truncado por un error de captura: el pago de]]
@@ -15,6 +15,7 @@ _Todas las reglas que Armando ha dado. Se aplican solas; están aquí para discu
 - [[brief-llegar-dentro-app|El brief tiene que llegar DENTRO de la app de Claude Code, no solo al DM de Slac]]
 - [[brief-maximo-lineas|Brief: máximo dos líneas por item]]
 - [[brief-recicla-tareas-perdio|El brief recicla tareas y perdió prioridades]]
+- [[brief-rendia-horas-cdmx|El brief rendia las horas en CDMX fijo (MX = UTC-6 hardcodeado) aunque Armando e]]
 - [[comparto-envio-adjunto-presente|Un 'te comparto' / 'les envío' / 'adjunto' en presente es una entrega ya hecha,]]
 - [[confirmaciones-asistencia-evento|Las confirmaciones de asistencia a un evento no son accionables: no abrir tarea]]
 - [[confirmaciones-reserva-hotel|Confirmaciones de reserva (hotel, vuelo) son logística, no pendientes: no se con]]
@@ -30,6 +31,7 @@ _Todas las reglas que Armando ha dado. Se aplican solas; están aquí para discu
 - [[entrega-brief-diario|Entrega del brief diario: Slack y Claude Code]]
 - [[entrega-brief-va-dentro|La entrega del brief va DENTRO de la conversacion donde Armando ya esta trabajan]]
 - [[fragmentos-transcripcion-tareas|Fragmentos de transcripción no son tareas]]
+- [[hizo-brief-sirviera-despues|Lo que hizo que el brief sirviera, despues de tres quejas: (1) entregarlo dentro]]
 - [[items-notas-junta|Items de notas de junta llevan los accionables]]
 - [[libro-propuestas|Libro de propuestas]]
 - [[mensajes-manda-fede|En mensajes que Armando manda a Fede o a liderazgo, no incluir el detalle de las]]
@@ -43,6 +45,7 @@ _Todas las reglas que Armando ha dado. Se aplican solas; están aquí para discu
 - [[quiere-avance-frenarlo-aprobaciones|Armando quiere que avance sin frenarlo con aprobaciones. Los diálogos que ve vie]]
 - [[repite-sistema-sirve|Armando repite que el sistema no sirve]]
 - [[reportes-directos-nombre|Reportes directos: solo nombre de pila en drafts]]
+- [[segunda-t-n-toca|Segunda vez que 'T-N no me toca' se clasifica mal: el parser lo entendio como RE]]
 - [[t-57-base-conocimiento-hubspot-dia|T-57 (base de conocimiento + Hubspot antes del dia 5) no es de Armando; se reasi]]
 - [[temas-operativos-resuelve|Los temas operativos que resuelve su equipo en el día a día (estatus de unidades]]
 - [[titular-sesion-fecha-marcarla|Titular la sesion con la fecha y marcarla no leida NO alcanzo: el brief sigue si]]

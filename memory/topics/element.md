@@ -14,6 +14,10 @@ _Hub. Concentra la densidad de enlaces para que las cards sueltas se mantengan l
 - [[t-23-element-rides-variable-fleet|T-23 (Element / Rides en Variable Fleet) no tiene seguimiento pendiente de Arman]]
 - [[t-23-element-variable-fleet-debe|T-23 Element/Variable Fleet: Armando debe validar con Fernando Galland si la cue]]
 
+## Contexto
+
+- [[element-entregas-responsable-uriel|De las entregas de Element el responsable es Uriel Vargas, no Armando. Element s]]
+
 ## Gente
 
 - [[carolina-osses|Carolina Osses]]
