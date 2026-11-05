@@ -203,6 +203,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "12345113af42": {
+  "action": "cotizar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-100",
+  "counterparty": "autosur",
+  "created": "2026-11-05T08:57:17+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Buen día, estimado Armando por este medio agradeceré el apoyo que nos puedas brindar para cotizar estas rutas, como te platiqué estamos armando una solución global para el corporativo en la cual usted",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a1a7c43536ecb6a",
+  "status": "open",
+  "task_id": "12345113af42",
+  "title": "Cotizar a Autosur: Grupo Autosur x Draiver – Resultados del piloto y propuesta comercial",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "131727414301": {
   "action": "revisar",
   "applied": false,

@@ -3,6 +3,7 @@
 <!-- Vista generada — NO editar a mano. Regenerar: python3 scripts/task.py rebuild -->
 
 ## Cotizaciones y pendientes operativos
+- **T-100** Cotizar a Autosur: Grupo Autosur x Draiver – Resultados del piloto y propuesta comercial
 - **T-77** Mandar la invitación de Teams a Garrigues: REPSE y plataformas digitales · esperando a Juliana / Garrigues
 - **T-89** Revisar a Pexcard: Alert: Suspicious activity for Jose Tiburcio Osorio
 - **T-95** Seguimiento con Kavak: Fiscal Address in Mexico
