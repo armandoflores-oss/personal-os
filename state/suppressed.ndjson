@@ -2308,3 +2308,5 @@
 {"detail": "", "item_id": "1B4JUh81kQjUI504iTkp7dq0J6x0ipc2Gbjohd39j1vQ", "reason": "sin_compromiso", "source": "drive", "subject": "Daily Huddle - Ops MX - 2026/11/04 09:15 CST - Notes by Gemini", "ts": "2026-11-05T08:57:17+00:00"}
 {"detail": "", "item_id": "1fb_XiXgb0yk4xYS2LGkQR2OC4LhYGO3g2mnjRT8jriI", "reason": "sin_compromiso", "source": "drive", "subject": "Back office Spain - 2026/11/04 09:59 EST - Notes by Gemini (English)", "ts": "2026-11-05T08:57:17+00:00"}
 {"detail": "", "item_id": "1BpC7nTwFbj2_aT3wVpNHCfBFCYSAL02WnWuF5f7fqxI", "reason": "sin_compromiso", "source": "drive", "subject": "Back office Spain - 2026/11/04 09:59 EST - Notes by Gemini (Spanish)", "ts": "2026-11-05T08:57:17+00:00"}
+{"detail": "", "item_id": "1a1aa97a2854efd5", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: FACTURAS CONDUCTORES OCTUBRE", "ts": "2026-11-05T09:46:39+00:00"}
+{"detail": "^\\s*accepted:", "item_id": "1a1aae20dfebe8bc", "reason": "meta", "source": "gmail", "subject": "Accepted: Draiver Turkey - Ilker / Armando / Paloma @ Thu Nov 5, 2026 4pm - 4:45pm (GMT+1) (Armando Flores)", "ts": "2026-11-05T09:46:39+00:00"}
