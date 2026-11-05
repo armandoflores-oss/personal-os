@@ -235,11 +235,17 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Paulo Ferrato | $28,000\n@armando.flores@draiver.com please review if we will keep Q4 projections or we have updates about this number.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "evidencia: Armando dijo que está listo",
+    "ts": "2026-11-05T09:56:46+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a1a1ff7883c42fd",
-  "status": "open",
+  "status": "done",
   "task_id": "131727414301",
   "title": "Revisar a Docs: Revenue Forecast ... - @armando.flores@draiver.com  please r...",
   "vetoed": false,
@@ -582,12 +588,17 @@
     "actor": "user",
     "note": "Siguiente paso: Armando genera junta de seguimiento/discusión con Fede y Nico.",
     "ts": "2026-09-28T18:46:11+00:00"
+   },
+   {
+    "actor": "user",
+    "note": "evidencia: Armando dijo que está listo",
+    "ts": "2026-11-05T09:56:46+00:00"
    }
   ],
   "owner": null,
   "snoozed_until": null,
   "source": null,
-  "status": "open",
+  "status": "done",
   "task_id": "298dd95c5797",
   "title": "Dar seguimiento a Borusan (hilo Borusan/Draiver)",
   "vetoed": false,
@@ -1312,11 +1323,17 @@
   "domain": "reuniones-espana",
   "due_date": null,
   "evidence": "I'll send a Google Meet invite to you and Paloma.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "evidencia: Armando dijo que está listo",
+    "ts": "2026-11-05T09:58:04+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a1a1ec366bbd4a6",
-  "status": "open",
+  "status": "done",
   "task_id": "67027dcb4b7b",
   "title": "Seguimiento con Gmail: Update",
   "vetoed": false,
@@ -2229,11 +2246,17 @@
   "domain": "pipeline-estrategico",
   "due_date": null,
   "evidence": "Re: Entregas 24- 26 de octubre\nHola Uri, Te comparto los cambios para esta semana.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "evidencia: Armando dijo que está listo",
+    "ts": "2026-11-05T09:58:04+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a17a48004ef83ad",
-  "status": "open",
+  "status": "done",
   "task_id": "b71bdc72bf53",
   "title": "Seguimiento con Element: Entregas 24- 26 de octubre",
   "vetoed": false,
@@ -2551,11 +2574,22 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Please review all recent transactions on the above card.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "evidencia: Armando dice que no está hecha",
+    "ts": "2026-11-05T09:56:46+00:00"
+   },
+   {
+    "actor": "user",
+    "note": "evidencia: Armando dijo que está listo",
+    "ts": "2026-11-05T09:58:04+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a1802600b83da4f",
-  "status": "open",
+  "status": "done",
   "task_id": "d8e8255c523c",
   "title": "Revisar a Pexcard: Alert: Suspicious activity for Jose Tiburcio Osorio",
   "vetoed": false,
@@ -2653,11 +2687,17 @@
   "domain": "reuniones-espana",
   "due_date": null,
   "evidence": "Desde iryo, vamos a proceder a la cancelación y devolución automática de todos los billetes afectados.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "evidencia: Armando dijo que está listo",
+    "ts": "2026-11-05T09:56:46+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a18c0379e252f03",
-  "status": "open",
+  "status": "done",
   "task_id": "dfb9ace1e790",
   "title": "Seguimiento con Iryo: Información importante sobre tu reserva 353ERM/Important information about your booking",
   "vetoed": false,
@@ -2971,11 +3011,17 @@
   "domain": "pipeline-estrategico",
   "due_date": null,
   "evidence": "Re: Tesla - Dravier - Mexico City Region Q4 2026 Oct\n@Uriel Vargas buen día, como lo conversamos te paso la programación de hoy en la tarde.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "user",
+    "note": "evidencia: Armando dijo que está listo",
+    "ts": "2026-11-05T09:56:46+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a1219b099e8ed18",
-  "status": "open",
+  "status": "done",
   "task_id": "f5da88853c14",
   "title": "Seguimiento con Tesla: programación CDMX Q4 octubre (va con Uriel)",
   "vetoed": false,

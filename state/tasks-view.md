@@ -5,20 +5,9 @@
 ## Cotizaciones y pendientes operativos
 - **T-100** Cotizar a Autosur: Grupo Autosur x Draiver – Resultados del piloto y propuesta comercial
 - **T-77** Mandar la invitación de Teams a Garrigues: REPSE y plataformas digitales · esperando a Juliana / Garrigues
-- **T-89** Revisar a Pexcard: Alert: Suspicious activity for Jose Tiburcio Osorio
 - **T-95** Seguimiento con Kavak: Fiscal Address in Mexico
-- **T-98** Revisar a Docs: Revenue Forecast ... - @armando.flores@draiver.com  please r...
 - **T-99** Revisar a Turbofin: CONTRATO DRAIVER
 
-## Reuniones España
-- **T-92** Seguimiento con Iryo: Información importante sobre tu reserva 353ERM/Important information about your booking
-- **T-97** Seguimiento con Gmail: Update
-
-## Grandes deals / RFPs
-- **T-49** Dar seguimiento a Borusan (hilo Borusan/Draiver)
-
 ## Pipeline estratégico
-- **T-74** Seguimiento con Tesla: programación CDMX Q4 octubre (va con Uriel)
-- **T-87** Seguimiento con Element: Entregas 24- 26 de octubre
 - **T-96** Seguimiento con Ford: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128
 
