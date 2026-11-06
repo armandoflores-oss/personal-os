@@ -7,7 +7,7 @@ no_weave: true
 
 _Todas las reglas que Armando ha dado. Se aplican solas; están aquí para discutirlas. Generado por `scripts/weave.py`; no editar a mano._
 
-**42 cards**
+**43 cards**
 
 - [[autorretiro-loop|Autorretiro del loop]]
 - [[avasa-monto-t-32|Corrige el monto de T-32, que quedó truncado por un error de captura: el pago de]]
@@ -41,6 +41,7 @@ _Todas las reglas que Armando ha dado. Se aplican solas; están aquí para discu
 - [[pase-semanal|Pase semanal]]
 - [[pedirle-aprobacion-cierre|No pedirle aprobacion en cada cierre de tarea: los comandos del Personal OS se c]]
 - [[personas-sistema-pone-juntas|Las personas que el sistema pone en juntas/comentarios no le aportan a Armando:]]
+- [[prep-juntas-gente-accionable|Prep de juntas: solo gente con algo accionable]]
 - [[priorizar-rankings-operativos|Priorizar rankings operativos por unidades solicitadas/recolectadas, no por entr]]
 - [[quiere-avance-frenarlo-aprobaciones|Armando quiere que avance sin frenarlo con aprobaciones. Los diálogos que ve vie]]
 - [[repite-sistema-sirve|Armando repite que el sistema no sirve]]

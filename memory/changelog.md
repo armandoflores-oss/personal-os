@@ -11,8 +11,8 @@ atención. Está aquí por si algún día quieres ver cómo creció._
 
 ## 2026-11-06
 
-  - Tamaño: 33 proyectos · 42 reglas · 20 contexto · 11 gente · 1 fuentes
-  - Sin cards nuevas.
+  - Tamaño: 33 proyectos · 43 reglas · 20 contexto · 11 gente · 1 fuentes
+  - **rules**: [[prep-juntas-gente-accionable]]
 
 ## 2026-11-05
 

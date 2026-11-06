@@ -1,0 +1,54 @@
+{
+ "fecha": "2026-11-06",
+ "abiertas": 10,
+ "candidatos": [
+  {
+   "task_id": "bf56f10a7a05",
+   "code": "T-95",
+   "titulo": "Seguimiento con Kavak: Fiscal Address in Mexico",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 2
+    }
+   ]
+  },
+  {
+   "task_id": "7e3cdbc0a51a",
+   "code": "T-99",
+   "titulo": "Revisar a Turbofin: CONTRATO DRAIVER",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 2
+    }
+   ]
+  },
+  {
+   "task_id": "e58d71862df2",
+   "code": "T-101",
+   "titulo": "Seguimiento con Kavak: Acuerdo de Colaboración y Tarifas",
+   "dominio": "operacion-kavak",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 2
+    }
+   ]
+  },
+  {
+   "task_id": "ac3c406eab0e",
+   "code": "T-105",
+   "titulo": "I will send you the NDA and then for the next meeting give me some next steps to work on\n[00:16:35] Armando Flores: we'l",
+   "dominio": "operacion-semanal",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 2
+    }
+   ]
+  }
+ ]
+}

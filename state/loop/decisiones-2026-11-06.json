@@ -1,0 +1,6 @@
+{"decisiones": [
+  {"task_id": "bf56f10a7a05", "clase": "ninguna", "evidencia": "Solo hay coincidencia débil (2 tokens) con una junta; nada dice que Kavak ya resolvió lo del domicilio fiscal."},
+  {"task_id": "7e3cdbc0a51a", "clase": "ninguna", "evidencia": "Se mencionó en una junta (2 tokens), pero no hay registro de que el contrato con Turbofin se revisó o cerró."},
+  {"task_id": "e58d71862df2", "clase": "ninguna", "evidencia": "Coincidencia de 2 tokens con una junta; nada confirma que se firmó o acordó el acuerdo de colaboración y las tarifas con Kavak."},
+  {"task_id": "ac3c406eab0e", "clase": "ninguna", "evidencia": "Hablar del tema en una junta (2 tokens) no prueba que el NDA ya se mandó ni que se definieron los siguientes pasos."}
+]}
