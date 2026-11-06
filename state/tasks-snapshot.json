@@ -2901,6 +2901,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "e96a7519aa5e": {
+  "action": "otro",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-106",
+  "counterparty": "tesla",
+  "created": "2026-11-06T12:26:59+00:00",
+  "domain": "pipeline-estrategico",
+  "due_date": null,
+  "evidence": "Que vamos a pagar?",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a1ae95f306714e1",
+  "status": "open",
+  "task_id": "e96a7519aa5e",
+  "title": "Seguimiento con Tesla: Solicitud urgente de endoso de beneficiario preferente – Póliza 5-201-46168",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "ea3741c6396d": {
   "action": null,
   "applied": false,

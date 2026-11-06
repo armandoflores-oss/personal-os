@@ -17,6 +17,7 @@
 [00:15:24] Armando Flores: te puedo hacer algunos slide
 
 ## Pipeline estratégico
+- **T-106** Seguimiento con Tesla: Solicitud urgente de endoso de beneficiario preferente – Póliza 5-201-46168
 - **T-96** Seguimiento con Ford: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128
 
 ## Operación semanal y márgenes
