@@ -1,0 +1,25 @@
+Weekly Product & Ops Draiver Spain - 2026/11/05 17:01 CET - Notes by Gemini
+nov 5, 2026
+Invitados: Artur Morais, Gerardo Cabanas, Paloma Calderon, Kevin Burke, Daniel Escribano, Armando Flores, Nicolas Ariza (ausentes: Fede Ranero, Rafael Pagliuso De Andrade)
+
+Resumen
+Actualización de seguros con AON y estrategias de flotas con Uber.
+Gestión de pólizas y AON: AON solicita una carta de apoderamiento y datos operativos para unificar la gestión del seguro con Lagunaro. Se acuerda mantener estimaciones consistentes de volumen e incluir clientes clave en la documentación.
+Expansión de flotas con Uber: La reunión con Uber facilitará alianzas con operadores de flotas en Madrid. El enfoque comercial inmediato prioriza flotas convencionales sobre vehículos autónomos.
+Actualizaciones de producto y logística: Las notificaciones de ETA ya operan en español y se desarrollan mejoras en facturación. Se revisó un flujo digital para verificación de antecedentes de conductores.
+
+Decisiones — Acordada
+- Cifras consistentes para la solicitud de seguro: usar las estimaciones de movimientos ya proporcionadas (15.000-16.500 y hasta 30.000) para la póliza con Lagunaro.
+
+Próximos pasos
+- [Armando Flores] Redactar borrador seguro: borrador con cifras y datos de estimación de operaciones para el seguro, consistente con cifras reportadas previamente.
+- [Nico] Firmar carta autorización: designar a Aon como único agente oficial para el seguro de la empresa (firma apoderado).
+- [Armando Flores] Enviar invitación registro: enviar nueva invitación actualizada del flujo de registro de conductores a Gerardo.
+- [Armando Flores] Investigar escuelas: revisar opciones escolares en la zona de Majadahonda (recomendación: colegio Everest).
+
+Detalles
+- Seguro: el corredor pequeño derivó el caso a AON (contactada originalmente por Nico). AON pide carta firmada por apoderado (Nico) autorizándola como agente único, la póliza actual y volúmenes de operaciones, porque varias corredurías consultaron a Lagunaro en nombre de la empresa. Gerardo y Armando acuerdan unificar postura e información.
+- Volumen: mantener 15-16,5 mil y hasta 30 mil movimientos. Para Hertz se usaron métricas SaaS (>1.000 movimientos mensuales); para aseguradoras se usan traslados reales desde septiembre (~200 sin incidencias). Incluir clientes y prospectos: Clicars, Flexicar, Hardman, Eurotransport Car, negociaciones con BCA. Gerardo lleva la negociación y copia a Armando; Nico debe firmar la carta.
+- Uber: Fede se reunió con un representante de Uber que abrirá puertas con Abomo (~5.000 licencias) y Auro (~4.000) en Madrid; reunión a tres bandas Abomo-Uber-Draiver. Armando ofrece slides del caso México (operador de ~14.000 Ubers eléctricos). Vehículo autónomo en Madrid no arranca antes de un año.
+- Producto: notificaciones de ETA operativas en español (falta formato). Herramienta de planeación/command center; mejoras para drivers (elegir qué coche subir, facturación unificada) en desarrollo, mínimo dos semanas, mostradas por Carol.
+- Paloma revisó flujo de registro de conductores con background check (foto facial vs licencia); la invitación de Gerardo estaba caducada, se le reenvió y funciona.

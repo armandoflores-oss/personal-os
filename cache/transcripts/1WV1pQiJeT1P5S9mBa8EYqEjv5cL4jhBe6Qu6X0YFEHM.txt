@@ -1,0 +1,39 @@
+Draiver Turkey – Ilker / Armando / Paloma - 2026/11/05 15:58 CET - Notes by Gemini
+Nov 5, 2026
+Invited: Paloma Calderon (paloma.calderon@driverdo.com), Armando Flores (armando.flores@driverdo.com), ilker baydar (ibay06@gmail.com)
+
+Summary
+Partnership expansion into Turkey evaluated technology sharing and insurance structures with phased driver rollouts.
+
+Partnership structure and operating models
+- Draiver provides the technology, operating playbook, pricing, know-how, brand, command center, localization, and support.
+- The partner operates local sales, operations, P&L, and platform moves without direct Draiver employees.
+- Draiver maintains platform GDPR compliance through European Union entities while the partner handles local insurance and invoicing.
+- Ilker explored a sales representative model operating on commission instead of a master franchise.
+
+Financial terms and franchise agreement components
+- Franchise agreements incorporate a setup licensing fee, a standard SAS fee per move, and a revenue share.
+- Initial payments vest across defined milestones, requiring minimum volume commitments over time to protect territorial exclusivity.
+- A commission-based sales representative structure proposes 1.5 dollars per move against a 4-dollar customer price (hypothetical numbers).
+
+Insurance challenges and phased driver rollout strategy
+- Local insurance companies lack familiarity with on-demand vehicle movement models in Turkey.
+- Phase 1 deploys SAS for clients operating their own internal drivers.
+- Phase 1.5 utilizes a valet partner providing 500 to 1,000 daily payroll-driven transports as an interim solution.
+- Phase 2 transitions toward onboarding individual drivers supported by a core network of 100 champion drivers.
+
+Decisions — Needs Further Discussion
+- Partnership model and insurance structure for Turkey: deferred until Ilker researches local insurance and compliance options for the next meeting.
+
+Next steps
+- [ilker baydar] Research insurance, GDPR, and company structure alternatives: to prepare solid options for next week's meeting.
+- [ilker baydar] Sign and return electronic NDA: via DocuSign upon receiving the request.
+- [Armando Flores] Send electronic NDA for signature: after gathering necessary information from the partner.
+
+Details
+- Armando presented the initial partnership draft. Draiver: technology, playbooks, pricing, know-how, brand, command center, app, localization, support. Partner: local entity, sales, operations, P&L, local insurance compliance, invoicing. Platform GDPR compliance via Draiver's European entity in Spain. Financial model: setup licensing fee, SaaS fee per move, franchise revenue share; exclusivity protected by minimum volume over time.
+- Ilker: traditional car transport in Turkey uses trucks with 5-8 cars, slow and expensive; has networks with rental and used car companies; will focus on used cars initially.
+- Legal entity: master franchisee/licensed partner vs. sales representative/commissioner agreement ($4/move to customer, $1.50/move commission, hypothetical). Compare both on insurance, tax, customer acquisition, compliance.
+- Insurance: SaaS-only (own drivers) needs no insurance; marketplace requires it. No Turkish insurer offers on-demand model for independent drivers. Explore leveraging European insurance partners (e.g. Allianz) used in Spain.
+- Phased rollout: Phase 1 SaaS to clients with own drivers; Phase 1.5 partner valet company (500-1,000 airport transports/day for Expedia and Uber, ~500 payroll drivers); Phase 2 independent drivers, ~100 champion drivers (80/20).
+- Next steps: Armando to request basic info and send NDA via DocuSign; Ilker to research insurance, GDPR, entity structure. Online follow-up next week since Armando and Paloma return to home bases; Armando back in person mid-December or January.
