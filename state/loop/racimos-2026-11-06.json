@@ -1,0 +1,18 @@
+{
+ "desde": "2026-10-30",
+ "correcciones": 5,
+ "racimos": [
+  {
+   "n": 4,
+   "textos": [
+    "Titular la sesion con la fecha y marcarla no leida NO alcanzo: el brief sigue siendo dificil de encontrar porque vive en una sesion, y las sesiones se apilan (5",
+    "La entrega del brief va DENTRO de la conversacion donde Armando ya esta trabajando, no a una pagina aparte ni a un DM. Rechazo el Artifact con URL fija: abrir o",
+    "El brief rendia las horas en CDMX fijo (MX = UTC-6 hardcodeado) aunque Armando estuviera en Madrid: las juntas aparecian corridas 7 horas. Las horas del brief d",
+    "Lo que hizo que el brief sirviera, despues de tres quejas: (1) entregarlo dentro de la conversacion donde el ya trabaja, no en un DM que no notifica ni en una p"
+   ]
+  }
+ ],
+ "sueltas": [
+  "Segunda vez que 'T-N no me toca' se clasifica mal: el parser lo entendio como REABRIR y reabrio T-89, cuando Armando estaba reasignandola a Julia. Reabrir es lo"
+ ]
+}

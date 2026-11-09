@@ -3057,6 +3057,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "eff70818ee6b": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-107",
+  "counterparty": "tesla",
+  "created": "2026-11-09T19:47:56+00:00",
+  "domain": "pipeline-estrategico",
+  "due_date": null,
+  "evidence": "RE: TESLA - TC - LARMEX MTY Dispatch - Q4 2026 Nov\nBuenas noches, les comparto la asignación para la carga de mañana.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a1b3e9e8034ab46",
+  "status": "open",
+  "task_id": "eff70818ee6b",
+  "title": "Seguimiento con Tesla: TESLA - TC - LARMEX MTY Dispatch - Q4 2026 Nov",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "f0960cc11322": {
   "action": "enviar",
   "applied": false,
