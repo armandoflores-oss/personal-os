@@ -10,3 +10,6 @@
 {"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-11-09T22:20:21+00:00"}
 {"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-11-09T23:45:25+00:00"}
 {"cambiadas": 0, "cards": 132, "huerfanas": 0, "leg": "tejido", "ts": "2026-11-09T23:45:43+00:00"}
+{"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-11-09T23:45:46+00:00"}
+{"cerradas": [], "fecha": "2026-11-09", "leg": "loop", "propuestas": [{"code": "T-77", "vence": "2026-11-13T00:43:24+00:00"}], "rechazadas": [{"code": "T-99", "por": "clase 'ninguna' no acciona"}, {"code": "T-105", "por": "clase 'ninguna' no acciona"}], "sello": "75c8d5ff9fc035fa", "tope": 6, "ts": "2026-11-10T00:43:24+00:00"}
+{"fecha": "2026-11-09", "leg": "tendencia", "retiro": {"dias": 12, "estado": "juntando_datos", "faltan": 9}, "ts": "2026-11-10T00:43:27+00:00"}

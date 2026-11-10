@@ -1,0 +1,5 @@
+{"decisiones": [
+  {"task_id": "37c33b0af763", "clase": "blanda", "evidencia": "T-77 (invitación de Teams a Garrigues sobre REPSE y plataformas digitales) lleva 14 días sin ningún movimiento en el tablero; puede que la invitación ya haya salido, pero no hay nada que lo confirme."},
+  {"task_id": "7e3cdbc0a51a", "clase": "ninguna", "evidencia": "T-99 (contrato de Turbofin): se mencionó en una junta, pero solo coinciden 2 palabras y nada dice que el contrato ya se revisó o se cerró."},
+  {"task_id": "ac3c406eab0e", "clase": "ninguna", "evidencia": "T-105 (NDA y siguientes pasos): salió en una junta con apenas 2 palabras en común; no hay señal de que el NDA se mandó ni de que los siguientes pasos quedaron definidos."}
+]}
