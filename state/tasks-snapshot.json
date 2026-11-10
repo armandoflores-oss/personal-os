@@ -1231,6 +1231,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "5af4a4490100": {
+  "action": "responder",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-108",
+  "counterparty": "kavak",
+  "created": "2026-11-10T19:47:08+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "I would suggest a virtual meeting on one of the following dates if suited: 27th, 30th Of November or 1st of December?",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a1c6b8cf0e8659a",
+  "status": "open",
+  "task_id": "5af4a4490100",
+  "title": "Responder a Kavak: SV: SV: [EXTERNAL] Re: Follow-up",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "5da29525d8e2": {
   "action": "enviar",
   "applied": false,
