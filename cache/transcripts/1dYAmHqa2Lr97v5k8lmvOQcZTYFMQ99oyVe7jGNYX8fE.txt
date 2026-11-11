@@ -1,0 +1,44 @@
+Diaria Spain Launch - 2026/11/11 08:30 CST - Notes by Gemini
+nov 11, 2026
+Invitados: daniel.escribano@draiver.com, armando.flores@driverdo.com, artur.morais@draiver.com
+
+### Resumen
+Revisión de operaciones con la planificación de viajes y la contratación de personal.
+
+Actualización de soporte técnico: El equipo conversó sobre el agente de soporte técnico sin una fecha definida de inicio. Se acordó revisar los plazos directamente en el canal correspondiente.
+
+Planificación de viajes: Los participantes coordinaron la logística para los viajes a Madrid y Dinamarca. Se ajustaron las fechas de las visitas y la compra de vuelos.
+
+Contratación y campañas: Se destacó la necesidad urgente de contratar un gestor logístico con perfil operativo. Asimismo, se revisaron los resultados de la campaña para conductores.
+
+### Decisiones
+Acordada:
+- Programación de demostración virtual con BCA: Se acordó programar una demostración virtual del agente enfocada en haulers con BCA para el 30 de noviembre con el fin de revisar volúmenes y precios antes de la demo de enero.
+
+### Próximos pasos
+- [Armando Flores] Preguntar sobre el agente de soporte: en el chat del equipo para confirmar cuándo estará listo para pruebas.
+- [Armando Flores] Enviar la respuesta a FTL: con los días reservados como marcador de posición y la logística correspondiente para el viaje a Dinamarca.
+- [Artur Morais] Buscar vuelos para Dinamarca: una vez que se confirmen la ciudad de destino y las fechas exactas para el viaje en enero.
+- [Artur Morais] Crear plantillas para conductores nuevos: esta misma tarde para su aprobación y posterior envío manual a través de WATI.
+- [Artur Morais] Buscar posibles candidatos: para la vacante de gestor logístico y compartir los perfiles disponibles con el equipo.
+
+### Detalles
+Actualización sobre el agente de soporte: Armando Flores consultó a Artur Morais sobre el tiempo estimado para iniciar con el agente de soporte técnico. Artur Morais respondió que todavía no dispone de una fecha definida, aunque indicó que Tiago respondió en un canal de chat sobre la solución del tema y la posibilidad de actualizaciones en la reunión de producto del viernes. Se acordó que Armando Flores consultaría directamente en el canal correspondiente para clarificar los plazos de prueba.
+
+Reunión con Clicars y talleres en Madrid: Artur Morais informó sobre la reunión matutina con Clicars coordinada por Nico y Pablo, cuyo propósito fue comprender los procesos y las métricas de rendimiento de Clicars, señalando que actualmente no existe una fuente de datos confiable y el proceso debe construirse desde cero. Asimismo, Artur Morais aclaró que los talleres se reprogramaron para el viernes 20, por lo que canceló el boleto de tren adquirido erróneamente, y confirmó su viaje a Madrid para el próximo lunes con el fin de reunirse con los despachadores Gabriela y Jorge G para observar la operación diaria, examinar las necesidades de gestión de vehículos nocturnos y capacitar sobre el uso de Command Center, sistema mediante el cual se gestiona el 50 por ciento de los movimientos totales en Madrid, incluyendo camiones y vehículos conducidos.
+
+Necesidad de contratación del gestor logístico: Ante las demandas operativas, Armando Flores planteó la necesidad de acelerar la contratación de un gestor logístico (Area Manager) para asegurar la atención a clientes y la asignación de viajes, lo cual facilitaría que Dani tuviera mayor disponibilidad para otras demandas. Artur Morais coincidió en la relevancia de esta contratación para apoyar la producción de la primera semana, mencionando que la primera ronda de entrevistas se llevaría a cabo durante la semana.
+
+Planificación del viaje a Dinamarca: Armando Flores y Artur Morais conversaron sobre la programación del viaje a Dinamarca para la semana del 18 de enero, acordando que Armando Flores colocará un marcador de posición (placeholder) en el calendario para los días 18 a 21 o 22 de enero, además de enviar una respuesta a los equipos de FTL. Artur Morais se comprometió a revisar los vuelos una vez confirmada la fecha.
+
+Demostración virtual con BCA y cuentas de prueba: Armando Flores propuso programar una demostración virtual con BCA para el lunes 30 de noviembre o el primero de diciembre, orientándola hacia la funcionalidad para transportistas (hauliers). Artur Morais acordó preparar la demostración y sugirió operar viajes de prueba en una cuenta de simulación con transportistas para recopilar datos que permitan evaluar volúmenes y precios antes de la demostración para enero.
+
+Aspecto visual del optimizador de rutas: Armando Flores indicó que la herramienta de optimización de rutas mostrada previamente presenta un aspecto improvisado y carece de la interfaz visual de Command Center. Artur Morais explicó que se trata de una herramienta externa y manifestó que revisaría el vocabulario y los botones adicionales con Bruno para mejorar la integración.
+
+Coordinación de vuelos y logística de viajes: Armando Flores solicitó definir detalles del viaje, y Artur Morais pidió conocer la ciudad de destino final para buscar vuelos y adquirirlos directamente mediante tarjeta sin necesidad de reembolsos, acordando hablar y cerrar el tema en cuanto Artur Morais encuentre opciones viables.
+
+Campaña de promoción para conductores y seguimiento a usuarios nuevos: Artur Morais presentó los datos de la campaña de promoción dirigida a conductores, especificando que de 216 mensajes enviados, 77 fueron visualizados y 36 conductores manifestaron interés registrándose, quedando pendientes reenvíos debido a fallas de marketing en el envío masivo. En cuanto a la sugerencia de Armando Flores de enviar mensajes proactivos de apoyo a conductores nuevos (first trippers), Artur Morais acordó diseñar las plantillas de imagen por la tarde para realizar el envío de manera manual mediante la plataforma WATI.
+
+Vacante de gestor logístico y perfil operativo: Respecto a la vacante de gestor logístico en España, Armando Flores mencionó que la vacante anterior fue cancelada, pero se abrió un puesto de gestor logístico, señalando que entrevistó a una candidata de Drive Me a quien descartó por tener un perfil comercial y superar el presupuesto, enfatizando que se requiere un perfil estrictamente operativo y práctico (hands-on). Artur Morais indicó que consultaría con personas conocidas del entorno cercano para compartir posibles candidatos.
+
+[Transcripción literal omitida en este depósito; ver el doc en Drive: https://docs.google.com/document/d/1dYAmHqa2Lr97v5k8lmvOQcZTYFMQ99oyVe7jGNYX8fE/edit]
