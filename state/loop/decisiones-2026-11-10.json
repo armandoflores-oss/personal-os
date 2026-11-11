@@ -1,0 +1,5 @@
+{"decisiones": [
+  {"task_id": "37c33b0af763", "clase": "blanda", "evidencia": "T-77 (invitación de Teams a Garrigues por REPSE): 15 días sin ningún movimiento en la tarea; no hay confirmación de que la invitación salió, solo silencio. Si sigue viva, una palabra la reabre."},
+  {"task_id": "bf56f10a7a05", "clase": "ninguna", "evidencia": "T-95 (Kavak, Fiscal Address in Mexico): solo coincide en 2 palabras con una junta; que se haya mencionado no dice que se resolvió."},
+  {"task_id": "ac3c406eab0e", "clase": "ninguna", "evidencia": "T-105 (mandar el NDA y próximos pasos): coincide en 3 palabras con una junta, pero eso indica que se habló del tema, no que el NDA se mandó."}
+]}

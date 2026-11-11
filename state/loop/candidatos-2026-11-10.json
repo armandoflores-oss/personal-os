@@ -1,0 +1,42 @@
+{
+ "fecha": "2026-11-10",
+ "abiertas": 12,
+ "candidatos": [
+  {
+   "task_id": "37c33b0af763",
+   "code": "T-77",
+   "titulo": "Mandar la invitación de Teams a Garrigues: REPSE y plataformas digitales",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 15
+    }
+   ]
+  },
+  {
+   "task_id": "bf56f10a7a05",
+   "code": "T-95",
+   "titulo": "Seguimiento con Kavak: Fiscal Address in Mexico",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 2
+    }
+   ]
+  },
+  {
+   "task_id": "ac3c406eab0e",
+   "code": "T-105",
+   "titulo": "I will send you the NDA and then for the next meeting give me some next steps to work on\n[00:16:35] Armando Flores: we'l",
+   "dominio": "operacion-semanal",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 3
+    }
+   ]
+  }
+ ]
+}
