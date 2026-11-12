@@ -20,3 +20,8 @@
 {"creados": [], "leg": "inbound", "source": "drive", "suprimidos": [{"detail": "", "item_id": "1VuWGaPwBGADqyXy5QNMUyQ7oBh5g6IAeVHSuaB2Vong", "reason": "sin_compromiso", "source": "drive", "subject": "Mexico - Back Office - 2026/11/12 15:59 EST - Notes by Gemini", "ts": "2026-11-12T21:54:16+00:00"}], "tope_alcanzado": 0, "ts": "2026-11-12T21:54:16+00:00", "vistos": 1, "watermark": "2026-11-12T21:24:32Z", "ya_vistos": 0}
 {"casi": [], "cerrados": [], "leg": "outbound", "revisados": 1, "ts": "2026-11-12T21:54:16+00:00"}
 {"cambiadas": 0, "cards": 132, "huerfanas": 0, "leg": "tejido", "ts": "2026-11-12T21:54:17+00:00"}
+{"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-11-12T21:54:20+00:00"}
+{"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-11-12T23:49:17+00:00"}
+{"creados": [], "leg": "inbound", "source": "gmail", "suprimidos": [{"detail": "", "item_id": "1a1d21e252175664", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: [EXT]Detalle traslado Octubre - Element Armada", "ts": "2026-11-12T23:54:30+00:00"}, {"detail": "", "item_id": "1a1d1ca2f53d1b11", "reason": "sin_compromiso", "source": "gmail", "subject": "Se asignó un nuevo presupuesto", "ts": "2026-11-12T23:54:30+00:00"}], "tope_alcanzado": 0, "ts": "2026-11-12T23:54:30+00:00", "vistos": 2, "watermark": "2026-11-12T23:35:31Z", "ya_vistos": 0}
+{"creados": [], "leg": "inbound", "source": "drive", "suprimidos": [], "tope_alcanzado": 0, "ts": "2026-11-12T23:54:30+00:00", "vistos": 1, "watermark": "2026-11-12T21:24:32Z", "ya_vistos": 1}
+{"cambiadas": 0, "cards": 132, "huerfanas": 0, "leg": "tejido", "ts": "2026-11-12T23:54:31+00:00"}
