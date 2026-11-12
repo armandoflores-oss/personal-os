@@ -1,29 +1,26 @@
 Diaria Spain Launch - 2026/11/10 15:58 CET - Notes by Gemini
+
 nov 10, 2026
-Invitados: daniel.escribano@draiver.com, armando.flores@driverdo.com, artur.morais@draiver.com
+Invitados: Daniel Escribano, Armando Flores, Artur Morais
 
-### Resumen
-Revisiones de cuentas y estrategia de bonificaciones con la optimizacion operativa para la expansion internacional
-
+Resumen
+Revisiones de cuentas y estrategia de bonificaciones con la optimizacion operativa para la expansion internacional.
 Revision de cuenta Sirsa: Las conversaciones con Sirsa lograron tranquilizar al cliente demostrando el funcionamiento global de las herramientas. Se negocio una mejora de tarifas condicionada a un minimo de 100 transportes mensuales.
-
 Estrategia de bonificaciones: Se han otorgado bonificaciones y pago por tiempo en casos puntuales para asegurar una reserva rapida. Se crearon reglas para campanas de bonificacion vigentes hasta el final del mes.
-
 Herramienta de calculo: Se anuncio una nueva funcionalidad en el centro de comandos para calcular el margen de beneficio de cada viaje. Dicha herramienta permite visualizar los costes finales para el control de pérdidas.
 
-### Decisiones
-Acordada:
+Decisiones (Acordada)
 - Creación de usuarios de cotización: Se acordó crear un usuario en el Command Center exclusivo para Lucía y Beatriz con acceso restringido únicamente a la parte de cotización.
 - Organización horaria del soporte: Se acordó organizar el soporte a conductores mediante turnos por horas específicos entre Daniel y Artur para cubrir las incidencias.
 
-### Próximos pasos
+Próximos pasos
 - [Artur Morais] Crear los usuarios en el Command Center: para Lucía y Beatriz con acceso exclusivo a la sección de cotización a precio estándar para que puedan generar presupuestos y archivos PDF profesionales.
 - [Artur Morais] Revisar los materiales para el kickoff: de Hermes con Cliccars compartidos por Nico para evaluar las ideas y los templates antes de la reunión programada para el día siguiente.
 - [Artur Morais] Hablar con Kevin y Paloma: para obtener acceso al agente de Kevin, probarlo, estudiarlo en profundidad y definir prompts de impacto.
 - [Artur Morais] Probar la herramienta de Command Center: para verificar el cálculo de márgenes en la creación de viajes y reportar los fallos detectados al equipo.
 - [Daniel Escribano] Organizar los turnos de soporte: con Artur para estructurar las franjas horarias de atención a conductores y optimizar la gestión de incidencias tanto de la aplicación como de los viajes.
 
-### Detalles
+Detalles
 Revisión de la cuenta de Sirsa y alineación inicial: Daniel Escribano informó sobre las conversaciones sostenidas con Sirsa para alinear las preocupaciones sobre el sistema, logrando tranquilizar a la representación cliente mediante la demostración del funcionamiento global de las herramientas. Posteriormente, Daniel Escribano detalló que Nico realizó la capacitación correspondiente y se implementarán agentes similares al modelo de Cliccars. En cuanto al volumen, Daniel Escribano negoció con Cristina una mejora de tarifas condicionada a un mínimo de 100 transportes mensuales de un total de 150, con un flujo actual de entre 50 y 60 transportes mensuales y tendencia ascendente. Daniel Escribano destacó el conocimiento previo del gerente Carlos y de Cristina, lo cual facilita la gestión política y operativa de la cuenta.
 
 Problemas en la salida de transportes y contexto de huelgas: Daniel Escribano reportó dificultades extremas para conseguir conductores y gestionar transportes, con jornadas laborales de entre 18 y 20 horas diarias. La situación se vio agravada por la semana de huelga general en España, dos semanas previas de huelga de trenes y los paros en la autopista M40. Adicionalmente, Daniel Escribano recibió reclamos de parte de Beatriz sobre la disponibilidad de 200 conductores para Cidauto, respondiendo que dichos conductores se encuentran debidamente dados de alta. En relación con los viajes específicos de Cidauto, Daniel Escribano intentó contactar sin éxito a la cliente, mientras que los conductores programados no pudieron recoger los vehículos debido al cierre temprano de la campa a las 5:00 o 5:30 de la tarde por motivos de huelga. Artur Morais intervino actualizando la hora del viaje de Cidauto para el día siguiente a las 2:00 de la tarde, evitando que el servicio expire en la aplicación.
@@ -36,10 +33,10 @@ Optimización del acceso a cotizaciones para Lucía y Beatriz: Artur Morais menc
 
 Configuración de soporte al cliente y organización horaria: Artur Morais confirmó la creación de un documento por parte de Tiago con decisiones pendientes, el cual fue revisado junto con Daniel Escribano por la mañana para eliminar los bloqueos en la configuración de la inteligencia artificial y el soporte. Para mitigar la carga laboral, Artur Morais y Daniel Escribano acordaron estructurar turnos por horas en la atención de tickets. Artur Morais asumirá el soporte de la aplicación y accesos para conductores, mientras que Daniel Escribano atenderá las consultas sobre viajes y servicios.
 
-Preparativos para reuniones presenciales y expansión internacional (Cliccars y Dinamarca): Artur Morais repasó la agenda próxima, anunciando la reunión de inicio del proyecto Hermes con Cliccars para el día siguiente con base en materiales de Nico, y un viaje en tren a Madrid el viernes para un taller presencial en las instalaciones de Cliccars. Armando Flores propuso programar para mediados de enero una visita a Dinamarca (Aalborg) con representantes de BCA, replicando un esquema similar al de Cliccars mediante vuelos desde Ámsterdam.
+Preparativos para reuniones presenciales y expansión internacional (Cliccars y Dinamarca): Artur Morais repasó la agenda próxima, anunciando la reunión de inicio del proyecto Hermes con Cliccars para el día siguiente con base en materiales de Nico, y un viaje en tren a Madrid el viernes para un taller presencial en las instalaciones de Cliccars. Armando Flores propuso programar para mediados de enero una visita a Dinamarca (específicamente en Aalborg, al norte de la ciudad de Lego) con representantes de BCA, replicando un esquema similar al de Cliccars mediante vuelos desde Ámsterdam.
 
-Desarrollo y profundización en el agente de Inteligencia Artificial de Kevin: Armando Flores solicitó a Artur Morais especializarse en el agente de inteligencia artificial desarrollado por Kevin, centrando la atención en el desarrollo y la retroalimentación. Artur Morais indicó que coordinará con Kevin y con Paloma para obtener acceso a la herramienta y diseñar de dos a tres indicaciones capaces de generar un impacto visual destacado para los usuarios, reduciendo consultas innecesarias.
+Desarrollo y profundización en el agente de Inteligencia Artificial de Kevin: Armando Flores solicitó a Artur Morais especializarse en el agente de inteligencia artificial desarrollado por Kevin, centrando la atención en el desarrollo y la retroalimentación. Artur Morais indicó que coordinará con Kevin y con Paloma para obtener acceso a la herramienta y diseñar de dos a tres indicaciones programadas capaces de generar un impacto visual destacado para los usuarios, reduciendo consultas innecesarias.
 
 Implementación de la herramienta de cálculo de márgenes en el centro de comandos: Artur Morais anunció una nueva funcionalidad en el centro de comandos para calcular el margen de beneficio de cada viaje durante su creación. Dicha herramienta permite visualizar los costes finales tanto para los usuarios limitados de los clientes como para el equipo interno, facilitando el control de pérdidas ante la aplicación de bonificaciones o sobrecostes.
 
-[Transcripción literal omitida en este depósito; ver el doc en Drive: https://docs.google.com/document/d/1PdPiUuqMcXGBSpQnu1loQj0d9abQf447fZ9Qgz8Lowo/edit]
+[Transcripción literal omitida en este caché; ver el Doc de origen.]

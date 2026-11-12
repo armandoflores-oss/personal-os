@@ -1,0 +1,43 @@
+Weekly Kavak / Draiver Leaders - 2026/11/11 14:01 CST - Notes by Gemini
+
+nov 11, 2026
+Invitados: Fede Ranero, Julia Diaz, Armando Flores, josue.luevano@kavak.com, Gerardo Acosta, Diego Diaz, aristides.calvani@kavak.com, jose.reyes.r@kavak.com
+
+Resumen
+Problemas operativos por cambio de código QR y estrategia para el Buen Fin.
+Impacto del código QR: El cambio de código QR afectó la operación y generó un aumento en los viajes en falso. El volumen total disminuyó 14 por ciento con 3702 unidades.
+Estrategias y bonos: Implementan acciones para atraer conductores experimentados y aplicar bonos para el Buen Fin. La operación busca incrementar la movilidad entre 450 y 500 servicios diarios.
+Priorización de unidades: Priorizaron liberar almacenamiento y atender unidades con estatus comercial directo. Revisaron facturas pendientes con Draiver para el cierre del mes.
+
+Decisiones (Acordada)
+- Estrategia de atracción y retención para conductores: Se aplicará la atracción de conductores experimentados y la retención de tres días a partir de esta semana para cubrir la demanda del buen fin.
+- Asignación de bonos especiales de fin de semana: Se otorgará un bono de 200 pesos por auto movido exclusivamente para sábado y domingo durante el fin de semana.
+- Priorización operativa de almacenamiento y estatus comercial: Se priorizarán para el procesamiento del fin de semana únicamente los servicios de almacenamiento y aquellos con estatus comercial, reserva, venta o entrega.
+
+Próximos pasos
+- [Armando Flores] Reunirse con Ángel Calderón: para revisar las discrepancias en la información de unidades y definir una solución rápida a los problemas de verificación.
+- [Armando Flores] Analizar los costos de dry runs: por monto para identificar dónde se concentra el mayor impacto financiero relacionado con las unidades y los traslados.
+- [Armando Flores] Tocar base con Sergio Fabila: para revisar el estatus pendiente de los costos de legos.
+- [Armando Flores] Preguntar a Marcelo en el chat: sobre el cierre de octubre para asegurar que quede listo para el próximo viernes.
+- [Armando Flores] Compartir el desglose de costos: para identificar dónde se originan las discrepancias y problemas de cobro.
+
+Detalles
+Impacto del cambio de código QR en la operación general: Armando Flores explicó que el cambio de código QR implementado en las últimas tres semanas ha afectado negativamente la operación, generando problemas de integración con Draiver y un incremento en los viajes en falso (dry runs) debido a cambios de unidad y verificaciones. Como resultado, Armando Flores señaló que el volumen total disminuyó un 14% con 3,702 unidades, mientras que el costo por entrega aumentó aproximadamente un 28%. Asimismo, se indicó que los viajes en falso de alto valor, como el caso de Hermosillo que supera los 18,000 pesos, impactan fuertemente en la facturación.
+
+Aumento y origen de los viajes en falso por verificación: Armando Flores detalló que el porcentaje de viajes en falso se ubicó en 9.8%, tras haber alcanzado un 18% en la primera semana del cambio. El 85% de estos viajes en falso provienen de procesos de verificación vehicular, donde se envían automóviles que ya cuentan con verificación vigente o que ya habían sido verificados previamente. Julia Diaz aportó que el 27% de esos casos ocurren porque las unidades ya están verificadas, lo cual genera un gasto operativo perdido de al menos medio día por unidad.
+
+Fallas en la migración de datos hacia el sistema Checkers: Armando Flores indicó que el problema principal radica en la transición de información desde Globox hacia el nuevo sistema interno de Kavak llamado Checkers, el cual carece de la información mapeada correctamente para identificar qué unidades requieren verificación. Adicionalmente, Armando Flores mencionó que el equipo de logística ya no puede realizar la revisión manual de placas y ubicaciones de estacionamiento (parking locations) porque el nuevo sistema Minerva no facilita dicha información a menos que los documentos se carguen obligatoriamente.
+
+Estrategias propuestas para mitigar los viajes en falso: Armando Flores propuso realizar un cruce de datos por origen y destino para identificar los viajes en falso de compras, además de enviar a un conductor de Draiver un día antes para validar papeles y verificaciones utilizando una lista de control en los hubs con más incidencia como Pedregal, Derma 2 y Fortuna. Fede Ranero consultó si la ejecución por parte de Draiver pudo haber mejorado, a lo cual Armando Flores respondió que el problema no recae en el equipo de Draiver, sino en la información desactualizada enviada por Kavak.
+
+Análisis financiero de costos y métricas de kilometraje: Armando Flores analizó que el costo facturado total se mantiene en 1.51 por semana, el valor facturado por Draiver en 95,000 pesos y el facturado por kilómetro en 9.0, manteniéndose controlado. Sin embargo, el 59% del alza en costos proviene de los movimientos de viajes en falso, destacando que los costos de traslado en rutas interestatales generan un impacto financiero considerable de hasta 100,000 pesos con pocos viajes erróneos. Armando Flores solicitó extraer los datos desglosados por monto para identificar el origen exacto del problema de costos.
+
+Comportamiento del volumen y productividad de conductores: Armando Flores expuso que el volumen interestatal ha presentado altibajos, mientras que los servicios locales muestran un alza. En cuanto a la productividad, los trayectos interestatales disminuyeron a 1.28 debido a distancias más lejanas, en contraste con los locales que superan el 3 y van al alza por mayor demanda. Armando Flores advirtió que permitir la llegada tardía de conductores a las 11 de la mañana afecta la productividad, aunque debido al alto volumen de esta semana no se han aplicado devoluciones de personal. Julia Diaz y Armando Flores discutieron que las llegadas a las 11 a.m. se descuentan manualmente por José Cris si el servicio finaliza tarde, pero esto sigue mermando el potencial de viajes.
+
+Atracción de conductores e iniciativas de bonos para el Buen Fin: Julia Diaz compartió que los servicios financiados aumentaron a nivel nacional, superando los 600 diarios. Para asegurar la cobertura de la demanda, Armando Flores explicó que están implementando acciones similares al pico de agosto, enfocándose en la atracción de conductores experimentados que se habían ido y aplicando una retención de 3 días consecutivos con bonos para preparar al equipo de cara al Buen Fin. Julia Diaz proyectó que con una respuesta estimada del 60% de los 80 conductores en la lista, la operación podría incrementar la movilidad de 300 a entre 450 y 500 servicios diarios.
+
+Gestión del rezago logístico y planificación de capacidad: Julia Diaz alertó sobre un rezago inicial de 355 servicios logísticos no asignados ni enrutados, cifra que Armando Flores corrigió al contabilizar 535 pendientes sin contar verificaciones ni almacenamiento, elevando el rezago real a más de 655 servicios. Para mitigar esto, Armando Flores propuso ofrecer bonos exclusivos de 200 pesos por auto movido para sábado y domingo, y aseguró que los servicios comerciales se publicarán a tiempo para captar la demanda de los conductores.
+
+Uso de transportes pesados y priorización de unidades para el fin de semana: Armando Flores evaluó el uso de madrinas (camiones nodriza) a nivel nacional, señalando que las restricciones de descarga en los hubs se pueden resolver descargando a unas cuadras, similar a la operación con Tesla. Ante un inventario de 78 unidades en almacenamiento y un total de rezago considerable, Armando Flores dictaminó como prioridad absoluta para el día siguiente concentrarse en liberar almacenamiento y atender unidades con estatus comercial directo (ventas, reservas o entregas), dejando el resto para el viernes. Fede Ranero consultó sobre la integración de costos con Sergio Fabila, a lo cual Armando Flores respondió que tocará base para verificar el estado de ese pendiente.
+
+Revisión de facturas pendientes y cierre del mes de octubre: Armando Flores y Fede Ranero revisaron las facturas pendientes de septiembre con Draiver, señalando que Marcelo esperaba enviarlas el mismo día. Respecto al cierre de octubre, Armando Flores indicó que verificaría directamente con Marcelo y José para asegurar que los datos estén listos y considerados para el cierre, con la meta de dejarlo concluido para el viernes de la semana siguiente.
