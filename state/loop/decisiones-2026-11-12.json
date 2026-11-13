@@ -1,0 +1,6 @@
+{"decisiones": [
+  {"task_id": "37c33b0af763", "clase": "blanda", "evidencia": "T-77 (invitación de Teams a Garrigues por REPSE/plataformas): 17 días sin ningún movimiento en el tablero; puede que ya se mandó o que dejó de importar, pero nada lo confirma. Propuesta: cierra en 72 h si no dices nada."},
+  {"task_id": "bf56f10a7a05", "clase": "ninguna", "evidencia": "T-95 (Kavak, Fiscal Address en México): solo coincidieron 2 palabras con una junta; eso dice que se mencionó, no que quedó resuelto."},
+  {"task_id": "7e3cdbc0a51a", "clase": "ninguna", "evidencia": "T-99 (contrato de Turbofin): solo coincidieron 2 palabras con una junta; no hay registro de que se haya revisado o cerrado."},
+  {"task_id": "ac3c406eab0e", "clase": "ninguna", "evidencia": "T-105 (NDA y siguientes pasos): coincidieron 3 palabras con una junta, pero eso no muestra que el NDA se haya mandado."}
+]}
