@@ -5,6 +5,7 @@
 ## Cotizaciones y pendientes operativos
 - **T-102** Seguimiento con Bca: Autosvar:[EXTERNAL] Re: Follow-up
 - **T-103** Seguimiento con Mg: JULIANA TURIN mentioned you in Contrato de Traslado - TURBOFIN DRIVERDO  06102026 (6ac99886fe)
+- **T-109** Cotizar a Cemex: COTIZACION TRASLADO CA4959 CANCUN - QUERETARO - TIJUANA
 - **T-77** Mandar la invitación de Teams a Garrigues: REPSE y plataformas digitales · esperando a Juliana / Garrigues
 - **T-95** Seguimiento con Kavak: Fiscal Address in Mexico
 - **T-99** Revisar a Turbofin: CONTRATO DRAIVER

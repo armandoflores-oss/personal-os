@@ -3030,6 +3030,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "eba03cb73168": {
+  "action": "cotizar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-109",
+  "counterparty": "cemex",
+  "created": "2026-11-13T19:46:55+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Buenas tardes Jose/Armando, Me podrían apoyar con la cotización de traslado de las siguientes unidades NumEconomico Denominacion NoSerie Descripcion TipoCombustible Marca TipoVehiculo AnioModelo",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a1d5e50c8ef945f",
+  "status": "open",
+  "task_id": "eba03cb73168",
+  "title": "Cotizar a Cemex: COTIZACION TRASLADO CA4959 CANCUN - QUERETARO - TIJUANA",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "ec52174721aa": {
   "action": null,
   "applied": false,
@@ -3285,6 +3306,33 @@
   "status": "open",
   "task_id": "f881800e2211",
   "title": "Seguimiento con Mg: JULIANA TURIN mentioned you in Contrato de Traslado - TURBOFIN DRIVERDO  06102026 (6ac99886fe)",
+  "vetoed": false,
+  "waiting_on": null
+ },
+ "fda46ad9063f": {
+  "action": "responder",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-110",
+  "counterparty": "kavak",
+  "created": "2026-11-13T19:46:55+00:00",
+  "domain": "operacion-kavak",
+  "due_date": null,
+  "evidence": "¿Estamos viendo posibles compradores para un lote de cerca de 100 unidades que tenemos en buen estado… será que me puedes apoyar con un contacto de alguien de Kavak que les",
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-11-13T15:31:41Z a kavak: «Re: Draiver Logística NR Finance»",
+    "ts": "2026-11-13T19:46:55+00:00"
+   }
+  ],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a1d58142fe04c65",
+  "status": "done",
+  "task_id": "fda46ad9063f",
+  "title": "Responder a Kavak: Draiver Logística NR Finance",
   "vetoed": false,
   "waiting_on": null
  },
