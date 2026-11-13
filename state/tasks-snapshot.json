@@ -2358,6 +2358,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "bb843d2e9ffe": {
+  "action": "preparar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-111",
+  "counterparty": "zapata",
+  "created": "2026-11-13T22:26:10+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Estimado Armando/ Julia, nos pueden ayudar, seguimos sin poder continuar con el proceso por falta de pago.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a1d6c37c918ea9a",
+  "status": "open",
+  "task_id": "bb843d2e9ffe",
+  "title": "Preparar a Zapata: TRANSIT | AZUL METALICO | WF0WS4NB1VTJ63314",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "bc5e528ccd4c": {
   "action": "enviar",
   "applied": false,
