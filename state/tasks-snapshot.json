@@ -1763,11 +1763,17 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Les agradeceré revisarlo y, de estar de acuerdo con los ajustes, proceder con la firma a la brevedad posible.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-11-13T23:24:05Z a turbofin: «Re: CONTRATO DRAIVER»",
+    "ts": "2026-11-13T23:46:27+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a1a3e65e08b01a9",
-  "status": "open",
+  "status": "done",
   "task_id": "7e3cdbc0a51a",
   "title": "Revisar a Turbofin: CONTRATO DRAIVER",
   "vetoed": false,

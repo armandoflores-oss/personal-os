@@ -9,7 +9,6 @@
 - **T-111** Preparar a Zapata: TRANSIT | AZUL METALICO | WF0WS4NB1VTJ63314
 - **T-77** Mandar la invitación de Teams a Garrigues: REPSE y plataformas digitales · esperando a Juliana / Garrigues
 - **T-95** Seguimiento con Kavak: Fiscal Address in Mexico
-- **T-99** Revisar a Turbofin: CONTRATO DRAIVER
 
 ## Operación Kavak
 - **T-101** Seguimiento con Kavak: Acuerdo de Colaboración y Tarifas
