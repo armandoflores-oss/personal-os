@@ -1,0 +1,48 @@
+Diaria Spain Launch - 2026/11/13 08:31 CST - Notes by Gemini
+nov 13, 2026
+Invitados: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
+
+### Resumen
+Revisión de métricas operativas y resolución de incidencias con clientes
+
+Volumen y problemas con Harman
+Los envíos de clientes habituales bajan por estacionalidad pero operan con normalidad. Se suspenden los transportes de Harman debido a la falta de respuesta en la documentación.
+
+Tablero de datos y métricas
+Se implementa un nuevo tablero de datos para actualizar los viernes. Se sugiere separar las gráficas que mezclan el mercado y el software como servicio en las sumas.
+
+Incidencias técnicas y facturación
+Investigan fallas donde los conductores no visualizan los viajes a pesar de recibir notificaciones. Las configuraciones de las entidades de facturación quedarán listas el martes.
+
+### Decisiones
+- Modificación del cuadro de mandos para separar marketplace y SAS: Se acordó modificar el cuadro de mandos (dashboard) de datos para separar la vista del marketplace y de SAS, ya sea mediante filtros superiores o en pestañas separadas.
+- Configuración de entidades de facturación para ETC: Se fijó el próximo martes como fecha estimada para que las configuraciones de la entidad de facturación para ETC estén listas e incluyan a Flexicar, la cuenta con todas las cuentas hijas y CIRSA.
+- Distribución de tareas para creación de cuentas y usuarios: Se estableció que Artur creará únicamente la cuenta general de cliente bajo la cuenta general y Daniel se encargará de gestionar y crear los usuarios.
+
+### Próximos pasos
+- [Daniel Escribano] Llamar a Flexicar: el lunes para hablar tranquilamente sobre los transportes que no se volcaron y revisar la situación.
+- [Daniel Escribano] Llamar a Harman: el lunes para insistir en la falta de respuesta sobre los documentos necesarios para las recogidas y entregas en campas.
+- [Daniel Escribano] Modificar el dashboard de datos: para separar marketplace y SAS mediante pestañas o filtros superiores según las sugerencias recibidas.
+- [Daniel Escribano] Crear un dashboard en tiempo real: para los transportes combinando características de los sistemas existentes y permitiendo la búsqueda directa por matrícula.
+- [Daniel Escribano] Reunirse con las chicas: para revisar los números de la semana y continuar con el seguimiento.
+- [Artur Morais] Plantear con el equipo los cambios de la aplicación: para mejorar la experiencia de los conductores de movimientos ciudad y planificar la disponibilidad de nuevas funcionalidades.
+- [Artur Morais] Crear la cuenta de Aguinaga Comercial SL: bajo la cuenta general y confirmar a Daniel Escribano una vez finalizada para que pueda subir el transporte.
+
+### Detalles
+Volumen de clientes habituales y problemas con Harman: Daniel Escribano reporta una baja de envíos en clientes como Sirsa (Car 10) y Meer debido a cuestiones de fin de año y fiscalidad, aclarando que dichos clientes continúan operando al 100% con la empresa. En contraste, surge un problema grave con Harman, ya que llevan 24 horas sin responder solicitudes de documentación para recoger y entregar vehículos en campas. Ante esta situación, Daniel Escribano se niega a subir más transportes de Harman y pone en copia a Gerardo para alertar a Mariano, el director ejecutivo (CEO) de Harman, dado que estas fallas desgastan a los conductores. Asimismo, Daniel Escribano se compromete a contactar al cliente de Flexicar el lunes para revisar los transportes no volcados.
+
+Creación y acceso al tablero de datos: Daniel Escribano crea un nuevo tablero (dashboard) de datos para actualizar todos los viernes y lo comparte con el equipo. Armando Flores se incorpora tarde a la reunión debido a un problema de humedad en casa y reporta un error de página no encontrada al intentar abrir el enlace. Tras identificar que el artefacto es privado, Artur Morais aprueba las solicitudes de acceso para que Armando Flores pueda visualizarlo correctamente.
+
+Revisión de métricas del tablero y análisis de marketplace y SaaS: Daniel Escribano repasa los datos del tablero junto con el sistema Finout enfocado en la facturación de clientes. Armando Flores sugiere añadir filtros o separar por pestañas las gráficas, ya que el modelo actual mezcla el marketplace con el software como servicio (SaaS) en las sumas generales. Daniel Escribano explica que la reducción en los transportes de Car 10 responde a la estacionalidad de los compraventas al cierre de año. Respecto a la gestión financiera, Daniel Escribano confirma que los pagos a conductores se mantienen al día y se trabaja junto con Finout en un sistema para facilitar los cobros y datos de facturación de las empresas.
+
+Facturas pendientes y gestión de autocaravanas: Artur Morais informa que envió a Pablo los reportes pendientes de Sermar, Meer y Clicks. Quedan pendientes los movimientos de autocaravanas, a la espera de que las entidades de facturación respondan para generar y enviar los documentos correspondientes. Daniel Escribano indica que intentará contactar a Eder y a la nueva persona encargada de autocaravanas para agilizar el proceso.
+
+Tiempos de asignación y preferencia por tipos de viajes: Daniel Escribano señala que el tiempo medio de asignación durante noviembre fue de 9.6 horas, una cifra muy alta influenciada por las dificultades recientes. Armando Flores y Daniel Escribano debaten sobre el valor del ticket medio y los viajes largos, destacando que los trayectos largos requieren menor cantidad de contactos por euro, aunque encadenar viajes cortos también aporta beneficios a pesar de requerir más gestión. Daniel Escribano detecta que los transportes se dividen por cuentas hijas en lugar de cuentas principales, aspecto que planea corregir. Además, Daniel Escribano busca desarrollar un panel en tiempo real para los transportes utilizando matrículas en Salesforce, tomando referencias del sistema de Kevin.
+
+Incidencias técnicas de notificaciones y permisos de ubicación: Artur Morais comenta que la reunión sostenida con Paloma y el equipo técnico busca investigar por qué los conductores reciben notificaciones pero no visualizan los viajes en la plataforma. Analizan posibles fallas vinculadas a los permisos de ubicación en segundo plano y las normativas de protección de datos, acordando sugerir a los conductores que mantengan activados dichos permisos permanentemente. Adicionalmente, Artur Morais anuncia que las configuraciones de las entidades de facturación para ETC, Flexicar y Sirsa quedarán listas el próximo martes.
+
+Restablecimiento de contraseñas y coordinación de agenda semanal: Artur Morais plantea el fallo en el correo automático para restablecer contraseñas de la aplicación de conductores, lo cual obliga a solucionarlo manualmente por WhatsApp, aunque Daniel Escribano lo considera un mal menor que se gestiona rápidamente. Para la agenda del lunes, Artur Morais estará ocupado en reuniones de formación con Flexicar, Daniel Escribano tiene una cita médica al mediodía que intentará aplazar, y Armando Flores informa que el lunes es día festivo en México, por lo que lo dedicará a la familia.
+
+Creación de nueva cuenta de cliente para Aguinaga Comercial SL: Artur Morais y Daniel Escribano coordinan el alta de una nueva cuenta de cliente para Aguinaga Comercial SL solicitada por Lucía. Se acuerda la distribución de funciones: Artur Morais creará la cuenta general y Daniel Escribano se encargará de gestionar la creación de usuarios específicos para mantener un control estricto de los accesos.
+
+[Nota de la rutina: se guardaron las notas de Gemini; la transcripción literal de la junta (30 min) no se copió.]
