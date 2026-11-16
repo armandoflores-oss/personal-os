@@ -203,6 +203,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "120e83d082c0": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-112",
+  "counterparty": "lyft",
+  "created": "2026-11-16T14:53:02+00:00",
+  "domain": "reuniones-espana",
+  "due_date": null,
+  "evidence": "Por favor, ¿me puedes mandar de nuevo el email con todo en inglés, tanto el 1-pager como el cuerpo?",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a1e4c886e3a3fcd",
+  "status": "open",
+  "task_id": "120e83d082c0",
+  "title": "Enviar a Lyft: Draiver: la operación física detrás de las flotas autónomas / The physical operations layer behind AV fle",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "12345113af42": {
   "action": "cotizar",
   "applied": false,

@@ -12,12 +12,12 @@
  },
  "37c33b0af763": {
   "code": "T-77",
-  "creada": "2026-11-13T00:46:56+00:00",
+  "creada": "2026-11-14T00:31:27+00:00",
   "degradada": null,
-  "evidencia": "T-77 (invitación de Teams a Garrigues por REPSE/plataformas): 17 días sin ningún movimiento en el tablero; puede que ya se mandó o que dejó de importar, pero nada lo confirma. Propuesta: cierra en 72 ",
+  "evidencia": "T-77 (invitación de Teams a Garrigues por REPSE y plataformas digitales) lleva 18 días sin ningún movimiento; podría haberse mandado sin registrarlo, pero nada lo confirma.",
   "firewalled": false,
   "titulo": "Mandar la invitación de Teams a Garrigues: REPSE y plataformas digitales",
-  "vence": "2026-11-16T00:46:56+00:00"
+  "vence": "2026-11-17T00:31:27+00:00"
  },
  "4eef98d452a7": {
   "aplicada": "2026-10-13T15:09:10+00:00",

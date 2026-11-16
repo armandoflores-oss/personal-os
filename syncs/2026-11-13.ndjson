@@ -19,3 +19,6 @@
 {"creados": [], "leg": "inbound", "source": "drive", "suprimidos": [{"detail": "", "item_id": "1obIJCTvNoxEgbSz1RK3yrPltY5CiEVzxLcSAYJIa3_U", "reason": "sin_compromiso", "source": "drive", "subject": "MX Finance review - weekly - 2026/11/13 14:59 CST - Notes by Gemini", "ts": "2026-11-13T23:46:27+00:00"}], "tope_alcanzado": 0, "ts": "2026-11-13T23:46:27+00:00", "vistos": 1, "watermark": "2026-11-13T21:36:32Z", "ya_vistos": 0}
 {"casi": [], "cerrados": [{"code": "T-99", "evidencia": "Re: CONTRATO DRAIVER", "titulo": "Revisar a Turbofin: CONTRATO DRAIVER", "tokens": ["contrato", "draiver"]}], "leg": "outbound", "revisados": 1, "ts": "2026-11-13T23:46:27+00:00"}
 {"cambiadas": 0, "cards": 132, "huerfanas": 0, "leg": "tejido", "ts": "2026-11-13T23:46:27+00:00"}
+{"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-11-13T23:46:31+00:00"}
+{"cerradas": [], "fecha": "2026-11-13", "leg": "loop", "propuestas": [{"code": "T-77", "vence": "2026-11-17T00:31:27+00:00"}], "rechazadas": [{"code": "T-95", "por": "clase 'ninguna' no acciona"}, {"code": "T-105", "por": "clase 'ninguna' no acciona"}], "sello": "fa3d671d2c97d231", "tope": 6, "ts": "2026-11-14T00:31:27+00:00"}
+{"fecha": "2026-11-13", "leg": "tendencia", "retiro": {"dias": 15, "estado": "juntando_datos", "faltan": 6}, "ts": "2026-11-14T00:31:28+00:00"}

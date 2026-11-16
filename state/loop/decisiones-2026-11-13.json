@@ -1,0 +1,5 @@
+{"decisiones": [
+  {"task_id": "37c33b0af763", "clase": "blanda", "evidencia": "T-77 (invitación de Teams a Garrigues por REPSE y plataformas digitales) lleva 18 días sin ningún movimiento; podría haberse mandado sin registrarlo, pero nada lo confirma."},
+  {"task_id": "bf56f10a7a05", "clase": "ninguna", "evidencia": "T-95 (fiscal address de Kavak) solo coincide con 2 tokens en una junta: que se haya mencionado no dice que quedó resuelto."},
+  {"task_id": "ac3c406eab0e", "clase": "ninguna", "evidencia": "T-105 (mandar NDA y próximos pasos) aparece en una junta con 3 tokens coincidentes, pero no hay registro de que el NDA se haya enviado."}
+]}

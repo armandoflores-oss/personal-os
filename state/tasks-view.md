@@ -16,6 +16,7 @@
 ## Reuniones España
 - **T-104** Pues coméntalo con él o que me envíe la carta y yo le envío todo
 [00:15:24] Armando Flores: te puedo hacer algunos slide
+- **T-112** Enviar a Lyft: Draiver: la operación física detrás de las flotas autónomas / The physical operations layer behind AV fle
 
 ## Pipeline estratégico
 - **T-106** Seguimiento con Tesla: Solicitud urgente de endoso de beneficiario preferente – Póliza 5-201-46168
