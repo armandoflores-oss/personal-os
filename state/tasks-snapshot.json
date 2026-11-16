@@ -1923,6 +1923,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "88ae25489d7f": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-113",
+  "counterparty": "harrison.wendland",
+  "created": "2026-11-16T22:53:55+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Re: Claim 1972 payment request - Continental MX, trip 3994939.1 VIN 5TDGRKECXNS112943 - Re: Continental – Payment for Rim Damage\n@julia could you please share CLABE, RFE, and address that was provided",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a1e609ee7a2a037",
+  "status": "open",
+  "task_id": "88ae25489d7f",
+  "title": "Seguimiento con Harrison Wendland: Claim 1972 payment request - Continental MX, trip 3994939.1 VIN 5TDGRKECXNS112943 - R",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "8b3dbac09b54": {
   "action": "enviar",
   "applied": false,
