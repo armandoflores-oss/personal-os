@@ -7,7 +7,6 @@
 - **T-103** Seguimiento con Mg: JULIANA TURIN mentioned you in Contrato de Traslado - TURBOFIN DRIVERDO  06102026 (6ac99886fe)
 - **T-109** Cotizar a Cemex: COTIZACION TRASLADO CA4959 CANCUN - QUERETARO - TIJUANA
 - **T-111** Preparar a Zapata: TRANSIT | AZUL METALICO | WF0WS4NB1VTJ63314
-- **T-113** Seguimiento con Harrison Wendland: Claim 1972 payment request - Continental MX, trip 3994939.1 VIN 5TDGRKECXNS112943 - R
 - **T-95** Seguimiento con Kavak: Fiscal Address in Mexico
 
 ## Operación Kavak

@@ -1939,11 +1939,17 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "Re: Claim 1972 payment request - Continental MX, trip 3994939.1 VIN 5TDGRKECXNS112943 - Re: Continental – Payment for Rim Damage\n@julia could you please share CLABE, RFE, and address that was provided",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-11-17T21:27:47Z a harrison.wendland: «Re: Urgent Claim 1907 payment request, Zapata MX trip 3874538.2, VIN WF0WS4NB1VT»",
+    "ts": "2026-11-17T21:46:09+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a1e609ee7a2a037",
-  "status": "open",
+  "status": "done",
   "task_id": "88ae25489d7f",
   "title": "Seguimiento con Harrison Wendland: Claim 1972 payment request - Continental MX, trip 3994939.1 VIN 5TDGRKECXNS112943 - R",
   "vetoed": false,
