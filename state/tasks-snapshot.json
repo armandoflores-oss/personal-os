@@ -788,7 +788,7 @@
  "37c33b0af763": {
   "action": "enviar",
   "applied": false,
-  "archived": false,
+  "archived": true,
   "blocked": null,
   "code": "T-77",
   "counterparty": "garrigues",
@@ -801,6 +801,11 @@
     "actor": "system:limpieza",
     "note": "Junta el hilo de T-34 (31 días quieto, esperando a Juliana / Garrigues): mismo hilo REPSE and digital platforms.",
     "ts": "2026-10-26T19:48:58+00:00"
+   },
+   {
+    "actor": "system:loop:quietas",
+    "note": "archivado: quieta: 21 días sin movimiento",
+    "ts": "2026-11-17T02:22:34+00:00"
    }
   ],
   "owner": null,
