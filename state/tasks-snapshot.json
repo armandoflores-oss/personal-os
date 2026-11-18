@@ -214,11 +214,17 @@
   "domain": "reuniones-espana",
   "due_date": null,
   "evidence": "Por favor, ¿me puedes mandar de nuevo el email con todo en inglés, tanto el 1-pager como el cuerpo?",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-11-18T01:00:10Z a lyft: «Re: Draiver: la operación física detrás de las flotas autónomas / The physical o»",
+    "ts": "2026-11-18T14:46:38+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a1e4c886e3a3fcd",
-  "status": "open",
+  "status": "done",
   "task_id": "120e83d082c0",
   "title": "Enviar a Lyft: Draiver: la operación física detrás de las flotas autónomas / The physical operations layer behind AV fle",
   "vetoed": false,

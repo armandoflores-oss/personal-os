@@ -10,6 +10,15 @@
   "vence": "2026-10-13T01:11:43+00:00",
   "vetada": true
  },
+ "2132c8b45832": {
+  "code": "T-96",
+  "creada": "2026-11-18T00:35:01+00:00",
+  "degradada": null,
+  "evidencia": "T-96 Ford EDI (REQGTPCM2026000128): 14 días sin ningún movimiento; no hay mención de que la conexión SFTP quedara lista, solo silencio. Si sigue abierto con Ford, una palabra la reabre.",
+  "firewalled": false,
+  "titulo": "Seguimiento con Ford: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128",
+  "vence": "2026-11-21T00:35:01+00:00"
+ },
  "4eef98d452a7": {
   "aplicada": "2026-10-13T15:09:10+00:00",
   "code": "T-52",
@@ -32,6 +41,15 @@
   "vence": "2026-09-29T00:42:54+00:00",
   "vetada": true,
   "vetada_el": "2026-09-29T15:08:38+00:00"
+ },
+ "bf56f10a7a05": {
+  "code": "T-95",
+  "creada": "2026-11-18T00:35:01+00:00",
+  "degradada": null,
+  "evidencia": "T-95 Kavak dirección fiscal: 14 días sin movimiento y el tema apareció en una junta (coincidencia de 3 palabras), pero nada confirma que Kavak ya mandó o resolvió la dirección fiscal.",
+  "firewalled": false,
+  "titulo": "Seguimiento con Kavak: Fiscal Address in Mexico",
+  "vence": "2026-11-21T00:35:01+00:00"
  },
  "c61b94aeeeb7": {
   "code": "T-72",

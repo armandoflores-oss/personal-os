@@ -1,0 +1,46 @@
+{
+ "fecha": "2026-11-17",
+ "abiertas": 12,
+ "candidatos": [
+  {
+   "task_id": "bf56f10a7a05",
+   "code": "T-95",
+   "titulo": "Seguimiento con Kavak: Fiscal Address in Mexico",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 3
+    },
+    {
+     "tipo": "sin_movimiento",
+     "dias": 14
+    }
+   ]
+  },
+  {
+   "task_id": "2132c8b45832",
+   "code": "T-96",
+   "titulo": "Seguimiento con Ford: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128",
+   "dominio": "pipeline-estrategico",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 14
+    }
+   ]
+  },
+  {
+   "task_id": "ac3c406eab0e",
+   "code": "T-105",
+   "titulo": "I will send you the NDA and then for the next meeting give me some next steps to work on\n[00:16:35] Armando Flores: we'l",
+   "dominio": "operacion-semanal",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 3
+    }
+   ]
+  }
+ ]
+}

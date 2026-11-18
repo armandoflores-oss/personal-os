@@ -1,0 +1,5 @@
+{"decisiones": [
+  {"task_id": "bf56f10a7a05", "clase": "blanda", "evidencia": "T-95 Kavak dirección fiscal: 14 días sin movimiento y el tema apareció en una junta (coincidencia de 3 palabras), pero nada confirma que Kavak ya mandó o resolvió la dirección fiscal."},
+  {"task_id": "2132c8b45832", "clase": "blanda", "evidencia": "T-96 Ford EDI (REQGTPCM2026000128): 14 días sin ningún movimiento; no hay mención de que la conexión SFTP quedara lista, solo silencio. Si sigue abierto con Ford, una palabra la reabre."},
+  {"task_id": "ac3c406eab0e", "clase": "ninguna", "evidencia": "T-105 NDA y siguientes pasos: la única señal es una coincidencia débil (3 palabras) con una junta; no hay registro de que el NDA se haya mandado ni de los next steps."}
+]}
