@@ -1,0 +1,10 @@
+[
+  {"start": "2026-11-18T08:30:00-06:00", "summary": "Gestor Logistico - Selenios", "attendees": ["daniel.escribano@draiver.com", "jaqueline.sanches@driverdo.com", "armando.flores@driverdo.com"]},
+  {"start": "2026-11-18T09:00:00-06:00", "summary": "Back office Spain", "attendees": ["daniel.escribano@draiver.com", "jaqueline.sanches@draiver.com", "armando.flores@driverdo.com", "rafael.andrade@driverdo.com", "cristhian.herrera@draiver.com", "dan.rizzo@draiver.com", "josemaria@finout.es", "pablo.fernandez@finout.es", "rocio.saez@finout.es", "michael.teixeira@draiver.com", "marcelo.trevino@driverdo.com"]},
+  {"start": "2026-11-18T09:30:00-06:00", "summary": "Interview José / Armando", "attendees": ["jose.saravia@mail.ch", "julia.diaz@draiver.com", "armando.flores@driverdo.com", "jl.saravia20@gmail.com"]},
+  {"start": "2026-11-18T09:30:00-06:00", "summary": "Daily Huddle - Ops MX", "attendees": ["uriel.vargas@driverdo.com", "cristian.arizmendi@driverdo.com", "julia.diaz@draiver.com", "armando.flores@driverdo.com", "diego.diaz@draiver.com", "camila.flores@draiver.com", "jose.duran@driverdo.com", "gerardo.acosta@kavak.com"]},
+  {"start": "2026-11-18T10:30:00-06:00", "summary": "catch up Julia", "attendees": ["julia.diaz@draiver.com", "armando.flores@driverdo.com"]},
+  {"start": "2026-11-18T11:00:00-06:00", "summary": "Weekly Kavak / Draiver Leaders", "attendees": ["fede.ranero@driverdo.com", "julia.diaz@draiver.com", "armando.flores@driverdo.com", "josue.luevano@kavak.com", "gerardo.acosta@kavak.com", "diego.diaz@draiver.com", "aristides.calvani@kavak.com", "jose.reyes.r@kavak.com", "cristian.arizmendi@driverdo.com"]},
+  {"start": "2026-11-18T12:00:00-06:00", "summary": "Seguimiento Integración DriverDo <> Mendel", "attendees": ["leonardo.finkelberg@mendel.com", "julia.diaz@draiver.com", "elba.haugen@mendel.com", "armando.flores@driverdo.com", "iramar.yeo@mendel.com", "javier.alvarez@mendel.com"]},
+  {"start": "2026-11-18T13:00:00-06:00", "summary": "Paulo / Armando", "attendees": ["armando.flores@driverdo.com", "paulo.ferrato@draiver.com"]}
+]
