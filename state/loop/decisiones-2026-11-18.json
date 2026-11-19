@@ -1,0 +1,5 @@
+{"decisiones": [
+  {"task_id": "bf56f10a7a05", "clase": "blanda", "evidencia": "T-95 Kavak (domicilio fiscal en México): 15 días sin movimiento y el tema salió en una junta, pero nada registra que se haya resuelto. Propuesta, no cierre."},
+  {"task_id": "2132c8b45832", "clase": "blanda", "evidencia": "T-96 Ford EDI/SFTP (REQGTPCM2026000128): 15 días sin movimiento y sin otra señal. Puede estar parado del lado de Ford en vez de resuelto; queda como propuesta."},
+  {"task_id": "ac3c406eab0e", "clase": "ninguna", "evidencia": "T-105 (NDA y siguientes pasos): solo hay una mención en junta, sin señal de que el NDA se mandó ni de que se acordaron los siguientes pasos."}
+]}
