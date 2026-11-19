@@ -1,0 +1,22 @@
+Daily Huddle - Ops MX - 2026/11/18 09:28 CST - Notes by Gemini
+
+Nov 18, 2026
+Daily Huddle - Ops MX
+Invited: Uriel Vargas, Cristian Arizmendi, Julia Diaz, Armando Flores, Diego Diaz, camila.flores@draiver.com, Jose Duran, Gerardo Acosta (gerardo.acosta@kavak.com)
+
+### Summary
+Driver testing and performance tracking evaluation via dry run planning
+
+Driver Testing Discussion
+Diego Diaz introduced C drivers, leading to Cristian Arizmendi proposing a dry run.
+
+Performance and Access
+Jose Duran covered local access with Rodriguez and CSL, while Julia Diaz reviewed driver performance metrics.
+
+### Next steps
+No suggested next steps were found for this meeting.
+
+### Details
+Driver Testing and Dry Run: Diego Diaz brought up C drivers during the session. Cristian Arizmendi subsequently discussed the necessity of conducting a dry run regarding the drivers.
+
+Local Access and Performance Tracking: Jose Duran addressed local access matters involving Rodriguez and CSL. Julia Diaz then spoke about driver performance over the span of months, and Uriel Vargas briefly mentioned Booker.
