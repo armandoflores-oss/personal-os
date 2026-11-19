@@ -413,6 +413,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "19521111dd3d": {
+  "action": "otro",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-114",
+  "counterparty": "clicars",
+  "created": "2026-11-19T17:21:42+00:00",
+  "domain": "reuniones-espana",
+  "due_date": null,
+  "evidence": "Sin asignar: crear los 5 transportes para el lunes una vez verificado que los viajes de mañana terminan bien.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "drive:1Gm5TT-sFaS17ktKxx9d91mI4-Z8OWFoQF8GJfspXaJU",
+  "status": "open",
+  "task_id": "19521111dd3d",
+  "title": "Sin asignar: crear los 5 transportes para el lunes una vez verificado que los viajes de mañana terminan bien.",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "1a09bb3d3506": {
   "action": "enviar",
   "applied": false,
