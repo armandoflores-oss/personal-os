@@ -134,6 +134,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "0a9acce571b0": {
+  "action": "enviar",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-115",
+  "counterparty": "element",
+  "created": "2026-11-19T19:46:37+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "Tenemos programada nuestra próxima reunión para el miércoles 25 de noviembre; en ella, revisaremos este caso y compartiremos las novedades que tengamos para ese momento.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a1f4dc2fb653229",
+  "status": "open",
+  "task_id": "0a9acce571b0",
+  "title": "Seguimiento con Element: Seguimiento al siniestro: unidad VIN VF3YDBTF6S2Z22501",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "10ad6156616f": {
   "action": null,
   "applied": false,
