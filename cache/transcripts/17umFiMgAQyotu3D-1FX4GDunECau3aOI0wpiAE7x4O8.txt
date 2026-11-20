@@ -1,60 +1,91 @@
 Weekly Kavak / Draiver Leaders - 2026/11/18 11:00 CST - Notes by Gemini
 
 nov 18, 2026
-Weekly Kavak / Draiver Leaders
-Invitado: Fede Ranero (fede.ranero@driverdo.com), Julia Diaz (julia.diaz@draiver.com), Armando Flores (armando.flores@driverdo.com), josue.luevano@kavak.com, Gerardo Acosta (gerardo.acosta@kavak.com), Diego Diaz (diego.diaz@draiver.com), aristides.calvani@kavak.com, jose.reyes.r@kavak.com, Cristian Arizmendi (cristian.arizmendi@driverdo.com)
+
+## Weekly Kavak / Draiver Leaders
+
+Invitado: Fede Ranero <fede.ranero@driverdo.com>, Julia Diaz <julia.diaz@draiver.com>, Armando Flores <armando.flores@driverdo.com>, <josue.luevano@kavak.com>, Gerardo Acosta <gerardo.acosta@kavak.com>, Diego Diaz <diego.diaz@draiver.com>, <aristides.calvani@kavak.com>, <jose.reyes.r@kavak.com>, Cristian Arizmendi <cristian.arizmendi@driverdo.com>
 
 ### Resumen
+
 Revisión de volúmenes del Buen Fin con análisis de incidencias y coordinación logística
 
-Volúmenes y métricas operativas
+**Volúmenes y métricas operativas**
 El Buen Fin registró 2,500 unidades reservadas con 1,750 concretadas y un incremento del 3,750% en demanda. El índice de cumplimiento se ubicó en el 57.4% debido a cancelaciones y falta de drivers.
 
-Discrepancias y control de calidad
+**Discrepancias y control de calidad**
 Los códigos QR presentaron fallas continuas que obligaron a realizar cambios manuales y revisiones operativas constantes. Se acordó revisar la viabilidad técnica para incorporar evidencia fotográfica obligatoria.
 
-Logística y finanzas
+**Logística y finanzas**
 Se coordinaron los detalles para la visita del equipo de Clicars a las instalaciones de Lerma y Reforma. Asimismo, se alinearon los pagos pendientes y se ajustó la facturación.
 
 ### Decisiones
-Requiere más debate
-- Requerimiento de evidencia fotográfica de verificación: Se discutió agregar una tarea obligatoria para subir evidencia fotográfica de verificación vehicular en los viajes, quedando pendiente de validación técnica y de reporte con Kevin y Paloma.
 
-Acordada
-- Calendario de pagos y cierre de octubre: Se acordó liquidar los pagos pendientes de agosto y septiembre, cerrar octubre esta semana y pagar octubre la próxima semana para normalizar el flujo de noviembre.
+## Requiere más debate
+
+  - **Requerimiento de evidencia fotográfica de verificación** Se discutió agregar una tarea obligatoria para subir evidencia fotográfica de verificación vehicular en los viajes, quedando pendiente de validación técnica y de reporte con Kevin y Paloma.
+
+## Acordada
+
+  - **Calendario de pagos y cierre de octubre** Se acordó liquidar los pagos pendientes de agosto y septiembre, cerrar octubre esta semana y pagar octubre la próxima semana para normalizar el flujo de noviembre.
 
 ### Próximos pasos
-Gerardo Acosta Romero
-- Realizar el cruce de datos de verificación para asegurar que exista evidencia de validación al programar las revisiones vehiculares.
-- Volver a implementar el correo automático de verificación para notificar a los formularios en cuanto el estatus de las compras cambie a improces.
 
-Sin asignar
-- Ejecutar la corrida de validación de solicitudes sobre los autos pedidos para verificar con el fin de enviar alertas o establecerles una prioridad secundaria.
+## Gerardo Acosta Romero
 
-Armando Flores
-- Programar un espacio en la agenda con Fede para el día siguiente con el fin de revisar y coordinar la logística de las salas, la visita de Clickars y la cena de integración.
-- Comunicarse con Fede el sábado para revisar el avance del cierre financiero.
-- Llamar a Fede en la tarde para coordinar la logística de la próxima semana.
+  - **Realizar el cruce de datos de verificación** para asegurar que exista evidencia de validación al programar las revisiones vehiculares.
+  - **Volver a implementar el correo automático** de verificación para notificar a los formularios en cuanto el estatus de las compras cambie a improces.
+
+## Sin asignar
+
+  - **Ejecutar la corrida de validación de solicitudes** sobre los autos pedidos para verificar con el fin de enviar alertas o establecerles una prioridad secundaria.
+
+## Armando Flores
+
+  - **Programar un espacio en la agenda** con Fede para el día siguiente con el fin de revisar y coordinar la logística de las salas, la visita de Clickars y la cena de integración.
+  - **Comunicarse con Fede** el sábado para revisar el avance del cierre financiero.
+  - **Llamar a Fede** en la tarde para coordinar la logística de la próxima semana.
 
 ### Detalles
-Reservas de Unidades durante el Buen Fin: Armando Flores y Gerardo Acosta Romero comentaron los volúmenes de reservas obtenidos durante el Buen Fin, registrando 2,500 unidades reservadas de las cuales aproximadamente 1,750 unidades se concretaron. Adicionalmente, se mencionó que un día antes del evento se habían registrado 201 reservas anticipadas.
 
-Discrepancias en Códigos QR y Cambios Manuales: Gerardo Acosta Romero y Armando Flores indicaron que los códigos QR continúan presentando discrepancias, lo que obliga al equipo a realizar cambios manuales de estatus y envíos operativos. Se reportaron 184 unidades listas para embarcar, requiriendo intervención constante debido a la falta de visibilidad en el sistema.
+**Reservas de Unidades durante el Buen Fin**: Armando Flores y Gerardo Acosta Romero comentaron los volúmenes de reservas obtenidos durante el Buen Fin, registrando 2,500 unidades reservadas de las cuales aproximadamente 1,750 unidades se concretaron. Adicionalmente, se mencionó que un día antes del evento se habían registrado 201 reservas anticipadas.
 
-Volumen General de Movimientos y Entregas: Gerardo Acosta Romero expuso que el volumen de noviembre cerrará en niveles similares a los de octubre, habiendo alcanzado el punto más alto en agosto con 1,500 movimientos y un promedio diario de 300 operaciones. En el acumulado para 2026 se contabilizan 35,831 automóviles movidos y 82,943 entregas totales.
+-----
 
-Métricas de Demanda y Cumplimiento en el Buen Fin: Gerardo Acosta Romero señaló que la demanda durante el Buen Fin aumentó un 3,750% en comparación con la semana previa, completando más de 2,000 movimientos, aunque el índice de cumplimiento se ubicó en un 57.4% a causa de cancelaciones y remociones. El costo facturado por entrega subió un 32%, pasando de 321 a 424 pesos por automóvil, derivado de cambios en verificaciones y DRS.
+**Discrepancias en Códigos QR y Cambios Manuales**: Gerardo Acosta Romero y Armando Flores indicaron que los códigos QR continúan presentando discrepancias, lo que obliga al equipo a realizar cambios manuales de estatus y envíos operativos. Se reportaron 184 unidades listas para embarcar, requiriendo intervención constante debido a la falta de visibilidad en el sistema.
 
-Análisis de Cancelaciones y Dry Runs: Gerardo Acosta Romero y Armando Flores explicaron que el incremento en las cancelaciones por falta de drivers y en servicios sin driver asignado afectó el cumplimiento general. Para mitigar el impacto, Gerardo Acosta Romero propuso programar las verificaciones con anticipación para facilitar cambios operativos oportunos.
+-----
 
-Modificación en la Medición de Dry Runs y Verificaciones: Gerardo Acosta Romero y Armando Flores detallaron que la medición de los dry runs cambió para evaluarse por automóvil con driver en lugar de duplicar los registros por cada entrada y salida de verificación. Se destacó que siete de cada diez dry runs corresponden a verificaciones, evidenciando problemas persistentes de visibilidad.
+**Volumen General de Movimientos y Entregas**: Gerardo Acosta Romero expuso que el volumen de noviembre cerrará en niveles similares a los de octubre, habiendo alcanzado el punto más alto en agosto con 1,500 movimientos y un promedio diario de 300 operaciones. En el acumulado para 2026 se contabilizan 35,831 automóviles movidos y 82,943 entregas totales.
 
-Propuesta de Tareas Obligatorias para Evidencia de Verificación: Gerardo Acosta Romero y Armando Flores propusieron incorporar una tarea obligatoria en los viajes para cargar evidencia fotográfica del talón de verificación y del holograma. Cristian Arizmendi apoyó la medida para mejorar el control, y se acordó revisar la viabilidad técnica con Kevin y Paloma para hacer el campo reportable.
+-----
 
-Logística y Coordinación de Visitas con Clicars: Fede Ranero y Armando Flores coordinaron los detalles para la visita del equipo de Clicars programada para el miércoles y jueves de la semana siguiente en las instalaciones de Lerma y Reforma. Se acordó reservar las salas necesarias y contemplar la participación de Gerardo Acosta Romero en las actividades de integración y cena.
+**Métricas de Demanda y Cumplimiento en el Buen Fin**: Gerardo Acosta Romero señaló que la demanda durante el Buen Fin aumentó un 3,750% en comparación con la semana previa, completando más de 2,000 movimientos, aunque el índice de cumplimiento se ubicó en un 57.4% a causa de cancelaciones y remociones. El costo facturado por entrega subió un 32%, pasando de 321 a 424 pesos por automóvil, derivado de cambios en verificaciones y DRS.
 
-Seguimiento Prioritario al Error de Códigos QR: Armando Flores y Gerardo Acosta Romero revisaron el estado del error en los códigos QR, señalando que el fallo reapareció a pesar de las pruebas iniciales. Se informó que Sergio catalogó la corrección como prioridad uno y se proyecta resolver la incidencia durante la semana.
+-----
 
-Cobertura de Drivers y Campañas durante el Buen Fin: Armando Flores y Fede Ranero analizaron la cobertura de drivers durante el Buen Fin, indicando que el sábado faltó personal por la ausencia de incentivos, mientras que la oferta de un bono de 100 pesos por auto para domingo y lunes aseguró la asistencia y la operación. Gerardo Acosta Romero añadió que se desplegaron vehículos utilitarios para atender el desabastecimiento en las rutas desde Lerma hacia la Ciudad de México.
+**Análisis de Cancelaciones y Dry Runs**: Gerardo Acosta Romero y Armando Flores explicaron que el incremento en las cancelaciones por falta de drivers y en servicios sin driver asignado afectó el cumplimiento general. Para mitigar el impacto, Gerardo Acosta Romero propuso programar las verificaciones con anticipación para facilitar cambios operativos oportunos.
 
-Alineación Financiera y Cierre de Facturación: Armando Flores y Fede Ranero evaluaron el estado de la facturación y los pagos a clientes, confirmando que los montos pendientes quedarán alineados para pagarse al día siguiente. Asimismo, Armando Flores indicó que se trabaja junto con el área de finanzas para cerrar octubre antes de que concluya noviembre y evaluar la implementación de un esquema de facturación semanal.
+-----
+
+**Modificación en la Medición de Dry Runs y Verificaciones**: Gerardo Acosta Romero y Armando Flores detallaron que la medición de los dry runs cambió para evaluarse por automóvil con driver en lugar de duplicar los registros por cada entrada y salida de verificación. Se destacó que siete de cada diez dry runs corresponden a verificaciones, evidenciando problemas persistentes de visibilidad.
+
+-----
+
+**Propuesta de Tareas Obligatorias para Evidencia de Verificación**: Gerardo Acosta Romero y Armando Flores propusieron incorporar una tarea obligatoria en los viajes para cargar evidencia fotográfica del talón de verificación y del holograma. Cristian Arizmendi apoyó la medida para mejorar el control, y se acordó revisar la viabilidad técnica con Kevin y Paloma para hacer el campo reportable.
+
+-----
+
+**Logística y Coordinación de Visitas con Clicars**: Fede Ranero y Armando Flores coordinaron los detalles para la visita del equipo de Clicars programada para el miércoles y jueves de la semana siguiente en las instalaciones de Lerma y Reforma. Se acordó reservar las salas necesarias y contemplar la participación de Gerardo Acosta Romero en las actividades de integración y cena.
+
+-----
+
+**Seguimiento Prioritario al Error de Códigos QR**: Armando Flores y Gerardo Acosta Romero revisaron el estado del error en los códigos QR, señalando que el fallo reapareció a pesar de las pruebas iniciales. Se informó que Sergio catalogó la corrección como prioridad uno y se proyecta resolver la incidencia durante la semana.
+
+-----
+
+**Cobertura de Drivers y Campañas durante el Buen Fin**: Armando Flores y Fede Ranero analizaron la cobertura de drivers durante el Buen Fin, indicando que el sábado faltó personal por la ausencia de incentivos, mientras que la oferta de un bono de 100 pesos por auto para domingo y lunes aseguró la asistencia y la operación. Gerardo Acosta Romero añadió que se desplegaron vehículos utilitarios para atender el desabastecimiento en las rutas desde Lerma hacia la Ciudad de México.
+
+-----
+
+**Alineación Financiera y Cierre de Facturación**: Armando Flores y Fede Ranero evaluaron el estado de la facturación y los pagos a clientes, confirmando que los montos pendientes quedarán alineados para pagarse al día siguiente. Asimismo, Armando Flores indicó que se trabaja junto con el área de finanzas para cerrar octubre antes de que concluya noviembre y evaluar la implementación de un esquema de facturación semanal.
