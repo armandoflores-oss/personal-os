@@ -1,0 +1,122 @@
+{
+ "fecha": "2026-11-19",
+ "abiertas": 14,
+ "candidatos": [
+  {
+   "task_id": "bf56f10a7a05",
+   "code": "T-95",
+   "titulo": "Seguimiento con Kavak: Fiscal Address in Mexico",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 2
+    },
+    {
+     "tipo": "sin_movimiento",
+     "dias": 16
+    }
+   ]
+  },
+  {
+   "task_id": "2132c8b45832",
+   "code": "T-96",
+   "titulo": "Seguimiento con Ford: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128",
+   "dominio": "pipeline-estrategico",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 16
+    }
+   ]
+  },
+  {
+   "task_id": "e58d71862df2",
+   "code": "T-101",
+   "titulo": "Seguimiento con Kavak: Acuerdo de Colaboración y Tarifas",
+   "dominio": "operacion-kavak",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 14
+    }
+   ]
+  },
+  {
+   "task_id": "98a19d836c49",
+   "code": "T-102",
+   "titulo": "Seguimiento con Bca: Autosvar:[EXTERNAL] Re: Follow-up",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 14
+    }
+   ]
+  },
+  {
+   "task_id": "f881800e2211",
+   "code": "T-103",
+   "titulo": "Seguimiento con Mg: JULIANA TURIN mentioned you in Contrato de Traslado - TURBOFIN DRIVERDO  06102026 (6ac99886fe)",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 14
+    }
+   ]
+  },
+  {
+   "task_id": "15dc415f4256",
+   "code": "T-104",
+   "titulo": "Pues coméntalo con él o que me envíe la carta y yo le envío todo\n[00:15:24] Armando Flores: te puedo hacer algunos slide",
+   "dominio": "reuniones-espana",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 14
+    }
+   ]
+  },
+  {
+   "task_id": "ac3c406eab0e",
+   "code": "T-105",
+   "titulo": "I will send you the NDA and then for the next meeting give me some next steps to work on\n[00:16:35] Armando Flores: we'l",
+   "dominio": "operacion-semanal",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 3
+    },
+    {
+     "tipo": "sin_movimiento",
+     "dias": 14
+    }
+   ]
+  },
+  {
+   "task_id": "19521111dd3d",
+   "code": "T-114",
+   "titulo": "Sin asignar: crear los 5 transportes para el lunes una vez verificado que los viajes de mañana terminan bien.",
+   "dominio": "reuniones-espana",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 4
+    }
+   ]
+  },
+  {
+   "task_id": "0a9acce571b0",
+   "code": "T-115",
+   "titulo": "Seguimiento con Element: Seguimiento al siniestro: unidad VIN VF3YDBTF6S2Z22501",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 2
+    }
+   ]
+  }
+ ]
+}

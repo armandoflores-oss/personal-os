@@ -1,0 +1,11 @@
+{"decisiones": [
+ {"task_id": "bf56f10a7a05", "clase": "blanda", "evidencia": "Kavak dirección fiscal: se tocó en junta (2 coincidencias) y lleva 16 días sin movimiento; apunta a resuelto pero nadie lo confirmó."},
+ {"task_id": "2132c8b45832", "clase": "ninguna", "evidencia": "Ford EDI/SFTP: solo 16 días sin movimiento; en una integración pendiente el silencio suele ser espera, no cierre."},
+ {"task_id": "e58d71862df2", "clase": "ninguna", "evidencia": "Kavak acuerdo de colaboración y tarifas: solo 14 días sin movimiento; un contrato sin noticias no indica que se firmó."},
+ {"task_id": "98a19d836c49", "clase": "blanda", "evidencia": "BCA/Autosvar follow-up: 14 días sin movimiento y sin ninguna otra señal; seguimiento de correo que probablemente ya se agotó."},
+ {"task_id": "f881800e2211", "clase": "blanda", "evidencia": "Mención de Juliana Turin en el contrato Turbofin (MG): 14 días sin movimiento; la notificación de mención probablemente ya se atendió."},
+ {"task_id": "15dc415f4256", "clase": "blanda", "evidencia": "Pendiente de junta España (carta/slides): 14 días sin movimiento y sin mención posterior; parece superado, sin confirmación."},
+ {"task_id": "ac3c406eab0e", "clase": "blanda", "evidencia": "NDA y próximos pasos (junta semanal): se volvió a tratar en junta (3 coincidencias) y lleva 14 días sin movimiento; sugiere avance, no confirma envío del NDA."},
+ {"task_id": "19521111dd3d", "clase": "ninguna", "evidencia": "Crear los 5 transportes del lunes: solo aparece mencionado en junta; que se hable de ello no dice que se hizo."},
+ {"task_id": "0a9acce571b0", "clase": "ninguna", "evidencia": "Siniestro Element VIN VF3YDBTF6S2Z22501: solo mención en junta, sin señal de cierre del siniestro."}
+]}
