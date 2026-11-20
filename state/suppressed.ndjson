@@ -2868,3 +2868,4 @@
 {"action": "enviar", "counterparty": "ford", "detail": "ya abierto en T-96", "item_id": "1a1f5796c7745480", "reason": "duplicado", "source": "gmail", "subject": "FORD Draiver Over-haul -Scores and Compliance reports", "ts": "2026-11-19T23:54:37+00:00"}
 {"detail": "", "item_id": "1a1f564f593142c6", "reason": "sin_compromiso", "source": "gmail", "subject": "Spreadsheet shared with you: \"Movimiento Auriga - Nueva Sede\"", "ts": "2026-11-19T23:54:37+00:00"}
 {"detail": "", "item_id": "1xicfmbdDcYvNnSlYmm3qQOpMaPFU2lCg9CbPapEoIBo", "reason": "sin_compromiso", "source": "drive", "subject": "Mexico - Back Office - 2026/11/19 16:00 EST - Notes by Gemini (English)", "ts": "2026-11-19T23:54:38+00:00"}
+{"detail": "", "item_id": "1wZT0nSGXO5qUjbADOwZuyHYDD0hGYBpt7UjYWemHd5E", "reason": "sin_compromiso", "source": "drive", "subject": "Mexico - Back Office - 2026/11/19 16:00 EST - Notes by Gemini (Portuguese)", "ts": "2026-11-20T00:16:13+00:00"}

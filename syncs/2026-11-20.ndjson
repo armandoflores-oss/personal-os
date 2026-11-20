@@ -1,0 +1,4 @@
+{"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-11-20T00:15:39+00:00"}
+{"creados": [], "leg": "inbound", "source": "drive", "suprimidos": [{"detail": "", "item_id": "1wZT0nSGXO5qUjbADOwZuyHYDD0hGYBpt7UjYWemHd5E", "reason": "sin_compromiso", "source": "drive", "subject": "Mexico - Back Office - 2026/11/19 16:00 EST - Notes by Gemini (Portuguese)", "ts": "2026-11-20T00:16:13+00:00"}], "tope_alcanzado": 0, "ts": "2026-11-20T00:16:13+00:00", "vistos": 1, "watermark": "2026-11-19T21:17:04Z", "ya_vistos": 0}
+{"casi": [{"asunto": "Recibo Palominos Palmas 19/11/2026 - $5,345.20 MXN - tarjeta 7020", "code": "T-107", "token": "tesla"}], "cerrados": [], "leg": "outbound", "revisados": 1, "ts": "2026-11-20T00:16:13+00:00"}
+{"cambiadas": 0, "cards": 132, "huerfanas": 0, "leg": "tejido", "ts": "2026-11-20T00:16:13+00:00"}
