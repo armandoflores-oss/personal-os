@@ -754,6 +754,27 @@
   "vetoed": false,
   "waiting_on": null
  },
+ "32c2942198ad": {
+  "action": "responder",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-117",
+  "counterparty": "uber",
+  "created": "2026-11-20T16:47:04+00:00",
+  "domain": "reuniones-espana",
+  "due_date": null,
+  "evidence": "Harman solicitó 96 transportes con un margen actual reducido del 18.2%.",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a1f99165492c446",
+  "status": "open",
+  "task_id": "32c2942198ad",
+  "title": "Responder a Uber: Notes: “Diaria Spain Launch” Nov 20, 2026",
+  "vetoed": false,
+  "waiting_on": null
+ },
  "3414689d651a": {
   "action": "confirmar",
   "applied": false,

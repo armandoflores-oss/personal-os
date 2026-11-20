@@ -18,6 +18,7 @@
 - **T-104** Pues coméntalo con él o que me envíe la carta y yo le envío todo
 [00:15:24] Armando Flores: te puedo hacer algunos slide
 - **T-114** Sin asignar: crear los 5 transportes para el lunes una vez verificado que los viajes de mañana terminan bien.
+- **T-117** Responder a Uber: Notes: “Diaria Spain Launch” Nov 20, 2026
 
 ## Pipeline estratégico
 - **T-106** Seguimiento con Tesla: Solicitud urgente de endoso de beneficiario preferente – Póliza 5-201-46168
