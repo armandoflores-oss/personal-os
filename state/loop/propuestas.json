@@ -25,8 +25,10 @@
   "degradada": null,
   "evidencia": "T-96 Ford EDI/SFTP (REQGTPCM2026000128): 15 días sin movimiento y sin otra señal. Puede estar parado del lado de Ford en vez de resuelto; queda como propuesta.",
   "firewalled": false,
+  "motivo": "el item ya no estaba abierto al vencer",
   "titulo": "Seguimiento con Ford: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128",
-  "vence": "2026-11-22T01:41:22+00:00"
+  "vence": "2026-11-22T01:41:22+00:00",
+  "vetada": true
  },
  "4eef98d452a7": {
   "aplicada": "2026-10-13T15:09:10+00:00",
@@ -52,13 +54,15 @@
   "vetada_el": "2026-09-29T15:08:38+00:00"
  },
  "98a19d836c49": {
+  "aplicada": "2026-11-23T18:36:41+00:00",
   "code": "T-102",
   "creada": "2026-11-20T00:40:05+00:00",
   "degradada": null,
   "evidencia": "BCA/Autosvar follow-up: 14 días sin movimiento y sin ninguna otra señal; seguimiento de correo que probablemente ya se agotó.",
   "firewalled": false,
   "titulo": "Seguimiento con Bca: Autosvar:[EXTERNAL] Re: Follow-up",
-  "vence": "2026-11-23T00:40:05+00:00"
+  "vence": "2026-11-23T00:40:05+00:00",
+  "vetada": true
  },
  "ac3c406eab0e": {
   "code": "T-105",
