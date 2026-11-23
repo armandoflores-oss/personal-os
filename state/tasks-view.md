@@ -9,6 +9,7 @@
 - **T-111** Preparar a Zapata: TRANSIT | AZUL METALICO | WF0WS4NB1VTJ63314
 - **T-115** Seguimiento con Element: Seguimiento al siniestro: unidad VIN VF3YDBTF6S2Z22501
 - **T-116** Seguimiento con Harrison Wendland: Claim 1972 payment request - Continental MX, trip 3994939.1 VIN 5TDGRKECXNS112943 - R
+- **T-118** Responder a Substack: “But in the more tender moments, I still sometimes wonder whether I’ve failed them”
 - **T-95** Seguimiento con Kavak: Fiscal Address in Mexico
 
 ## Operación Kavak
@@ -23,7 +24,6 @@
 ## Pipeline estratégico
 - **T-106** Seguimiento con Tesla: Solicitud urgente de endoso de beneficiario preferente – Póliza 5-201-46168
 - **T-107** Seguimiento con Tesla: TESLA - TC - LARMEX MTY Dispatch - Q4 2026 Nov
-- **T-96** Seguimiento con Ford: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128
 
 ## Operación semanal y márgenes
 - **T-105** I will send you the NDA and then for the next meeting give me some next steps to work on

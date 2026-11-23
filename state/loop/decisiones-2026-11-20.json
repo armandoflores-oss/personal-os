@@ -1,0 +1,11 @@
+{"decisiones": [
+  {"task_id": "bf56f10a7a05", "clase": "blanda", "evidencia": "T-95 Kavak dirección fiscal: se mencionó en una junta y no tiene movimiento desde hace 17 días. Parece atendido, pero no hay confirmación explícita."},
+  {"task_id": "2132c8b45832", "clase": "ninguna", "evidencia": "T-96 Ford EDI: lleva 17 días sin movimiento y no hay ninguna mención de que la conexión SFTP haya quedado. El silencio de Ford no significa que esté resuelto."},
+  {"task_id": "e58d71862df2", "clase": "ninguna", "evidencia": "T-101 Kavak acuerdo y tarifas: lleva 15 días sin movimiento y nada indica que el acuerdo se haya firmado. Un acuerdo comercial no se da por cerrado solo porque pasó el tiempo."},
+  {"task_id": "98a19d836c49", "clase": "ninguna", "evidencia": "T-102 BCA/Autosvar: lleva 15 días sin movimiento y no hay ninguna mención en juntas ni de tu parte. No hay base para cerrarla."},
+  {"task_id": "f881800e2211", "clase": "blanda", "evidencia": "T-103 MG/Turbofin: nació de una notificación de mención en el contrato del 06-oct y lleva 15 días sin movimiento. Lo más probable es que ya se haya atendido, pero no está confirmado."},
+  {"task_id": "15dc415f4256", "clase": "blanda", "evidencia": "T-104 España: es un fragmento de transcripción (\"coméntalo con él o que me envíe la carta\") que lleva 15 días sin movimiento. El compromiso es vago y parece vencido, pero no está confirmado."},
+  {"task_id": "ac3c406eab0e", "clase": "blanda", "evidencia": "T-105 NDA y próximos pasos: se volvió a tratar en una junta (3 coincidencias) y lleva 15 días sin movimiento. Puede que el NDA ya se haya enviado, pero no hay registro explícito."},
+  {"task_id": "e96a7519aa5e", "clase": "ninguna", "evidencia": "T-106 Tesla endoso de póliza 5-201-46168: era urgente y solo lleva 14 días sin movimiento, sin nada que confirme que la aseguradora emitió el endoso. Se mantiene abierta."},
+  {"task_id": "0a9acce571b0", "clase": "ninguna", "evidencia": "T-115 Element siniestro VIN …22501: se mencionó en una junta pero tiene movimiento reciente y nada dice que el siniestro se haya cerrado. Sigue vivo."}
+]}

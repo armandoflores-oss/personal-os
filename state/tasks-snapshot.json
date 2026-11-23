@@ -643,11 +643,17 @@
   "domain": "pipeline-estrategico",
   "due_date": null,
   "evidence": "[Citado, Angel Arellano, 2 nov] The ones that say history extraction please send again the transmission on Wednesday.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:ingest:outbound",
+    "note": "evidencia: enviado 2026-11-23T13:00:44Z a ford: «Fuera de la oficina / Out of office Re: Driverdo EDI Connection request JDEJA | »",
+    "ts": "2026-11-23T14:55:00+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a19d5863108000f",
-  "status": "open",
+  "status": "done",
   "task_id": "2132c8b45832",
   "title": "Seguimiento con Ford: Driverdo EDI Connection request JDEJA | SFTP EDI | New | REQGTPCM2026000128",
   "vetoed": false,
@@ -964,6 +970,27 @@
   "title": "Re: [EXT]Re: Element / Draiver: Explorar \"Rides\" en Variable Fleet y negocio Element",
   "vetoed": false,
   "waiting_on": "Fernando Galán"
+ },
+ "42c0427b2108": {
+  "action": "responder",
+  "applied": false,
+  "archived": false,
+  "blocked": null,
+  "code": "T-118",
+  "counterparty": "substack",
+  "created": "2026-11-23T14:55:00+00:00",
+  "domain": "cotizaciones-operativo",
+  "due_date": null,
+  "evidence": "In this edition of The Weekender: shutting down a pioneering blog, playing Grand Theft Auto for 12 hours straight, and whatever happened to the Goosebumps series?",
+  "notes": [],
+  "owner": null,
+  "snoozed_until": null,
+  "source": "gmail:1a1fef6ab37fcac8",
+  "status": "open",
+  "task_id": "42c0427b2108",
+  "title": "Responder a Substack: “But in the more tender moments, I still sometimes wonder whether I’ve failed them”",
+  "vetoed": false,
+  "waiting_on": null
  },
  "43bb97916017": {
   "action": null,
