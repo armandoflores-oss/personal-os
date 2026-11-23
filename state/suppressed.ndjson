@@ -2930,3 +2930,16 @@
 {"detail": "", "item_id": "1a1fdfacd81c85a8", "reason": "sin_compromiso", "source": "gmail", "subject": "[Data] Yesterday Trip Source Creation", "ts": "2026-11-23T14:55:00+00:00"}
 {"detail": "", "item_id": "1a20320d81aa47cf", "reason": "sin_compromiso", "source": "gmail", "subject": "[Data] Yesterday Trip Source Creation", "ts": "2026-11-23T14:55:00+00:00"}
 {"detail": "", "item_id": "1a1fc786a3b62f99", "reason": "sin_compromiso", "source": "gmail", "subject": "De agapitolopzcaste: un mensaje no leído", "ts": "2026-11-23T14:55:00+00:00"}
+{"detail": "^\\s*declined:", "item_id": "1a208e7e2361763e", "reason": "meta", "source": "gmail", "subject": "Declined: Dan/ Armando -1-1 @ Tue Dec 8, 2026 3pm - 3:30pm (CST) (Armando Flores)", "ts": "2026-11-23T18:38:24+00:00"}
+{"detail": "", "item_id": "1a208f2f31ef88a8", "reason": "sin_compromiso", "source": "gmail", "subject": "New Account Request: Expedited Freight LLC", "ts": "2026-11-23T18:38:24+00:00"}
+{"detail": "", "item_id": "1a208fd9e7a88544", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Facturación Draiver - Zapata Septiembre 2026", "ts": "2026-11-23T18:38:24+00:00"}
+{"detail": "", "item_id": "1a208ffa2fb63211", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Facturación Draiver - Zapata Octubre 2026", "ts": "2026-11-23T18:38:24+00:00"}
+{"detail": "", "item_id": "1a20905e7c17feb4", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: TERRITORY | BLANCO PERLA | LJXBS5A38VYF09467", "ts": "2026-11-23T18:38:24+00:00"}
+{"detail": "^\\s*invitation:", "item_id": "1a209083264bc6bd", "reason": "meta", "source": "gmail", "subject": "Invitation: Interview @ Draiver @ Tue Nov 24, 2026 7am - 7:45am (CST) (Armando Flores)", "ts": "2026-11-23T18:38:24+00:00"}
+{"detail": "^\\s*canceled event\\b", "item_id": "1a2090fb8759bf73", "reason": "meta", "source": "gmail", "subject": "Canceled event: Follow Up Kavak Enterprise @ Mon Nov 23, 2026 12pm - 1pm (CST) (armando.flores@driverdo.com)", "ts": "2026-11-23T18:38:24+00:00"}
+{"detail": "", "item_id": "1a209209efeccbcc", "reason": "sin_compromiso", "source": "gmail", "subject": "Notes: “Daily Huddle - Ops MX” Nov 23, 2026", "ts": "2026-11-23T18:38:24+00:00"}
+{"detail": "", "item_id": "1a2097570ada9c87", "reason": "sin_compromiso", "source": "gmail", "subject": "Used Car Week San Diego Was Just the Beginning", "ts": "2026-11-23T18:38:24+00:00"}
+{"detail": "", "item_id": "1a2099758987c4cd", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Draiver in Turkey – partnership proposal (draft) and NDA", "ts": "2026-11-23T18:38:24+00:00"}
+{"detail": "", "item_id": "1a209adc9e94c0be", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: Facturación Draiver - Zapata Octubre 2026", "ts": "2026-11-23T18:38:24+00:00"}
+{"detail": "", "item_id": "1a209b1bf049de1f", "reason": "sin_compromiso", "source": "gmail", "subject": "Re: TERRITORY | BLANCO PERLA | LJXBS5A38VYF09467", "ts": "2026-11-23T18:38:24+00:00"}
+{"detail": "", "item_id": "1a9Rc_2RxzJLGq5fZfzWIwZLeqsqE5TvMa7SwqY_lrI0", "reason": "sin_compromiso", "source": "drive", "subject": "Daily Huddle - Ops MX - 2026/11/23 09:16 CST - Notes by Gemini", "ts": "2026-11-23T18:38:24+00:00"}

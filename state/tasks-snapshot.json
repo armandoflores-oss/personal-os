@@ -2255,11 +2255,17 @@
   "domain": "cotizaciones-operativo",
   "due_date": null,
   "evidence": "I will get back to you as soon as possible upon my return.",
-  "notes": [],
+  "notes": [
+   {
+    "actor": "system:loop:propuesta",
+    "note": "evidencia: propuesta vencida sin objeción · BCA/Autosvar follow-up: 14 días sin movimiento y sin ninguna otra señal; seguimiento de correo que probablemente ya se agotó.",
+    "ts": "2026-11-23T18:36:41+00:00"
+   }
+  ],
   "owner": null,
   "snoozed_until": null,
   "source": "gmail:1a1ab6aa892a575a",
-  "status": "open",
+  "status": "done",
   "task_id": "98a19d836c49",
   "title": "Seguimiento con Bca: Autosvar:[EXTERNAL] Re: Follow-up",
   "vetoed": false,

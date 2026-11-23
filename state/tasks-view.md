@@ -3,7 +3,6 @@
 <!-- Vista generada — NO editar a mano. Regenerar: python3 scripts/task.py rebuild -->
 
 ## Cotizaciones y pendientes operativos
-- **T-102** Seguimiento con Bca: Autosvar:[EXTERNAL] Re: Follow-up
 - **T-103** Seguimiento con Mg: JULIANA TURIN mentioned you in Contrato de Traslado - TURBOFIN DRIVERDO  06102026 (6ac99886fe)
 - **T-109** Cotizar a Cemex: COTIZACION TRASLADO CA4959 CANCUN - QUERETARO - TIJUANA
 - **T-111** Preparar a Zapata: TRANSIT | AZUL METALICO | WF0WS4NB1VTJ63314
