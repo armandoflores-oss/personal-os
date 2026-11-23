@@ -22,7 +22,6 @@
 
 ## Pipeline estratégico
 - **T-106** Seguimiento con Tesla: Solicitud urgente de endoso de beneficiario preferente – Póliza 5-201-46168
-- **T-107** Seguimiento con Tesla: TESLA - TC - LARMEX MTY Dispatch - Q4 2026 Nov
 
 ## Operación semanal y márgenes
 - **T-105** I will send you the NDA and then for the next meeting give me some next steps to work on
