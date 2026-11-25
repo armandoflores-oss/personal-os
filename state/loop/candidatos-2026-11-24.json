@@ -1,0 +1,30 @@
+{
+ "fecha": "2026-11-24",
+ "abiertas": 9,
+ "candidatos": [
+  {
+   "task_id": "e58d71862df2",
+   "code": "T-101",
+   "titulo": "Seguimiento con Kavak: Acuerdo de Colaboración y Tarifas",
+   "dominio": "operacion-kavak",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 19
+    }
+   ]
+  },
+  {
+   "task_id": "e96a7519aa5e",
+   "code": "T-106",
+   "titulo": "Seguimiento con Tesla: Solicitud urgente de endoso de beneficiario preferente – Póliza 5-201-46168",
+   "dominio": "pipeline-estrategico",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 18
+    }
+   ]
+  }
+ ]
+}

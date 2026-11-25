@@ -1,0 +1,59 @@
+Weekly Product & Ops Draiver Spain - 2026/11/24 16:58 CET - Notes by Gemini
+(Se guardan las notas de Gemini: resumen, decisiones, próximos pasos y detalles. La transcripción literal completa quedó fuera por tamaño.)
+
+Asistentes: Artur Morais, Gerardo Cabanas, Paloma Calderon, Kevin Burke, Daniel Escribano, Fede Ranero, Armando Flores, Rafael Pagliuso De Andrade, Nicolas Ariza
+Nota de la transcripción: Artur comentó al inicio que Armando estaba de vacaciones.
+
+Resumen: Discusión sobre optimización y automatización con configuración de cuentas y revisión de documentos DECA en España.
+- Optimización y Agente IA: Implementación del optimizador de rutas y definición de capacidades del agente de IA para operaciones logísticas. Artur Morais coordinará pruebas iniciales con el equipo y evaluará reglas de automatización.
+- Configuración de Cuentas: Ajuste de precios fijos a Cost Plus para evitar facturas duplicadas. Se creará una subcuenta hija para movimientos rodados sin errores de asignación de contratistas.
+- Validación Documental DECA: Emisión del DECA por segmento o ruta completa según normativa. Artur agendó reunión con Clicars para unificar criterios legales.
+
+Configuración de cuentas y precios
+- Artur configuró Cost Plus para evitar facturas duplicadas en movimientos de Fixed Pricing.
+- Kevin recomendó una subcuenta hija con Fixed Pricing y pool de contratistas (default pool type = contractor).
+- La cuenta principal requiere la configuración No Marketplace para prevenir errores con contratistas.
+
+Desarrollo y capacidades del agente AI
+- El AI agent pasará de responder preguntas a ejecutar acciones proactivas y planificación (evaluar actividades entrantes: planear ahora o retener, reemplazar chases, encadenar, heartbeat por deadlines; reaccionar a dry runs/cancelaciones contactando al coordinador).
+- El optimizador sería una función back-end del agente; intake por integración, carga de archivos, email, Slack o WhatsApp; planes diarios con restricciones de capacidad; sugerir proveedores externos ante déficit; trazabilidad y KPIs (Superset). Artur estima que cubriría ~90% de las operaciones de Clicars.
+- Kevin: lo más difícil será la planeación y ejecución automática y los cambios avanzados de viajes; pidió priorizar dónde están las mayores ganancias (integración vs skills del agente).
+- Paloma: el CTO de Clicars estará en CDMX la semana siguiente; idealmente reunión antes de fin de año para revisar el CRM; cuidado con no hardcodear procesos en la integración.
+- Artur: las hojas de cálculo de logística de Clicars tienen columnas de control y fechas que no están en su CRM; puede requerir desarrollo del cliente o adaptaciones en Command Center.
+
+Requisitos del documento DECA
+- El sistema genera un DECA por cada segmento (leg) del viaje con todas las placas cargadas.
+- Clicars/drivers reportan confusión cuando unidades van a destinos distintos; recomendación encontrada: DECA separado por descarga.
+- Rafael: la normativa exige un DECA único por trayecto que muestre dónde se recogió y dónde se entrega cada vehículo (o, alternativamente, por carga/vehículo si son clientes distintos); dividir por tramos intermedios cuenta una historia legal incorrecta (riesgo fiscal/laboral).
+- Paloma: ya se discutió en agosto y aparentemente se construyó lo incorrecto; quiere resolverlo de una vez y que Draiver recomiende el formato basado en requisitos gubernamentales.
+- Decisión diferida a la llamada de seguimiento con Clicars mañana a las 3:30 pm, con Rafael.
+
+Registro de conductores y validación
+- El flujo de registro usa Vouched para verificación de identidad; funciona correctamente.
+- No hay campañas pagadas; altas orgánicas vía Typeform. Artur hablará con Alini para que el sitio redirija a la app.
+- Nuevo campo flexible en la pantalla de oferta de viajes (en el sprint actual) para notas a conductores — desbloquea pilotos en España y Brasil.
+- Kevin agregó España a la página de auditoría de Service Center; España ya desplegada en la instancia EU con 51 registros prioritarios y 149 no prioritarios.
+- Fallas de SMS desde la región EU por falta de configuración de mensajería; WhatsApp no integrado.
+- Cada país define sus documentos obligatorios; el flujo actual incluye tarjeta médica que no aplica para España.
+- Cuenta con costo de SaaS mal configurado bajo fixed pricing: no genera el PMT del viaje para cobrar al cliente.
+
+Decisiones
+Requiere más debate:
+- Definición del formato del documento DECA (diferido a seguimiento con el cliente).
+- Definición de documentos requeridos para España (pendiente revisión de Artur con Danny).
+Acordada:
+- Creación de subcuenta para tarifas fijas y configurar la cuenta principal para restringir contratistas.
+
+Próximos pasos
+Artur Morais
+- Crear la subcuenta para ejecutar pruebas de movimientos y notificar si se detecta alguna anomalía.
+- Contactar al equipo cliente en el seguimiento de mañana para identificar al responsable técnico de su CRM y avanzar en la integración.
+- Revisar la agenda con Pablo para enseñarles cómo realizar los ajustes en la herramienta y empezar con las pruebas de usuario.
+- Presentar la situación en el seguimiento con Clicars para revisar las operaciones actuales y evaluar posibles puntos legales durante la llamada de mañana a las 3:30.
+- Hablar con Alini para cambiar la redirección del sitio web a la aplicación en lugar del formulario Typeform.
+- Enviar los detalles de la cuenta mal configurada a Kevin para revisar el problema con los costos de SaaS y la generación de PMT.
+- Revisar con Danny los tipos de archivos adjuntos de contacto que deben mostrarse para España.
+Sin asignar
+- Mantener conversaciones con los equipos técnicos para determinar la información necesaria de cada movimiento y cuáles datos están dentro del CRM y cuáles no.
+Rafael Pagliuso De Andrade
+- Participar en la llamada con Clicars mañana a las 3:30.

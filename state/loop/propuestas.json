@@ -11,13 +11,15 @@
   "vetada": true
  },
  "15dc415f4256": {
+  "aplicada": "2026-11-25T00:37:48+00:00",
   "code": "T-104",
   "creada": "2026-11-21T00:47:39+00:00",
   "degradada": null,
   "evidencia": "T-104 España: es un fragmento de transcripción (\"coméntalo con él o que me envíe la carta\") que lleva 15 días sin movimiento. El compromiso es vago y parece vencido, pero no está confirmado.",
   "firewalled": false,
   "titulo": "Pues coméntalo con él o que me envíe la carta y yo le envío todo\n[00:15:24] Armando Flores: te puedo hacer algunos slide",
-  "vence": "2026-11-24T00:47:39+00:00"
+  "vence": "2026-11-24T00:47:39+00:00",
+  "vetada": true
  },
  "2132c8b45832": {
   "code": "T-96",
@@ -65,22 +67,26 @@
   "vetada": true
  },
  "ac3c406eab0e": {
+  "aplicada": "2026-11-25T00:37:48+00:00",
   "code": "T-105",
   "creada": "2026-11-21T00:47:39+00:00",
   "degradada": null,
   "evidencia": "T-105 NDA y próximos pasos: se volvió a tratar en una junta (3 coincidencias) y lleva 15 días sin movimiento. Puede que el NDA ya se haya enviado, pero no hay registro explícito.",
   "firewalled": false,
   "titulo": "I will send you the NDA and then for the next meeting give me some next steps to work on\n[00:16:35] Armando Flores: we'l",
-  "vence": "2026-11-24T00:47:39+00:00"
+  "vence": "2026-11-24T00:47:39+00:00",
+  "vetada": true
  },
  "bf56f10a7a05": {
+  "aplicada": "2026-11-25T00:37:48+00:00",
   "code": "T-95",
   "creada": "2026-11-21T00:47:39+00:00",
   "degradada": null,
   "evidencia": "T-95 Kavak dirección fiscal: se mencionó en una junta y no tiene movimiento desde hace 17 días. Parece atendido, pero no hay confirmación explícita.",
   "firewalled": false,
   "titulo": "Seguimiento con Kavak: Fiscal Address in Mexico",
-  "vence": "2026-11-24T00:47:39+00:00"
+  "vence": "2026-11-24T00:47:39+00:00",
+  "vetada": true
  },
  "c61b94aeeeb7": {
   "code": "T-72",
@@ -94,13 +100,33 @@
   "vetada": true,
   "vetada_el": "2026-10-27T21:02:00+00:00"
  },
+ "e58d71862df2": {
+  "code": "T-101",
+  "creada": "2026-11-25T00:38:01+00:00",
+  "degradada": null,
+  "evidencia": "T-101 (Kavak, acuerdo de colaboración y tarifas): 19 días sin ningún movimiento registrado; no hay mención tuya ni de junta que confirme que se cerró, solo el silencio. Si sigue vivo, reábrelo.",
+  "firewalled": false,
+  "titulo": "Seguimiento con Kavak: Acuerdo de Colaboración y Tarifas",
+  "vence": "2026-11-28T00:38:01+00:00"
+ },
+ "e96a7519aa5e": {
+  "code": "T-106",
+  "creada": "2026-11-25T00:38:01+00:00",
+  "degradada": null,
+  "evidencia": "T-106 (Tesla, endoso de beneficiario preferente póliza 5-201-46168): 18 días sin movimiento pese a ser 'urgente'; no hay confirmación de que el endoso se hizo, solo inactividad. Revísalo antes de que ",
+  "firewalled": false,
+  "titulo": "Seguimiento con Tesla: Solicitud urgente de endoso de beneficiario preferente – Póliza 5-201-46168",
+  "vence": "2026-11-28T00:38:01+00:00"
+ },
  "f881800e2211": {
+  "aplicada": "2026-11-25T00:37:48+00:00",
   "code": "T-103",
   "creada": "2026-11-21T00:47:39+00:00",
   "degradada": null,
   "evidencia": "T-103 MG/Turbofin: nació de una notificación de mención en el contrato del 06-oct y lleva 15 días sin movimiento. Lo más probable es que ya se haya atendido, pero no está confirmado.",
   "firewalled": false,
   "titulo": "Seguimiento con Mg: JULIANA TURIN mentioned you in Contrato de Traslado - TURBOFIN DRIVERDO  06102026 (6ac99886fe)",
-  "vence": "2026-11-24T00:47:39+00:00"
+  "vence": "2026-11-24T00:47:39+00:00",
+  "vetada": true
  }
 }

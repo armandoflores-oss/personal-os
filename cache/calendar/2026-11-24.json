@@ -1,0 +1,9 @@
+[
+  {"start": "2026-11-23T00:00:00-06:00", "summary": "Out of office", "attendees": []},
+  {"start": "2026-11-24T07:00:00-06:00", "summary": "Interview @ Draiver", "attendees": ["daniel.escribano@draiver.com", "jaqueline.sanches@driverdo.com", "armando.flores@driverdo.com", "edgardo227@gmail.com"]},
+  {"start": "2026-11-24T08:30:00-06:00", "summary": "Diaria Spain Launch", "attendees": ["daniel.escribano@draiver.com", "armando.flores@driverdo.com", "artur.morais@draiver.com"]},
+  {"start": "2026-11-24T09:30:00-06:00", "summary": "Daily Huddle - Ops MX", "attendees": ["uriel.vargas@driverdo.com", "cristian.arizmendi@driverdo.com", "julia.diaz@draiver.com", "armando.flores@driverdo.com", "diego.diaz@draiver.com", "camila.flores@draiver.com", "jose.duran@driverdo.com", "gerardo.acosta@kavak.com"]},
+  {"start": "2026-11-24T10:00:00-06:00", "summary": "Weekly Product & Ops Draiver Spain", "attendees": ["artur.morais@draiver.com", "gerardo.cabanas@draiver.com", "paloma.calderon@draiver.com", "kevin@draiver.com", "daniel.escribano@draiver.com", "fede.ranero@draiver.com", "armando.flores@driverdo.com", "nicolas.ariza@kavak.com", "rafael.andrade@draiver.com", "nicolas.ariza@draiver.com"]},
+  {"start": "2026-11-24T10:30:00-06:00", "summary": "catch up Julia", "attendees": ["julia.diaz@draiver.com", "armando.flores@driverdo.com"]},
+  {"start": "2026-11-24T11:00:00-06:00", "summary": "Weekly Kavak / Draiver Leaders", "attendees": ["fede.ranero@driverdo.com", "julia.diaz@draiver.com", "armando.flores@driverdo.com", "josue.luevano@kavak.com", "gerardo.acosta@kavak.com", "diego.diaz@draiver.com", "aristides.calvani@kavak.com", "jose.reyes.r@kavak.com", "cristian.arizmendi@driverdo.com"]}
+]
