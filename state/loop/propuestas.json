@@ -102,12 +102,12 @@
  },
  "e58d71862df2": {
   "code": "T-101",
-  "creada": "2026-11-25T00:38:01+00:00",
+  "creada": "2026-11-26T03:23:14+00:00",
   "degradada": null,
-  "evidencia": "T-101 (Kavak, acuerdo de colaboración y tarifas): 19 días sin ningún movimiento registrado; no hay mención tuya ni de junta que confirme que se cerró, solo el silencio. Si sigue vivo, reábrelo.",
+  "evidencia": "T-101 Kavak (acuerdo y tarifas): 20 días sin movimiento y se mencionó en una junta (coincidencia débil, 2 tokens). Parece que ya se habló, pero nada confirma que el acuerdo quedó firmado.",
   "firewalled": false,
   "titulo": "Seguimiento con Kavak: Acuerdo de Colaboración y Tarifas",
-  "vence": "2026-11-28T00:38:01+00:00"
+  "vence": "2026-11-29T03:23:14+00:00"
  },
  "e96a7519aa5e": {
   "code": "T-106",

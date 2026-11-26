@@ -1,0 +1,40 @@
+Daily Huddle - Ops MX - 2026/11/26 09:15 CST - Notes by Gemini
+
+Nov 26, 2026
+Daily Huddle - Ops MX
+Invited: Uriel Vargas, Cristian Arizmendi, Julia Diaz, Armando Flores, Diego Diaz, camila.flores@draiver.com, Jose Duran, Gerardo Acosta
+
+Quick notes
+Ticket review with command center updates and system verification
+
+Command center and application readiness
+- Diego Diaz confirmed the command center is ready to ship.
+- Participants reviewed various driver and system monitoring elements.
+
+Platform and integration references
+- The team touched on WhatsApp application integrations during the review.
+- References were made to Tesla, Uber, taxi, and Kavak elements.
+
+Next steps
+No suggested next steps were found for this meeting.
+
+Summary
+Ticket review with command center updates and system verification
+
+Ticket and Application Status
+Missing items and color specifications were reviewed alongside ticket statuses.
+
+Command Center Readiness
+Driver updates were shared and command center elements confirmed ready for shipping.
+
+Tesla Elements and Transport
+System connections were verified and element changes were discussed before concluding.
+
+Details
+Ticket and Application Status Review: Julia Diaz, Cristian Arizmendi, and Uriel Vargas reviewed missing items, color specifications, monitor statuses, and tickets, while also discussing the WhatsApp application.
+
+Command Center and Shipping Readiness: Cristian Arizmendi, Julia Diaz, Uriel Vargas, and Diego Diaz discussed driver updates and confirmed that elements within the command center were ready to ship.
+
+Tesla Elements and Connection Verification: Diego Diaz, Julia Diaz, and Uriel Vargas discussed driver details associated with Alejandro, reviewed Tesla elements, and conducted a connection check to verify system status.
+
+Element Changes and Transport References: Jose Duran, Julia Diaz, Uriel Vargas, Cristian Arizmendi, and Diego Diaz discussed changes involving Jose Perez and the Kavak element, reviewed driver actions, and touched upon transport options such as Uber and taxis before concluding the meeting with Robert.

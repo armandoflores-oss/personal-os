@@ -1,0 +1,6 @@
+{"decisiones": [
+  {"task_id": "e58d71862df2", "clase": "blanda", "evidencia": "T-101 Kavak (acuerdo y tarifas): 20 días sin movimiento y se mencionó en una junta (coincidencia débil, 2 tokens). Parece que ya se habló, pero nada confirma que el acuerdo quedó firmado."},
+  {"task_id": "e96a7519aa5e", "clase": "ninguna", "evidencia": "T-106 Tesla (endoso póliza 5-201-46168): la única señal son 19 días sin movimiento. En un trámite urgente con la aseguradora eso puede ser que está atorado, no resuelto."},
+  {"task_id": "19521111dd3d", "clase": "ninguna", "evidencia": "T-114 (5 transportes del lunes, España): se trató en junta (5 tokens), pero no hay registro de que se crearon ni de quién los tomó."},
+  {"task_id": "0a9acce571b0", "clase": "ninguna", "evidencia": "T-115 Element (siniestro VIN VF3YDBTF6S2Z22501): solo una mención débil en junta (2 tokens), sin señal de cierre del siniestro."}
+]}

@@ -1,0 +1,58 @@
+{
+ "fecha": "2026-11-25",
+ "abiertas": 10,
+ "candidatos": [
+  {
+   "task_id": "e58d71862df2",
+   "code": "T-101",
+   "titulo": "Seguimiento con Kavak: Acuerdo de Colaboración y Tarifas",
+   "dominio": "operacion-kavak",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 2
+    },
+    {
+     "tipo": "sin_movimiento",
+     "dias": 20
+    }
+   ]
+  },
+  {
+   "task_id": "e96a7519aa5e",
+   "code": "T-106",
+   "titulo": "Seguimiento con Tesla: Solicitud urgente de endoso de beneficiario preferente – Póliza 5-201-46168",
+   "dominio": "pipeline-estrategico",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 19
+    }
+   ]
+  },
+  {
+   "task_id": "19521111dd3d",
+   "code": "T-114",
+   "titulo": "Sin asignar: crear los 5 transportes para el lunes una vez verificado que los viajes de mañana terminan bien.",
+   "dominio": "reuniones-espana",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 5
+    }
+   ]
+  },
+  {
+   "task_id": "0a9acce571b0",
+   "code": "T-115",
+   "titulo": "Seguimiento con Element: Seguimiento al siniestro: unidad VIN VF3YDBTF6S2Z22501",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "se_trato_en_junta",
+     "tokens": 2
+    }
+   ]
+  }
+ ]
+}

@@ -1,31 +1,48 @@
 Back office Spain - 2026/11/25 10:00 EST - Notes by Gemini
 
 Nov 25, 2026
-Invited: Daniel Escribano (daniel.escribano@draiver.com), Jaqueline Sanches (jaqueline.sanches@draiver.com), Armando Flores (armando.flores@driverdo.com), Rafael Pagliuso De Andrade (rafael.andrade@driverdo.com), Cristhian Herrera, Dan Rizzo, pablo.fernandez@finout.es, rocio.saez@finout.es, Michael Teixeira
+Invited: Daniel Escribano, Jaqueline Sanches, Armando Flores, Rafael Pagliuso De Andrade, Cristhian Herrera, Dan Rizzo, pablo.fernandez@finout.es, rocio.saez@finout.es, Michael Teixeira, josemaria@finout.es (declined)
 
+Quick notes
 Candidate evaluations and payroll updates via recruitment channel reviews.
 
-## Candidate recruitment and interview evaluations
+Candidate recruitment and interview evaluations
 - Jaqueline interviewed 3 candidates yesterday, with Elena standing as the sole applicant to pass.
 - The team will review candidate Helena on Friday.
 - Edgardo is recognized as a strong candidate despite lacking local geographical familiarity.
 - InfoJobs yielded no new candidate applications for the current week.
 
-## Employee payroll and termination status
+Employee payroll and termination status
 - Bri received all final termination compensation payments.
 - Staff payroll disbursements are scheduled for tomorrow.
 
-### Next steps
+Next steps
 - [Pablo Fernandez-Quejo] Send the employee cost report: for the current month to Jaqueline as soon as the meeting concludes.
 - [Jaqueline Sanches] Send vetted candidate profiles: to the team as soon as applicants successfully pass the interview process.
 
-### Details
-Candidate Evaluations for Upcoming Interviews: Jaqueline Sanches stated that Helena is a strong candidate for the interview scheduled for Friday. Edgardo is a good candidate but lacks local geographic knowledge. Jaqueline interviewed three other candidates yesterday, with only Elena passing, and two more interviews scheduled for today.
+Details
+Candidate Evaluations for Upcoming Interviews: Jaqueline Sanches stated that Helena is a strong candidate for the interview scheduled for Friday. Regarding another applicant, Jaqueline Sanches noted that while Edgardo is a good candidate, they lack local geographic knowledge because they are Venezuelan (00:00:07). Additionally, Jaqueline Sanches reported interviewing three other candidates yesterday, with only Elena passing, and two more interviews scheduled for today (00:03:59).
 
-Employee Costs and Payroll Schedule: Pablo Fernandez-Quejo will send this month's employee costs to Jaqueline immediately after the meeting. Payroll for all other employees is scheduled to be paid tomorrow.
+Employee Costs and Payroll Schedule: Pablo Fernandez-Quejo confirmed they will send this month's employee costs to Jaqueline Sanches immediately after the meeting concludes (00:00:07). Furthermore, Pablo Fernandez-Quejo stated that the payroll for all other employees is scheduled to be paid tomorrow (00:02:04).
 
-Bri's Termination Settlement Status: Pablo confirmed the matter is fully resolved; final payment including compensation has been paid.
+Bri's Termination Settlement Status: Jaqueline Sanches asked about the status of Bri's termination, and Pablo Fernandez-Quejo confirmed that the matter is fully resolved. Pablo Fernandez-Quejo verified that the final payment, including all applicable compensation, has been completely paid (00:02:04).
 
-Recruitment Channels and Sourcing Updates: Daniel Escribano confirmed the use of Infojobs. Jaqueline noted no new candidates for CC this week and will handle the requirements for LinkedIn immediately.
+Recruitment Channels and Sourcing Updates: Daniel Escribano confirmed the use of Infojobs for candidate sourcing (00:03:59). Jaqueline Sanches noted that there were no new candidates for CC this week. To address the pipeline, Jaqueline Sanches stated they would immediately review and handle the requirements for LinkedIn (00:06:09).
 
-[Nota de la rutina: se omitió la transcripción literal (20:08 min, mayormente ruido); se conservan notas, próximos pasos y detalles.]
+Transcript (excerpt of substantive turns)
+00:00:07
+Jaqueline Sanches: I think you're going to like Helena, the candidate on Friday.
+Jaqueline Sanches: I understand what you mean about Edgardo being Venezuelan. He doesn't know the geography. He's a good candidate though.
+Pablo Fernandez-Quejo: Are you going to need the cost of the employees of this month?
+Jaqueline Sanches: Yes.
+00:02:04
+Pablo Fernandez-Quejo: I will send to you as soon as we end the meeting.
+Jaqueline Sanches: And is everything okay with Bri's termination?
+Pablo Fernandez-Quejo: Everything is fine. We paid the last payment with the compensation, everything is paid. The payment of the rest of the employees is going to be paid tomorrow.
+00:03:59
+Jaqueline Sanches: I interviewed three other candidates yesterday. Elena is the only one that passed the interview and I have two more today. I'll be sending you candidates as soon as they're good enough.
+Jaqueline Sanches: Did you get anyone from InfoJobs?
+Daniel Escribano: Yes, InfoJobs.
+00:06:09
+Jaqueline Sanches: For CC, this week we didn't have any new candidates. I'll take the requirements for LinkedIn, I'll do that right now.
+Transcription ended after 00:20:08
