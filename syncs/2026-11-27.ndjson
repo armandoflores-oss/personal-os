@@ -8,3 +8,7 @@
 {"creados": [], "leg": "inbound", "source": "drive", "suprimidos": [{"detail": "", "item_id": "1IX62BT6kdQVcrTdVYMST5S0TAEDCvhmmblwdIkRevTI", "reason": "sin_compromiso", "source": "drive", "subject": "Diaria Spain Launch - 2026/11/27 08:27 CST - Notes by Gemini", "ts": "2026-11-27T16:29:17+00:00"}, {"detail": "", "item_id": "1Ur5PKxNhOLzQDO000l8UxbLVzCBm4mEWHFlfoDv-1eM", "reason": "sin_compromiso", "source": "drive", "subject": "Diaria Spain Launch - 2026/11/26 08:33 CST - Notes by Gemini", "ts": "2026-11-27T16:29:17+00:00"}, {"detail": "", "item_id": "1oM0tZoFjNvpTmY_wLs_TmQRnJmW16uqtcwYJg7sINnQ", "reason": "sin_compromiso", "source": "drive", "subject": "PYLC x Draiver connect - bisemanal - 2026/11/25 15:06 EST - Notes by Gemini", "ts": "2026-11-27T16:29:17+00:00"}], "tope_alcanzado": 0, "ts": "2026-11-27T16:29:17+00:00", "vistos": 3, "watermark": "2026-11-27T15:31:18Z", "ya_vistos": 0}
 {"casi": [], "cerrados": [], "leg": "outbound", "revisados": 28, "ts": "2026-11-27T16:29:17+00:00"}
 {"cambiadas": 0, "cards": 132, "huerfanas": 0, "leg": "tejido", "ts": "2026-11-27T16:29:18+00:00"}
+{"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-11-27T16:29:20+00:00"}
+{"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-11-27T17:25:05+00:00"}
+{"casi": [], "cerrados": [], "leg": "outbound", "revisados": 2, "ts": "2026-11-27T17:41:12+00:00"}
+{"cambiadas": 0, "cards": 132, "huerfanas": 0, "leg": "tejido", "ts": "2026-11-27T17:41:12+00:00"}
