@@ -1,57 +1,35 @@
 Diaria Spain Launch - 2026/11/25 08:30 CST - Notes by Gemini
+Asistentes: Daniel Escribano, Armando Flores, Artur Morais
 
-nov 25, 2026
-Asistentes: Daniel Escribano (daniel.escribano@draiver.com), Armando Flores (armando.flores@driverdo.com), Artur Morais (artur.morais@draiver.com)
+Resumen: Sobrecarga operativa y contratación urgente vía optimización tecnológica
+Sobrecarga laboral y contratación: Saturación laboral extrema requiere incorporación rápida de personal. Candidato anterior será contactado pronto.
+Automatización y problemas logísticos: Soluciones de IA mitigan llamadas continuas. Campas generan esperas y fricciones con conductores.
+Estrategia de viajes y cuentas: Creación escalonada de viajes busca optimizar trayectos. Grandes cuentas concentran la mayor actividad actual.
 
-Sobrecarga operativa y contratación urgente vía optimización tecnológica
-
-## Carga operativa y estrategia de contrataciones
-- Daniel gestiona reuniones comerciales, operaciones y soporte simultáneamente, generando una fuerte sobrecarga laboral.
-- Daniel contratará directamente al candidato de logística entrevistado en septiembre para asumir tareas operativas.
-- Una herramienta de IA prevista para las próximas 2 semanas filtrará incidencias de soporte.
-
-## Desafíos logísticos con clientes y campas
-- Harman movilizó entre 90 y 100 vehículos en 3 días con demoras operativas en la campa.
-- Los conductores sufrieron esperas prolongadas y rechazaron trayectos debido al procesamiento lento de la campa.
-- Cristina advirtió que la integración de Eurotransportcar carece de un campo de concesionarios para las entregas.
-
-## Optimización de transportes y gestión de cuentas
-- Artur propuso programar horarios de creación de viajes para facilitar el encadenamiento y mejorar la eficiencia.
-- Daniel señaló que clientes como Sirsa exigen la generación inmediata de trayectos tras cada carga.
-- Daniel planea reunirse con Card 10 para revisar quejas de precios y valorar pasarlos a cuentas principales.
-
-### Decisiones
-Requiere más debate:
+Decisiones:
+Requiere más debate
 - Contratación pendiente de un gestor logístico: La contratación del candidato para gestor logístico quedó pendiente de la validación final con Armando y Nico.
-Acordada:
+Acordada
 - Política de cobro ante incidencias logísticas: Se estableció facturar y anular los trayectos afectados si los conductores rechazan los transportes o las campas no recepcionan los vehículos a tiempo.
 
-### Próximos pasos
-Daniel Escribano (daniel.escribano@draiver.com)
+Próximos pasos:
+Daniel Escribano
 - Hablar con Armando y Nico sobre la contratación del candidato para gestor logístico para decidir su incorporación directa el lunes en cuanto esté disponible Armando.
 - Revisar el problema del volcado de concesionarios de Sirsa con el equipo offline y Eurotransportcar para encontrar una solución a la integración de datos.
 - Comentar la urgencia de las contrataciones con Rafa durante la reunión de recursos humanos de las 4 de la tarde para acelerar los procesos de selección.
 - Dar una vuelta a la gestión de los transportes para ver cómo se puede implementar de la mejor forma posible según el tipo de cliente.
 - Ir a comer con Card 10 uno de estos días para revisar las quejas sobre precios y valorar pasarlos al segmento de grandes cuentas.
-
-Artur Morais (artur.morais@draiver.com)
+Artur Morais
 - Estudiar hoy con el equipo el modelo de costes fijos para los transportes de alta cifra de volumen con el fin de evaluar oportunidades de encadenamiento.
 
-### Detalles
-Sobrecarga operativa y necesidad urgente de personal: Daniel Escribano expone una situación de saturación laboral extrema, trabajando desde las 8:00 de la mañana hasta las 22:20 de la noche sin interrupción debido a la combinación de reuniones comerciales, operativa, gestión de conductores y soporte. Artur Morais coincide plenamente en la urgencia de incorporar de forma rápida a una persona para ayudar en la operativa y aliviar la carga de trabajo.
+Detalles:
+Sobrecarga operativa: Daniel trabaja de 8:00 a ~0:20 sin interrupción (reuniones comerciales, operativa, conductores, soporte). Artur coincide en urgencia de incorporar a alguien en operativa.
+Selección de gestor logístico: Daniel descarta abrir nueva solicitud con RRHH (1-2 meses de demora); retomará candidato entrevistado en septiembre que rechazó area manager por preferir ventas. Lo consultará con Armando y Nico el lunes para contratarlo directamente si hay consenso, priorizando esto frente al sustituto de Bea.
+Automatización: La falta de soporte frena actividad comercial en Córdoba y Zaragoza. IA de soporte en 1-2 semanas para filtrar casos comunes. Dashboard nuevo centraliza matrículas y movimientos.
+Volúmenes y clientes: Riesgo de fallar transportes en semanas de huelga/festivos; se perdió Blendio (Asturias/Cantabria) por falta de conductor. Hartman: 90-100 matrículas en 3 días. Yomovo: todas sus tarifas dan beneficio. Daniel: consolidar equipo antes de ampliar clientes.
+Incidencias con campas: En la campa de Hartman los conductores esperan 1.5-2 h; personal de la campa dice trabajar para Centauro. Conductora Marta Higueras reportó negativa a recoger vehículos. Si conductores rechazan o campas no reciben a tiempo, el servicio se factura igual.
+Integración Sirsa: Cristina pide resolver el volcado de concesionarios (falta campo de concesionario, entregas en concesionario equivocado en misma dirección) — vía Eurotransportcar. Reunión interna con Caro, Paloma y Daniel; posible precarga de concesionarios en Command Center.
+Contrataciones: Reunión 16:00 con RRHH/Finout/Rafa/Jacki para acelerar; Daniel tomará el mando si hace falta. Artur sugiere escalonar creación de viajes (12, 16, 19 h) para encadenar; Daniel objeta que Sirsa/Yomovo exigen confirmación inmediata.
+Cuentas: Hartman y Yomovo concentran actividad. Card 10 se queja de precios vs competidor; evaluar pasarlos a grandes cuentas. Onboarding del gestor logístico con usuarios de Command Center por cuenta. Hunters crearían sus propios transportes cuando haya plantilla completa.
 
-Selección y contratación de un gestor logístico: Daniel Escribano descarta abrir una nueva solicitud formal con recursos humanos para evitar demoras de uno o dos meses, prefiriendo retomar el contacto con un candidato entrevistado en septiembre que fue descartado inicialmente porque prefería la venta en lugar del puesto de gestor logístico o area manager. Como dicho candidato sigue buscando empleo, Daniel Escribano planea consultarlo con Armando y Nico el próximo lunes para contratarlo directamente si existe consenso, priorizando esta incorporación frente a buscar un sustituto para Bea debido al desborde operativo actual.
-
-Automatización, herramientas de soporte y optimización del tráfico: Daniel Escribano señala que la falta de soporte operativo frena el desarrollo de su actividad comercial en regiones como Córdoba y Zaragoza. Artur Morais propone implementar soluciones basadas en IA en un plazo de una o dos semanas para filtrar casos comunes, aunque los incidentes complejos continuarán requiriendo escalado. Daniel Escribano destaca el dashboard desarrollado para centralizar consultas de matrículas y movimientos en una sola interfaz.
-
-Gestión de volúmenes, márgenes y relaciones con clientes: Daniel Escribano advierte sobre los riesgos de fallar en los transportes durante semanas de huelga o festivos (ejemplo: pérdida de Blendio en Asturias y Cantabria por falta de conductores). Artur Morais argumenta que, a pesar de los márgenes bajos, trabajar con mayor volumen resulta más rentable (Yomovo, Hartman: 90-100 matrículas en tres días). Daniel Escribano matiza que es necesario consolidar primero un equipo fuerte antes de seguir ampliando clientes y negociar tarifas con beneficio.
-
-Incidencias logísticas con campas y conductores: Problemas recurrentes en la campa al recepcionar lotes de Hartman; esperas de 1.5-2 horas y fricciones con personal de la campa (que dice trabajar para Centauro). Tras quejas de la conductora Marta Higueras, Daniel advertirá a Lucía en Hartman: si conductores se niegan o campas no reciben a tiempo, el servicio no se realizará pero se facturará igualmente.
-
-Integración y volcado de concesionarios con Sirsa: Cristina pide solucionar el volcado de concesionarios con Sirsa; faltan campos para identificar el concesionario exacto en la misma dirección (integración Eurotransportcar). Artur propone reunión interna con Caro, Paloma y Daniel para revisar la interfaz de Eurotransportcar, posiblemente precargando ubicaciones y concesionarios en Command Center.
-
-Planificación de contrataciones y estrategia de creación de viajes: Daniel aprovechará la reunión de las 16:00 con RR.HH., Finout, Rafa y Jacki para exigir mayor velocidad en contrataciones; tomará el mando si es necesario. Artur sugiere escalonar la creación de viajes (12:00, 16:00, 19:00) para facilitar encadenamiento; Daniel objeta que Sirsa o Yomovo exigen confirmación inmediata; acuerdan estudiar la viabilidad por cliente.
-
-Asignación de cuentas y delegación: Hartman y Yomovo concentran la mayor actividad. Card 10 se queja de precios vs Dryy; Daniel evalúa pasarlos a grandes cuentas. Onboarding del nuevo gestor logístico con usuarios de Command Center por cuenta. Una vez estabilizada la plantilla, los hunters crearán los transportes de sus propios clientes.
-
-[Nota de la rutina: se omitió la transcripción literal diálogo por diálogo (29:40 min); se conservan notas, decisiones, próximos pasos y detalles completos.]
+(Transcripción literal omitida en este archivo; ver doc original.)

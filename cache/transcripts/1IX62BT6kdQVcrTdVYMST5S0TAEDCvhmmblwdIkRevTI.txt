@@ -1,0 +1,42 @@
+Diaria Spain Launch - 2026/11/27 08:27 CST - Notes by Gemini
+Asistentes: Daniel Escribano, Armando Flores, Artur Morais
+
+Resumen: Revisión de proveedores y control de precios y automatización de soporte con inteligencia artificial.
+
+Gestion de Proveedores: Complicaciones con Sirsa generan perdidas financieras. Servicios exigiran trayectos de ida y vuelta para mantener prioridad.
+Control de Precios: Conductores intentan negociar tarifas fijas como subastas. Plataforma establece precios obligatorios para mantener el compromiso.
+Automatizacion de Soporte: Integracion de WATI y Slack gestiona tickets de soporte. Se descartan bonos economicos ante reclamos de condiciones.
+
+Decisiones acordadas:
+- Consolidación de cuentas bajo el mismo usuario: Se acordó agrupar todas las cuentas bajo el mismo usuario a partir de la próxima semana, asegurando que la cotización se realice directamente en la cuenta de cliente correcta.
+- Establecimiento del flujo de prefacturación: Se adoptó el flujo de utilizar la prefacturación mediante el Excel de servicios para enviar la información a los clientes antes de emitir la factura oficial.
+- Creación de cuenta hija limitada para Clickars: Se estableció crear una cuenta hija específica para Clickars con acceso limitado, dedicada exclusivamente a la gestión de los viajes de rodados.
+- Alcance inicial de rodados exclusivamente entre campas: Se acordó iniciar las operaciones de transporte de vehículos con Clickars exclusivamente entre campas o tiendas, excluyendo temporalmente al cliente final.
+
+Próximos pasos:
+Daniel Escribano
+- Contactar con el cliente de Shirsa para proponer el envío conjunto de viajes o la programación de barridos diarios.
+- Validar los 2 conductores nuevos pendientes de la aplicación para que se puedan revisar todos los perfiles en conjunto.
+- Notificar a Cloud para que incluya el enlace del ticket directamente en la columna correspondiente de la plataforma.
+- Revisar los cálculos mensuales para hacer mejores cálculos el lunes que es el último día del mes y analizarlos conjuntamente con Artur.
+Artur Morais
+- Consolidar las cuentas bajo el mismo usuario para la próxima semana.
+- Revisar y activar los 5 conductores pendientes en la plataforma tras la validación.
+- Comentar la reunión con Clicars el lunes para repasar los aspectos clave del servicio de rodado antes de la reunión programada para el martes.
+
+Detalles:
+Gestión de Proveedores y Problemática con Sirsa: Daniel Escribano y Artur Morais analizaron las complicaciones recurrentes con el cliente Sirsa, señalando que las solicitudes con menos de veinticuatro horas de aviso y las rutas no rentables hacia localidades como Trigueros y Roquetas del Mar generan pérdidas financieras. Daniel Escribano destacó que Sirsa exige plazos ajustados y tarifas bajas, cancelando viajes reprogramados cuando surgen retrasos. Para mitigar esto, Daniel Escribano estableció como condición que los servicios incluyan trayectos de ida y vuelta para ser viables, advirtiendo que los servicios no rentables perderán prioridad operativa. Ambos acordaron realizar barridos de rutas por la mañana y por la tarde para agrupar trayectos y mejorar los márgenes para los conductores.
+
+Control de Precios y Comportamiento de Conductores: Los conductores intentan negociar tarifas más altas, tratando las rutas de precio fijo como si fueran subastas. Daniel Escribano recordó que la plataforma establece los precios y los conductores deben aceptar o rechazar sin pujar; incrementar las tarifas cuando los transportes fallan mal acostumbra a la gente.
+
+Gestión de Asignaciones y Cuentas de Conductores: Daniel corrigió/reasignó reservas en rutas Trigueros-Huelva. Artur anunció planes para unificar las cuentas bajo un mismo usuario la semana siguiente; importante cotizar bajo la cuenta de cliente correcta.
+
+Herramientas de Facturación y Validación de Conductores: Tres pendientes y dos nuevas incorporaciones por validar. El reporte de servicios en Excel permite enviar prefacturas a Hartman antes de la factura final al cierre de mes. Se pidió incluir enlace directo a los tickets de la plataforma en la columna correspondiente.
+
+Análisis de Márgenes Operativos y Costos: Facturación global de 40.000 euros acumulada en los primeros dos meses y medio. Preocupa el margen neto. Limitaciones de moneda en cuentas europeas vs herramientas de EEUU. Reducción de costo de seguro de 11 a 8.5 con Lagunaro. Viajes cortos consumen tiempo operativo y a menudo generan pérdidas; trayectos largos esenciales para rentabilidad. Lucía y los nuevos gestores deben enfocarse en cuentas grandes de alto margen.
+
+Automatización de Soporte con WATI e IA: Canal de Slack para tickets de conductores no resueltos por la IA (número de viaje, matrícula, solicitud). Daniel sugirió filtro similar para llamadas telefónicas. No se otorgarán bonos ni compensaciones ante reclamos de conductores.
+
+Configuración de Cuentas y Planificación con Clickars: Subcuenta específica para Clickars para rodados, separada de camiones. Reunión el martes con Clickars; iniciar exclusivamente con movimientos entre campas y tiendas, sin cliente final.
+
+(Transcripción literal omitida en este archivo; ver doc original.)

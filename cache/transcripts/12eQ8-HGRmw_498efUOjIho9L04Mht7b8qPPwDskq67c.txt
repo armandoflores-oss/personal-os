@@ -1,79 +1,42 @@
 Weekly Kavak / Draiver Leaders - 2026/11/24 11:00 CST - Notes by Gemini
+Asistentes: Fede Ranero, Julia Diaz, Armando Flores, josue.luevano@kavak.com, Gerardo Acosta, Diego Diaz, jose.reyes.r@kavak.com, Cristian Arizmendi
 
-nov 24, 2026
-Invitados: Fede Ranero (fede.ranero@driverdo.com), Julia Diaz (julia.diaz@draiver.com), Armando Flores (armando.flores@driverdo.com), josue.luevano@kavak.com, Gerardo Acosta (gerardo.acosta@kavak.com), Diego Diaz (diego.diaz@draiver.com), jose.reyes.r@kavak.com, Cristian Arizmendi (cristian.arizmendi@driverdo.com)
+Resumen: Revisión de métricas operativas y optimización de rutas con gestión de emergencias y reducción de costos.
+Volumen semanal y métricas: Volumen menor por feriado. 32 drivers contabilizados con bonos.
+Emergencia en Monterrey: Desalojo imprevisto de plaza Auriga. Operación trasladada al nuevo hub Cabactoreo.
+Reducción de corridas: Mitigación de corridas en falso. Meta de reducir el indicador a la mitad.
 
-Revisión de métricas operativas y optimización de rutas con gestión de emergencias y reducción de costos.
+Decisiones:
+Requiere más debate
+- Evaluación de prueba piloto en Live Ops: prueba piloto manual antes de construir una integración robusta.
+- Automatización de notificaciones de espacios disponibles en madrinas (herramientas en la nube y bots), pendiente su evaluación.
+Acordada
+- Planificación anticipada para mudanzas de patios.
+- Facturación a cliente por semana vencida.
 
-## Volúmenes de operación y desempeño dominical
-- El volumen semanal se mantuvo estable a pesar de la reducción del lunes por feriado.
-- El domingo se registraron 32 drivers en total distribuidos en 27 y 5 de Lob.
-- La productividad dominical alcanzó 4.6 en Lob y 3.4 en driver con promedio de 3.6.
-- El encadenamiento de rutas alcanzó 71% en Lob y 48% en driver debido a producción.
-
-## Operaciones en Monterrey y reubicación de patio
-- El patio de Auriga en Monterrey se desalojó de emergencia con 3 días de anticipación.
-- Las operaciones logísticas de Monterrey se trasladaron al nuevo hub denominado Cabactoreo.
-- El equipo centralizó la planeación de Monterrey para evitar traslados de emergencia y costos innecesarios.
-
-## Transporte consolidado y proyectos con clientes
-- Se cargó la primera madrina consolidada con 2 vehículos Tesla desde Lerma hacia Guadalajara.
-- El registro y seguimiento de nodrizas mediante el SAS opera continuamente desde julio.
-- El proyecto con Cabac Element incrementó su volumen con 9 movimientos adicionales durante este mes.
-- Picoplandia reactivó su relación comercial con Cabac para la comercialización de autos usados en marketplace.
-
-## Mitigación de dry runs y gestión de estacionamiento
-- Se implementó un dry run para asignar parking location mediante personal de Marketplace en Rosario.
-- La tasa de dry runs se mantiene en 4% y se proyecta reducirla a la mitad.
-- Los hubs prioritarios para optimizar la ubicación de estacionamiento son Rosario, Antara, Fortuna y San Ángel.
-
-## Control de gastos, combustible y servicios de transporte
-- El gasto mensual en Uber supera medio millón y se busca eliminarlo el próximo año.
-- Se autorizan servicios de Uber después de las 8:30 en Lerma y 10:30 en CDMX.
-- Las revisiones semanales de combustible detectan anomalías y consumos erráticos en tarjetas de TAG.
-
-### Decisiones
-Requiere más debate:
-- Evaluación de prueba piloto en Live Ops: Se propuso realizar una prueba piloto manual para evaluar la adopción de Live Ops antes de construir una integración robusta.
-- Automatización de notificaciones de espacios disponibles: Se propuso utilizar herramientas en la nube y bots para automatizar el aviso de espacios vacíos en madrinas, quedando pendiente su evaluación.
-Acordada:
-- Planificación anticipada para mudanzas de patios: coordinar con mayor anticipación los traslados y entrega de plazas.
-- Facturación a cliente por semana vencida: implementar un modelo de facturación a semana vencida.
-
-### Próximos pasos
-Julia Diaz (julia.diaz@draiver.com)
-- Dar seguimiento a la integración de Live Ops con Thomas para realizar una prueba piloto de ruteo y optimizar los movimientos en el sistema.
-- Evaluar un método automatizado para notificar a los clientes sobre los espacios disponibles en las nodrizas y evitar la comunicación manual.
-- Realizar la revisión semanal de consumo de combustible junto con Cristian durante la semana para evitar irregularidades y detectar anomalías en los gastos.
-- Presentar una actualización de combustible en la próxima sesión para informar sobre el estado actual de los gastos de gasolina.
-- Cerrar los registros de octubre y compartir noviembre con Pepe durante la semana para avanzar en la entrega de las 2 primeras semanas de noviembre.
-
+Próximos pasos:
+Julia Diaz
+- Dar seguimiento a la integración de Live Ops con Thomas para realizar una prueba piloto de ruteo.
+- Evaluar un método automatizado para notificar a los clientes sobre los espacios disponibles en las nodrizas.
+- Realizar la revisión semanal de consumo de combustible junto con Cristian.
+- Presentar una actualización de combustible en la próxima sesión.
+- Cerrar los registros de octubre y compartir noviembre con Pepe durante la semana (2 primeras semanas de noviembre).
 Josue Vader Luevano Medina
-- Compartir el nombre del nuevo hub con el equipo para identificar las instalaciones de Cabactoreo en Monterrey.
-- Replicar el proceso de ubicación de estacionamiento en el Lerma 2 junto con el equipo de Kavak en un plazo máximo de 2 semanas para cubrir todo el backlog existente.
-- Compartir los costos de transporte de San Ángel Arts para tenerlos bien mapeados y evitar discrepancias con los conductores.
-
+- Compartir el nombre del nuevo hub (Cabactoreo, Monterrey).
+- Replicar el proceso de ubicación de estacionamiento en Lerma 2 con el equipo de Kavak en máximo 2 semanas.
+- Compartir los costos de transporte de San Ángel Arts.
 Gerardo Acosta Romero
-- Buscar el enlace de solicitud de acceso a Minerva para Cristian con el fin de facilitarle la consulta de información de los viajes.
-
+- Buscar el enlace de solicitud de acceso a Minerva para Cristian.
 Sin asignar
-- Revisar la gestión de gastos de transporte al final de diciembre para definir cómo se manejarán los traslados y movimientos.
+- Revisar la gestión de gastos de transporte al final de diciembre.
 
-### Detalles
-Volumen semanal y métricas del domingo: Volumen ligeramente menor por el feriado del lunes 21 de noviembre. Domingo: 32 drivers (27 driver, 5 Lob), bonos directos por viaje. Algunos conductores hacen un solo movimiento por demoras de llegada a hubs. La producción de Lerma limita el encadenamiento (48% driver vs 71% Lob).
-
-Uso y evaluación de Live Ops: Uso restringido porque requiere aprobación individual de cuadros con múltiples movimientos. Fede sugirió piloto con Thomas en un hub o formato provisional en hoja de cálculo. Julia acordó revisarlo con Thomas.
-
-Emergencia en el patio de Monterrey: Desalojo imprevisto de plaza Auriga por mala anticipación (Max); operación trasladada a Cabactoreo. Apoyo nocturno de Gerardo y Julia hasta las 2 am. Proceso alineado con Aristis; reuniones diarias con Monterrey.
-
-Primer cargamento consolidado para Tesla y uso de SAS: Dos Teslas Lerma→Guadalajara, entregados en Tlaquepaque. Fede pide escalar/automatizar la oferta de espacios en nodrizas; Julia evaluará con Paloma.
-
-Iniciativa Kavak Element: Incremento de volumen (Ivana), 9 movimientos adicionales; superposición con Subasta Segura absorbida por Kavak. Objetivo: ampliar oferta de inventario.
-
-Dry run: Personal de marketplace en El Rosario hace parking location; replicar en Lerma 2. Dry run actual 4%, meta la mitad (ideal 1.2%-2%). Hubs críticos: Rosario, Antara, Fortuna, San Ángel.
-
-Conciliación de pagos y facturación: Fede pide seguimiento riguroso y reportes por chat. Enviar a Pepe semanas vencidas. Meta: cerrar octubre esta semana y compartir primeras semanas de noviembre.
-
-Combustible y TAG: Revisiones quincenales con dashboard de Cristian (ej. gasolina en Teslas). Sin rechazos de Pepe. TAG requiere revisiones manuales y descuentos por uso personal. Julia presentará actualización.
-
-Uber: Lerma después de 8:30 pm, CDMX después de 10:30 pm, según hora del último servicio en QR. Cristian y Diego tienen acceso a Minerva. Meta 2027: eliminar/mitigar Uber (>medio millón al mes).
+Detalles:
+Volumen: ligeramente menor por feriado del lunes; domingo 32 drivers (27 driver, 5 Lob) con bonos por viaje. Productividad dominical 4.6 Lob / 3.4 driver (prom. 3.6). Encadenamiento 71% Lob vs 48% driver por techo de producción en Lerma.
+Live Ops: uso restringido por ser engorroso (aprobación individual de cuadros). Fede sugiere piloto con Thomas en un hub o formato provisional en hoja de cálculo.
+Monterrey: desalojo de emergencia de plaza Auriga con 3 días de aviso (comunicación deficiente de Max); traslado a hub Cabactoreo; equipo trabajó hasta las 2 am. Alineado con Aristis para evitar repetición; reuniones diarias con Monterrey bajo Gerardo.
+Tesla: primer cargamento consolidado de 2 Tesla Lerma→Guadalajara (Tlaquepaque) sin inconvenientes. SAS para registro de nodrizas desde julio. Fede pide escalar/automatizar oferta de espacios en nodrizas; Julia evaluará con Paloma.
+Kavak Element: incremento de volumen (9 movimientos adicionales); superposición con Subasta Segura absorbida por Kavak. Objetivo: ampliar inventario.
+Dry run: 4% actual, meta reducir a la mitad; hubs Rosario, Antara, Fortuna, San Ángel; personal de marketplace en Rosario hace parking location; replicar en Lerma 2. Ideal 1.2%-2%.
+Conciliación: reportes de estatus por chat; semana vencida con Pepe; cerrar octubre esta semana.
+Combustible y TAG: revisiones quincenales con dashboard de Cristian (ej. gasolina en Tesla). TAG requiere revisiones manuales y descuentos por uso personal.
+Uber: autorizado después de 20:30 en Lerma y 22:30 en CDMX según hora del último servicio (QR). Gasto > medio millón al mes; meta eliminar/mitigar el próximo año.

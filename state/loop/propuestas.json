@@ -100,24 +100,6 @@
   "vetada": true,
   "vetada_el": "2026-10-27T21:02:00+00:00"
  },
- "e58d71862df2": {
-  "code": "T-101",
-  "creada": "2026-11-26T03:23:14+00:00",
-  "degradada": null,
-  "evidencia": "T-101 Kavak (acuerdo y tarifas): 20 días sin movimiento y se mencionó en una junta (coincidencia débil, 2 tokens). Parece que ya se habló, pero nada confirma que el acuerdo quedó firmado.",
-  "firewalled": false,
-  "titulo": "Seguimiento con Kavak: Acuerdo de Colaboración y Tarifas",
-  "vence": "2026-11-29T03:23:14+00:00"
- },
- "e96a7519aa5e": {
-  "code": "T-106",
-  "creada": "2026-11-25T00:38:01+00:00",
-  "degradada": null,
-  "evidencia": "T-106 (Tesla, endoso de beneficiario preferente póliza 5-201-46168): 18 días sin movimiento pese a ser 'urgente'; no hay confirmación de que el endoso se hizo, solo inactividad. Revísalo antes de que ",
-  "firewalled": false,
-  "titulo": "Seguimiento con Tesla: Solicitud urgente de endoso de beneficiario preferente – Póliza 5-201-46168",
-  "vence": "2026-11-28T00:38:01+00:00"
- },
  "f881800e2211": {
   "aplicada": "2026-11-25T00:37:48+00:00",
   "code": "T-103",

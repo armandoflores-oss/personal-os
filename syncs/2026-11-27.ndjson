@@ -1,0 +1,5 @@
+{"leg": "heartbeat", "stage": "start", "task": "brief-personal-os", "ts": "2026-11-27T16:22:38+00:00"}
+{"archivadas": [{"code": "T-101", "dias": 22, "titulo": "Seguimiento con Kavak: Acuerdo de Colaboración y Tarifas"}, {"code": "T-106", "dias": 21, "titulo": "Seguimiento con Tesla: Solicitud urgente de endoso de beneficiario preferente – Póliza 5-201-46168"}], "fecha": "2026-11-27", "leg": "quietas", "ts": "2026-11-27T16:22:39+00:00", "umbral_dias": 21}
+{"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-11-27T16:22:40+00:00"}
+{"cerradas": [], "fecha": "2026-11-27", "leg": "loop", "propuestas": [], "rechazadas": [{"code": "T-114", "por": "clase 'ninguna' no acciona"}, {"code": "T-115", "por": "clase 'ninguna' no acciona"}], "sello": "326114fc256e9b20", "tope": 6, "ts": "2026-11-27T16:22:49+00:00"}
+{"fecha": "2026-11-27", "leg": "tendencia", "retiro": {"dias": 23, "estado": "mejorando", "mejorando": true, "primeros": {"abiertas_al_calificar": 14, "intervenciones_usuario": 0, "resucitadas": 0}, "ultimos": {"abiertas_al_calificar": 11, "intervenciones_usuario": 0, "resucitadas": 0}}, "ts": "2026-11-27T16:22:49+00:00"}
