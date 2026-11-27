@@ -12,3 +12,8 @@
 {"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-11-27T17:25:05+00:00"}
 {"casi": [], "cerrados": [], "leg": "outbound", "revisados": 2, "ts": "2026-11-27T17:41:12+00:00"}
 {"cambiadas": 0, "cards": 132, "huerfanas": 0, "leg": "tejido", "ts": "2026-11-27T17:41:12+00:00"}
+{"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-11-27T17:41:15+00:00"}
+{"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-11-27T20:09:26+00:00"}
+{"creados": [], "leg": "inbound", "source": "gmail", "suprimidos": [{"detail": "", "item_id": "1a21e793879c65f2", "reason": "sin_compromiso", "source": "gmail", "subject": "Solicitud de alta como conductor autónomo — Traslado de vehículos (España)", "ts": "2026-11-27T20:39:45+00:00"}], "tope_alcanzado": 0, "ts": "2026-11-27T20:39:45+00:00", "vistos": 1, "watermark": "2026-11-27T19:26:26Z", "ya_vistos": 0}
+{"casi": [], "cerrados": [], "leg": "outbound", "revisados": 2, "ts": "2026-11-27T20:39:45+00:00"}
+{"cambiadas": 0, "cards": 132, "huerfanas": 0, "leg": "tejido", "ts": "2026-11-27T20:39:45+00:00"}
