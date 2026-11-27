@@ -11,12 +11,12 @@
 - **T-120** Preparar a Docs: Revenue Forecast ... - @armando.flores@draiver.com Can you p...
 
 ## Operación Kavak
-- **T-101** Seguimiento con Kavak: Acuerdo de Colaboración y Tarifas
+- **T-121** Seguimiento con Kavak: BANCO SANTANDER Draiver España: financiación de circulante
+- **T-124** Seguimiento con Kavak: Spain data privacy register: NetSuite and Finout questions by Dec 4
 
 ## Reuniones España
 - **T-114** Sin asignar: crear los 5 transportes para el lunes una vez verificado que los viajes de mañana terminan bien.
 - **T-117** Responder a Uber: Notes: “Diaria Spain Launch” Nov 20, 2026
-
-## Pipeline estratégico
-- **T-106** Seguimiento con Tesla: Solicitud urgente de endoso de beneficiario preferente – Póliza 5-201-46168
+- **T-122** Seguimiento con Rafael Andrade: Spain data privacy register: 1 question on AP and Ramp by Dec 4
+- **T-123** Seguimiento con Rafael Andrade: Spain data privacy register: 2 factual questions, reply with a letter by Dec 4
 
