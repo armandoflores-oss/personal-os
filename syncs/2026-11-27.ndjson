@@ -19,3 +19,5 @@
 {"cambiadas": 0, "cards": 132, "huerfanas": 0, "leg": "tejido", "ts": "2026-11-27T20:39:45+00:00"}
 {"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-11-27T20:39:48+00:00"}
 {"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-11-27T22:42:34+00:00"}
+{"cerradas": [], "fecha": "2026-11-27", "leg": "loop", "propuestas": [{"code": "T-109", "vence": "2026-12-01T00:44:51+00:00"}, {"code": "T-111", "vence": "2026-12-01T00:44:51+00:00"}], "rechazadas": [{"code": "T-114", "por": "clase 'ninguna' no acciona"}, {"code": "T-115", "por": "clase 'ninguna' no acciona"}], "sello": "9fb25cffc0a6238c", "tope": 6, "ts": "2026-11-28T00:44:51+00:00"}
+{"fecha": "2026-11-27", "leg": "tendencia", "retiro": {"dias": 23, "estado": "mejorando", "mejorando": true, "primeros": {"abiertas_al_calificar": 14, "intervenciones_usuario": 0, "resucitadas": 0}, "ultimos": {"abiertas_al_calificar": 12, "intervenciones_usuario": 0, "resucitadas": 0}}, "ts": "2026-11-28T00:44:53+00:00"}

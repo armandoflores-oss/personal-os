@@ -77,6 +77,15 @@
   "vence": "2026-11-24T00:47:39+00:00",
   "vetada": true
  },
+ "bb843d2e9ffe": {
+  "code": "T-111",
+  "creada": "2026-11-28T00:44:51+00:00",
+  "degradada": null,
+  "evidencia": "T-111 (preparar a Zapata, Transit azul WF0WS4NB1VTJ63314): 14 días sin movimiento; probablemente ya salió la unidad, sin confirmación explícita.",
+  "firewalled": false,
+  "titulo": "Preparar a Zapata: TRANSIT | AZUL METALICO | WF0WS4NB1VTJ63314",
+  "vence": "2026-12-01T00:44:51+00:00"
+ },
  "bf56f10a7a05": {
   "aplicada": "2026-11-25T00:37:48+00:00",
   "code": "T-95",
@@ -99,6 +108,15 @@
   "vence": "2026-10-29T18:05:56+00:00",
   "vetada": true,
   "vetada_el": "2026-10-27T21:02:00+00:00"
+ },
+ "eba03cb73168": {
+  "code": "T-109",
+  "creada": "2026-11-28T00:44:51+00:00",
+  "degradada": null,
+  "evidencia": "T-109 (cotización Cemex CA4959 Cancún–Querétaro–Tijuana): 14 días sin ningún movimiento; parece que ya se contestó o se cayó, pero nada lo confirma.",
+  "firewalled": false,
+  "titulo": "Cotizar a Cemex: COTIZACION TRASLADO CA4959 CANCUN - QUERETARO - TIJUANA",
+  "vence": "2026-12-01T00:44:51+00:00"
  },
  "f881800e2211": {
   "aplicada": "2026-11-25T00:37:48+00:00",

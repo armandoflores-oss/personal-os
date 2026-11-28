@@ -1,7 +1,31 @@
 {
  "fecha": "2026-11-27",
- "abiertas": 8,
+ "abiertas": 12,
  "candidatos": [
+  {
+   "task_id": "eba03cb73168",
+   "code": "T-109",
+   "titulo": "Cotizar a Cemex: COTIZACION TRASLADO CA4959 CANCUN - QUERETARO - TIJUANA",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 14
+    }
+   ]
+  },
+  {
+   "task_id": "bb843d2e9ffe",
+   "code": "T-111",
+   "titulo": "Preparar a Zapata: TRANSIT | AZUL METALICO | WF0WS4NB1VTJ63314",
+   "dominio": "cotizaciones-operativo",
+   "evidencia": [
+    {
+     "tipo": "sin_movimiento",
+     "dias": 14
+    }
+   ]
+  },
   {
    "task_id": "19521111dd3d",
    "code": "T-114",

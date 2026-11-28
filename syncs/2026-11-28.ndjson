@@ -2,3 +2,6 @@
 {"creados": [], "leg": "inbound", "source": "drive", "suprimidos": [{"detail": "", "item_id": "1pQ5uqTj5L2I1v6IIsoaqxodrpJmDBAxY6txxfr2qp3w", "reason": "sin_compromiso", "source": "drive", "subject": "MX Finance review - weekly - 2026/11/27 14:56 CST - Notes by Gemini", "ts": "2026-11-28T00:44:28+00:00"}], "tope_alcanzado": 0, "ts": "2026-11-28T00:44:28+00:00", "vistos": 1, "watermark": "2026-11-27T21:55:18Z", "ya_vistos": 0}
 {"casi": [{"asunto": "Fuera de la oficina / Out of office Re: Invitation: Team One Offsite: Arrivals a", "code": "T-122", "token": "rafael"}, {"asunto": "Fuera de la oficina / Out of office Re: Invitation: Team One Offsite: Arrivals a", "code": "T-123", "token": "rafael"}], "cerrados": [], "leg": "outbound", "revisados": 5, "ts": "2026-11-28T00:44:29+00:00"}
 {"cambiadas": 0, "cards": 132, "huerfanas": 0, "leg": "tejido", "ts": "2026-11-28T00:44:31+00:00"}
+{"leg": "heartbeat", "stage": "end", "task": "ingest-personal-os", "ts": "2026-11-28T00:44:34+00:00"}
+{"leg": "heartbeat", "stage": "start", "task": "ingest-personal-os", "ts": "2026-11-28T04:22:26+00:00"}
+{"cambiadas": 0, "cards": 132, "huerfanas": 0, "leg": "tejido", "ts": "2026-11-28T04:22:53+00:00"}
